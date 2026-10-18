@@ -1,0 +1,215 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Le Ferrando",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "rudder",
+   "x": -34.3,
+   "y": 12.5,
+   "type": "object",
+   "label": "Stern with the rudder still in place",
+   "depth": 26.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "frames",
+   "x": -15.0,
+   "y": 3.3,
+   "type": "object",
+   "label": "Hull frames, still curved",
+   "depth": 24.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "superstructure",
+   "x": -0.8,
+   "y": 8.8,
+   "type": "object",
+   "label": "Superstructure collapsed to starboard",
+   "depth": 23.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coal-port",
+   "x": 4.8,
+   "y": -13.5,
+   "type": "object",
+   "label": "Coal cargo on the sand, port side",
+   "depth": 26.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coal-stbd",
+   "x": 15.2,
+   "y": 6.2,
+   "type": "object",
+   "label": "Coal cargo on the sand, starboard side",
+   "depth": 26.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": 32.1,
+   "y": -11.7,
+   "type": "hazard",
+   "label": "Bow gone; nets and cables",
+   "depth": 26.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "debris",
+   "kind": "wreck",
+   "label": "Ferrando wreckage, about 80 x 20 m",
+   "depth": 26.0,
+   "points": [
+    {
+     "x": -34.2,
+     "y": 23.1
+    },
+    {
+     "x": -27.9,
+     "y": 20.8
+    },
+    {
+     "x": -21.6,
+     "y": 18.5
+    },
+    {
+     "x": -15.4,
+     "y": 16.2
+    },
+    {
+     "x": -9.1,
+     "y": 14.0
+    },
+    {
+     "x": -2.8,
+     "y": 11.7
+    },
+    {
+     "x": 3.4,
+     "y": 9.4
+    },
+    {
+     "x": 9.7,
+     "y": 7.1
+    },
+    {
+     "x": 15.9,
+     "y": 4.8
+    },
+    {
+     "x": 22.2,
+     "y": 2.6
+    },
+    {
+     "x": 28.5,
+     "y": 0.3
+    },
+    {
+     "x": 34.7,
+     "y": -2.0
+    },
+    {
+     "x": 41.0,
+     "y": -4.3
+    },
+    {
+     "x": 34.2,
+     "y": -23.1
+    },
+    {
+     "x": 27.9,
+     "y": -20.8
+    },
+    {
+     "x": 21.6,
+     "y": -18.5
+    },
+    {
+     "x": 15.4,
+     "y": -16.2
+    },
+    {
+     "x": 9.1,
+     "y": -14.0
+    },
+    {
+     "x": 2.8,
+     "y": -11.7
+    },
+    {
+     "x": -3.4,
+     "y": -9.4
+    },
+    {
+     "x": -9.7,
+     "y": -7.1
+    },
+    {
+     "x": -15.9,
+     "y": -4.8
+    },
+    {
+     "x": -22.2,
+     "y": -2.6
+    },
+    {
+     "x": -28.5,
+     "y": -0.3
+    },
+    {
+     "x": -34.7,
+     "y": 2.0
+    },
+    {
+     "x": -41.0,
+     "y": 4.3
+    }
+   ]
+  }
+ ],
+ "lines": [],
+ "notes": "The broken-up wreck of the collier Ferrando (1888, 1,333 GRT), spread over about 80 x 20 m on flat sand at 26 m, rising only 3 m, in the middle of the Rade d'Hyères 4 km NW of Cap des Mèdes. Position 43 03.83 N 6 13.66 E (Joncheray and Brunner via nicoblon.free.fr, read as degrees and decimal minutes); layout from nicoblon.free.fr: rudder at the stern, bow gone, superstructure collapsed to starboard, coal on both sides. No heading is published; ENE (70 deg) is assumed, her course out of the Petite Passe towards Genoa. French Wikipedia says the site is closed to diving because of explosives near the wreck and nicoblon mentions iron shells scattered on the seabed. A few masts were observed; their positions are unknown.",
+ "origin": {
+  "lat": 43.0638,
+  "lon": 6.2277
+ },
+ "underlay": null,
+ "id": "fra-le-ferrando-1",
+ "site_id": "fra-le-ferrando",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:42:07.425262Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

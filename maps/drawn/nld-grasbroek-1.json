@@ -1,0 +1,273 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Onderwaterpark",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "steiger",
+   "x": 4.0,
+   "y": 44.0,
+   "type": "entry",
+   "label": "Steiger",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "t-west",
+   "x": -6.6,
+   "y": 29.0,
+   "type": "t",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "t-oost",
+   "x": -10.0,
+   "y": 24.0,
+   "type": "t",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "huis",
+   "x": -48.0,
+   "y": -12.6,
+   "type": "object",
+   "label": "Twents Onderwaterhuis",
+   "depth": 11.0,
+   "object_kind": "house",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "containers",
+   "x": -54.0,
+   "y": 31.0,
+   "type": "object",
+   "label": "Containers",
+   "depth": null,
+   "object_kind": "container",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "tegelrif",
+   "x": -38.6,
+   "y": 34.0,
+   "type": "object",
+   "label": "Tegelrif",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "motorboot",
+   "x": -23.0,
+   "y": 33.6,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "platform",
+   "x": 12.4,
+   "y": -7.0,
+   "type": "object",
+   "label": "Oefenplatform",
+   "depth": 10.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "zeilboot",
+   "x": 12.4,
+   "y": 20.6,
+   "type": "object",
+   "label": "Wrakje zeilboot",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "scooter",
+   "x": 21.4,
+   "y": 31.0,
+   "type": "object",
+   "label": "Scooter",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "riool",
+   "x": 36.0,
+   "y": 28.4,
+   "type": "object",
+   "label": "Rioolbuizen",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "container-wal",
+   "x": 10.6,
+   "y": 56.0,
+   "type": "object",
+   "label": "Container (wal)",
+   "depth": null,
+   "object_kind": "container",
+   "left": null,
+   "right": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "steiger",
+   "to": "t-west",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-west",
+   "to": "t-oost",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-oost",
+   "to": "huis",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-west",
+   "to": "motorboot",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "motorboot",
+   "to": "tegelrif",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "tegelrif",
+   "to": "containers",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-oost",
+   "to": "zeilboot",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "zeilboot",
+   "to": "riool",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  }
+ ],
+ "areas": [],
+ "lines": [
+  {
+   "id": "oever",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -67.7,
+     "y": 50.9
+    },
+    {
+     "x": -26.4,
+     "y": 49.0
+    },
+    {
+     "x": 3.5,
+     "y": 45.7
+    },
+    {
+     "x": 6.3,
+     "y": 45.8
+    },
+    {
+     "x": 6.3,
+     "y": 45.8
+    },
+    {
+     "x": 32.8,
+     "y": 47.3
+    },
+    {
+     "x": 54.5,
+     "y": 50.4
+    },
+    {
+     "x": 65.8,
+     "y": 59.3
+    },
+    {
+     "x": 83.5,
+     "y": 72.2
+    }
+   ]
+  }
+ ],
+ "notes": "Lijn van de steiger naar het onderwaterhuis (ingang 11 m, dak 5 m); aftakkingen naar het motorbootwrak, het tegelrif en de containers (west) en naar het zeilbootwrak en de rioolbuizen (oost). Oefenplatform op 10 m. Posities zijn bij benadering, de oever komt uit OpenStreetMap.",
+ "origin": {
+  "lat": 52.2969998,
+  "lon": 6.6439061
+ },
+ "underlay": null,
+ "id": "nld-grasbroek-1",
+ "site_id": "nld-grasbroek",
+ "sort": 0,
+ "revision": 4,
+ "updated_at": "2026-09-28T19:21:46.454146Z",
+ "changelog": [
+  {
+   "revision": 4,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,521 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Shaab el Erg",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "gota",
+   "x": -300.0,
+   "y": 490.0,
+   "type": "object",
+   "label": "Gota Shaab el Erg, Dolphin House",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gota-moor",
+   "x": -215.0,
+   "y": 435.0,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "poseidon",
+   "x": 560.0,
+   "y": 1580.0,
+   "type": "buoy",
+   "label": "Poseidon Garden moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lagoon",
+   "x": 1000.0,
+   "y": 800.0,
+   "type": "poi",
+   "label": "Lagoon, sand 8-12 m, ergs; dolphins",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "north-tip",
+   "x": 1300.0,
+   "y": -1180.0,
+   "type": "poi",
+   "label": "Northern tip (mantas Jan-Mar)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "east-wall",
+   "x": 2560.0,
+   "y": 1000.0,
+   "type": "poi",
+   "label": "East wall",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef",
+   "kind": "shallows",
+   "label": "Shaab el Erg",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": -240.0,
+     "y": 440.0
+    },
+    {
+     "x": -300.0,
+     "y": 350.0
+    },
+    {
+     "x": -260.0,
+     "y": 150.0
+    },
+    {
+     "x": -180.0,
+     "y": -50.0
+    },
+    {
+     "x": -100.0,
+     "y": -250.0
+    },
+    {
+     "x": 0.0,
+     "y": -500.0
+    },
+    {
+     "x": 150.0,
+     "y": -700.0
+    },
+    {
+     "x": 400.0,
+     "y": -870.0
+    },
+    {
+     "x": 700.0,
+     "y": -980.0
+    },
+    {
+     "x": 1000.0,
+     "y": -1080.0
+    },
+    {
+     "x": 1300.0,
+     "y": -1110.0
+    },
+    {
+     "x": 1550.0,
+     "y": -1060.0
+    },
+    {
+     "x": 1800.0,
+     "y": -700.0
+    },
+    {
+     "x": 2000.0,
+     "y": -300.0
+    },
+    {
+     "x": 2200.0,
+     "y": 200.0
+    },
+    {
+     "x": 2350.0,
+     "y": 700.0
+    },
+    {
+     "x": 2450.0,
+     "y": 1100.0
+    },
+    {
+     "x": 2450.0,
+     "y": 1500.0
+    },
+    {
+     "x": 2350.0,
+     "y": 2000.0
+    },
+    {
+     "x": 2200.0,
+     "y": 2350.0
+    },
+    {
+     "x": 2050.0,
+     "y": 2560.0
+    },
+    {
+     "x": 1950.0,
+     "y": 2500.0
+    },
+    {
+     "x": 1850.0,
+     "y": 2200.0
+    },
+    {
+     "x": 1850.0,
+     "y": 1800.0
+    },
+    {
+     "x": 1800.0,
+     "y": 1450.0
+    },
+    {
+     "x": 1700.0,
+     "y": 1000.0
+    },
+    {
+     "x": 1600.0,
+     "y": 600.0
+    },
+    {
+     "x": 1500.0,
+     "y": 300.0
+    },
+    {
+     "x": 1350.0,
+     "y": 50.0
+    },
+    {
+     "x": 1100.0,
+     "y": -50.0
+    },
+    {
+     "x": 900.0,
+     "y": -150.0
+    },
+    {
+     "x": 700.0,
+     "y": -300.0
+    },
+    {
+     "x": 450.0,
+     "y": -450.0
+    },
+    {
+     "x": 300.0,
+     "y": -480.0
+    },
+    {
+     "x": 150.0,
+     "y": -420.0
+    },
+    {
+     "x": 0.0,
+     "y": -300.0
+    },
+    {
+     "x": -110.0,
+     "y": -100.0
+    },
+    {
+     "x": -190.0,
+     "y": 150.0
+    },
+    {
+     "x": -195.0,
+     "y": 330.0
+    },
+    {
+     "x": -200.0,
+     "y": 430.0
+    }
+   ]
+  },
+  {
+   "id": "strip",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 200.0,
+     "y": -250.0
+    },
+    {
+     "x": 290.0,
+     "y": -240.0
+    },
+    {
+     "x": 280.0,
+     "y": -50.0
+    },
+    {
+     "x": 250.0,
+     "y": 100.0
+    },
+    {
+     "x": 210.0,
+     "y": 120.0
+    },
+    {
+     "x": 195.0,
+     "y": -50.0
+    }
+   ]
+  },
+  {
+   "id": "basin-n",
+   "kind": "sand",
+   "label": "",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": 650.0,
+     "y": -800.0
+    },
+    {
+     "x": 900.0,
+     "y": -840.0
+    },
+    {
+     "x": 1300.0,
+     "y": -790.0
+    },
+    {
+     "x": 1350.0,
+     "y": -650.0
+    },
+    {
+     "x": 1250.0,
+     "y": -560.0
+    },
+    {
+     "x": 900.0,
+     "y": -560.0
+    },
+    {
+     "x": 700.0,
+     "y": -620.0
+    }
+   ]
+  },
+  {
+   "id": "basin-e",
+   "kind": "sand",
+   "label": "",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": 1300.0,
+     "y": -470.0
+    },
+    {
+     "x": 1550.0,
+     "y": -470.0
+    },
+    {
+     "x": 1650.0,
+     "y": -250.0
+    },
+    {
+     "x": 1650.0,
+     "y": -80.0
+    },
+    {
+     "x": 1500.0,
+     "y": -100.0
+    },
+    {
+     "x": 1350.0,
+     "y": -300.0
+    }
+   ]
+  },
+  {
+   "id": "patch-1",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 380.0,
+     "y": 830.0
+    },
+    {
+     "x": 440.0,
+     "y": 830.0
+    },
+    {
+     "x": 475.0,
+     "y": 950.0
+    },
+    {
+     "x": 470.0,
+     "y": 1050.0
+    },
+    {
+     "x": 420.0,
+     "y": 1050.0
+    },
+    {
+     "x": 390.0,
+     "y": 950.0
+    }
+   ]
+  },
+  {
+   "id": "patch-2",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 430.0,
+     "y": 1150.0
+    },
+    {
+     "x": 500.0,
+     "y": 1160.0
+    },
+    {
+     "x": 525.0,
+     "y": 1300.0
+    },
+    {
+     "x": 470.0,
+     "y": 1300.0
+    },
+    {
+     "x": 440.0,
+     "y": 1230.0
+    }
+   ]
+  },
+  {
+   "id": "patch-3",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 470.0,
+     "y": 1330.0
+    },
+    {
+     "x": 540.0,
+     "y": 1330.0
+    },
+    {
+     "x": 600.0,
+     "y": 1400.0
+    },
+    {
+     "x": 760.0,
+     "y": 1380.0
+    },
+    {
+     "x": 770.0,
+     "y": 1480.0
+    },
+    {
+     "x": 660.0,
+     "y": 1510.0
+    },
+    {
+     "x": 580.0,
+     "y": 1600.0
+    },
+    {
+     "x": 500.0,
+     "y": 1560.0
+    },
+    {
+     "x": 480.0,
+     "y": 1450.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "wall-east",
+   "kind": "wall",
+   "label": "Outer wall, 25 m+",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 1860.0,
+     "y": -700.0
+    },
+    {
+     "x": 2060.0,
+     "y": -300.0
+    },
+    {
+     "x": 2260.0,
+     "y": 200.0
+    },
+    {
+     "x": 2410.0,
+     "y": 700.0
+    },
+    {
+     "x": 2510.0,
+     "y": 1100.0
+    },
+    {
+     "x": 2510.0,
+     "y": 1500.0
+    },
+    {
+     "x": 2410.0,
+     "y": 2000.0
+    },
+    {
+     "x": 2260.0,
+     "y": 2350.0
+    },
+    {
+     "x": 2110.0,
+     "y": 2560.0
+    }
+   ]
+  }
+ ],
+ "notes": "Shaab el Erg, the big horseshoe reef north of Hurghada, open to the south: the reef arms round the sandy lagoon with its ergs where the dolphins live, Gota Shaab el Erg (Dolphin House) at the south-west tip with the channel the dolphins use, the patch reefs of Poseidon Garden on the south side, the outer east wall and the northern tip. The named places come from dive-centre descriptions (seawolf-safari.de, divessi.com, divers-guide.com), so positions are approximate and the lagoon ergs are not drawn individually.",
+ "origin": {
+  "lat": 27.41289,
+  "lon": 33.85604
+ },
+ "underlay": null,
+ "id": "egy-shaab-el-erg-1",
+ "site_id": "egy-shaab-el-erg",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:23:49.617136Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

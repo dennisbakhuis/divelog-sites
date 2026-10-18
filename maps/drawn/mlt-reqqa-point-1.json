@@ -1,0 +1,511 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Reqqa Point",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Entry (steps, ladder)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "chimney",
+   "x": 10.0,
+   "y": -18.0,
+   "type": "poi",
+   "label": "Chimney up to 6 m",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bottleneck",
+   "x": -92.0,
+   "y": -96.0,
+   "type": "poi",
+   "label": "Bottleneck (Reqqa bottle) up to 35 m",
+   "depth": 58.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boulders",
+   "x": -40.0,
+   "y": -112.0,
+   "type": "poi",
+   "label": "House-sized boulders",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "shrimps-cave",
+   "x": -50.0,
+   "y": 11.0,
+   "type": "poi",
+   "label": "Shrimp's Cave",
+   "depth": 30.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "billinghurst",
+   "x": -83.0,
+   "y": 91.0,
+   "type": "poi",
+   "label": "Billinghurst Cave",
+   "depth": 24.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "billinghurst-ladder",
+   "x": -95.0,
+   "y": 80.0,
+   "type": "entry",
+   "label": "Ladder (Billinghurst)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reqqa-reef",
+   "kind": "other",
+   "label": "Reqqa reef, top 15–17 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -8.0,
+     "y": -28.0
+    },
+    {
+     "x": -40.0,
+     "y": -48.0
+    },
+    {
+     "x": -78.0,
+     "y": -76.0
+    },
+    {
+     "x": -104.0,
+     "y": -100.0
+    },
+    {
+     "x": -86.0,
+     "y": -120.0
+    },
+    {
+     "x": -48.0,
+     "y": -98.0
+    },
+    {
+     "x": -16.0,
+     "y": -66.0
+    },
+    {
+     "x": 6.0,
+     "y": -42.0
+    }
+   ]
+  },
+  {
+   "id": "sand-east",
+   "kind": "sand",
+   "label": "Sand 25 m",
+   "depth": null,
+   "points": [
+    {
+     "x": 40.0,
+     "y": -25.0
+    },
+    {
+     "x": 60.0,
+     "y": -50.0
+    },
+    {
+     "x": 110.0,
+     "y": -55.0
+    },
+    {
+     "x": 130.0,
+     "y": -30.0
+    },
+    {
+     "x": 90.0,
+     "y": -15.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shoreline-518601057-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 190.0,
+     "y": 87.7
+    },
+    {
+     "x": 180.9,
+     "y": 82.3
+    },
+    {
+     "x": 164.9,
+     "y": 81.1
+    },
+    {
+     "x": 154.6,
+     "y": 68.4
+    },
+    {
+     "x": 149.0,
+     "y": 66.7
+    },
+    {
+     "x": 141.8,
+     "y": 60.5
+    },
+    {
+     "x": 136.2,
+     "y": 58.7
+    },
+    {
+     "x": 123.3,
+     "y": 61.0
+    },
+    {
+     "x": 101.3,
+     "y": 60.2
+    },
+    {
+     "x": 57.7,
+     "y": 29.7
+    },
+    {
+     "x": 58.8,
+     "y": 26.7
+    },
+    {
+     "x": 51.1,
+     "y": 21.6
+    },
+    {
+     "x": 35.1,
+     "y": 15.2
+    },
+    {
+     "x": 32.9,
+     "y": 17.1
+    },
+    {
+     "x": 9.0,
+     "y": 11.4
+    },
+    {
+     "x": 4.2,
+     "y": 8.1
+    },
+    {
+     "x": -1.0,
+     "y": -1.4
+    },
+    {
+     "x": 0.6,
+     "y": -9.5
+    },
+    {
+     "x": 6.0,
+     "y": -13.8
+    },
+    {
+     "x": 6.3,
+     "y": -15.8
+    },
+    {
+     "x": 2.9,
+     "y": -16.9
+    },
+    {
+     "x": -2.3,
+     "y": -14.9
+    },
+    {
+     "x": -3.7,
+     "y": -10.3
+    },
+    {
+     "x": -19.3,
+     "y": 0.4
+    },
+    {
+     "x": -22.7,
+     "y": 1.1
+    },
+    {
+     "x": -26.4,
+     "y": -5.3
+    },
+    {
+     "x": -26.2,
+     "y": -8.1
+    },
+    {
+     "x": -32.2,
+     "y": -7.9
+    },
+    {
+     "x": -30.2,
+     "y": -5.9
+    },
+    {
+     "x": -36.5,
+     "y": 4.4
+    },
+    {
+     "x": -34.3,
+     "y": 9.3
+    },
+    {
+     "x": -44.8,
+     "y": 13.2
+    },
+    {
+     "x": -46.1,
+     "y": 20.4
+    },
+    {
+     "x": -49.3,
+     "y": 22.9
+    },
+    {
+     "x": -48.1,
+     "y": 25.1
+    },
+    {
+     "x": -50.8,
+     "y": 30.3
+    },
+    {
+     "x": -70.9,
+     "y": 46.6
+    },
+    {
+     "x": -75.0,
+     "y": 52.1
+    },
+    {
+     "x": -91.7,
+     "y": 54.3
+    },
+    {
+     "x": -92.6,
+     "y": 56.6
+    },
+    {
+     "x": -90.5,
+     "y": 62.1
+    },
+    {
+     "x": -86.6,
+     "y": 64.4
+    },
+    {
+     "x": -90.0,
+     "y": 70.7
+    },
+    {
+     "x": -97.9,
+     "y": 73.8
+    },
+    {
+     "x": -98.0,
+     "y": 75.5
+    },
+    {
+     "x": -90.6,
+     "y": 81.1
+    },
+    {
+     "x": -84.2,
+     "y": 90.4
+    },
+    {
+     "x": -93.6,
+     "y": 98.4
+    },
+    {
+     "x": -104.1,
+     "y": 102.3
+    },
+    {
+     "x": -109.9,
+     "y": 102.8
+    },
+    {
+     "x": -119.5,
+     "y": 99.6
+    },
+    {
+     "x": -133.9,
+     "y": 97.9
+    },
+    {
+     "x": -172.0,
+     "y": 102.2
+    },
+    {
+     "x": -215.2,
+     "y": 92.5
+    },
+    {
+     "x": -217.9,
+     "y": 94.2
+    },
+    {
+     "x": -221.8,
+     "y": 93.1
+    },
+    {
+     "x": -225.3,
+     "y": 94.2
+    },
+    {
+     "x": -230.0,
+     "y": 92.2
+    }
+   ]
+  },
+  {
+   "id": "wall",
+   "kind": "wall",
+   "label": "Wall to 60 m+",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 40.0,
+     "y": -60.0
+    },
+    {
+     "x": 20.0,
+     "y": -95.0
+    },
+    {
+     "x": -25.0,
+     "y": -140.0
+    },
+    {
+     "x": -95.0,
+     "y": -150.0
+    },
+    {
+     "x": -140.0,
+     "y": -120.0
+    },
+    {
+     "x": -160.0,
+     "y": -70.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 0.0,
+     "y": 0.0
+    },
+    {
+     "x": -12.0,
+     "y": -20.0
+    },
+    {
+     "x": -35.0,
+     "y": -45.0
+    },
+    {
+     "x": -80.0,
+     "y": -70.0
+    },
+    {
+     "x": -110.0,
+     "y": -95.0
+    },
+    {
+     "x": -95.0,
+     "y": -130.0
+    },
+    {
+     "x": -50.0,
+     "y": -118.0
+    },
+    {
+     "x": -20.0,
+     "y": -80.0
+    },
+    {
+     "x": 0.0,
+     "y": -45.0
+    },
+    {
+     "x": 10.0,
+     "y": -18.0
+    },
+    {
+     "x": 0.0,
+     "y": 0.0
+    }
+   ]
+  }
+ ],
+ "notes": "Reqqa Point on Gozo's north coast: the entry at the point, the chimney near it, Reqqa reef running north-west under water to 15–17 m, the wall beyond it to 60 m and more with the Bottleneck shaft (58 to 35 m), and Billinghurst Cave in the bay to the west. Coastline, the entry and Billinghurst Cave are from OpenStreetMap; the layout follows the St Andrew's Divers Cove (gozodive.com) description and maltadives.com site coordinates. The reef, sand and wall outlines are estimated, not surveyed, so all positions are approximate.",
+ "origin": {
+  "lat": 36.082,
+  "lon": 14.23635
+ },
+ "underlay": null,
+ "id": "mlt-reqqa-point-1",
+ "site_id": "mlt-reqqa-point",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:35:57.917354Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Vulcan Rock",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "vulcan-rock",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "object",
+   "label": "Vulcan Rock, breaks the surface",
+   "depth": 0.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cavern",
+   "x": 5.300000000000001,
+   "y": 10.9,
+   "type": "poi",
+   "label": "Cavern under the rock, 4 openings",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "balloon-cave",
+   "x": 18.3,
+   "y": 15.9,
+   "type": "poi",
+   "label": "Balloon cave overhang, air pockets",
+   "depth": 13.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "north-ridge",
+   "x": 9.3,
+   "y": -45.9,
+   "type": "object",
+   "label": "North ridge pinnacle",
+   "depth": 3.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "west-ridge",
+   "x": -141.0,
+   "y": 46.2,
+   "type": "object",
+   "label": "West Ridge pinnacle, swim-through 23 m",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rocksucker-w",
+   "x": 160.5,
+   "y": 177.1,
+   "type": "object",
+   "label": "Rocksucker Ridge",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rocksucker-e",
+   "x": 211.2,
+   "y": 184.4,
+   "type": "poi",
+   "label": "Swim-through cracks",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sand",
+   "x": -35.7,
+   "y": 59.9,
+   "type": "poi",
+   "label": "Sand patch",
+   "depth": 29.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boat-drop",
+   "x": -2.6999999999999993,
+   "y": 4.9,
+   "type": "entry",
+   "label": "Boat drop (no mooring, live boat)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "low-reef-west",
+   "x": -191.0,
+   "y": 26.200000000000003,
+   "type": "poi",
+   "label": "Low reef, deeper to the west",
+   "depth": 24.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "kelp",
+   "kind": "other",
+   "label": "Split-fan kelp on the tops to 15 m",
+   "depth": null,
+   "points": [
+    {
+     "x": 15.7,
+     "y": 35.6
+    },
+    {
+     "x": -31.8,
+     "y": -46.6
+    },
+    {
+     "x": 2.9,
+     "y": -66.6
+    },
+    {
+     "x": 50.4,
+     "y": 15.6
+    }
+   ]
+  },
+  {
+   "id": "west-ridge-area",
+   "kind": "other",
+   "label": "",
+   "depth": 14.0,
+   "points": [
+    {
+     "x": -126.9,
+     "y": 74.5
+    },
+    {
+     "x": -169.3,
+     "y": 32.1
+    },
+    {
+     "x": -155.1,
+     "y": 17.9
+    },
+    {
+     "x": -112.7,
+     "y": 60.3
+    }
+   ]
+  },
+  {
+   "id": "rocksucker-area",
+   "kind": "other",
+   "label": "",
+   "depth": 12.0,
+   "points": [
+    {
+     "x": 152.1,
+     "y": 165.2
+    },
+    {
+     "x": 221.8,
+     "y": 171.3
+    },
+    {
+     "x": 219.6,
+     "y": 196.3
+    },
+    {
+     "x": 149.9,
+     "y": 190.2
+    }
+   ]
+  },
+  {
+   "id": "sand-patch",
+   "kind": "sand",
+   "label": "",
+   "depth": 29.0,
+   "points": [
+    {
+     "x": -69.0,
+     "y": 72.0
+    },
+    {
+     "x": -33.6,
+     "y": 36.6
+    },
+    {
+     "x": -12.4,
+     "y": 57.8
+    },
+    {
+     "x": -47.8,
+     "y": 93.2
+    }
+   ]
+  }
+ ],
+ "lines": [],
+ "notes": "Vulcan Rock is the exposed top of a granite tor in a cluster of pinnacles trending north-west to south-east, off the Karbonkelberg coast beyond the mouth of Hout Bay; there is no shore within the drawing. The rock position is the OpenStreetMap seamark (node 3662683982); the North Ridge, West Ridge and Rocksucker Ridge positions, the cavern at 15-20 m under the rock, the balloon-cave overhang, the 28-30 m sand patch to the south-west, the low reef at 24 m to the west, the kelp line and the advice not to anchor come from the Wikivoyage 'Diving the Cape Peninsula and False Bay/Vulcan Rock' guide. The outlines of the ridges, the kelp and the sand patch and the boat drop are drawn around those points and are approximate.",
+ "origin": {
+  "lat": -34.0656153,
+  "lon": 18.3089793
+ },
+ "underlay": null,
+ "id": "zaf-vulcan-rock-1",
+ "site_id": "zaf-vulcan-rock",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:32:10.494279Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,684 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Koh Bida Nok",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "cave",
+   "x": -234.0,
+   "y": -125.8,
+   "type": "poi",
+   "label": "Cave",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "swim-thru",
+   "x": -200.6,
+   "y": -29.8,
+   "type": "poi",
+   "label": "Vertical swim-through",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r16",
+   "x": -218.9,
+   "y": -25.3,
+   "type": "marker",
+   "label": "Coral head",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r18",
+   "x": -235.0,
+   "y": -11.1,
+   "type": "marker",
+   "label": "Coral head",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r20a",
+   "x": -215.8,
+   "y": 28.9,
+   "type": "marker",
+   "label": "Coral head",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r20b",
+   "x": -156.0,
+   "y": 58.3,
+   "type": "marker",
+   "label": "Coral head",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "south-5",
+   "x": -153.5,
+   "y": 20.7,
+   "type": "marker",
+   "label": "South point",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bay",
+   "x": -100.7,
+   "y": -34.7,
+   "type": "poi",
+   "label": "Sheltered bay, hard coral",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "finger-reef",
+   "x": -112.2,
+   "y": 4.4,
+   "type": "poi",
+   "label": "Finger Reef",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r12",
+   "x": -69.4,
+   "y": 3.5,
+   "type": "marker",
+   "label": "Coral head",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r15",
+   "x": -25.2,
+   "y": -30.1,
+   "type": "marker",
+   "label": "Reef edge",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sand-east",
+   "x": -7.8,
+   "y": -79.4,
+   "type": "poi",
+   "label": "Sand, resting leopard sharks",
+   "depth": 22.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "shallows-n",
+   "x": -190.3,
+   "y": -123.9,
+   "type": "poi",
+   "label": "Shallows, blacktip reef sharks",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef",
+   "kind": "coral",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -254.2,
+     "y": -156.0
+    },
+    {
+     "x": -234.1,
+     "y": -170.7
+    },
+    {
+     "x": -197.4,
+     "y": -173.5
+    },
+    {
+     "x": -164.3,
+     "y": -149.7
+    },
+    {
+     "x": -123.2,
+     "y": -134.2
+    },
+    {
+     "x": -73.9,
+     "y": -118.9
+    },
+    {
+     "x": -40.6,
+     "y": -86.9
+    },
+    {
+     "x": -27.5,
+     "y": -46.3
+    },
+    {
+     "x": -35.0,
+     "y": -13.5
+    },
+    {
+     "x": -63.2,
+     "y": 3.4
+    },
+    {
+     "x": -91.6,
+     "y": 12.1
+    },
+    {
+     "x": -119.9,
+     "y": 29.0
+    },
+    {
+     "x": -152.3,
+     "y": 41.9
+    },
+    {
+     "x": -185.1,
+     "y": 30.3
+    },
+    {
+     "x": -214.2,
+     "y": 6.4
+    },
+    {
+     "x": -235.3,
+     "y": -25.8
+    },
+    {
+     "x": -252.3,
+     "y": -62.2
+    },
+    {
+     "x": -261.5,
+     "y": -111.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore-407437352",
+   "kind": "shoreline",
+   "label": "Koh Bida Nok",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -191.2,
+     "y": -163.8
+    },
+    {
+     "x": -215.2,
+     "y": -169.1
+    },
+    {
+     "x": -241.0,
+     "y": -163.3
+    },
+    {
+     "x": -248.0,
+     "y": -154.3
+    },
+    {
+     "x": -252.9,
+     "y": -139.0
+    },
+    {
+     "x": -251.9,
+     "y": -118.3
+    },
+    {
+     "x": -252.2,
+     "y": -82.7
+    },
+    {
+     "x": -245.9,
+     "y": -66.8
+    },
+    {
+     "x": -232.3,
+     "y": -48.2
+    },
+    {
+     "x": -225.5,
+     "y": -39.8
+    },
+    {
+     "x": -219.4,
+     "y": -29.9
+    },
+    {
+     "x": -211.6,
+     "y": -8.7
+    },
+    {
+     "x": -206.4,
+     "y": 5.6
+    },
+    {
+     "x": -205.0,
+     "y": 13.0
+    },
+    {
+     "x": -199.5,
+     "y": 24.0
+    },
+    {
+     "x": -197.0,
+     "y": 29.3
+    },
+    {
+     "x": -186.5,
+     "y": 38.4
+    },
+    {
+     "x": -177.8,
+     "y": 43.4
+    },
+    {
+     "x": -168.8,
+     "y": 43.6
+    },
+    {
+     "x": -165.5,
+     "y": 34.6
+    },
+    {
+     "x": -156.5,
+     "y": 32.5
+    },
+    {
+     "x": -154.8,
+     "y": 26.5
+    },
+    {
+     "x": -162.0,
+     "y": 17.4
+    },
+    {
+     "x": -166.8,
+     "y": 8.6
+    },
+    {
+     "x": -168.4,
+     "y": 0.9
+    },
+    {
+     "x": -167.0,
+     "y": -5.3
+    },
+    {
+     "x": -160.2,
+     "y": -9.8
+    },
+    {
+     "x": -148.6,
+     "y": -9.7
+    },
+    {
+     "x": -141.4,
+     "y": -3.7
+    },
+    {
+     "x": -133.3,
+     "y": 7.9
+    },
+    {
+     "x": -126.4,
+     "y": 17.7
+    },
+    {
+     "x": -119.4,
+     "y": 24.1
+    },
+    {
+     "x": -109.4,
+     "y": 25.9
+    },
+    {
+     "x": -96.3,
+     "y": 19.6
+    },
+    {
+     "x": -72.5,
+     "y": -6.9
+    },
+    {
+     "x": -60.9,
+     "y": -17.9
+    },
+    {
+     "x": -58.2,
+     "y": -26.2
+    },
+    {
+     "x": -55.3,
+     "y": -37.3
+    },
+    {
+     "x": -49.2,
+     "y": -49.7
+    },
+    {
+     "x": -47.6,
+     "y": -63.4
+    },
+    {
+     "x": -52.4,
+     "y": -76.1
+    },
+    {
+     "x": -62.7,
+     "y": -84.6
+    },
+    {
+     "x": -68.4,
+     "y": -90.5
+    },
+    {
+     "x": -84.5,
+     "y": -102.5
+    },
+    {
+     "x": -101.5,
+     "y": -115.3
+    },
+    {
+     "x": -113.8,
+     "y": -123.4
+    },
+    {
+     "x": -142.4,
+     "y": -137.1
+    },
+    {
+     "x": -153.9,
+     "y": -143.3
+    },
+    {
+     "x": -174.3,
+     "y": -153.1
+    }
+   ]
+  },
+  {
+   "id": "shore-407437353",
+   "kind": "shoreline",
+   "label": "Koh Bida Nai",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 79.7,
+     "y": -433.0
+    },
+    {
+     "x": 60.5,
+     "y": -444.5
+    },
+    {
+     "x": 35.7,
+     "y": -454.4
+    },
+    {
+     "x": 11.9,
+     "y": -453.5
+    },
+    {
+     "x": -1.2,
+     "y": -452.2
+    },
+    {
+     "x": -19.1,
+     "y": -448.7
+    },
+    {
+     "x": -38.2,
+     "y": -438.9
+    },
+    {
+     "x": -51.2,
+     "y": -413.8
+    },
+    {
+     "x": -48.8,
+     "y": -396.2
+    },
+    {
+     "x": -38.7,
+     "y": -380.2
+    },
+    {
+     "x": -33.1,
+     "y": -364.1
+    },
+    {
+     "x": -23.5,
+     "y": -348.0
+    },
+    {
+     "x": -4.7,
+     "y": -331.9
+    },
+    {
+     "x": 2.8,
+     "y": -329.2
+    },
+    {
+     "x": 9.5,
+     "y": -326.8
+    },
+    {
+     "x": 26.7,
+     "y": -329.0
+    },
+    {
+     "x": 32.1,
+     "y": -336.8
+    },
+    {
+     "x": 41.3,
+     "y": -346.7
+    },
+    {
+     "x": 53.1,
+     "y": -359.6
+    },
+    {
+     "x": 67.2,
+     "y": -370.3
+    },
+    {
+     "x": 74.2,
+     "y": -378.6
+    },
+    {
+     "x": 96.1,
+     "y": -394.2
+    },
+    {
+     "x": 98.5,
+     "y": -401.5
+    },
+    {
+     "x": 98.8,
+     "y": -409.8
+    },
+    {
+     "x": 96.5,
+     "y": -418.4
+    }
+   ]
+  },
+  {
+   "id": "wall-w",
+   "kind": "wall",
+   "label": "Wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -253.2,
+     "y": -147.1
+    },
+    {
+     "x": -259.4,
+     "y": -111.0
+    },
+    {
+     "x": -254.5,
+     "y": -70.3
+    },
+    {
+     "x": -241.5,
+     "y": -33.9
+    },
+    {
+     "x": -226.6,
+     "y": -1.5
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -197.7,
+     "y": -185.7
+    },
+    {
+     "x": -116.2,
+     "y": -195.6
+    },
+    {
+     "x": -50.7,
+     "y": -184.6
+    },
+    {
+     "x": -17.5,
+     "y": -156.7
+    },
+    {
+     "x": 8.0,
+     "y": -104.2
+    },
+    {
+     "x": 17.4,
+     "y": -47.2
+    },
+    {
+     "x": 18.2,
+     "y": -6.4
+    },
+    {
+     "x": -9.6,
+     "y": 34.9
+    },
+    {
+     "x": -70.4,
+     "y": 52.5
+    },
+    {
+     "x": -131.5,
+     "y": 61.9
+    },
+    {
+     "x": -192.8,
+     "y": 55.0
+    },
+    {
+     "x": -242.3,
+     "y": 31.5
+    },
+    {
+     "x": -267.6,
+     "y": -8.8
+    },
+    {
+     "x": -272.9,
+     "y": -70.0
+    },
+    {
+     "x": -270.0,
+     "y": -131.2
+    },
+    {
+     "x": -246.4,
+     "y": -172.5
+    }
+   ]
+  }
+ ],
+ "notes": "Koh Bida Nok, the outer of the two Bida limestone islets 2 km south of Phi Phi Leh; coastlines of Bida Nok and Bida Nai from OpenStreetMap. Cave, swim-through, coral heads and depths; the sheltered bay, Finger Reef and the leopard-shark sand from Phuket Dive Guide. The wall runs from the waterline to sand at 20-25 m; the usual dive circles the island. Positions are approximate.",
+ "origin": {
+  "lat": 7.65441,
+  "lon": 98.76763
+ },
+ "underlay": null,
+ "id": "tha-koh-bida-nok-1",
+ "site_id": "tha-koh-bida-nok",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:46:31.099186Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

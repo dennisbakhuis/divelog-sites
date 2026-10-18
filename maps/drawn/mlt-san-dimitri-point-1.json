@@ -1,0 +1,311 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "San Dimitri Point",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "point",
+   "x": -24.0,
+   "y": -70.0,
+   "type": "poi",
+   "label": "San Dimitri Point",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boat",
+   "x": -20.0,
+   "y": 5.0,
+   "type": "entry",
+   "label": "Boat mooring",
+   "depth": 6.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "swim-through",
+   "x": 10.0,
+   "y": 15.0,
+   "type": "poi",
+   "label": "Swim-through under boulders",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "slope",
+   "x": -95.0,
+   "y": 30.0,
+   "type": "poi",
+   "label": "Boulder slope, house-sized rock",
+   "depth": 30.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef",
+   "kind": "shallows",
+   "label": "Reef plateau ~6 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -29.0,
+     "y": -67.0
+    },
+    {
+     "x": -37.0,
+     "y": -43.0
+    },
+    {
+     "x": -39.0,
+     "y": -19.0
+    },
+    {
+     "x": -37.0,
+     "y": 10.0
+    },
+    {
+     "x": -29.0,
+     "y": 39.0
+    },
+    {
+     "x": -20.0,
+     "y": 67.0
+    },
+    {
+     "x": 32.0,
+     "y": 67.0
+    },
+    {
+     "x": 27.0,
+     "y": 30.0
+    },
+    {
+     "x": 20.0,
+     "y": 15.0
+    },
+    {
+     "x": 14.0,
+     "y": -2.0
+    },
+    {
+     "x": 0.0,
+     "y": -17.0
+    },
+    {
+     "x": -15.0,
+     "y": -45.0
+    },
+    {
+     "x": -19.0,
+     "y": -62.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shoreline-518601028-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 20.8,
+     "y": -220.0
+    },
+    {
+     "x": 19.3,
+     "y": -208.0
+    },
+    {
+     "x": 22.2,
+     "y": -201.1
+    },
+    {
+     "x": 20.5,
+     "y": -188.1
+    },
+    {
+     "x": 21.6,
+     "y": -161.2
+    },
+    {
+     "x": 4.5,
+     "y": -104.7
+    },
+    {
+     "x": -15.9,
+     "y": -78.2
+    },
+    {
+     "x": -21.1,
+     "y": -62.4
+    },
+    {
+     "x": -15.4,
+     "y": -45.4
+    },
+    {
+     "x": 2.9,
+     "y": -15.0
+    },
+    {
+     "x": 16.7,
+     "y": -0.8
+    },
+    {
+     "x": 20.3,
+     "y": 11.1
+    },
+    {
+     "x": 30.0,
+     "y": 22.7
+    },
+    {
+     "x": 34.4,
+     "y": 64.2
+    },
+    {
+     "x": 37.6,
+     "y": 75.6
+    },
+    {
+     "x": 31.9,
+     "y": 83.4
+    },
+    {
+     "x": 32.4,
+     "y": 93.7
+    },
+    {
+     "x": 43.8,
+     "y": 100.3
+    },
+    {
+     "x": 70.0,
+     "y": 160.5
+    },
+    {
+     "x": 82.5,
+     "y": 180.7
+    },
+    {
+     "x": 107.5,
+     "y": 208.5
+    },
+    {
+     "x": 115.0,
+     "y": 220.0
+    }
+   ]
+  },
+  {
+   "id": "drop-off",
+   "kind": "wall",
+   "label": "Drop-off to 20 m",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -35.0,
+     "y": -85.0
+    },
+    {
+     "x": -45.0,
+     "y": -45.0
+    },
+    {
+     "x": -48.0,
+     "y": -15.0
+    },
+    {
+     "x": -46.0,
+     "y": 12.0
+    },
+    {
+     "x": -38.0,
+     "y": 42.0
+    },
+    {
+     "x": -30.0,
+     "y": 80.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Route (clockwise)",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -20.0,
+     "y": 5.0
+    },
+    {
+     "x": -50.0,
+     "y": -30.0
+    },
+    {
+     "x": -85.0,
+     "y": 0.0
+    },
+    {
+     "x": -95.0,
+     "y": 30.0
+    },
+    {
+     "x": -60.0,
+     "y": 70.0
+    },
+    {
+     "x": -25.0,
+     "y": 60.0
+    },
+    {
+     "x": 10.0,
+     "y": 15.0
+    },
+    {
+     "x": -20.0,
+     "y": 5.0
+    }
+   ]
+  }
+ ],
+ "notes": "Sparse map of San Dimitri Point, the western tip of Gozo below 80 m cliffs: the shallow reef plateau where the boat moors, the drop-off to about 20 m, the boulder slope to 30 m and the swim-through under boulders at 18 m between reef and cliff. Coastline from OpenStreetMap; the reef outline is approximate and the rest follows the St Andrew's Divers Cove (gozodive.com) description, so positions are approximate. Whale Cave and Tal-Barba Cave lie about 1.2 km further south near the Inland Sea and are not drawn. The map origin is the reef (36.0688, 14.1837); the site coordinates lie about 500 m offshore to the north-west.",
+ "origin": {
+  "lat": 36.0688,
+  "lon": 14.1837
+ },
+ "underlay": null,
+ "id": "mlt-san-dimitri-point-1",
+ "site_id": "mlt-san-dimitri-point",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:35:03.077228Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

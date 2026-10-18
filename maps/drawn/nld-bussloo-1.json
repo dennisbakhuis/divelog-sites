@@ -1,0 +1,1008 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Duikplek Schurinkshof",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "steiger",
+   "x": -32.2,
+   "y": 215.2,
+   "type": "entry",
+   "label": "Steiger",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bandenrif",
+   "x": -199.6,
+   "y": 194.3,
+   "type": "object",
+   "label": "Bandenrif",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tank",
+   "x": -168.8,
+   "y": 199.6,
+   "type": "object",
+   "label": "Tank",
+   "depth": null,
+   "object_kind": "container",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bouwsteiger",
+   "x": -117.2,
+   "y": 220.3,
+   "type": "object",
+   "label": "Bouwsteiger",
+   "depth": 6.5,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-1",
+   "x": -45.7,
+   "y": 199.0,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld",
+   "x": -39.3,
+   "y": 166.4,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrakje",
+   "x": -62.1,
+   "y": 150.3,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bus-1",
+   "x": -14.9,
+   "y": 145.4,
+   "type": "object",
+   "label": "Bus 1",
+   "depth": null,
+   "object_kind": "bus",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-2",
+   "x": 49.9,
+   "y": 132.1,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bus-2",
+   "x": 190.7,
+   "y": 89.0,
+   "type": "object",
+   "label": "Bus 2",
+   "depth": null,
+   "object_kind": "bus",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "onderwaterhuis",
+   "x": 297.2,
+   "y": 104.9,
+   "type": "object",
+   "label": "Onderwaterhuis",
+   "depth": null,
+   "object_kind": "house",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buis",
+   "x": 157.0,
+   "y": 178.2,
+   "type": "object",
+   "label": "Buis",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kooi",
+   "x": 211.2,
+   "y": 170.2,
+   "type": "object",
+   "label": "Kooi",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto",
+   "x": 49.9,
+   "y": 17.9,
+   "type": "object",
+   "label": "Auto",
+   "depth": 10.5,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "piramide",
+   "x": -1.4,
+   "y": 65.2,
+   "type": "object",
+   "label": "Monument Kees Knol",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ring-1",
+   "x": -124.5,
+   "y": 131.6,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ring-2",
+   "x": -51.9,
+   "y": 87.9,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tankbodem",
+   "x": 25.2,
+   "y": 76.7,
+   "type": "object",
+   "label": "Tankbodem",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ring-4",
+   "x": 75.4,
+   "y": 69.1,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ring-5",
+   "x": 189.7,
+   "y": 137.7,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "j-steiger",
+   "x": -97.7,
+   "y": 212.5,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "j-bocht",
+   "x": -20.9,
+   "y": 95.6,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "j-bus-2",
+   "x": 176.0,
+   "y": 101.7,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "j-buis",
+   "x": 144.2,
+   "y": 177.1,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "j-oost",
+   "x": 275.7,
+   "y": 113.2,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lijn-eind",
+   "x": 280.1,
+   "y": 148.5,
+   "type": "end",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "bandenrif",
+   "to": "bouwsteiger",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bouwsteiger",
+   "to": "j-steiger",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "j-steiger",
+   "to": "wrakje",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "j-steiger",
+   "to": "platform-1",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "platform-1",
+   "to": "bus-1",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrakje",
+   "to": "bus-1",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrakje",
+   "to": "j-bocht",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "j-bocht",
+   "to": "auto",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bus-1",
+   "to": "ring-4",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "ring-1",
+   "to": "ring-2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "ring-2",
+   "to": "tankbodem",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "tankbodem",
+   "to": "ring-4",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "ring-4",
+   "to": "auto",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "auto",
+   "to": "ring-5",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "ring-4",
+   "to": "j-bus-2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bus-1",
+   "to": "platform-2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "platform-2",
+   "to": "j-bus-2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "j-bus-2",
+   "to": "ring-5",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bus-1",
+   "to": "j-buis",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "j-buis",
+   "to": "buis",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "buis",
+   "to": "ring-5",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "ring-5",
+   "to": "j-oost",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "j-oost",
+   "to": "lijn-eind",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  }
+ ],
+ "areas": [],
+ "lines": [
+  {
+   "id": "oever-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -345.3,
+     "y": -228.7
+    },
+    {
+     "x": -313.1,
+     "y": -246.3
+    }
+   ]
+  },
+  {
+   "id": "oever-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 321.1,
+     "y": -246.8
+    },
+    {
+     "x": 331.6,
+     "y": -226.8
+    },
+    {
+     "x": 337.6,
+     "y": -208.0
+    },
+    {
+     "x": 345.3,
+     "y": -161.0
+    },
+    {
+     "x": 333.5,
+     "y": -133.8
+    },
+    {
+     "x": 299.6,
+     "y": -91.0
+    },
+    {
+     "x": 301.9,
+     "y": -75.6
+    },
+    {
+     "x": 300.7,
+     "y": -57.6
+    },
+    {
+     "x": 312.2,
+     "y": -26.0
+    },
+    {
+     "x": 334.0,
+     "y": 17.3
+    },
+    {
+     "x": 335.2,
+     "y": 28.2
+    },
+    {
+     "x": 334.9,
+     "y": 53.0
+    },
+    {
+     "x": 325.4,
+     "y": 130.0
+    },
+    {
+     "x": 319.2,
+     "y": 142.2
+    },
+    {
+     "x": 322.2,
+     "y": 145.6
+    },
+    {
+     "x": 319.1,
+     "y": 147.8
+    },
+    {
+     "x": 314.3,
+     "y": 144.2
+    },
+    {
+     "x": 249.3,
+     "y": 160.1
+    },
+    {
+     "x": 236.0,
+     "y": 167.0
+    },
+    {
+     "x": 212.1,
+     "y": 174.1
+    },
+    {
+     "x": 118.1,
+     "y": 194.9
+    },
+    {
+     "x": 106.0,
+     "y": 195.3
+    },
+    {
+     "x": 94.9,
+     "y": 192.4
+    },
+    {
+     "x": 66.0,
+     "y": 173.0
+    },
+    {
+     "x": 54.0,
+     "y": 171.8
+    },
+    {
+     "x": 42.8,
+     "y": 173.7
+    },
+    {
+     "x": 21.8,
+     "y": 180.4
+    },
+    {
+     "x": 13.5,
+     "y": 188.4
+    },
+    {
+     "x": 2.7,
+     "y": 206.2
+    },
+    {
+     "x": -41.0,
+     "y": 231.6
+    },
+    {
+     "x": -67.9,
+     "y": 236.7
+    },
+    {
+     "x": -86.8,
+     "y": 236.6
+    },
+    {
+     "x": -94.2,
+     "y": 239.1
+    },
+    {
+     "x": -185.0,
+     "y": 246.9
+    },
+    {
+     "x": -208.5,
+     "y": 245.3
+    },
+    {
+     "x": -216.4,
+     "y": 238.3
+    },
+    {
+     "x": -221.6,
+     "y": 226.6
+    },
+    {
+     "x": -228.3,
+     "y": 202.3
+    },
+    {
+     "x": -230.7,
+     "y": 183.4
+    },
+    {
+     "x": -246.1,
+     "y": 137.2
+    },
+    {
+     "x": -253.3,
+     "y": 98.5
+    },
+    {
+     "x": -226.9,
+     "y": 70.5
+    },
+    {
+     "x": -218.6,
+     "y": 66.8
+    },
+    {
+     "x": -204.5,
+     "y": 66.2
+    },
+    {
+     "x": -175.1,
+     "y": 75.0
+    },
+    {
+     "x": -164.2,
+     "y": 75.1
+    },
+    {
+     "x": -159.2,
+     "y": 66.7
+    },
+    {
+     "x": -129.6,
+     "y": -33.2
+    },
+    {
+     "x": -131.6,
+     "y": -43.5
+    },
+    {
+     "x": -138.9,
+     "y": -51.1
+    },
+    {
+     "x": -146.6,
+     "y": -54.6
+    },
+    {
+     "x": -271.8,
+     "y": -94.7
+    },
+    {
+     "x": -278.7,
+     "y": -92.8
+    },
+    {
+     "x": -293.2,
+     "y": -45.9
+    },
+    {
+     "x": -329.8,
+     "y": -45.8
+    },
+    {
+     "x": -345.2,
+     "y": -49.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -208.7,
+     "y": -206.2
+    },
+    {
+     "x": -127.9,
+     "y": -179.2
+    },
+    {
+     "x": -80.6,
+     "y": -159.0
+    },
+    {
+     "x": -47.6,
+     "y": -132.1
+    },
+    {
+     "x": -34.2,
+     "y": -98.2
+    },
+    {
+     "x": -35.9,
+     "y": -67.8
+    },
+    {
+     "x": -47.3,
+     "y": -31.6
+    },
+    {
+     "x": -59.1,
+     "y": -0.2
+    },
+    {
+     "x": -56.1,
+     "y": 29.7
+    },
+    {
+     "x": -33.3,
+     "y": 57.6
+    },
+    {
+     "x": 13.1,
+     "y": 67.9
+    },
+    {
+     "x": 63.1,
+     "y": 64.0
+    },
+    {
+     "x": 122.5,
+     "y": 54.3
+    },
+    {
+     "x": 142.3,
+     "y": 49.9
+    },
+    {
+     "x": 180.0,
+     "y": 25.7
+    },
+    {
+     "x": 215.2,
+     "y": -23.2
+    },
+    {
+     "x": 230.6,
+     "y": -70.1
+    },
+    {
+     "x": 216.7,
+     "y": -108.8
+    },
+    {
+     "x": 188.5,
+     "y": -136.1
+    },
+    {
+     "x": 138.1,
+     "y": -138.5
+    },
+    {
+     "x": 82.3,
+     "y": -140.3
+    },
+    {
+     "x": 34.4,
+     "y": -165.6
+    },
+    {
+     "x": 1.0,
+     "y": -197.5
+    },
+    {
+     "x": -17.1,
+     "y": -225.9
+    }
+   ]
+  },
+  {
+   "id": "diepte-5",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -289.0,
+     "y": -79.1
+    },
+    {
+     "x": -262.0,
+     "y": -98.1
+    },
+    {
+     "x": -242.2,
+     "y": -95.0
+    },
+    {
+     "x": -142.7,
+     "y": -90.1
+    },
+    {
+     "x": -110.4,
+     "y": -69.5
+    },
+    {
+     "x": -101.9,
+     "y": -31.7
+    },
+    {
+     "x": -120.7,
+     "y": 17.6
+    },
+    {
+     "x": -155.9,
+     "y": 71.7
+    },
+    {
+     "x": -224.5,
+     "y": 78.1
+    },
+    {
+     "x": -247.5,
+     "y": 100.0
+    },
+    {
+     "x": -217.1,
+     "y": 219.6
+    },
+    {
+     "x": -187.7,
+     "y": 227.5
+    },
+    {
+     "x": -145.9,
+     "y": 234.4
+    },
+    {
+     "x": -78.7,
+     "y": 230.7
+    },
+    {
+     "x": -46.7,
+     "y": 226.9
+    },
+    {
+     "x": -14.6,
+     "y": 207.6
+    },
+    {
+     "x": 15.1,
+     "y": 167.4
+    },
+    {
+     "x": 40.8,
+     "y": 158.1
+    },
+    {
+     "x": 61.5,
+     "y": 162.7
+    },
+    {
+     "x": 94.6,
+     "y": 184.8
+    },
+    {
+     "x": 117.6,
+     "y": 188.9
+    },
+    {
+     "x": 180.4,
+     "y": 175.4
+    },
+    {
+     "x": 236.5,
+     "y": 160.2
+    },
+    {
+     "x": 292.1,
+     "y": 143.4
+    },
+    {
+     "x": 318.4,
+     "y": 130.8
+    },
+    {
+     "x": 312.9,
+     "y": 78.6
+    },
+    {
+     "x": 292.8,
+     "y": 44.4
+    },
+    {
+     "x": 293.5,
+     "y": 4.1
+    },
+    {
+     "x": 299.3,
+     "y": -41.9
+    }
+   ]
+  }
+ ],
+ "notes": "Dive area at the Schurinkshof steiger on the south side of Bussloo: a guide line joins the bandenrif, the bouwsteiger (6.5 m), the two buses, the little boat wreck, platforms, the onderwaterhuis, the Kees Knol monument and the car at 10.5 m, on the OpenStreetMap shoreline; positions and the 5 and 10 m contours are approximate. The site point sits in a car park about 900 m south-east of the steiger.",
+ "origin": {
+  "lat": 52.201321,
+  "lon": 6.11773
+ },
+ "underlay": null,
+ "id": "nld-bussloo-1",
+ "site_id": "nld-bussloo",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T19:31:35.935744Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Loswal",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "g-22",
+   "x": 327.5,
+   "y": 41.6,
+   "type": "buoy",
+   "label": "G 22",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "122",
+   "x": 88.3,
+   "y": 4.8,
+   "type": "buoy",
+   "label": "122",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "steiger",
+   "x": -2.0,
+   "y": 5.0,
+   "type": "entry",
+   "label": "Steiger en trap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "adriaan-oudsweg",
+   "x": -41.2,
+   "y": -195.6,
+   "type": "entry",
+   "label": "Loswal – Adriaan Oudsweg",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "loswal",
+   "x": -12.0,
+   "y": 10.0,
+   "type": "poi",
+   "label": "Resten oude loswal",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "oesterbanken",
+   "x": 45.0,
+   "y": 0.0,
+   "type": "poi",
+   "label": "Oesterbanken en wiervelden",
+   "depth": 2.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "dijkval-noord",
+   "x": -12.0,
+   "y": -45.0,
+   "type": "poi",
+   "label": "Dijkval, begroeide stenen",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "dijkval-zuid",
+   "x": 12.0,
+   "y": 55.0,
+   "type": "poi",
+   "label": "Dijkval, begroeide stenen",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vaargeul",
+   "x": 110.0,
+   "y": 60.0,
+   "type": "hazard",
+   "label": "Vaargeul",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "shoreline-grevelingenmeer-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 26.0,
+     "y": 180.0
+    },
+    {
+     "x": 24.8,
+     "y": 170.7
+    },
+    {
+     "x": -11.0,
+     "y": 32.1
+    },
+    {
+     "x": -6.2,
+     "y": 22.5
+    },
+    {
+     "x": -15.0,
+     "y": -9.5
+    },
+    {
+     "x": -20.9,
+     "y": -11.7
+    },
+    {
+     "x": -29.6,
+     "y": -47.7
+    },
+    {
+     "x": -38.5,
+     "y": -91.1
+    },
+    {
+     "x": -62.0,
+     "y": -240.0
+    }
+   ]
+  }
+ ],
+ "notes": "Shore dive at the old unloading quay (loswal) at Dreischor: entry beside the swimmers' steiger, a long shallow flat at about 2 m with oyster beds and weed, old dike stones left and right of the steiger, and the fairway beyond. The bottom drops to 15 m and rises again to 8 m further out, at an unknown distance, so no contours are drawn; the shore, the buoys and the second tagged entry are from OpenStreetMap. Positions are approximate and the map is sparse.",
+ "origin": {
+  "lat": 51.695343,
+  "lon": 4.012187
+ },
+ "underlay": null,
+ "id": "nld-loswal-1",
+ "site_id": "nld-loswal",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:44:58.723820Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

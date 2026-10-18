@@ -1,0 +1,383 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Giuseppe Dezza (TA35)",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "stern",
+   "x": 12.5,
+   "y": 34.3,
+   "type": "object",
+   "label": "Rudder; propellers in the mud",
+   "depth": 34.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "dc-racks",
+   "x": 11.5,
+   "y": 31.6,
+   "type": "object",
+   "label": "Depth-charge racks",
+   "depth": 31.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-gun",
+   "x": 9.5,
+   "y": 26.1,
+   "type": "object",
+   "label": "Aft 10.2 cm gun",
+   "depth": 30.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy",
+   "x": 15.1,
+   "y": 24.0,
+   "type": "buoy",
+   "label": "Mooring line to the aft gun",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "dc-throwers",
+   "x": 11.4,
+   "y": 20.7,
+   "type": "object",
+   "label": "Depth-charge throwers, both sides",
+   "depth": 31.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "flak",
+   "x": 6.5,
+   "y": 17.8,
+   "type": "object",
+   "label": "20 mm quadruple flak",
+   "depth": 30.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "torpedo-tube",
+   "x": 0.6,
+   "y": 12.2,
+   "type": "object",
+   "label": "Torpedo tube, fallen off its mount",
+   "depth": 32.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boiler",
+   "x": -0.7,
+   "y": -2.1,
+   "type": "object",
+   "label": "Break: boiler and engine room",
+   "depth": 33.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bridge-break",
+   "x": -26.4,
+   "y": -72.7,
+   "type": "object",
+   "label": "Break just aft of the bridge",
+   "depth": 33.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fwd-gun",
+   "x": -32.4,
+   "y": -89.1,
+   "type": "object",
+   "label": "Forward 10.2 cm gun",
+   "depth": 32.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": -36.1,
+   "y": -99.4,
+   "type": "object",
+   "label": "Bow, lying on its port side",
+   "depth": 33.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "stern-section",
+   "kind": "wreck",
+   "label": "Stern section, upright",
+   "depth": 34.0,
+   "points": [
+    {
+     "x": 15.1,
+     "y": 33.4
+    },
+    {
+     "x": 14.6,
+     "y": 29.9
+    },
+    {
+     "x": 13.6,
+     "y": 26.6
+    },
+    {
+     "x": 12.4,
+     "y": 23.4
+    },
+    {
+     "x": 11.3,
+     "y": 20.2
+    },
+    {
+     "x": 10.1,
+     "y": 17.0
+    },
+    {
+     "x": 8.9,
+     "y": 13.8
+    },
+    {
+     "x": 7.8,
+     "y": 10.6
+    },
+    {
+     "x": 6.6,
+     "y": 7.4
+    },
+    {
+     "x": 5.4,
+     "y": 4.2
+    },
+    {
+     "x": 4.3,
+     "y": 1.0
+    },
+    {
+     "x": 3.1,
+     "y": -2.2
+    },
+    {
+     "x": 1.9,
+     "y": -5.4
+    },
+    {
+     "x": -4.9,
+     "y": -2.9
+    },
+    {
+     "x": -3.8,
+     "y": 0.3
+    },
+    {
+     "x": -2.6,
+     "y": 3.5
+    },
+    {
+     "x": -1.4,
+     "y": 6.7
+    },
+    {
+     "x": -0.3,
+     "y": 9.9
+    },
+    {
+     "x": 0.9,
+     "y": 13.1
+    },
+    {
+     "x": 2.1,
+     "y": 16.3
+    },
+    {
+     "x": 3.2,
+     "y": 19.5
+    },
+    {
+     "x": 4.4,
+     "y": 22.7
+    },
+    {
+     "x": 5.6,
+     "y": 25.9
+    },
+    {
+     "x": 6.7,
+     "y": 29.1
+    },
+    {
+     "x": 8.1,
+     "y": 32.3
+    },
+    {
+     "x": 9.9,
+     "y": 35.2
+    }
+   ]
+  },
+  {
+   "id": "bow-section",
+   "kind": "wreck",
+   "label": "Bow section, on its port side",
+   "depth": 34.0,
+   "points": [
+    {
+     "x": -23.0,
+     "y": -73.9
+    },
+    {
+     "x": -23.8,
+     "y": -76.2
+    },
+    {
+     "x": -24.6,
+     "y": -78.5
+    },
+    {
+     "x": -25.5,
+     "y": -80.8
+    },
+    {
+     "x": -26.3,
+     "y": -83.1
+    },
+    {
+     "x": -27.1,
+     "y": -85.3
+    },
+    {
+     "x": -28.0,
+     "y": -87.6
+    },
+    {
+     "x": -29.1,
+     "y": -89.8
+    },
+    {
+     "x": -30.4,
+     "y": -91.9
+    },
+    {
+     "x": -31.6,
+     "y": -94.1
+    },
+    {
+     "x": -32.9,
+     "y": -96.2
+    },
+    {
+     "x": -34.4,
+     "y": -98.2
+    },
+    {
+     "x": -36.4,
+     "y": -100.1
+    },
+    {
+     "x": -36.7,
+     "y": -97.4
+    },
+    {
+     "x": -36.5,
+     "y": -94.9
+    },
+    {
+     "x": -36.1,
+     "y": -92.4
+    },
+    {
+     "x": -35.7,
+     "y": -90.0
+    },
+    {
+     "x": -35.3,
+     "y": -87.5
+    },
+    {
+     "x": -34.8,
+     "y": -85.1
+    },
+    {
+     "x": -34.0,
+     "y": -82.8
+    },
+    {
+     "x": -33.2,
+     "y": -80.6
+    },
+    {
+     "x": -32.3,
+     "y": -78.3
+    },
+    {
+     "x": -31.5,
+     "y": -76.0
+    },
+    {
+     "x": -30.7,
+     "y": -73.7
+    },
+    {
+     "x": -29.8,
+     "y": -71.4
+    }
+   ]
+  }
+ ],
+ "lines": [],
+ "notes": "The torpedo boat TA35, ex Giuseppe Dezza (73 x 7.3 m), broken in two by a mine in 1944: the larger stern section upright and the bow section on its port side, about 70 m apart on a flat silty bottom at 34 m (published gaps range from 50 to 100 m). Position 44 58.599 N 13 40.732 E from reiseinfo-kroatien.com, in the Fazana channel between Rovinj and Brijuni, drawn at the stern section; features from Diving Center Shark (buoy on the aft gun, flak, depth-charge gear, fallen torpedo tube, boiler at the break), Caretta Diving and dive3d.eu (two 10.2 cm guns and two quadruple 20 mm mounts, one of which has toppled; which one is not published). No heading is published: both halves are drawn on one NNW axis and the positions along the hull are approximate.",
+ "origin": {
+  "lat": 44.97665,
+  "lon": 13.678867
+ },
+ "underlay": null,
+ "id": "hrv-giuseppe-dezza-ta35-1",
+ "site_id": "hrv-giuseppe-dezza-ta35",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:12:07.203764Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

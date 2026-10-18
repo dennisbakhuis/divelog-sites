@@ -1,0 +1,119 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "El Mina",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "wreck",
+   "x": 19.0,
+   "y": 12.0,
+   "type": "object",
+   "label": "El Mina, 58 m, on her port side",
+   "depth": 30.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": -0.3,
+   "y": -7.3,
+   "type": "poi",
+   "label": "Bow, anchor chain on the seabed",
+   "depth": 26.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stern",
+   "x": 38.3,
+   "y": 31.3,
+   "type": "poi",
+   "label": "Stern, propellers and rudders",
+   "depth": 32.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "blast-hole",
+   "x": 16.9,
+   "y": 9.9,
+   "type": "poi",
+   "label": "Bomb hole",
+   "depth": 19.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring",
+   "x": 41.6,
+   "y": 34.6,
+   "type": "buoy",
+   "label": "Mooring (on the stern)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "hull",
+   "kind": "wreck",
+   "label": "",
+   "depth": 30.0,
+   "points": [
+    {
+     "x": -1.5,
+     "y": -8.5
+    },
+    {
+     "x": 7.7,
+     "y": -5.4
+    },
+    {
+     "x": 42.2,
+     "y": 29.8
+    },
+    {
+     "x": 36.8,
+     "y": 35.2
+    },
+    {
+     "x": 1.6,
+     "y": 0.7
+    }
+   ]
+  }
+ ],
+ "lines": [],
+ "notes": "Placeholder site, about 450 m east of the Hurghada harbour breakwater: the name 'Hurghada Wave' is most likely a boat, and the site is set on the El Mina (El Minya) wreck off Hurghada harbour. The map shows the 58 x 8.5 m T-43 minesweeper lying on her port side, bow at about 26 m, stern at 32 m, the bomb hole at 19 m and the mooring on the stern. Position, size and depths from the Red Sea Wreck Project (27°13.543'N 33°50.861'E); the NW-SE orientation from aquariusredsea.com, with the bow assumed to point north-west; the Hassabella trawler a few minutes' swim away is left off because its bearing is unknown. Positions are approximate.",
+ "origin": {
+  "lat": 27.22583,
+  "lon": 33.84749
+ },
+ "underlay": null,
+ "id": "egy-hurghada-wave-1",
+ "site_id": "egy-hurghada-wave",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:21:18.469559Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

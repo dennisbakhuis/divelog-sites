@@ -1,0 +1,604 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Umm Gamar",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mooring",
+   "x": 55.1,
+   "y": 299.4,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "light",
+   "x": 50.6,
+   "y": -145.8,
+   "type": "object",
+   "label": "Light",
+   "depth": null,
+   "object_kind": "lighthouse",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-1",
+   "x": 128.0,
+   "y": 372.0,
+   "type": "object",
+   "label": "Three small ergs, glassfish",
+   "depth": 15.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-2",
+   "x": 150.0,
+   "y": 350.0,
+   "type": "object",
+   "label": "",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-3",
+   "x": 118.0,
+   "y": 400.0,
+   "type": "object",
+   "label": "",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-1",
+   "x": 150.0,
+   "y": 60.0,
+   "type": "object",
+   "label": "Pinnacle with chimneys",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-2",
+   "x": 165.0,
+   "y": 30.0,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-3",
+   "x": 145.0,
+   "y": 5.0,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "caves-east",
+   "x": 140.0,
+   "y": -330.0,
+   "type": "poi",
+   "label": "Caves in the east wall",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "caves-west",
+   "x": -215.0,
+   "y": -330.0,
+   "type": "poi",
+   "label": "Caves in the west wall",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "garden-north",
+   "x": 0.0,
+   "y": -1420.0,
+   "type": "poi",
+   "label": "Coral garden (advanced)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "subreefs",
+   "x": -170.0,
+   "y": 330.0,
+   "type": "poi",
+   "label": "Shallow sub-reefs",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 60.0,
+   "y": -1500.0,
+   "type": "hazard",
+   "label": "Current, deep water",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-top",
+   "kind": "shallows",
+   "label": "Reef top",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 53.2,
+     "y": -1350.7
+    },
+    {
+     "x": 77.9,
+     "y": -1339.4
+    },
+    {
+     "x": 114.0,
+     "y": -1294.1
+    },
+    {
+     "x": 142.4,
+     "y": -1231.9
+    },
+    {
+     "x": 159.5,
+     "y": -1118.8
+    },
+    {
+     "x": 159.5,
+     "y": -1013.2
+    },
+    {
+     "x": 155.7,
+     "y": -911.4
+    },
+    {
+     "x": 133.0,
+     "y": -822.8
+    },
+    {
+     "x": 70.3,
+     "y": -666.4
+    },
+    {
+     "x": 56.1,
+     "y": -658.8
+    },
+    {
+     "x": 61.8,
+     "y": -590.9
+    },
+    {
+     "x": 52.3,
+     "y": -580.6
+    },
+    {
+     "x": 82.6,
+     "y": -548.5
+    },
+    {
+     "x": 52.3,
+     "y": -376.0
+    },
+    {
+     "x": 59.9,
+     "y": -304.4
+    },
+    {
+     "x": 88.3,
+     "y": -221.4
+    },
+    {
+     "x": 76.0,
+     "y": -131.8
+    },
+    {
+     "x": 88.3,
+     "y": -97.0
+    },
+    {
+     "x": 69.4,
+     "y": -49.8
+    },
+    {
+     "x": 56.1,
+     "y": 76.5
+    },
+    {
+     "x": 84.5,
+     "y": 206.6
+    },
+    {
+     "x": 84.5,
+     "y": 242.4
+    },
+    {
+     "x": 66.5,
+     "y": 271.6
+    },
+    {
+     "x": 20.0,
+     "y": 289.5
+    },
+    {
+     "x": -39.8,
+     "y": 276.3
+    },
+    {
+     "x": -76.8,
+     "y": 237.7
+    },
+    {
+     "x": -113.8,
+     "y": 179.2
+    },
+    {
+     "x": -139.4,
+     "y": 108.5
+    },
+    {
+     "x": -151.8,
+     "y": 54.8
+    },
+    {
+     "x": -155.6,
+     "y": -75.3
+    },
+    {
+     "x": -175.5,
+     "y": -225.2
+    },
+    {
+     "x": -199.2,
+     "y": -294.9
+    },
+    {
+     "x": -285.6,
+     "y": -725.7
+    },
+    {
+     "x": -279.9,
+     "y": -813.4
+    },
+    {
+     "x": -239.1,
+     "y": -1032.1
+    },
+    {
+     "x": -158.4,
+     "y": -1232.9
+    },
+    {
+     "x": -114.8,
+     "y": -1279.1
+    },
+    {
+     "x": -19.9,
+     "y": -1338.5
+    }
+   ]
+  },
+  {
+   "id": "plateau",
+   "kind": "coral",
+   "label": "South plateau 14-24 m",
+   "depth": 18.0,
+   "points": [
+    {
+     "x": -110.0,
+     "y": 300.0
+    },
+    {
+     "x": 20.0,
+     "y": 305.0
+    },
+    {
+     "x": 120.0,
+     "y": 290.0
+    },
+    {
+     "x": 175.0,
+     "y": 320.0
+    },
+    {
+     "x": 185.0,
+     "y": 430.0
+    },
+    {
+     "x": 120.0,
+     "y": 470.0
+    },
+    {
+     "x": -20.0,
+     "y": 470.0
+    },
+    {
+     "x": -120.0,
+     "y": 430.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "island",
+   "kind": "shoreline",
+   "label": "Umm Gamar Island",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 28.3,
+     "y": 209.4
+    },
+    {
+     "x": 29.7,
+     "y": 204.0
+    },
+    {
+     "x": 13.1,
+     "y": 198.8
+    },
+    {
+     "x": 22.6,
+     "y": 155.2
+    },
+    {
+     "x": 8.0,
+     "y": 128.8
+    },
+    {
+     "x": 17.3,
+     "y": 113.1
+    },
+    {
+     "x": 7.8,
+     "y": 100.7
+    },
+    {
+     "x": 17.1,
+     "y": 91.4
+    },
+    {
+     "x": 65.6,
+     "y": -99.6
+    },
+    {
+     "x": 68.5,
+     "y": -182.4
+    },
+    {
+     "x": 76.2,
+     "y": -224.0
+    },
+    {
+     "x": 66.6,
+     "y": -243.2
+    },
+    {
+     "x": 45.6,
+     "y": -234.3
+    },
+    {
+     "x": 24.1,
+     "y": -204.9
+    },
+    {
+     "x": -17.2,
+     "y": -100.0
+    },
+    {
+     "x": -52.0,
+     "y": 24.2
+    },
+    {
+     "x": -46.8,
+     "y": 125.0
+    },
+    {
+     "x": -32.3,
+     "y": 166.4
+    },
+    {
+     "x": -10.6,
+     "y": 202.3
+    },
+    {
+     "x": 9.7,
+     "y": 219.2
+    }
+   ]
+  },
+  {
+   "id": "wall-east",
+   "kind": "wall",
+   "label": "East wall, 35 m+",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 185.0,
+     "y": 440.0
+    },
+    {
+     "x": 175.0,
+     "y": 280.0
+    },
+    {
+     "x": 125.0,
+     "y": 80.0
+    },
+    {
+     "x": 135.0,
+     "y": -120.0
+    },
+    {
+     "x": 115.0,
+     "y": -370.0
+    },
+    {
+     "x": 110.0,
+     "y": -600.0
+    },
+    {
+     "x": 190.0,
+     "y": -830.0
+    },
+    {
+     "x": 200.0,
+     "y": -1030.0
+    },
+    {
+     "x": 180.0,
+     "y": -1250.0
+    },
+    {
+     "x": 100.0,
+     "y": -1390.0
+    }
+   ]
+  },
+  {
+   "id": "wall-west",
+   "kind": "wall",
+   "label": "West wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -120.0,
+     "y": 440.0
+    },
+    {
+     "x": -185.0,
+     "y": 120.0
+    },
+    {
+     "x": -225.0,
+     "y": -230.0
+    },
+    {
+     "x": -330.0,
+     "y": -730.0
+    },
+    {
+     "x": -280.0,
+     "y": -1040.0
+    },
+    {
+     "x": -190.0,
+     "y": -1270.0
+    }
+   ]
+  },
+  {
+   "id": "drift",
+   "kind": "path",
+   "label": "Usual dive",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 55.0,
+     "y": 305.0
+    },
+    {
+     "x": 160.0,
+     "y": 310.0
+    },
+    {
+     "x": 160.0,
+     "y": 200.0
+    },
+    {
+     "x": 150.0,
+     "y": 110.0
+    },
+    {
+     "x": 170.0,
+     "y": 60.0
+    },
+    {
+     "x": 190.0,
+     "y": 20.0
+    },
+    {
+     "x": 205.0,
+     "y": 120.0
+    },
+    {
+     "x": 200.0,
+     "y": 300.0
+    },
+    {
+     "x": 165.0,
+     "y": 360.0
+    }
+   ]
+  }
+ ],
+ "notes": "Umm Gamar reef with its crescent islet, the moorings on the south plateau (14-24 m) with the three small glassfish ergs on its eastern corner, the usual dive east to the drop-off and north along the wall to the three chimney pinnacles and back on the current, caves in the east and west walls and the coral garden at the northern tip. Reef, islet, light and mooring come from OpenStreetMap; the features and route from dive-centre site descriptions (divers-guide.com, redseacreatures.com), placed by description, so the plateau extent and the erg and pinnacle positions are approximate. Reef data © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 27.35559,
+  "lon": 33.90788
+ },
+ "underlay": null,
+ "id": "egy-umm-gamar-1",
+ "site_id": "egy-umm-gamar",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:13:42.983837Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

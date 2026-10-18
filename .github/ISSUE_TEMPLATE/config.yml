@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pull requests
+    url: https://github.com/dennisbakhuis/divelog-sites/blob/main/CONTRIBUTING.md
+    about: To change the files yourself, open a pull request; CONTRIBUTING.md has the rules.

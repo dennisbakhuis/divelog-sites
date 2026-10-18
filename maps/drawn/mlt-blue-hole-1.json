@@ -1,0 +1,701 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Blue Hole, Dwejra",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": 34.0,
+   "y": -44.0,
+   "type": "entry",
+   "label": "Entry (steps)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "blue-hole",
+   "x": 22.0,
+   "y": -51.0,
+   "type": "poi",
+   "label": "Blue Hole (pool)",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "arch",
+   "x": 11.0,
+   "y": -55.0,
+   "type": "poi",
+   "label": "Arch",
+   "depth": 8.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "hole-cave",
+   "x": 30.0,
+   "y": -57.0,
+   "type": "poi",
+   "label": "Cave",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "azure-window",
+   "x": 1.0,
+   "y": -95.0,
+   "type": "poi",
+   "label": "Azure Window (fell 8 Mar 2017)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "chimney",
+   "x": -104.0,
+   "y": -45.0,
+   "type": "poi",
+   "label": "Chimney up to 6 m",
+   "depth": 26.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-cave",
+   "x": -36.0,
+   "y": 22.0,
+   "type": "poi",
+   "label": "Coral Cave, floor 30 m",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rogers-cave",
+   "x": -18.0,
+   "y": 140.0,
+   "type": "poi",
+   "label": "Rogers Cave",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "rock-shelf",
+   "kind": "shallows",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 25.1,
+     "y": -31.1
+    },
+    {
+     "x": 12.1,
+     "y": -27.2
+    },
+    {
+     "x": 5.4,
+     "y": -19.4
+    },
+    {
+     "x": 2.7,
+     "y": -14.3
+    },
+    {
+     "x": -7.5,
+     "y": -18.3
+    },
+    {
+     "x": -37.8,
+     "y": -10.1
+    },
+    {
+     "x": -36.3,
+     "y": -26.9
+    },
+    {
+     "x": -35.2,
+     "y": -42.5
+    },
+    {
+     "x": -16.3,
+     "y": -49.3
+    },
+    {
+     "x": 5.3,
+     "y": -53.4
+    },
+    {
+     "x": 15.4,
+     "y": -61.4
+    },
+    {
+     "x": 25.5,
+     "y": -64.6
+    },
+    {
+     "x": 30.2,
+     "y": -62.1
+    },
+    {
+     "x": 37.8,
+     "y": -61.2
+    },
+    {
+     "x": 29.1,
+     "y": -49.3
+    },
+    {
+     "x": 29.1,
+     "y": -43.8
+    }
+   ]
+  },
+  {
+   "id": "coral-gardens",
+   "kind": "coral",
+   "label": "Coral Gardens 5–10 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -40.0,
+     "y": -52.0
+    },
+    {
+     "x": -70.0,
+     "y": -80.0
+    },
+    {
+     "x": -98.0,
+     "y": -70.0
+    },
+    {
+     "x": -108.0,
+     "y": -40.0
+    },
+    {
+     "x": -100.0,
+     "y": -12.0
+    },
+    {
+     "x": -70.0,
+     "y": -2.0
+    },
+    {
+     "x": -42.0,
+     "y": -12.0
+    }
+   ]
+  },
+  {
+   "id": "azure-reef",
+   "kind": "other",
+   "label": "Azure Reef (arch rubble)",
+   "depth": null,
+   "points": [
+    {
+     "x": 4.0,
+     "y": -80.0
+    },
+    {
+     "x": -20.0,
+     "y": -76.0
+    },
+    {
+     "x": -58.0,
+     "y": -92.0
+    },
+    {
+     "x": -78.0,
+     "y": -125.0
+    },
+    {
+     "x": -66.0,
+     "y": -160.0
+    },
+    {
+     "x": -30.0,
+     "y": -172.0
+    },
+    {
+     "x": 2.0,
+     "y": -160.0
+    },
+    {
+     "x": -4.0,
+     "y": -132.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shoreline-23563616-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 55.6,
+     "y": -240.0
+    },
+    {
+     "x": 51.5,
+     "y": -231.3
+    },
+    {
+     "x": 53.3,
+     "y": -195.0
+    },
+    {
+     "x": 51.6,
+     "y": -187.2
+    },
+    {
+     "x": 39.3,
+     "y": -178.5
+    },
+    {
+     "x": 24.1,
+     "y": -174.9
+    },
+    {
+     "x": 7.8,
+     "y": -162.5
+    },
+    {
+     "x": 4.6,
+     "y": -134.4
+    },
+    {
+     "x": 13.3,
+     "y": -106.2
+    },
+    {
+     "x": 19.1,
+     "y": -98.2
+    },
+    {
+     "x": 26.8,
+     "y": -91.6
+    },
+    {
+     "x": 30.2,
+     "y": -62.1
+    },
+    {
+     "x": 25.5,
+     "y": -64.6
+    },
+    {
+     "x": 15.4,
+     "y": -61.4
+    },
+    {
+     "x": 5.3,
+     "y": -53.4
+    },
+    {
+     "x": -16.3,
+     "y": -49.3
+    },
+    {
+     "x": -35.2,
+     "y": -42.5
+    },
+    {
+     "x": -27.6,
+     "y": -39.9
+    },
+    {
+     "x": -4.7,
+     "y": -43.5
+    },
+    {
+     "x": -2.2,
+     "y": -29.6
+    },
+    {
+     "x": -7.5,
+     "y": -18.3
+    },
+    {
+     "x": -37.8,
+     "y": -10.1
+    },
+    {
+     "x": -41.1,
+     "y": -1.3
+    },
+    {
+     "x": -37.2,
+     "y": 5.9
+    },
+    {
+     "x": -29.8,
+     "y": 13.6
+    },
+    {
+     "x": -31.5,
+     "y": 21.6
+    },
+    {
+     "x": -20.5,
+     "y": 48.9
+    },
+    {
+     "x": -11.8,
+     "y": 52.7
+    },
+    {
+     "x": -1.8,
+     "y": 49.4
+    },
+    {
+     "x": 11.8,
+     "y": 58.1
+    },
+    {
+     "x": 17.3,
+     "y": 77.4
+    },
+    {
+     "x": 12.8,
+     "y": 84.3
+    },
+    {
+     "x": 1.4,
+     "y": 88.8
+    },
+    {
+     "x": 2.2,
+     "y": 99.3
+    },
+    {
+     "x": 8.0,
+     "y": 124.7
+    },
+    {
+     "x": 14.6,
+     "y": 125.7
+    },
+    {
+     "x": 18.0,
+     "y": 136.4
+    },
+    {
+     "x": 37.7,
+     "y": 142.6
+    },
+    {
+     "x": 50.9,
+     "y": 163.1
+    },
+    {
+     "x": 66.5,
+     "y": 164.1
+    },
+    {
+     "x": 75.1,
+     "y": 168.0
+    },
+    {
+     "x": 82.9,
+     "y": 167.0
+    },
+    {
+     "x": 87.8,
+     "y": 173.4
+    },
+    {
+     "x": 96.0,
+     "y": 175.0
+    },
+    {
+     "x": 101.0,
+     "y": 170.9
+    },
+    {
+     "x": 113.5,
+     "y": 174.1
+    },
+    {
+     "x": 119.4,
+     "y": 180.0
+    }
+   ]
+  },
+  {
+   "id": "shoreline-1202754481-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 24.2,
+     "y": -62.0
+    },
+    {
+     "x": 16.8,
+     "y": -60.0
+    },
+    {
+     "x": 11.7,
+     "y": -53.2
+    },
+    {
+     "x": 21.9,
+     "y": -38.9
+    },
+    {
+     "x": 33.8,
+     "y": -57.5
+    }
+   ]
+  },
+  {
+   "id": "shoreline-23559952-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -38.7,
+     "y": 97.6
+    },
+    {
+     "x": -41.2,
+     "y": 102.8
+    },
+    {
+     "x": -41.9,
+     "y": 107.4
+    },
+    {
+     "x": -41.6,
+     "y": 110.7
+    },
+    {
+     "x": -39.8,
+     "y": 115.9
+    },
+    {
+     "x": -37.5,
+     "y": 119.1
+    },
+    {
+     "x": -35.0,
+     "y": 121.5
+    },
+    {
+     "x": -32.9,
+     "y": 122.7
+    },
+    {
+     "x": -28.2,
+     "y": 123.1
+    },
+    {
+     "x": -23.6,
+     "y": 122.0
+    },
+    {
+     "x": -21.7,
+     "y": 120.6
+    },
+    {
+     "x": -19.9,
+     "y": 118.2
+    },
+    {
+     "x": -18.7,
+     "y": 114.9
+    },
+    {
+     "x": -17.9,
+     "y": 111.5
+    },
+    {
+     "x": -17.1,
+     "y": 107.7
+    },
+    {
+     "x": -16.8,
+     "y": 103.0
+    },
+    {
+     "x": -18.0,
+     "y": 99.8
+    },
+    {
+     "x": -19.4,
+     "y": 97.9
+    },
+    {
+     "x": -23.2,
+     "y": 95.9
+    },
+    {
+     "x": -28.5,
+     "y": 93.8
+    },
+    {
+     "x": -32.4,
+     "y": 93.4
+    },
+    {
+     "x": -35.9,
+     "y": 94.8
+    }
+   ]
+  },
+  {
+   "id": "wall-west",
+   "kind": "wall",
+   "label": "Wall ~25 m, dropping past 50 m",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -40.0,
+     "y": -210.0
+    },
+    {
+     "x": -95.0,
+     "y": -150.0
+    },
+    {
+     "x": -118.0,
+     "y": -90.0
+    },
+    {
+     "x": -122.0,
+     "y": -30.0
+    },
+    {
+     "x": -108.0,
+     "y": 30.0
+    },
+    {
+     "x": -80.0,
+     "y": 90.0
+    },
+    {
+     "x": -70.0,
+     "y": 160.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 22.0,
+     "y": -51.0
+    },
+    {
+     "x": 11.0,
+     "y": -55.0
+    },
+    {
+     "x": -10.0,
+     "y": -62.0
+    },
+    {
+     "x": -40.0,
+     "y": -95.0
+    },
+    {
+     "x": -45.0,
+     "y": -135.0
+    },
+    {
+     "x": -20.0,
+     "y": -150.0
+    },
+    {
+     "x": 0.0,
+     "y": -120.0
+    },
+    {
+     "x": -35.0,
+     "y": -75.0
+    },
+    {
+     "x": -90.0,
+     "y": -60.0
+    },
+    {
+     "x": -104.0,
+     "y": -45.0
+    },
+    {
+     "x": -80.0,
+     "y": -30.0
+    },
+    {
+     "x": -40.0,
+     "y": -45.0
+    },
+    {
+     "x": 11.0,
+     "y": -55.0
+    },
+    {
+     "x": 22.0,
+     "y": -51.0
+    }
+   ]
+  }
+ ],
+ "notes": "The Blue Hole at Dwejra with the arch, the Azure Window rubble (Azure Reef), Coral Gardens, the chimney and Coral Cave. Coastline, the hole and the Big Bear rock are from OpenStreetMap; feature positions are approximate, placed from the maltadives.com site coordinates, the Azure Window's published position and the St Andrew's Divers Cove (gozodive.com) and maltadives.com site descriptions. The wall line and the extent of Coral Gardens and the rubble field are estimates, not surveyed. The arch collapsed in March 2017.",
+ "origin": {
+  "lat": 36.0525,
+  "lon": 14.1885
+ },
+ "underlay": null,
+ "id": "mlt-blue-hole-1",
+ "site_id": "mlt-blue-hole",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:32:40.722372Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

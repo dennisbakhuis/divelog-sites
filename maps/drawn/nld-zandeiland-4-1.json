@@ -1,0 +1,1412 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Onderwaterpark Zandeiland 4",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "e1",
+   "x": -156.3,
+   "y": 86.5,
+   "type": "entry",
+   "label": "Instap 1",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "e2",
+   "x": -50.7,
+   "y": 6.8,
+   "type": "entry",
+   "label": "Instap 2",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "start-1",
+   "x": -182.4,
+   "y": 41.2,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "start-2",
+   "x": -65.2,
+   "y": -18.4,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l1",
+   "x": -183.7,
+   "y": 32.0,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l2",
+   "x": -189.0,
+   "y": 26.8,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l3",
+   "x": -193.5,
+   "y": 21.9,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "t-west",
+   "x": -191.6,
+   "y": 14.7,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l-sign",
+   "x": -204.0,
+   "y": 13.6,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l4",
+   "x": -180.3,
+   "y": 5.7,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l5",
+   "x": -166.3,
+   "y": -6.0,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l6",
+   "x": -149.7,
+   "y": -17.7,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l7",
+   "x": -132.9,
+   "y": -27.8,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l8",
+   "x": -110.7,
+   "y": -40.4,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "t-east",
+   "x": -86.0,
+   "y": -54.5,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "l-east",
+   "x": -53.0,
+   "y": -72.7,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r1",
+   "x": -74.9,
+   "y": -35.2,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r2",
+   "x": -96.0,
+   "y": -72.1,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r3",
+   "x": -105.1,
+   "y": -87.9,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-18",
+   "x": -106.1,
+   "y": -91.7,
+   "type": "object",
+   "label": "Platform",
+   "depth": 18.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-6",
+   "x": -89.5,
+   "y": -32.5,
+   "type": "object",
+   "label": "Platform",
+   "depth": 6.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bus",
+   "x": -133.7,
+   "y": -33.7,
+   "type": "object",
+   "label": "Bus",
+   "depth": 10.0,
+   "object_kind": "bus",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto",
+   "x": -156.9,
+   "y": -18.0,
+   "type": "object",
+   "label": "Auto",
+   "depth": 10.0,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "botter",
+   "x": -81.9,
+   "y": -68.0,
+   "type": "object",
+   "label": "Botter",
+   "depth": 10.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot",
+   "x": -182.3,
+   "y": -4.7,
+   "type": "object",
+   "label": "Boot",
+   "depth": 10.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "speedboot-14",
+   "x": -131.2,
+   "y": -52.1,
+   "type": "object",
+   "label": "Speedboot",
+   "depth": 14.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "speedboot-15",
+   "x": -142.2,
+   "y": -67.0,
+   "type": "object",
+   "label": "Speedboot",
+   "depth": 16.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "roeiboot-57",
+   "x": -124.9,
+   "y": -19.4,
+   "type": "object",
+   "label": "Roeiboot",
+   "depth": 5.7,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "roeiboot-1",
+   "x": -196.7,
+   "y": -0.8,
+   "type": "object",
+   "label": "Roeiboot",
+   "depth": 10.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "roeiboot-2",
+   "x": -188.5,
+   "y": 16.4,
+   "type": "object",
+   "label": "Roeiboot",
+   "depth": 8.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "roeiboot-3",
+   "x": -159.5,
+   "y": 1.8,
+   "type": "object",
+   "label": "Roeiboot",
+   "depth": 7.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "roeiboot-4",
+   "x": -50.0,
+   "y": -40.2,
+   "type": "object",
+   "label": "Roeiboot",
+   "depth": 5.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zeilboot",
+   "x": -196.9,
+   "y": 23.0,
+   "type": "object",
+   "label": "Zeilboot",
+   "depth": 7.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buis",
+   "x": -187.1,
+   "y": 5.1,
+   "type": "object",
+   "label": "Buis",
+   "depth": 9.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vuurtoren-1",
+   "x": -176.3,
+   "y": -2.9,
+   "type": "object",
+   "label": "Vuurtoren",
+   "depth": 9.0,
+   "object_kind": "lighthouse",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vuurtoren-2",
+   "x": -102.2,
+   "y": -53.6,
+   "type": "object",
+   "label": "Vuurtoren",
+   "depth": 10.0,
+   "object_kind": "lighthouse",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "borden",
+   "x": -198.8,
+   "y": 9.2,
+   "type": "object",
+   "label": "Verkeersborden",
+   "depth": 9.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fietsen",
+   "x": -124.5,
+   "y": -42.5,
+   "type": "object",
+   "label": "Fietsen",
+   "depth": 11.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fiets",
+   "x": -132.4,
+   "y": -17.8,
+   "type": "object",
+   "label": "Fiets",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "barbecue",
+   "x": -94.6,
+   "y": -60.6,
+   "type": "object",
+   "label": "Barbecue",
+   "depth": 8.8,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "banden",
+   "x": -70.5,
+   "y": -77.2,
+   "type": "object",
+   "label": "Banden",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstronk",
+   "x": -63.9,
+   "y": -74.8,
+   "type": "object",
+   "label": "Boomstronk",
+   "depth": 10.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wipkip-1",
+   "x": -87.5,
+   "y": -48.9,
+   "type": "object",
+   "label": "Wipkip",
+   "depth": 9.0,
+   "object_kind": "wipkip",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wipkip-2",
+   "x": -62.5,
+   "y": -51.1,
+   "type": "object",
+   "label": "Wipkip",
+   "depth": 7.0,
+   "object_kind": "wipkip",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wipkip-3",
+   "x": -56.1,
+   "y": -52.2,
+   "type": "object",
+   "label": "Wipkip",
+   "depth": 7.0,
+   "object_kind": "wipkip",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wip",
+   "x": -49.2,
+   "y": -50.9,
+   "type": "object",
+   "label": "Wip",
+   "depth": 6.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kerstbomen",
+   "x": -204.2,
+   "y": -29.0,
+   "type": "object",
+   "label": "Kerstbomen",
+   "depth": 15.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boom-1",
+   "x": -206.7,
+   "y": 7.6,
+   "type": "object",
+   "label": "Kerstboom",
+   "depth": 9.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boom-2",
+   "x": -193.7,
+   "y": 31.7,
+   "type": "object",
+   "label": "Kerstboom",
+   "depth": 6.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boom-3",
+   "x": -99.8,
+   "y": -42.7,
+   "type": "object",
+   "label": "Kerstboom",
+   "depth": 9.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-1",
+   "x": -209.4,
+   "y": -9.2,
+   "type": "object",
+   "label": "Boei",
+   "depth": 12.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-2",
+   "x": -112.8,
+   "y": -101.9,
+   "type": "object",
+   "label": "Boei",
+   "depth": 19.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kubus-1",
+   "x": -182.6,
+   "y": 45.5,
+   "type": "object",
+   "label": "Kubus",
+   "depth": 3.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kubus-2",
+   "x": -146.7,
+   "y": -25.8,
+   "type": "object",
+   "label": "Kubus",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lamp",
+   "x": -142.4,
+   "y": -19.9,
+   "type": "object",
+   "label": "Lantaarn",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vee",
+   "x": -85.0,
+   "y": -13.5,
+   "type": "object",
+   "label": "Vee",
+   "depth": 4.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-1",
+   "x": -148.0,
+   "y": -1.7,
+   "type": "object",
+   "label": "Ton",
+   "depth": 7.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-2",
+   "x": -134.5,
+   "y": 4.5,
+   "type": "object",
+   "label": "Ton",
+   "depth": 5.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-3",
+   "x": -123.7,
+   "y": -25.4,
+   "type": "object",
+   "label": "Ton",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-4",
+   "x": -111.7,
+   "y": -14.2,
+   "type": "object",
+   "label": "Ton",
+   "depth": 6.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-5",
+   "x": -88.6,
+   "y": -39.2,
+   "type": "object",
+   "label": "Ton",
+   "depth": 7.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-1",
+   "x": -231.2,
+   "y": -12.8,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-2",
+   "x": -194.0,
+   "y": -44.8,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-3",
+   "x": -154.5,
+   "y": -73.4,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-4",
+   "x": -124.9,
+   "y": -96.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-5",
+   "x": -98.6,
+   "y": -113.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-6",
+   "x": -202.8,
+   "y": 14.4,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-7",
+   "x": -186.4,
+   "y": 42.8,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-8",
+   "x": -170.4,
+   "y": 65.6,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-9",
+   "x": -76.6,
+   "y": -84.5,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-10",
+   "x": -53.0,
+   "y": -50.5,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boei-zone-11",
+   "x": -36.0,
+   "y": -30.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "parking",
+   "x": -42.9,
+   "y": 24.4,
+   "type": "poi",
+   "label": "Parkeerplaats",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "start-1",
+   "to": "l1",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l1",
+   "to": "l2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l2",
+   "to": "l3",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l3",
+   "to": "t-west",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-west",
+   "to": "l-sign",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-west",
+   "to": "l4",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l4",
+   "to": "l5",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l5",
+   "to": "l6",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l6",
+   "to": "l7",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l7",
+   "to": "l8",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "l8",
+   "to": "t-east",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-east",
+   "to": "l-east",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "start-2",
+   "to": "r1",
+   "distance": null,
+   "azimuth": 330.0,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "r1",
+   "to": "t-east",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "t-east",
+   "to": "r2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "r2",
+   "to": "r3",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "r3",
+   "to": "platform-18",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "e1",
+   "to": "start-1",
+   "distance": null,
+   "azimuth": 330.0,
+   "note": "330°",
+   "style": "route"
+  },
+  {
+   "from": "e2",
+   "to": "start-2",
+   "distance": null,
+   "azimuth": 330.0,
+   "note": "330°",
+   "style": "route"
+  }
+ ],
+ "areas": [],
+ "lines": [
+  {
+   "id": "diepte-3",
+   "kind": "depth",
+   "label": "",
+   "depth": 3.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -194.1,
+     "y": 46.3
+    },
+    {
+     "x": -167.9,
+     "y": 30.8
+    },
+    {
+     "x": -159.0,
+     "y": 31.0
+    },
+    {
+     "x": -147.5,
+     "y": 23.5
+    },
+    {
+     "x": -145.1,
+     "y": 17.0
+    },
+    {
+     "x": -134.6,
+     "y": 12.5
+    },
+    {
+     "x": -120.3,
+     "y": 3.7
+    },
+    {
+     "x": -112.9,
+     "y": 7.0
+    },
+    {
+     "x": -110.9,
+     "y": -1.2
+    },
+    {
+     "x": -98.4,
+     "y": -0.9
+    },
+    {
+     "x": -91.8,
+     "y": -4.7
+    },
+    {
+     "x": -72.3,
+     "y": -16.5
+    },
+    {
+     "x": -64.6,
+     "y": -21.4
+    },
+    {
+     "x": -54.8,
+     "y": -19.6
+    },
+    {
+     "x": -31.7,
+     "y": -37.3
+    }
+   ]
+  },
+  {
+   "id": "diepte-5",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -199.9,
+     "y": 36.1
+    },
+    {
+     "x": -181.5,
+     "y": 25.5
+    },
+    {
+     "x": -172.7,
+     "y": 31.5
+    },
+    {
+     "x": -165.3,
+     "y": 17.0
+    },
+    {
+     "x": -158.9,
+     "y": 9.9
+    },
+    {
+     "x": -144.1,
+     "y": 2.2
+    },
+    {
+     "x": -131.7,
+     "y": -3.8
+    },
+    {
+     "x": -123.5,
+     "y": -1.8
+    },
+    {
+     "x": -118.0,
+     "y": 0.2
+    },
+    {
+     "x": -116.4,
+     "y": -7.7
+    },
+    {
+     "x": -104.7,
+     "y": -5.7
+    },
+    {
+     "x": -102.5,
+     "y": -14.0
+    },
+    {
+     "x": -88.9,
+     "y": -14.8
+    },
+    {
+     "x": -79.7,
+     "y": -20.1
+    },
+    {
+     "x": -72.0,
+     "y": -28.1
+    },
+    {
+     "x": -70.2,
+     "y": -32.6
+    },
+    {
+     "x": -55.2,
+     "y": -32.5
+    },
+    {
+     "x": -33.2,
+     "y": -39.9
+    }
+   ]
+  },
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -212.4,
+     "y": 14.4
+    },
+    {
+     "x": -197.8,
+     "y": 3.3
+    },
+    {
+     "x": -183.0,
+     "y": -10.5
+    },
+    {
+     "x": -168.7,
+     "y": -16.1
+    },
+    {
+     "x": -154.3,
+     "y": -21.7
+    },
+    {
+     "x": -141.0,
+     "y": -32.1
+    },
+    {
+     "x": -131.2,
+     "y": -39.5
+    },
+    {
+     "x": -124.5,
+     "y": -46.0
+    },
+    {
+     "x": -114.7,
+     "y": -47.3
+    },
+    {
+     "x": -96.3,
+     "y": -57.9
+    },
+    {
+     "x": -93.9,
+     "y": -64.5
+    },
+    {
+     "x": -81.6,
+     "y": -62.9
+    },
+    {
+     "x": -53.0,
+     "y": -74.1
+    }
+   ]
+  },
+  {
+   "id": "diepte-15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -222.1,
+     "y": -2.3
+    },
+    {
+     "x": -198.7,
+     "y": -22.5
+    },
+    {
+     "x": -163.5,
+     "y": -43.7
+    },
+    {
+     "x": -135.5,
+     "y": -65.1
+    },
+    {
+     "x": -103.2,
+     "y": -83.7
+    },
+    {
+     "x": -73.5,
+     "y": -109.7
+    }
+   ]
+  },
+  {
+   "id": "pier-2",
+   "kind": "wall",
+   "label": "Steiger",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 58.2,
+     "y": -29.7
+    },
+    {
+     "x": 63.1,
+     "y": -22.7
+    }
+   ]
+  },
+  {
+   "id": "noordplas",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 77.9,
+     "y": -8.7
+    },
+    {
+     "x": 56.7,
+     "y": 9.2
+    },
+    {
+     "x": 49.8,
+     "y": -5.1
+    },
+    {
+     "x": 50.1,
+     "y": -12.2
+    },
+    {
+     "x": 53.6,
+     "y": -23.5
+    },
+    {
+     "x": 62.0,
+     "y": -34.7
+    }
+   ]
+  },
+  {
+   "id": "noordplas-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 80.7,
+     "y": -92.3
+    },
+    {
+     "x": -178.2,
+     "y": 103.0
+    },
+    {
+     "x": -241.7,
+     "y": 147.9
+    }
+   ]
+  },
+  {
+   "id": "noordplas-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -209.9,
+     "y": 169.0
+    },
+    {
+     "x": -118.2,
+     "y": 102.5
+    },
+    {
+     "x": 14.6,
+     "y": 11.2
+    },
+    {
+     "x": 23.3,
+     "y": 6.3
+    },
+    {
+     "x": 35.0,
+     "y": 3.9
+    },
+    {
+     "x": 43.9,
+     "y": 13.7
+    },
+    {
+     "x": -168.5,
+     "y": 166.5
+    }
+   ]
+  }
+ ],
+ "notes": "The two lines, the objects and their depths at Eiland 4; shoreline and piers from OpenStreetMap (© OpenStreetMap contributors, ODbL). The yellow zone buoys, placed from the PDOK aerial photos (2021 and current), sit in a row about 125 m off the quay over 170 m of shore, which matches De Meerkoeten's 'ca. 175 by 125 m' zone, and the lines run 330°. The line starts lie about 35–45 m off the quay beyond the shallow shelf; the entries are put where the 330° course meets the quay (the exact stairs are not known). All positions are approximate.",
+ "origin": {
+  "lat": 52.23467,
+  "lon": 4.96123
+ },
+ "underlay": null,
+ "id": "nld-zandeiland-4-1",
+ "site_id": "nld-zandeiland-4",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:33:09.092396Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

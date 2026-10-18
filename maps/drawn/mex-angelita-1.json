@@ -1,0 +1,445 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Angelita pit",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": 0.0,
+   "y": -13.5,
+   "type": "entry",
+   "label": "Stairs",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mound",
+   "x": 1.5,
+   "y": 0.5,
+   "type": "object",
+   "label": "Debris mound with dead trees",
+   "depth": 27.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bottom",
+   "x": 7.0,
+   "y": 7.0,
+   "type": "poi",
+   "label": "Bottom 56–60 m",
+   "depth": 58.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "h2s-cloud",
+   "kind": "depth",
+   "label": "Hydrogen sulphide cloud 27–30 m",
+   "depth": 30.0,
+   "points": [
+    {
+     "x": 13.0,
+     "y": 0.0
+    },
+    {
+     "x": 12.8,
+     "y": 2.3
+    },
+    {
+     "x": 12.2,
+     "y": 4.4
+    },
+    {
+     "x": 11.3,
+     "y": 6.5
+    },
+    {
+     "x": 10.0,
+     "y": 8.4
+    },
+    {
+     "x": 8.4,
+     "y": 10.0
+    },
+    {
+     "x": 6.5,
+     "y": 11.3
+    },
+    {
+     "x": 4.4,
+     "y": 12.2
+    },
+    {
+     "x": 2.3,
+     "y": 12.8
+    },
+    {
+     "x": 0.0,
+     "y": 13.0
+    },
+    {
+     "x": -2.3,
+     "y": 12.8
+    },
+    {
+     "x": -4.4,
+     "y": 12.2
+    },
+    {
+     "x": -6.5,
+     "y": 11.3
+    },
+    {
+     "x": -8.4,
+     "y": 10.0
+    },
+    {
+     "x": -10.0,
+     "y": 8.4
+    },
+    {
+     "x": -11.3,
+     "y": 6.5
+    },
+    {
+     "x": -12.2,
+     "y": 4.4
+    },
+    {
+     "x": -12.8,
+     "y": 2.3
+    },
+    {
+     "x": -13.0,
+     "y": 0.0
+    },
+    {
+     "x": -12.8,
+     "y": -2.3
+    },
+    {
+     "x": -12.2,
+     "y": -4.4
+    },
+    {
+     "x": -11.3,
+     "y": -6.5
+    },
+    {
+     "x": -10.0,
+     "y": -8.4
+    },
+    {
+     "x": -8.4,
+     "y": -10.0
+    },
+    {
+     "x": -6.5,
+     "y": -11.3
+    },
+    {
+     "x": -4.4,
+     "y": -12.2
+    },
+    {
+     "x": -2.3,
+     "y": -12.8
+    },
+    {
+     "x": -0.0,
+     "y": -13.0
+    },
+    {
+     "x": 2.3,
+     "y": -12.8
+    },
+    {
+     "x": 4.4,
+     "y": -12.2
+    },
+    {
+     "x": 6.5,
+     "y": -11.3
+    },
+    {
+     "x": 8.4,
+     "y": -10.0
+    },
+    {
+     "x": 10.0,
+     "y": -8.4
+    },
+    {
+     "x": 11.3,
+     "y": -6.5
+    },
+    {
+     "x": 12.2,
+     "y": -4.4
+    },
+    {
+     "x": 12.8,
+     "y": -2.3
+    }
+   ]
+  },
+  {
+   "id": "debris-mound",
+   "kind": "other",
+   "label": "",
+   "depth": 27.0,
+   "points": [
+    {
+     "x": 7.5,
+     "y": 0.5
+    },
+    {
+     "x": 7.0,
+     "y": 2.8
+    },
+    {
+     "x": 5.7,
+     "y": 4.7
+    },
+    {
+     "x": 3.8,
+     "y": 6.0
+    },
+    {
+     "x": 1.5,
+     "y": 6.5
+    },
+    {
+     "x": -0.8,
+     "y": 6.0
+    },
+    {
+     "x": -2.7,
+     "y": 4.7
+    },
+    {
+     "x": -4.0,
+     "y": 2.8
+    },
+    {
+     "x": -4.5,
+     "y": 0.5
+    },
+    {
+     "x": -4.0,
+     "y": -1.8
+    },
+    {
+     "x": -2.7,
+     "y": -3.7
+    },
+    {
+     "x": -0.8,
+     "y": -5.0
+    },
+    {
+     "x": 1.5,
+     "y": -5.5
+    },
+    {
+     "x": 3.8,
+     "y": -5.0
+    },
+    {
+     "x": 5.7,
+     "y": -3.7
+    },
+    {
+     "x": 7.0,
+     "y": -1.8
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "cenote",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 13.5,
+     "y": 0.0
+    },
+    {
+     "x": 13.3,
+     "y": 2.3
+    },
+    {
+     "x": 12.7,
+     "y": 4.6
+    },
+    {
+     "x": 11.7,
+     "y": 6.7
+    },
+    {
+     "x": 10.3,
+     "y": 8.7
+    },
+    {
+     "x": 8.7,
+     "y": 10.3
+    },
+    {
+     "x": 6.8,
+     "y": 11.7
+    },
+    {
+     "x": 4.6,
+     "y": 12.7
+    },
+    {
+     "x": 2.3,
+     "y": 13.3
+    },
+    {
+     "x": 0.0,
+     "y": 13.5
+    },
+    {
+     "x": -2.3,
+     "y": 13.3
+    },
+    {
+     "x": -4.6,
+     "y": 12.7
+    },
+    {
+     "x": -6.7,
+     "y": 11.7
+    },
+    {
+     "x": -8.7,
+     "y": 10.3
+    },
+    {
+     "x": -10.3,
+     "y": 8.7
+    },
+    {
+     "x": -11.7,
+     "y": 6.8
+    },
+    {
+     "x": -12.7,
+     "y": 4.6
+    },
+    {
+     "x": -13.3,
+     "y": 2.3
+    },
+    {
+     "x": -13.5,
+     "y": 0.0
+    },
+    {
+     "x": -13.3,
+     "y": -2.3
+    },
+    {
+     "x": -12.7,
+     "y": -4.6
+    },
+    {
+     "x": -11.7,
+     "y": -6.8
+    },
+    {
+     "x": -10.3,
+     "y": -8.7
+    },
+    {
+     "x": -8.7,
+     "y": -10.3
+    },
+    {
+     "x": -6.8,
+     "y": -11.7
+    },
+    {
+     "x": -4.6,
+     "y": -12.7
+    },
+    {
+     "x": -2.3,
+     "y": -13.3
+    },
+    {
+     "x": -0.0,
+     "y": -13.5
+    },
+    {
+     "x": 2.3,
+     "y": -13.3
+    },
+    {
+     "x": 4.6,
+     "y": -12.7
+    },
+    {
+     "x": 6.7,
+     "y": -11.7
+    },
+    {
+     "x": 8.7,
+     "y": -10.3
+    },
+    {
+     "x": 10.3,
+     "y": -8.7
+    },
+    {
+     "x": 11.7,
+     "y": -6.7
+    },
+    {
+     "x": 12.7,
+     "y": -4.6
+    },
+    {
+     "x": 13.3,
+     "y": -2.3
+    }
+   ]
+  }
+ ],
+ "notes": "Cenote Angelita is an open, round pit about 25–30 m across (cave-ha.com, Mexico Desconocido) and 56–60 m deep, with fresh water to about 30 m, a hydrogen sulphide cloud about 3 m thick at 27–30 m and salt water below, where the chamber widens under the vertical walls (first-hand observation). A mound of collapse debris with dead trees rises from the bottom to about 27 m near the middle and pokes through the cloud. OpenStreetMap has no outline, so the shoreline is a 27 m circle; the entry is by stairs to the water, placed on the north rim only because the access track arrives from the north, and every position is approximate.",
+ "origin": {
+  "lat": 20.1625,
+  "lon": -87.55403
+ },
+ "underlay": null,
+ "id": "mex-angelita-1",
+ "site_id": "mex-angelita",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:23:16.387897Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

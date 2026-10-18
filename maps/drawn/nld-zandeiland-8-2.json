@@ -1,0 +1,549 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Eiland 8, noordkant",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "klein-wilnis",
+   "x": 225.1,
+   "y": -163.0,
+   "type": "poi",
+   "label": "Klein Wilnis",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bootje",
+   "x": 181.9,
+   "y": -140.1,
+   "type": "object",
+   "label": "Bootje",
+   "depth": 14.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zeilboot",
+   "x": 235.8,
+   "y": -63.8,
+   "type": "object",
+   "label": "Zeilboot",
+   "depth": 7.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fietsen",
+   "x": 176.6,
+   "y": -87.5,
+   "type": "object",
+   "label": "Fietsen",
+   "depth": 7.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "starttoren",
+   "x": 316.9,
+   "y": -25.7,
+   "type": "poi",
+   "label": "Starttoren",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zeilhaven",
+   "x": 271.3,
+   "y": -0.8,
+   "type": "hazard",
+   "label": "Zeilhaven, zwemverbod",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "ondiepte-1",
+   "kind": "shallows",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 333.3,
+     "y": -66.8
+    },
+    {
+     "x": 334.0,
+     "y": -45.4
+    },
+    {
+     "x": 303.0,
+     "y": -46.7
+    },
+    {
+     "x": 284.9,
+     "y": -53.2
+    },
+    {
+     "x": 290.7,
+     "y": -59.3
+    },
+    {
+     "x": 311.8,
+     "y": -67.2
+    }
+   ]
+  },
+  {
+   "id": "ondiepte-2",
+   "kind": "shallows",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 233.8,
+     "y": -50.2
+    },
+    {
+     "x": 229.4,
+     "y": -41.7
+    },
+    {
+     "x": 210.5,
+     "y": -36.3
+    },
+    {
+     "x": 181.9,
+     "y": -37.7
+    },
+    {
+     "x": 162.5,
+     "y": -46.5
+    },
+    {
+     "x": 162.2,
+     "y": -56.0
+    },
+    {
+     "x": 200.5,
+     "y": -50.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "diepte-4",
+   "kind": "depth",
+   "label": "",
+   "depth": 4.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 333.7,
+     "y": -53.7
+    },
+    {
+     "x": 248.1,
+     "y": -52.4
+    },
+    {
+     "x": 162.4,
+     "y": -51.3
+    }
+   ]
+  },
+  {
+   "id": "diepte-6",
+   "kind": "depth",
+   "label": "",
+   "depth": 6.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 332.9,
+     "y": -76.8
+    },
+    {
+     "x": 261.5,
+     "y": -75.7
+    },
+    {
+     "x": 199.6,
+     "y": -76.4
+    },
+    {
+     "x": 161.4,
+     "y": -79.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 332.3,
+     "y": -95.5
+    },
+    {
+     "x": 260.9,
+     "y": -95.2
+    },
+    {
+     "x": 208.3,
+     "y": -100.5
+    },
+    {
+     "x": 160.3,
+     "y": -110.3
+    }
+   ]
+  },
+  {
+   "id": "diepte-14",
+   "kind": "depth",
+   "label": "",
+   "depth": 14.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 331.1,
+     "y": -130.3
+    },
+    {
+     "x": 259.6,
+     "y": -130.9
+    },
+    {
+     "x": 206.9,
+     "y": -140.9
+    },
+    {
+     "x": 158.7,
+     "y": -155.9
+    }
+   ]
+  },
+  {
+   "id": "veenwand",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 192.5,
+     "y": -107.6
+    },
+    {
+     "x": 179.4,
+     "y": -110.2
+    },
+    {
+     "x": 167.2,
+     "y": -118.1
+    },
+    {
+     "x": 159.9,
+     "y": -123.1
+    }
+   ]
+  },
+  {
+   "id": "noordplas",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 126.2,
+     "y": -8.7
+    },
+    {
+     "x": 171.7,
+     "y": 43.7
+    },
+    {
+     "x": 176.8,
+     "y": 54.3
+    },
+    {
+     "x": 178.8,
+     "y": 77.0
+    },
+    {
+     "x": 172.7,
+     "y": 105.4
+    },
+    {
+     "x": 159.6,
+     "y": 127.1
+    }
+   ]
+  },
+  {
+   "id": "noordplas-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 218.2,
+     "y": 122.3
+    },
+    {
+     "x": 232.5,
+     "y": 106.0
+    },
+    {
+     "x": 253.6,
+     "y": 73.7
+    },
+    {
+     "x": 264.5,
+     "y": 63.1
+    },
+    {
+     "x": 314.1,
+     "y": 42.2
+    },
+    {
+     "x": 324.1,
+     "y": 32.8
+    },
+    {
+     "x": 324.7,
+     "y": 25.3
+    },
+    {
+     "x": 321.2,
+     "y": 19.4
+    },
+    {
+     "x": 318.4,
+     "y": 18.8
+    },
+    {
+     "x": 248.3,
+     "y": 21.7
+    },
+    {
+     "x": 238.2,
+     "y": 20.2
+    },
+    {
+     "x": 221.9,
+     "y": 5.7
+    },
+    {
+     "x": 218.1,
+     "y": -2.1
+    },
+    {
+     "x": 227.5,
+     "y": -4.4
+    },
+    {
+     "x": 327.6,
+     "y": -5.9
+    },
+    {
+     "x": 342.6,
+     "y": -7.9
+    },
+    {
+     "x": 350.1,
+     "y": -11.0
+    },
+    {
+     "x": 354.5,
+     "y": -15.7
+    },
+    {
+     "x": 355.1,
+     "y": -22.9
+    },
+    {
+     "x": 347.2,
+     "y": -30.9
+    },
+    {
+     "x": 336.9,
+     "y": -33.7
+    },
+    {
+     "x": 212.6,
+     "y": -29.8
+    },
+    {
+     "x": 195.0,
+     "y": -31.4
+    },
+    {
+     "x": 160.9,
+     "y": -41.7
+    },
+    {
+     "x": 114.0,
+     "y": -76.9
+    },
+    {
+     "x": 67.9,
+     "y": -118.2
+    },
+    {
+     "x": 56.4,
+     "y": -134.9
+    },
+    {
+     "x": 39.8,
+     "y": -182.5
+    },
+    {
+     "x": 26.2,
+     "y": -199.6
+    },
+    {
+     "x": 15.2,
+     "y": -202.9
+    },
+    {
+     "x": 7.7,
+     "y": -200.7
+    },
+    {
+     "x": 3.7,
+     "y": -196.9
+    },
+    {
+     "x": 1.6,
+     "y": -186.0
+    },
+    {
+     "x": 48.1,
+     "y": -102.7
+    },
+    {
+     "x": 55.8,
+     "y": -91.0
+    },
+    {
+     "x": 126.2,
+     "y": -8.7
+    }
+   ]
+  },
+  {
+   "id": "noordplas-4",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -3.9,
+     "y": 149.2
+    },
+    {
+     "x": 31.8,
+     "y": 100.6
+    },
+    {
+     "x": 40.2,
+     "y": 94.0
+    },
+    {
+     "x": 41.4,
+     "y": 91.2
+    },
+    {
+     "x": 39.2,
+     "y": 87.8
+    },
+    {
+     "x": 31.4,
+     "y": 85.7
+    },
+    {
+     "x": -11.8,
+     "y": 145.8
+    }
+   ]
+  },
+  {
+   "id": "noordplas-7",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 108.0,
+     "y": 77.8
+    },
+    {
+     "x": 110.9,
+     "y": 77.4
+    },
+    {
+     "x": 133.5,
+     "y": 46.4
+    },
+    {
+     "x": 133.2,
+     "y": 43.9
+    },
+    {
+     "x": 130.1,
+     "y": 43.6
+    },
+    {
+     "x": 106.5,
+     "y": 76.5
+    }
+   ]
+  }
+ ],
+ "notes": "The north side of Eiland 8 on the OpenStreetMap island outline (© OpenStreetMap contributors, ODbL), with Klein Wilnis, the peat formations, at 16 m on the north side. The brown ridge is one of the peat walls and the shaded strips are shallows; the barge on the east side and the Snoekentuin on the west side are not drawn. Boat dive site; positions and depths are approximate.",
+ "origin": {
+  "lat": 52.24193,
+  "lon": 4.94654
+ },
+ "underlay": null,
+ "id": "nld-zandeiland-8-2",
+ "site_id": "nld-zandeiland-8",
+ "sort": 1,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:32:48.583372Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

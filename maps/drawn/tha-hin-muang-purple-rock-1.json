@@ -1,0 +1,468 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Hin Muang",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "top-8",
+   "x": -65.1,
+   "y": 2.1,
+   "type": "object",
+   "label": "Shallowest pinnacle",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p14a",
+   "x": -39.9,
+   "y": -11.3,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p16a",
+   "x": -42.8,
+   "y": 6.3,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p12",
+   "x": -16.8,
+   "y": 0.0,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p14b",
+   "x": 4.2,
+   "y": 2.5,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p16b",
+   "x": 26.0,
+   "y": -1.7,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p22a",
+   "x": 37.8,
+   "y": 7.6,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 22.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "saddle",
+   "x": 52.5,
+   "y": -1.7,
+   "type": "marker",
+   "label": "Saddle",
+   "depth": 26.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p22b",
+   "x": 68.5,
+   "y": -2.5,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 22.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p16c",
+   "x": 80.6,
+   "y": -1.7,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "channel",
+   "x": -29.4,
+   "y": -6.7,
+   "type": "poi",
+   "label": "Channel between the rocks",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-west",
+   "x": -41.2,
+   "y": -25.2,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-east",
+   "x": 60.1,
+   "y": -25.2,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "south-wall",
+   "x": 8.4,
+   "y": 28.6,
+   "type": "poi",
+   "label": "South wall, drops past 60 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "ridge",
+   "kind": "coral",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -98.7,
+     "y": 5.5
+    },
+    {
+     "x": -92.4,
+     "y": -5.0
+    },
+    {
+     "x": -79.8,
+     "y": -11.3
+    },
+    {
+     "x": -50.4,
+     "y": -15.5
+    },
+    {
+     "x": -8.4,
+     "y": -17.6
+    },
+    {
+     "x": 33.6,
+     "y": -18.5
+    },
+    {
+     "x": 75.6,
+     "y": -16.8
+    },
+    {
+     "x": 92.4,
+     "y": -11.3
+    },
+    {
+     "x": 98.7,
+     "y": -0.8
+    },
+    {
+     "x": 96.6,
+     "y": 9.7
+    },
+    {
+     "x": 84.0,
+     "y": 15.1
+    },
+    {
+     "x": 42.0,
+     "y": 16.0
+    },
+    {
+     "x": 0.0,
+     "y": 18.1
+    },
+    {
+     "x": -33.6,
+     "y": 18.1
+    },
+    {
+     "x": -67.2,
+     "y": 15.1
+    },
+    {
+     "x": -88.2,
+     "y": 11.8
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -100.8,
+     "y": 5.5
+    },
+    {
+     "x": -94.5,
+     "y": -7.1
+    },
+    {
+     "x": -75.6,
+     "y": -14.3
+    },
+    {
+     "x": -37.8,
+     "y": -17.6
+    },
+    {
+     "x": 12.6,
+     "y": -20.6
+    },
+    {
+     "x": 58.8,
+     "y": -19.7
+    },
+    {
+     "x": 92.4,
+     "y": -15.5
+    },
+    {
+     "x": 100.8,
+     "y": -5.0
+    },
+    {
+     "x": 101.6,
+     "y": 7.6
+    },
+    {
+     "x": 92.4,
+     "y": 16.0
+    },
+    {
+     "x": 50.4,
+     "y": 18.5
+    },
+    {
+     "x": 0.0,
+     "y": 20.2
+    },
+    {
+     "x": -42.0,
+     "y": 20.2
+    },
+    {
+     "x": -79.8,
+     "y": 16.8
+    },
+    {
+     "x": -96.6,
+     "y": 12.6
+    }
+   ]
+  },
+  {
+   "id": "c40",
+   "kind": "depth",
+   "label": "",
+   "depth": 40.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -107.1,
+     "y": 5.5
+    },
+    {
+     "x": -98.7,
+     "y": -11.3
+    },
+    {
+     "x": -75.6,
+     "y": -18.5
+    },
+    {
+     "x": -33.6,
+     "y": -22.7
+    },
+    {
+     "x": 16.8,
+     "y": -25.2
+    },
+    {
+     "x": 63.0,
+     "y": -23.9
+    },
+    {
+     "x": 96.6,
+     "y": -19.7
+    },
+    {
+     "x": 107.1,
+     "y": -5.0
+    },
+    {
+     "x": 107.1,
+     "y": 9.7
+    },
+    {
+     "x": 96.6,
+     "y": 19.3
+    },
+    {
+     "x": 58.8,
+     "y": 22.3
+    },
+    {
+     "x": 8.4,
+     "y": 24.4
+    },
+    {
+     "x": -37.8,
+     "y": 24.4
+    },
+    {
+     "x": -79.8,
+     "y": 21.0
+    },
+    {
+     "x": -102.9,
+     "y": 15.1
+    }
+   ]
+  },
+  {
+   "id": "c60",
+   "kind": "depth",
+   "label": "",
+   "depth": 60.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -100.8,
+     "y": 24.4
+    },
+    {
+     "x": -50.4,
+     "y": 28.6
+    },
+    {
+     "x": 12.6,
+     "y": 32.8
+    },
+    {
+     "x": 67.2,
+     "y": 27.7
+    },
+    {
+     "x": 105.0,
+     "y": 20.2
+    }
+   ]
+  },
+  {
+   "id": "wall-s",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -79.8,
+     "y": 16.8
+    },
+    {
+     "x": -37.8,
+     "y": 19.3
+    },
+    {
+     "x": 8.4,
+     "y": 19.3
+    },
+    {
+     "x": 50.4,
+     "y": 17.6
+    },
+    {
+     "x": 88.2,
+     "y": 15.1
+    }
+   ]
+  }
+ ],
+ "notes": "Hin Muang (Purple Rock), a completely submerged ridge about 200 m by 25 m (Phuket Dive Guide) with its top at 6-8 m, three main pinnacles and several smaller ones, and walls dropping past 60 m on the south side; the whole ridge is a manta cleaning station and the currents sweep along both sides. The site coordinates (an OSM reef node at 7.3674, 98.8700) sit 24 km north-east of the real site; the origin here is placed 630 m west of Hin Daeng (the OSM offset between the two reef nodes, applied to the Hin Daeng dive-site node at 7.1490, 98.8236). Positions are approximate.",
+ "origin": {
+  "lat": 7.14886,
+  "lon": 98.81788
+ },
+ "underlay": null,
+ "id": "tha-hin-muang-purple-rock-1",
+ "site_id": "tha-hin-muang-purple-rock",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:46:30.952715Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

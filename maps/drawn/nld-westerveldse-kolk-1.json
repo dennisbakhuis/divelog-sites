@@ -1,0 +1,499 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Westerveldse Kolk",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "boothelling",
+   "x": 78.5,
+   "y": 44.0,
+   "type": "entry",
+   "label": "Boothelling",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform",
+   "x": 74.6,
+   "y": 47.9,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-1",
+   "x": 67.7,
+   "y": -5.4,
+   "type": "object",
+   "label": "Bootje",
+   "depth": 1.8,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-2",
+   "x": 67.7,
+   "y": -0.4,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto-7",
+   "x": 56.9,
+   "y": 7.9,
+   "type": "object",
+   "label": "Auto",
+   "depth": 7.1,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto-3",
+   "x": 63.8,
+   "y": 11.5,
+   "type": "object",
+   "label": "Auto",
+   "depth": 3.1,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-3",
+   "x": 81.7,
+   "y": 25.5,
+   "type": "object",
+   "label": "Bootje",
+   "depth": 1.8,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "brommer",
+   "x": 76.3,
+   "y": 36.6,
+   "type": "object",
+   "label": "Brommer",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vat-1",
+   "x": 33.0,
+   "y": -13.5,
+   "type": "object",
+   "label": "Olievat",
+   "depth": null,
+   "object_kind": "container",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vat-2",
+   "x": 41.3,
+   "y": 30.2,
+   "type": "object",
+   "label": "Olievat",
+   "depth": null,
+   "object_kind": "container",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vat-3",
+   "x": -37.7,
+   "y": 20.2,
+   "type": "object",
+   "label": "Olievat",
+   "depth": null,
+   "object_kind": "container",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "puin-1",
+   "x": 65.1,
+   "y": 35.8,
+   "type": "object",
+   "label": "Bouwmateriaal",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "puin-2",
+   "x": -25.8,
+   "y": 35.9,
+   "type": "object",
+   "label": "Bouwmateriaal",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "puin-3",
+   "x": 14.2,
+   "y": 58.8,
+   "type": "object",
+   "label": "Bouwmateriaal",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto-4",
+   "x": -41.8,
+   "y": 47.3,
+   "type": "object",
+   "label": "Auto",
+   "depth": 4.5,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-4",
+   "x": -34.3,
+   "y": 59.3,
+   "type": "object",
+   "label": "Bootje",
+   "depth": 3.7,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "palen",
+   "x": -6.3,
+   "y": 76.4,
+   "type": "object",
+   "label": "Palen",
+   "depth": 3.8,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "motorboot",
+   "x": 37.3,
+   "y": 76.1,
+   "type": "object",
+   "label": "Motorboot",
+   "depth": 4.1,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "oever",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 100.5,
+     "y": -104.6
+    },
+    {
+     "x": 91.5,
+     "y": -83.5
+    },
+    {
+     "x": 83.8,
+     "y": -59.4
+    },
+    {
+     "x": 66.3,
+     "y": 14.5
+    },
+    {
+     "x": 68.0,
+     "y": 16.5
+    },
+    {
+     "x": 101.8,
+     "y": 24.3
+    },
+    {
+     "x": 101.9,
+     "y": 33.7
+    },
+    {
+     "x": 80.2,
+     "y": 34.3
+    },
+    {
+     "x": 72.4,
+     "y": 82.9
+    },
+    {
+     "x": 69.5,
+     "y": 91.6
+    },
+    {
+     "x": 66.0,
+     "y": 95.0
+    },
+    {
+     "x": 14.9,
+     "y": 114.8
+    },
+    {
+     "x": 8.2,
+     "y": 115.0
+    },
+    {
+     "x": 1.9,
+     "y": 111.2
+    },
+    {
+     "x": -3.8,
+     "y": 102.9
+    },
+    {
+     "x": -25.3,
+     "y": 88.5
+    },
+    {
+     "x": -51.5,
+     "y": 76.2
+    },
+    {
+     "x": -61.0,
+     "y": 67.3
+    },
+    {
+     "x": -70.6,
+     "y": 64.3
+    },
+    {
+     "x": -80.2,
+     "y": 58.7
+    },
+    {
+     "x": -94.0,
+     "y": 48.8
+    },
+    {
+     "x": -98.2,
+     "y": 43.2
+    },
+    {
+     "x": -101.8,
+     "y": 27.2
+    },
+    {
+     "x": -102.0,
+     "y": 10.3
+    },
+    {
+     "x": -100.2,
+     "y": 3.5
+    },
+    {
+     "x": -91.8,
+     "y": -7.0
+    },
+    {
+     "x": -91.2,
+     "y": -17.7
+    },
+    {
+     "x": -95.9,
+     "y": -49.6
+    },
+    {
+     "x": -90.1,
+     "y": -94.0
+    },
+    {
+     "x": -84.6,
+     "y": -102.1
+    },
+    {
+     "x": -83.3,
+     "y": -107.3
+    },
+    {
+     "x": -85.7,
+     "y": -115.0
+    }
+   ]
+  },
+  {
+   "id": "mosselbank",
+   "kind": "line",
+   "label": "Driehoeksmosselen (4 m)",
+   "depth": 4.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -87.2,
+     "y": 16.7
+    },
+    {
+     "x": -74.0,
+     "y": 27.6
+    },
+    {
+     "x": -52.6,
+     "y": 42.7
+    },
+    {
+     "x": -35.6,
+     "y": 61.1
+    },
+    {
+     "x": -18.6,
+     "y": 79.5
+    },
+    {
+     "x": -4.2,
+     "y": 88.6
+    },
+    {
+     "x": 11.7,
+     "y": 88.0
+    },
+    {
+     "x": 30.3,
+     "y": 82.9
+    },
+    {
+     "x": 47.0,
+     "y": 77.6
+    },
+    {
+     "x": 61.7,
+     "y": 71.9
+    },
+    {
+     "x": 69.2,
+     "y": 61.1
+    },
+    {
+     "x": 73.5,
+     "y": 46.0
+    },
+    {
+     "x": 76.8,
+     "y": 30.6
+    },
+    {
+     "x": 78.5,
+     "y": 22.1
+    },
+    {
+     "x": 67.0,
+     "y": -1.8
+    },
+    {
+     "x": 68.7,
+     "y": -8.8
+    },
+    {
+     "x": 66.5,
+     "y": -12.4
+    },
+    {
+     "x": 58.8,
+     "y": -13.6
+    }
+   ]
+  },
+  {
+   "id": "steiger-2",
+   "kind": "wall",
+   "label": "Steiger",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 50.0,
+     "y": -18.1
+    },
+    {
+     "x": 76.8,
+     "y": -13.7
+    }
+   ]
+  },
+  {
+   "id": "steiger-3",
+   "kind": "wall",
+   "label": "Steiger",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 76.0,
+     "y": 21.1
+    },
+    {
+     "x": 78.4,
+     "y": 21.6
+    }
+   ]
+  }
+ ],
+ "notes": "Southern end of the Westerveldse Kolk, the dive area by the boothelling: cars at 3.1, 4.5 and 7.1 m, small boats, a motor boat at 4.1 m, oil drums, posts and building rubble, and the band of zebra mussels that winds through the kolk at about 4 m. Shoreline, slipway and jetties from OpenStreetMap; positions are approximate, and recent dike works may have moved or buried objects. The map shows only the southern bay; the site point is in the middle of the kolk, about 280 m north of the slipway.",
+ "origin": {
+  "lat": 52.539805,
+  "lon": 6.077102
+ },
+ "underlay": null,
+ "id": "nld-westerveldse-kolk-1",
+ "site_id": "nld-westerveldse-kolk",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T19:31:36.868376Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Gota Shaab el Erg",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "gota",
+   "x": -69.7,
+   "y": 49.9,
+   "type": "object",
+   "label": "Gota (erg)",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "channel",
+   "x": -39.7,
+   "y": 21.9,
+   "type": "poi",
+   "label": "Channel, dolphins pass",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "moor-1",
+   "x": 40.3,
+   "y": -20.1,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "moor-2",
+   "x": -14.7,
+   "y": 9.9,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "heads",
+   "x": 0.3,
+   "y": 114.9,
+   "type": "poi",
+   "label": "Towers and coral heads on sand",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lagoon",
+   "x": 120.3,
+   "y": -190.1,
+   "type": "poi",
+   "label": "Lagoon",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "plateau",
+   "kind": "sand",
+   "label": "Sandy plateau",
+   "depth": 15.0,
+   "points": [
+    {
+     "x": -149.7,
+     "y": -60.1
+    },
+    {
+     "x": -69.7,
+     "y": -0.1
+    },
+    {
+     "x": -19.7,
+     "y": 19.9
+    },
+    {
+     "x": 50.3,
+     "y": 9.9
+    },
+    {
+     "x": 110.3,
+     "y": 29.9
+    },
+    {
+     "x": 110.3,
+     "y": 149.9
+    },
+    {
+     "x": -69.7,
+     "y": 159.9
+    },
+    {
+     "x": -189.7,
+     "y": 99.9
+    },
+    {
+     "x": -199.7,
+     "y": -0.1
+    }
+   ]
+  },
+  {
+   "id": "arm",
+   "kind": "shallows",
+   "label": "Shaab el Erg",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 70.3,
+     "y": -460.1
+    },
+    {
+     "x": 40.3,
+     "y": -380.1
+    },
+    {
+     "x": 0.3,
+     "y": -290.1
+    },
+    {
+     "x": -29.7,
+     "y": -210.1
+    },
+    {
+     "x": -59.7,
+     "y": -120.1
+    },
+    {
+     "x": -69.7,
+     "y": -70.1
+    },
+    {
+     "x": -44.7,
+     "y": -20.1
+    },
+    {
+     "x": -9.7,
+     "y": -0.1
+    },
+    {
+     "x": 25.3,
+     "y": -20.1
+    },
+    {
+     "x": 40.3,
+     "y": -110.1
+    },
+    {
+     "x": 30.3,
+     "y": -190.1
+    },
+    {
+     "x": 70.3,
+     "y": -270.1
+    },
+    {
+     "x": 110.3,
+     "y": -350.1
+    },
+    {
+     "x": 135.3,
+     "y": -440.1
+    }
+   ]
+  },
+  {
+   "id": "gota-reef",
+   "kind": "coral",
+   "label": "",
+   "depth": 5.0,
+   "points": [
+    {
+     "x": -89.7,
+     "y": 39.9
+    },
+    {
+     "x": -64.7,
+     "y": 31.9
+    },
+    {
+     "x": -49.7,
+     "y": 51.9
+    },
+    {
+     "x": -69.7,
+     "y": 69.9
+    },
+    {
+     "x": -94.7,
+     "y": 61.9
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "wall-west",
+   "kind": "wall",
+   "label": "Outer reef, drop-off",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 40.3,
+     "y": -460.1
+    },
+    {
+     "x": 10.3,
+     "y": -380.1
+    },
+    {
+     "x": -29.7,
+     "y": -290.1
+    },
+    {
+     "x": -59.7,
+     "y": -210.1
+    },
+    {
+     "x": -89.7,
+     "y": -120.1
+    },
+    {
+     "x": -104.7,
+     "y": -60.1
+    }
+   ]
+  }
+ ],
+ "notes": "Gota Shaab el Erg (also sold as Dolphin House) at the south-west tip of the Shaab el Erg horseshoe: the end of the western reef arm, the gota (coral tower) off the tip across a small channel the resident dolphins swim through, the sandy plateau to the south and west with towers and coral heads, and the moorings. The gota, channel and plateau come from dive-centre descriptions (seawolf-safari.de, divessi.com), so their positions are approximate. The origin is on the tip; the site's stored coordinates are those of the main reef, about 500 m north-east.",
+ "origin": {
+  "lat": 27.40891,
+  "lon": 33.85371
+ },
+ "underlay": null,
+ "id": "egy-shaab-el-erg-tota-1",
+ "site_id": "egy-shaab-el-erg-tota",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:25:00.703000Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

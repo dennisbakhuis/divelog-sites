@@ -1,0 +1,386 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Gota Abu Ramada",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mooring",
+   "x": -20.1,
+   "y": 121.6,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-w-north",
+   "x": -190.0,
+   "y": 0.0,
+   "type": "object",
+   "label": "Erg, three peaks",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-w-south",
+   "x": -185.0,
+   "y": 55.0,
+   "type": "object",
+   "label": "Erg",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pin-e-1",
+   "x": 165.0,
+   "y": -25.0,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pin-e-2",
+   "x": 172.0,
+   "y": 18.0,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pin-e-3",
+   "x": 158.0,
+   "y": 62.0,
+   "type": "object",
+   "label": "Pinnacle",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "garden-east",
+   "x": 190.0,
+   "y": 25.0,
+   "type": "poi",
+   "label": "Coral garden, brain corals, grottoes",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sand-label",
+   "x": 0.0,
+   "y": -130.0,
+   "type": "poi",
+   "label": "White sand 12-15 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "sand",
+   "kind": "sand",
+   "label": "",
+   "depth": 14.0,
+   "points": [
+    {
+     "x": 210.0,
+     "y": 0.0
+    },
+    {
+     "x": 202.7,
+     "y": 38.8
+    },
+    {
+     "x": 181.2,
+     "y": 75.0
+    },
+    {
+     "x": 147.0,
+     "y": 106.1
+    },
+    {
+     "x": 102.5,
+     "y": 129.9
+    },
+    {
+     "x": 50.6,
+     "y": 144.9
+    },
+    {
+     "x": -5.0,
+     "y": 150.0
+    },
+    {
+     "x": -60.6,
+     "y": 144.9
+    },
+    {
+     "x": -112.5,
+     "y": 129.9
+    },
+    {
+     "x": -157.0,
+     "y": 106.1
+    },
+    {
+     "x": -191.2,
+     "y": 75.0
+    },
+    {
+     "x": -212.7,
+     "y": 38.8
+    },
+    {
+     "x": -220.0,
+     "y": 0.0
+    },
+    {
+     "x": -212.7,
+     "y": -38.8
+    },
+    {
+     "x": -191.2,
+     "y": -75.0
+    },
+    {
+     "x": -157.0,
+     "y": -106.1
+    },
+    {
+     "x": -112.5,
+     "y": -129.9
+    },
+    {
+     "x": -60.6,
+     "y": -144.9
+    },
+    {
+     "x": -5.0,
+     "y": -150.0
+    },
+    {
+     "x": 50.6,
+     "y": -144.9
+    },
+    {
+     "x": 102.5,
+     "y": -129.9
+    },
+    {
+     "x": 147.0,
+     "y": -106.1
+    },
+    {
+     "x": 181.2,
+     "y": -75.0
+    },
+    {
+     "x": 202.7,
+     "y": -38.8
+    }
+   ]
+  },
+  {
+   "id": "reef-top",
+   "kind": "shallows",
+   "label": "Gota Abu Ramada",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": -83.0,
+     "y": -68.1
+    },
+    {
+     "x": -157.2,
+     "y": 25.3
+    },
+    {
+     "x": -145.6,
+     "y": 50.7
+    },
+    {
+     "x": -123.3,
+     "y": 79.3
+    },
+    {
+     "x": -100.2,
+     "y": 85.0
+    },
+    {
+     "x": -74.0,
+     "y": 79.9
+    },
+    {
+     "x": -30.5,
+     "y": 79.9
+    },
+    {
+     "x": -6.9,
+     "y": 102.8
+    },
+    {
+     "x": 16.8,
+     "y": 106.6
+    },
+    {
+     "x": 98.0,
+     "y": 91.3
+    },
+    {
+     "x": 125.5,
+     "y": 66.6
+    },
+    {
+     "x": 140.2,
+     "y": 31.0
+    },
+    {
+     "x": 142.8,
+     "y": 4.9
+    },
+    {
+     "x": 130.6,
+     "y": -39.5
+    },
+    {
+     "x": 110.8,
+     "y": -68.1
+    },
+    {
+     "x": 60.9,
+     "y": -101.8
+    },
+    {
+     "x": 37.3,
+     "y": -106.9
+    },
+    {
+     "x": -14.5,
+     "y": -104.3
+    },
+    {
+     "x": -53.8,
+     "y": -89.8
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route-east",
+   "kind": "path",
+   "label": "Dive east",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -20.0,
+     "y": 132.0
+    },
+    {
+     "x": 40.0,
+     "y": 128.0
+    },
+    {
+     "x": 110.0,
+     "y": 110.0
+    },
+    {
+     "x": 150.0,
+     "y": 80.0
+    },
+    {
+     "x": 178.0,
+     "y": 40.0
+    },
+    {
+     "x": 182.0,
+     "y": -5.0
+    },
+    {
+     "x": 170.0,
+     "y": -45.0
+    }
+   ]
+  },
+  {
+   "id": "route-west",
+   "kind": "path",
+   "label": "Dive west",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -20.0,
+     "y": 132.0
+    },
+    {
+     "x": -80.0,
+     "y": 105.0
+    },
+    {
+     "x": -140.0,
+     "y": 90.0
+    },
+    {
+     "x": -178.0,
+     "y": 60.0
+    },
+    {
+     "x": -200.0,
+     "y": 20.0
+    },
+    {
+     "x": -200.0,
+     "y": -20.0
+    }
+   ]
+  }
+ ],
+ "notes": "Gota Abu Ramada, the Aquarium: the oval reef on white sand at 12-15 m, the moorings on its southern flank, the two ergs about 20 m off the west side (the northern one with three peaks), the three pinnacles and coral garden off the east side, and the two usual routes, east or west from the mooring and back. Reef outline and mooring from OpenStreetMap; the ergs and routes from dive-centre site descriptions (redsea-diving.com, divers-guide.com), placed by description, so their positions and the sand extent are approximate. Reef data © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 27.1401,
+  "lon": 33.95347
+ },
+ "underlay": null,
+ "id": "egy-gota-abu-ramada-1",
+ "site_id": "egy-gota-abu-ramada",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:14:35.050803Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

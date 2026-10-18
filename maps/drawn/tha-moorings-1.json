@@ -1,0 +1,788 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Mooring Bay, Similan 9",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "bb-big-boulders-w",
+   "x": -276.7,
+   "y": 384.3,
+   "type": "object",
+   "label": "Large boulders",
+   "depth": 5.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bb-boulder-e",
+   "x": -73.2,
+   "y": -105.8,
+   "type": "object",
+   "label": "Large boulder",
+   "depth": 22.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bb-coral-1",
+   "x": -146.4,
+   "y": 126.0,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bb-coral-2",
+   "x": -137.1,
+   "y": 298.9,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bb-coral-3",
+   "x": -84.2,
+   "y": 48.4,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bb-coral-4",
+   "x": -241.2,
+   "y": -122.4,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tt-boulder-18",
+   "x": -224.9,
+   "y": -195.1,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "moorings",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "buoy",
+   "label": "National park moorings (approximate)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "bb-coral-slope",
+   "kind": "coral",
+   "label": "Hard and soft coral slope 5–20 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -263.2,
+     "y": 431.5
+    },
+    {
+     "x": -210.8,
+     "y": 374.3
+    },
+    {
+     "x": -168.6,
+     "y": 307.8
+    },
+    {
+     "x": -112.9,
+     "y": 169.5
+    },
+    {
+     "x": -106.6,
+     "y": 96.2
+    },
+    {
+     "x": -117.4,
+     "y": 34.7
+    },
+    {
+     "x": -160.5,
+     "y": -21.0
+    },
+    {
+     "x": -219.2,
+     "y": -81.1
+    },
+    {
+     "x": -216.9,
+     "y": -132.8
+    },
+    {
+     "x": -127.1,
+     "y": -56.4
+    },
+    {
+     "x": -77.7,
+     "y": -2.5
+    },
+    {
+     "x": -62.6,
+     "y": 59.9
+    },
+    {
+     "x": -68.7,
+     "y": 148.0
+    },
+    {
+     "x": -83.4,
+     "y": 234.5
+    },
+    {
+     "x": -118.3,
+     "y": 317.3
+    },
+    {
+     "x": -153.3,
+     "y": 385.1
+    },
+    {
+     "x": -224.3,
+     "y": 446.2
+    }
+   ]
+  },
+  {
+   "id": "bb-ridge",
+   "kind": "other",
+   "label": "Boulder ridge 5–25 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -147.3,
+     "y": 51.4
+    },
+    {
+     "x": -159.1,
+     "y": 19.4
+    },
+    {
+     "x": -201.2,
+     "y": -18.2
+    },
+    {
+     "x": -234.6,
+     "y": -54.2
+    },
+    {
+     "x": -256.5,
+     "y": -80.7
+    },
+    {
+     "x": -225.2,
+     "y": -104.6
+    },
+    {
+     "x": -189.1,
+     "y": -82.9
+    },
+    {
+     "x": -147.3,
+     "y": -67.6
+    },
+    {
+     "x": -85.3,
+     "y": -41.1
+    },
+    {
+     "x": -33.6,
+     "y": -38.9
+    },
+    {
+     "x": -31.8,
+     "y": -8.8
+    },
+    {
+     "x": -58.8,
+     "y": 15.9
+    },
+    {
+     "x": -101.6,
+     "y": 30.2
+    }
+   ]
+  },
+  {
+   "id": "bb-sand",
+   "kind": "sand",
+   "label": "Sandy bottom 25–30 m, garden eels",
+   "depth": 28.0,
+   "points": [
+    {
+     "x": -170.2,
+     "y": 530.8
+    },
+    {
+     "x": -98.0,
+     "y": 455.0
+    },
+    {
+     "x": -31.5,
+     "y": 378.2
+    },
+    {
+     "x": 6.4,
+     "y": 310.9
+    },
+    {
+     "x": 28.7,
+     "y": 255.6
+    },
+    {
+     "x": 42.0,
+     "y": 168.8
+    },
+    {
+     "x": 49.6,
+     "y": 80.9
+    },
+    {
+     "x": 38.6,
+     "y": 4.4
+    },
+    {
+     "x": -4.9,
+     "y": -152.5
+    },
+    {
+     "x": 52.6,
+     "y": -141.8
+    },
+    {
+     "x": 90.4,
+     "y": 14.1
+    },
+    {
+     "x": 89.5,
+     "y": 177.7
+    },
+    {
+     "x": 55.3,
+     "y": 320.1
+    },
+    {
+     "x": -39.0,
+     "y": 466.1
+    },
+    {
+     "x": -112.7,
+     "y": 541.5
+    }
+   ]
+  },
+  {
+   "id": "tt-big-boulders",
+   "kind": "other",
+   "label": "Big granite boulders 22–25 m",
+   "depth": 22.0,
+   "points": [
+    {
+     "x": -290.0,
+     "y": -295.6
+    },
+    {
+     "x": -326.1,
+     "y": -326.0
+    },
+    {
+     "x": -348.5,
+     "y": -343.6
+    },
+    {
+     "x": -370.8,
+     "y": -361.1
+    },
+    {
+     "x": -387.2,
+     "y": -378.0
+    },
+    {
+     "x": -375.0,
+     "y": -396.4
+    },
+    {
+     "x": -348.2,
+     "y": -409.3
+    },
+    {
+     "x": -343.9,
+     "y": -387.3
+    },
+    {
+     "x": -324.2,
+     "y": -367.1
+    },
+    {
+     "x": -305.8,
+     "y": -358.9
+    },
+    {
+     "x": -307.3,
+     "y": -344.3
+    },
+    {
+     "x": -293.0,
+     "y": -318.9
+    },
+    {
+     "x": -283.3,
+     "y": -302.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -434.5,
+     "y": 378.6
+    },
+    {
+     "x": -396.1,
+     "y": 369.8
+    },
+    {
+     "x": -377.9,
+     "y": 380.4
+    },
+    {
+     "x": -358.0,
+     "y": 388.0
+    },
+    {
+     "x": -320.0,
+     "y": 373.9
+    },
+    {
+     "x": -323.0,
+     "y": 357.5
+    },
+    {
+     "x": -343.0,
+     "y": 343.4
+    },
+    {
+     "x": -339.5,
+     "y": 322.3
+    },
+    {
+     "x": -330.0,
+     "y": 295.4
+    },
+    {
+     "x": -300.5,
+     "y": 263.1
+    },
+    {
+     "x": -274.0,
+     "y": 242.0
+    },
+    {
+     "x": -253.9,
+     "y": 223.2
+    },
+    {
+     "x": -246.8,
+     "y": 209.2
+    },
+    {
+     "x": -191.5,
+     "y": 212.3
+    },
+    {
+     "x": -197.2,
+     "y": 198.6
+    },
+    {
+     "x": -199.6,
+     "y": 185.7
+    },
+    {
+     "x": -173.6,
+     "y": 191.6
+    },
+    {
+     "x": -199.0,
+     "y": 162.2
+    },
+    {
+     "x": -229.1,
+     "y": 142.3
+    },
+    {
+     "x": -227.3,
+     "y": 118.3
+    },
+    {
+     "x": -201.9,
+     "y": 107.1
+    },
+    {
+     "x": -210.2,
+     "y": 97.2
+    },
+    {
+     "x": -223.8,
+     "y": 101.8
+    },
+    {
+     "x": -270.3,
+     "y": -36.8
+    },
+    {
+     "x": -281.0,
+     "y": -69.4
+    },
+    {
+     "x": -370.8,
+     "y": -147.9
+    },
+    {
+     "x": -420.4,
+     "y": -176.1
+    },
+    {
+     "x": -495.3,
+     "y": -270.5
+    }
+   ]
+  },
+  {
+   "id": "coast-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -166.5,
+     "y": 252.0
+    },
+    {
+     "x": -171.2,
+     "y": 261.4
+    },
+    {
+     "x": -163.6,
+     "y": 266.6
+    },
+    {
+     "x": -142.3,
+     "y": 270.1
+    },
+    {
+     "x": -129.3,
+     "y": 265.5
+    },
+    {
+     "x": -127.5,
+     "y": 257.2
+    },
+    {
+     "x": -144.7,
+     "y": 254.3
+    }
+   ]
+  },
+  {
+   "id": "coast-3",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -480.6,
+     "y": 496.5
+    },
+    {
+     "x": -493.0,
+     "y": 489.4
+    }
+   ]
+  },
+  {
+   "id": "coast-4",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -498.9,
+     "y": 471.9
+    },
+    {
+     "x": -498.9,
+     "y": 460.1
+    }
+   ]
+  },
+  {
+   "id": "bb-c10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -408.3,
+     "y": 411.7
+    },
+    {
+     "x": -321.5,
+     "y": 425.0
+    },
+    {
+     "x": -261.9,
+     "y": 424.3
+    },
+    {
+     "x": -215.1,
+     "y": 373.5
+    },
+    {
+     "x": -172.9,
+     "y": 307.0
+    },
+    {
+     "x": -140.7,
+     "y": 238.7
+    },
+    {
+     "x": -117.2,
+     "y": 168.7
+    },
+    {
+     "x": -110.9,
+     "y": 95.4
+    },
+    {
+     "x": -121.7,
+     "y": 33.9
+    },
+    {
+     "x": -163.9,
+     "y": -18.7
+    },
+    {
+     "x": -225.0,
+     "y": -89.6
+    },
+    {
+     "x": -297.8,
+     "y": -177.7
+    }
+   ]
+  },
+  {
+   "id": "bb-c20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -299.6,
+     "y": 506.5
+    },
+    {
+     "x": -221.4,
+     "y": 446.7
+    },
+    {
+     "x": -150.4,
+     "y": 385.6
+    },
+    {
+     "x": -115.4,
+     "y": 317.8
+    },
+    {
+     "x": -80.5,
+     "y": 235.1
+    },
+    {
+     "x": -65.8,
+     "y": 148.5
+    },
+    {
+     "x": -59.7,
+     "y": 60.4
+    },
+    {
+     "x": -74.8,
+     "y": -2.0
+    },
+    {
+     "x": -112.7,
+     "y": -53.7
+    },
+    {
+     "x": -137.9,
+     "y": -117.9
+    },
+    {
+     "x": -155.8,
+     "y": -180.8
+    }
+   ]
+  },
+  {
+   "id": "bb-c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -177.4,
+     "y": 529.4
+    },
+    {
+     "x": -103.7,
+     "y": 453.9
+    },
+    {
+     "x": -37.2,
+     "y": 377.1
+    },
+    {
+     "x": 0.7,
+     "y": 309.8
+    },
+    {
+     "x": 23.0,
+     "y": 254.5
+    },
+    {
+     "x": 36.3,
+     "y": 167.7
+    },
+    {
+     "x": 43.8,
+     "y": 79.8
+    },
+    {
+     "x": 32.9,
+     "y": 3.4
+    },
+    {
+     "x": 19.4,
+     "y": -43.8
+    },
+    {
+     "x": -12.1,
+     "y": -153.9
+    }
+   ]
+  },
+  {
+   "id": "bb-drift",
+   "kind": "path",
+   "label": "Drift along the reef, with the current",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -265.5,
+     "y": 483.1
+    },
+    {
+     "x": -208.8,
+     "y": 419.3
+    },
+    {
+     "x": -156.7,
+     "y": 339.8
+    },
+    {
+     "x": -114.9,
+     "y": 243.5
+    },
+    {
+     "x": -90.2,
+     "y": 144.0
+    },
+    {
+     "x": -88.4,
+     "y": 55.0
+    },
+    {
+     "x": -119.4,
+     "y": -17.8
+    },
+    {
+     "x": -167.5,
+     "y": -78.9
+    },
+    {
+     "x": -221.4,
+     "y": -148.5
+    }
+   ]
+  }
+ ],
+ "notes": "The overnight anchorage off the sheltered east side of Ko Bangu (Similan 9): the Breakfast Bend reef to the south and the Three Trees boulders to the north, on the OpenStreetMap coastline. The national park moorings are placed only roughly, between the two reefs, from the site description and liveaboard pages naming Mooring Bay at Island 9.",
+ "origin": {
+  "lat": 8.678058,
+  "lon": 97.655178
+ },
+ "underlay": null,
+ "id": "tha-moorings-1",
+ "site_id": "tha-moorings",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:37:43.053738Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

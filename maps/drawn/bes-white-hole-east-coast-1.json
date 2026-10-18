@@ -1,0 +1,422 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "White Hole",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "drop",
+   "x": 12.0,
+   "y": -70.0,
+   "type": "entry",
+   "label": "Back roll over the sand hole",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tarpon",
+   "x": -38.0,
+   "y": -35.0,
+   "type": "poi",
+   "label": "Tarpon under the coral wall",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "turtles",
+   "x": -30.0,
+   "y": 90.0,
+   "type": "poi",
+   "label": "Turtles on the southern reef",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 90.0,
+   "y": -170.0,
+   "type": "hazard",
+   "label": "Current 0.5-1.5 kn, 2 kn at spring tide",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lagoon",
+   "x": -330.0,
+   "y": -120.0,
+   "type": "marker",
+   "label": "Lac Bay lagoon",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "barrier-reef",
+   "kind": "coral",
+   "label": "Lac barrier reef",
+   "depth": null,
+   "points": [
+    {
+     "x": -248.3,
+     "y": 330.0
+    },
+    {
+     "x": -229.5,
+     "y": 292.2
+    },
+    {
+     "x": -219.0,
+     "y": 224.9
+    },
+    {
+     "x": -152.4,
+     "y": 185.4
+    },
+    {
+     "x": -88.2,
+     "y": 153.0
+    },
+    {
+     "x": -83.5,
+     "y": 115.8
+    },
+    {
+     "x": -112.7,
+     "y": 83.4
+    },
+    {
+     "x": -73.0,
+     "y": 63.6
+    },
+    {
+     "x": -74.2,
+     "y": -14.1
+    },
+    {
+     "x": -45.0,
+     "y": -106.9
+    },
+    {
+     "x": 9.9,
+     "y": -168.4
+    },
+    {
+     "x": 46.1,
+     "y": -232.2
+    },
+    {
+     "x": 130.2,
+     "y": -360.9
+    },
+    {
+     "x": 155.9,
+     "y": -371.4
+    },
+    {
+     "x": 159.4,
+     "y": -389.9
+    },
+    {
+     "x": 171.1,
+     "y": -400.0
+    },
+    {
+     "x": 135.9,
+     "y": -400.0
+    },
+    {
+     "x": 106.8,
+     "y": -365.6
+    },
+    {
+     "x": 53.1,
+     "y": -284.4
+    },
+    {
+     "x": 11.1,
+     "y": -244.9
+    },
+    {
+     "x": -24.0,
+     "y": -175.3
+    },
+    {
+     "x": -50.8,
+     "y": -147.5
+    },
+    {
+     "x": -91.7,
+     "y": -62.8
+    },
+    {
+     "x": -109.2,
+     "y": 11.4
+    },
+    {
+     "x": -118.6,
+     "y": 35.8
+    },
+    {
+     "x": -147.8,
+     "y": 38.1
+    },
+    {
+     "x": -167.6,
+     "y": 62.5
+    },
+    {
+     "x": -208.5,
+     "y": 133.2
+    },
+    {
+     "x": -223.7,
+     "y": 176.2
+    },
+    {
+     "x": -249.4,
+     "y": 219.1
+    },
+    {
+     "x": -256.4,
+     "y": 245.8
+    },
+    {
+     "x": -254.0,
+     "y": 279.4
+    },
+    {
+     "x": -277.6,
+     "y": 330.0
+    }
+   ]
+  },
+  {
+   "id": "white-hole",
+   "kind": "sand",
+   "label": "White Hole: sand 15-20 m",
+   "depth": 18.0,
+   "points": [
+    {
+     "x": -15.0,
+     "y": 39.0
+    },
+    {
+     "x": -17.6,
+     "y": 35.8
+    },
+    {
+     "x": -18.9,
+     "y": 28.0
+    },
+    {
+     "x": -18.6,
+     "y": 16.2
+    },
+    {
+     "x": -16.9,
+     "y": 1.2
+    },
+    {
+     "x": -13.8,
+     "y": -16.0
+    },
+    {
+     "x": -9.6,
+     "y": -34.2
+    },
+    {
+     "x": -4.5,
+     "y": -52.2
+    },
+    {
+     "x": 1.1,
+     "y": -68.8
+    },
+    {
+     "x": 6.8,
+     "y": -82.8
+    },
+    {
+     "x": 12.3,
+     "y": -93.2
+    },
+    {
+     "x": 17.1,
+     "y": -99.5
+    },
+    {
+     "x": 21.0,
+     "y": -101.0
+    },
+    {
+     "x": 23.6,
+     "y": -97.8
+    },
+    {
+     "x": 24.9,
+     "y": -90.0
+    },
+    {
+     "x": 24.6,
+     "y": -78.2
+    },
+    {
+     "x": 22.9,
+     "y": -63.2
+    },
+    {
+     "x": 19.8,
+     "y": -46.0
+    },
+    {
+     "x": 15.6,
+     "y": -27.8
+    },
+    {
+     "x": 10.5,
+     "y": -9.8
+    },
+    {
+     "x": 4.9,
+     "y": 6.8
+    },
+    {
+     "x": -0.8,
+     "y": 20.8
+    },
+    {
+     "x": -6.3,
+     "y": 31.2
+    },
+    {
+     "x": -11.1,
+     "y": 37.5
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "d30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -90.0,
+     "y": 329.1
+    },
+    {
+     "x": -42.5,
+     "y": 246.8
+    },
+    {
+     "x": 5.0,
+     "y": 164.5
+    },
+    {
+     "x": 52.5,
+     "y": 82.3
+    },
+    {
+     "x": 100.0,
+     "y": -0.0
+    },
+    {
+     "x": 147.5,
+     "y": -82.3
+    },
+    {
+     "x": 195.0,
+     "y": -164.5
+    },
+    {
+     "x": 242.5,
+     "y": -246.8
+    },
+    {
+     "x": 290.0,
+     "y": -329.1
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Circular route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 12.0,
+     "y": -70.0
+    },
+    {
+     "x": 22.0,
+     "y": -115.0
+    },
+    {
+     "x": -25.0,
+     "y": -110.0
+    },
+    {
+     "x": -45.0,
+     "y": -20.0
+    },
+    {
+     "x": -40.0,
+     "y": 80.0
+    },
+    {
+     "x": 5.0,
+     "y": 95.0
+    },
+    {
+     "x": 35.0,
+     "y": 10.0
+    },
+    {
+     "x": 12.0,
+     "y": -70.0
+    }
+   ]
+  }
+ ],
+ "notes": "A long, narrow hole of white sand at 15-20 m in the reef slope seaward of the Lac Bay barrier reef (reef top 4-6 m, 30 m at most on the outside), home to a resting school of tarpon that shelter in the coral wall on its west side, with turtles on the southern part (bonaire.com, bonaireisland.com). The sand hole is about 140 m long and 25 m wide, beside the OpenStreetMap dive-site marker; the 30 m contour, the drop point and the circular route are assumptions. Coastline and reef outline © OpenStreetMap contributors (ODbL). Positions are approximate.",
+ "origin": {
+  "lat": 12.09406,
+  "lon": -68.22808
+ },
+ "underlay": null,
+ "id": "bes-white-hole-east-coast-1",
+ "site_id": "bes-white-hole-east-coast",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:32:09.510077Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,508 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "The Caves",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "cave-south",
+   "x": 15.0,
+   "y": 23.4,
+   "type": "poi",
+   "label": "Cave",
+   "depth": 7.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cave-north",
+   "x": 29.4,
+   "y": -20.9,
+   "type": "poi",
+   "label": "Cave",
+   "depth": 9.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-13",
+   "x": 75.4,
+   "y": 70.4,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-15",
+   "x": 81.7,
+   "y": 21.9,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 15.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-28a",
+   "x": 115.8,
+   "y": 59.3,
+   "type": "object",
+   "label": "Coral blocks",
+   "depth": 28.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-28b",
+   "x": 114.1,
+   "y": 48.2,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 28.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry",
+   "x": 8.8,
+   "y": 3.5,
+   "type": "entry",
+   "label": "Shore entry",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-south",
+   "kind": "shallows",
+   "label": "Reef table",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -44.5,
+     "y": 232.2
+    },
+    {
+     "x": -32.1,
+     "y": 194.2
+    },
+    {
+     "x": -27.8,
+     "y": 174.5
+    },
+    {
+     "x": -31.7,
+     "y": 167.0
+    },
+    {
+     "x": -24.6,
+     "y": 148.3
+    },
+    {
+     "x": -17.5,
+     "y": 165.3
+    },
+    {
+     "x": -10.0,
+     "y": 148.8
+    },
+    {
+     "x": 7.3,
+     "y": 101.9
+    },
+    {
+     "x": 22.5,
+     "y": 64.7
+    },
+    {
+     "x": 27.1,
+     "y": 41.0
+    },
+    {
+     "x": 23.9,
+     "y": 31.5
+    },
+    {
+     "x": 16.2,
+     "y": 22.7
+    },
+    {
+     "x": 7.6,
+     "y": 16.8
+    },
+    {
+     "x": 4.5,
+     "y": 15.9
+    },
+    {
+     "x": -17.0,
+     "y": 93.3
+    },
+    {
+     "x": -41.5,
+     "y": 173.4
+    },
+    {
+     "x": -65.1,
+     "y": 200.0
+    }
+   ]
+  },
+  {
+   "id": "reef-north",
+   "kind": "shallows",
+   "label": "Reef table",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 19.7,
+     "y": -20.3
+    },
+    {
+     "x": 29.8,
+     "y": -19.1
+    },
+    {
+     "x": 43.1,
+     "y": -21.1
+    },
+    {
+     "x": 54.6,
+     "y": -40.5
+    },
+    {
+     "x": 64.9,
+     "y": -68.7
+    },
+    {
+     "x": 70.9,
+     "y": -93.7
+    },
+    {
+     "x": 41.7,
+     "y": -103.0
+    },
+    {
+     "x": 32.6,
+     "y": -58.7
+    },
+    {
+     "x": 18.3,
+     "y": -20.6
+    }
+   ]
+  },
+  {
+   "id": "gravel",
+   "kind": "sand",
+   "label": "Gravel 7 m",
+   "depth": 7.0,
+   "points": [
+    {
+     "x": 16.8,
+     "y": 20.8
+    },
+    {
+     "x": 28.2,
+     "y": -17.5
+    },
+    {
+     "x": 62.8,
+     "y": -10.5
+    },
+    {
+     "x": 44.8,
+     "y": 44.7
+    }
+   ]
+  },
+  {
+   "id": "sand-slope",
+   "kind": "sand",
+   "label": "Sloping sand",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": 44.8,
+     "y": 44.7
+    },
+    {
+     "x": 62.8,
+     "y": -10.5
+    },
+    {
+     "x": 76.1,
+     "y": 0.1
+    },
+    {
+     "x": 83.8,
+     "y": 15.3
+    },
+    {
+     "x": 69.6,
+     "y": 59.0
+    },
+    {
+     "x": 55.8,
+     "y": 75.6
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -65.1,
+     "y": 200.0
+    },
+    {
+     "x": -61.8,
+     "y": 194.7
+    },
+    {
+     "x": -45.2,
+     "y": 178.4
+    },
+    {
+     "x": -31.8,
+     "y": 160.0
+    },
+    {
+     "x": -16.5,
+     "y": 91.0
+    },
+    {
+     "x": -5.8,
+     "y": 69.1
+    },
+    {
+     "x": 5.2,
+     "y": 12.5
+    },
+    {
+     "x": 31.9,
+     "y": -55.1
+    },
+    {
+     "x": 44.6,
+     "y": -116.9
+    },
+    {
+     "x": 78.5,
+     "y": -185.0
+    },
+    {
+     "x": 83.4,
+     "y": -200.0
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 39.4,
+     "y": 122.8
+    },
+    {
+     "x": 61.6,
+     "y": 83.7
+    },
+    {
+     "x": 77.2,
+     "y": 61.5
+    },
+    {
+     "x": 82.7,
+     "y": 31.7
+    },
+    {
+     "x": 81.9,
+     "y": 8.3
+    },
+    {
+     "x": 82.9,
+     "y": -20.8
+    },
+    {
+     "x": 89.6,
+     "y": -60.7
+    },
+    {
+     "x": 97.5,
+     "y": -85.0
+    }
+   ]
+  },
+  {
+   "id": "c40",
+   "kind": "depth",
+   "label": "",
+   "depth": 40.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 110.4,
+     "y": 145.9
+    },
+    {
+     "x": 122.4,
+     "y": 97.2
+    },
+    {
+     "x": 142.9,
+     "y": 40.7
+    },
+    {
+     "x": 163.3,
+     "y": -15.7
+    },
+    {
+     "x": 175.5,
+     "y": -59.7
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 7.9,
+     "y": 9.5
+    },
+    {
+     "x": 18.7,
+     "y": 21.5
+    },
+    {
+     "x": 27.7,
+     "y": 32.8
+    },
+    {
+     "x": 37.2,
+     "y": 42.2
+    },
+    {
+     "x": 44.9,
+     "y": 51.0
+    },
+    {
+     "x": 52.0,
+     "y": 68.0
+    },
+    {
+     "x": 56.5,
+     "y": 80.0
+    },
+    {
+     "x": 65.4,
+     "y": 85.0
+    },
+    {
+     "x": 78.0,
+     "y": 84.9
+    },
+    {
+     "x": 90.0,
+     "y": 74.0
+    },
+    {
+     "x": 104.5,
+     "y": 68.2
+    },
+    {
+     "x": 115.2,
+     "y": 67.5
+    },
+    {
+     "x": 126.5,
+     "y": 58.6
+    },
+    {
+     "x": 122.0,
+     "y": 46.6
+    },
+    {
+     "x": 106.1,
+     "y": 30.9
+    },
+    {
+     "x": 90.2,
+     "y": 15.2
+    },
+    {
+     "x": 75.5,
+     "y": 2.0
+    },
+    {
+     "x": 58.3,
+     "y": -9.8
+    },
+    {
+     "x": 39.9,
+     "y": -17.9
+    },
+    {
+     "x": 26.7,
+     "y": -15.9
+    },
+    {
+     "x": 13.2,
+     "y": -3.5
+    }
+   ]
+  }
+ ],
+ "notes": "Reef table with the gravel cut at the entry, the two caves beside it, the sloping sand with coral blocks and the usual loop to about 30 m, placed on the OpenStreetMap coastline; positions and depths are approximate. Coastline © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 28.416667,
+  "lon": 34.45605
+ },
+ "underlay": null,
+ "id": "egy-the-caves-1",
+ "site_id": "egy-the-caves",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:56:15.848384Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

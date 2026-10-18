@@ -1,0 +1,291 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Lithse Ham",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "steiger",
+   "x": 95.1,
+   "y": 3.2,
+   "type": "entry",
+   "label": "Steiger Duikteam Lith",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "clubhuis",
+   "x": 126.5,
+   "y": 26.8,
+   "type": "poi",
+   "label": "Clubhuis Duikteam Lith",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "de-lithse-ham-2",
+   "kind": "shoreline",
+   "label": "De Lithse Ham",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 189.3,
+     "y": -315.0
+    },
+    {
+     "x": 201.8,
+     "y": -290.4
+    },
+    {
+     "x": 218.4,
+     "y": -242.1
+    },
+    {
+     "x": 229.6,
+     "y": -225.2
+    },
+    {
+     "x": 252.9,
+     "y": -205.7
+    },
+    {
+     "x": 273.6,
+     "y": -170.8
+    },
+    {
+     "x": 279.1,
+     "y": -147.0
+    },
+    {
+     "x": 279.1,
+     "y": -127.2
+    },
+    {
+     "x": 274.1,
+     "y": -118.0
+    },
+    {
+     "x": 253.9,
+     "y": -95.5
+    },
+    {
+     "x": 225.7,
+     "y": -72.0
+    },
+    {
+     "x": 217.9,
+     "y": -61.4
+    },
+    {
+     "x": 208.8,
+     "y": -54.2
+    },
+    {
+     "x": 196.2,
+     "y": -48.3
+    },
+    {
+     "x": 181.0,
+     "y": -46.3
+    },
+    {
+     "x": 150.1,
+     "y": -46.8
+    },
+    {
+     "x": 139.7,
+     "y": -40.5
+    },
+    {
+     "x": 134.3,
+     "y": -32.0
+    },
+    {
+     "x": 108.5,
+     "y": -7.5
+    },
+    {
+     "x": 50.0,
+     "y": 39.2
+    },
+    {
+     "x": 43.0,
+     "y": 48.6
+    },
+    {
+     "x": 36.9,
+     "y": 66.0
+    },
+    {
+     "x": 22.4,
+     "y": 77.6
+    },
+    {
+     "x": -56.8,
+     "y": 190.7
+    },
+    {
+     "x": -74.1,
+     "y": 198.5
+    },
+    {
+     "x": -97.9,
+     "y": 200.7
+    },
+    {
+     "x": -123.5,
+     "y": 194.4
+    },
+    {
+     "x": -150.8,
+     "y": 181.5
+    },
+    {
+     "x": -165.2,
+     "y": 164.9
+    },
+    {
+     "x": -171.9,
+     "y": 148.4
+    },
+    {
+     "x": -180.4,
+     "y": 113.0
+    },
+    {
+     "x": -200.8,
+     "y": -39.1
+    },
+    {
+     "x": -198.4,
+     "y": -47.3
+    },
+    {
+     "x": -176.8,
+     "y": -86.3
+    },
+    {
+     "x": -178.1,
+     "y": -315.0
+    }
+   ]
+  },
+  {
+   "id": "de-lithse-ham-4",
+   "kind": "shoreline",
+   "label": "De Lithse Ham",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -279.2,
+     "y": -100.5
+    },
+    {
+     "x": -277.7,
+     "y": -97.3
+    },
+    {
+     "x": -265.6,
+     "y": -63.9
+    },
+    {
+     "x": -249.5,
+     "y": 17.3
+    },
+    {
+     "x": -242.4,
+     "y": 42.8
+    },
+    {
+     "x": -175.7,
+     "y": 257.1
+    },
+    {
+     "x": -174.3,
+     "y": 268.8
+    },
+    {
+     "x": -183.9,
+     "y": 285.3
+    },
+    {
+     "x": -203.7,
+     "y": 306.1
+    },
+    {
+     "x": -231.8,
+     "y": 315.0
+    }
+   ]
+  },
+  {
+   "id": "shore",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -131.9,
+     "y": 134.6
+    },
+    {
+     "x": -122.7,
+     "y": -315.0
+    }
+   ]
+  },
+  {
+   "id": "shore-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -186.3,
+     "y": 280.0
+    },
+    {
+     "x": -263.5,
+     "y": 36.2
+    },
+    {
+     "x": -279.2,
+     "y": 32.6
+    }
+   ]
+  }
+ ],
+ "notes": "Sparse map of the dive entry on the east shore of the Lithse Ham at the Duikteam Lith clubhouse, where divers enter from the club jetty (or the beach when the clubhouse is closed); the shoreline is from OpenStreetMap (© OpenStreetMap contributors, ODbL) and the entry position is approximate. The site is named only 'De Lith', so it is assumed to be the Lithse Ham, the only known dive site at Lith. Most objects (small wrecks, pipes) lie straight out from the jetty along a rope course, with a city bus further north-west, a car wreck, a boat wreck and a training platform, and clay mounds at 3-6 m left of the jetty; their positions are not known, so they are not drawn. The site coordinates point at the library in Lith village, about 1.7 km east of the water.",
+ "origin": {
+  "lat": 51.814322,
+  "lon": 5.41469
+ },
+ "underlay": null,
+ "id": "nld-de-lith-1",
+ "site_id": "nld-de-lith",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T19:22:30.916392Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

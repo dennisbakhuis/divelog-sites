@@ -1,0 +1,748 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Gabr el Bint",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "head-s1",
+   "x": -114.9,
+   "y": 30.0,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-s2",
+   "x": -99.4,
+   "y": 28.6,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-s3",
+   "x": -75.4,
+   "y": 27.3,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-n1",
+   "x": 96.1,
+   "y": -74.5,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 3.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-n2",
+   "x": 117.5,
+   "y": -77.0,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 3.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-n3",
+   "x": 135.0,
+   "y": -87.6,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 3.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-n1",
+   "x": 67.9,
+   "y": -17.4,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 15.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-n2",
+   "x": 141.4,
+   "y": -37.8,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-26",
+   "x": 115.8,
+   "y": -11.4,
+   "type": "object",
+   "label": "Coral",
+   "depth": 26.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry-beach",
+   "x": -4.9,
+   "y": -88.8,
+   "type": "entry",
+   "label": "Shore entry",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boat",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Boat (back roll)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-table",
+   "kind": "shallows",
+   "label": "Reef table",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -144.0,
+     "y": 8.6
+    },
+    {
+     "x": -110.8,
+     "y": -5.6
+    },
+    {
+     "x": -50.7,
+     "y": -27.4
+    },
+    {
+     "x": -35.3,
+     "y": -43.7
+    },
+    {
+     "x": -23.0,
+     "y": -68.4
+    },
+    {
+     "x": -19.9,
+     "y": -71.6
+    },
+    {
+     "x": 20.2,
+     "y": -84.1
+    },
+    {
+     "x": 30.3,
+     "y": -73.9
+    },
+    {
+     "x": 44.0,
+     "y": -59.8
+    },
+    {
+     "x": 53.7,
+     "y": -50.5
+    },
+    {
+     "x": 73.7,
+     "y": -59.9
+    },
+    {
+     "x": 70.1,
+     "y": -75.7
+    },
+    {
+     "x": 86.9,
+     "y": -88.1
+    },
+    {
+     "x": 133.5,
+     "y": -106.2
+    },
+    {
+     "x": 181.6,
+     "y": -124.8
+    },
+    {
+     "x": 139.5,
+     "y": -190.1
+    },
+    {
+     "x": 87.2,
+     "y": -121.9
+    },
+    {
+     "x": 10.2,
+     "y": -91.6
+    },
+    {
+     "x": -66.4,
+     "y": -85.4
+    },
+    {
+     "x": -164.8,
+     "y": -38.5
+    }
+   ]
+  },
+  {
+   "id": "lagoon",
+   "kind": "sand",
+   "label": "Sand 3 m",
+   "depth": 3.0,
+   "points": [
+    {
+     "x": 73.7,
+     "y": -59.9
+    },
+    {
+     "x": 70.1,
+     "y": -75.7
+    },
+    {
+     "x": 86.9,
+     "y": -88.1
+    },
+    {
+     "x": 133.5,
+     "y": -106.2
+    },
+    {
+     "x": 181.6,
+     "y": -124.8
+    },
+    {
+     "x": 188.5,
+     "y": -106.0
+    },
+    {
+     "x": 152.6,
+     "y": -88.7
+    },
+    {
+     "x": 103.8,
+     "y": -70.9
+    }
+   ]
+  },
+  {
+   "id": "reef-7m",
+   "kind": "coral",
+   "label": "Reef 7 m",
+   "depth": 7.0,
+   "points": [
+    {
+     "x": 53.7,
+     "y": -50.5
+    },
+    {
+     "x": 103.8,
+     "y": -70.9
+    },
+    {
+     "x": 152.6,
+     "y": -88.7
+    },
+    {
+     "x": 188.5,
+     "y": -106.0
+    },
+    {
+     "x": 192.6,
+     "y": -94.7
+    },
+    {
+     "x": 146.2,
+     "y": -71.4
+    },
+    {
+     "x": 109.9,
+     "y": -54.0
+    },
+    {
+     "x": 72.0,
+     "y": -41.2
+    },
+    {
+     "x": 60.2,
+     "y": -44.4
+    }
+   ]
+  },
+  {
+   "id": "spur-1",
+   "kind": "coral",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -109.3,
+     "y": -7.2
+    },
+    {
+     "x": -96.1,
+     "y": -12.0
+    },
+    {
+     "x": -90.1,
+     "y": 10.3
+    },
+    {
+     "x": -96.4,
+     "y": 13.7
+    }
+   ]
+  },
+  {
+   "id": "spur-2",
+   "kind": "coral",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -88.6,
+     "y": -14.7
+    },
+    {
+     "x": -79.2,
+     "y": -18.1
+    },
+    {
+     "x": -71.2,
+     "y": 9.8
+    },
+    {
+     "x": -77.1,
+     "y": 10.9
+    }
+   ]
+  },
+  {
+   "id": "spur-3",
+   "kind": "coral",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -64.2,
+     "y": -23.6
+    },
+    {
+     "x": -54.8,
+     "y": -27.0
+    },
+    {
+     "x": -47.1,
+     "y": -0.0
+    },
+    {
+     "x": -52.7,
+     "y": 2.0
+    }
+   ]
+  },
+  {
+   "id": "sand-tongue",
+   "kind": "sand",
+   "label": "Sand 10 m",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": -19.2,
+     "y": -69.7
+    },
+    {
+     "x": 20.6,
+     "y": -83.2
+    },
+    {
+     "x": 35.1,
+     "y": -60.8
+    },
+    {
+     "x": 50.8,
+     "y": -41.0
+    },
+    {
+     "x": 18.4,
+     "y": -24.9
+    },
+    {
+     "x": -15.0,
+     "y": -17.0
+    },
+    {
+     "x": -27.1,
+     "y": -21.1
+    },
+    {
+     "x": -25.0,
+     "y": -38.9
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -260.0,
+     "y": 18.9
+    },
+    {
+     "x": -232.0,
+     "y": 3.0
+    },
+    {
+     "x": -195.2,
+     "y": -8.2
+    },
+    {
+     "x": -150.5,
+     "y": -52.8
+    },
+    {
+     "x": -111.1,
+     "y": -73.5
+    },
+    {
+     "x": -69.6,
+     "y": -85.2
+    },
+    {
+     "x": -2.6,
+     "y": -88.9
+    },
+    {
+     "x": 49.7,
+     "y": -100.1
+    },
+    {
+     "x": 80.2,
+     "y": -114.2
+    },
+    {
+     "x": 103.0,
+     "y": -139.2
+    },
+    {
+     "x": 121.2,
+     "y": -173.9
+    },
+    {
+     "x": 170.0,
+     "y": -217.0
+    },
+    {
+     "x": 199.5,
+     "y": -236.8
+    },
+    {
+     "x": 259.9,
+     "y": -260.0
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -135.1,
+     "y": 33.1
+    },
+    {
+     "x": -96.1,
+     "y": 23.1
+    },
+    {
+     "x": -63.8,
+     "y": 24.2
+    },
+    {
+     "x": -42.5,
+     "y": 18.5
+    },
+    {
+     "x": -27.1,
+     "y": 2.3
+    },
+    {
+     "x": -3.5,
+     "y": -14.8
+    },
+    {
+     "x": 25.4,
+     "y": -23.2
+    },
+    {
+     "x": 51.5,
+     "y": -15.7
+    },
+    {
+     "x": 81.2,
+     "y": -15.9
+    },
+    {
+     "x": 118.8,
+     "y": -29.5
+    },
+    {
+     "x": 144.3,
+     "y": -47.3
+    },
+    {
+     "x": 169.1,
+     "y": -67.0
+    },
+    {
+     "x": 196.7,
+     "y": -83.4
+    }
+   ]
+  },
+  {
+   "id": "route-south",
+   "kind": "path",
+   "label": "South loop",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -19.9,
+     "y": -83.3
+    },
+    {
+     "x": -13.5,
+     "y": -68.6
+    },
+    {
+     "x": -17.9,
+     "y": -54.3
+    },
+    {
+     "x": -26.4,
+     "y": -42.7
+    },
+    {
+     "x": -37.3,
+     "y": -25.9
+    },
+    {
+     "x": -47.6,
+     "y": -7.3
+    },
+    {
+     "x": -60.9,
+     "y": 2.9
+    },
+    {
+     "x": -78.3,
+     "y": 13.5
+    },
+    {
+     "x": -97.8,
+     "y": 18.4
+    },
+    {
+     "x": -120.2,
+     "y": 33.0
+    },
+    {
+     "x": -114.0,
+     "y": 38.2
+    },
+    {
+     "x": -96.3,
+     "y": 40.2
+    },
+    {
+     "x": -76.8,
+     "y": 35.3
+    },
+    {
+     "x": -50.0,
+     "y": 21.3
+    },
+    {
+     "x": -41.4,
+     "y": 9.6
+    },
+    {
+     "x": -30.5,
+     "y": -7.1
+    },
+    {
+     "x": -20.3,
+     "y": -25.7
+    },
+    {
+     "x": -13.8,
+     "y": -43.0
+    },
+    {
+     "x": -7.3,
+     "y": -60.3
+    },
+    {
+     "x": -10.5,
+     "y": -86.7
+    }
+   ]
+  },
+  {
+   "id": "route-north",
+   "kind": "path",
+   "label": "North loop",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 2.6,
+     "y": -91.5
+    },
+    {
+     "x": 12.4,
+     "y": -67.4
+    },
+    {
+     "x": 28.6,
+     "y": -43.5
+    },
+    {
+     "x": 46.0,
+     "y": -30.7
+    },
+    {
+     "x": 70.3,
+     "y": -22.5
+    },
+    {
+     "x": 89.3,
+     "y": -23.0
+    },
+    {
+     "x": 117.1,
+     "y": -34.2
+    },
+    {
+     "x": 134.2,
+     "y": -45.8
+    },
+    {
+     "x": 151.6,
+     "y": -56.4
+    },
+    {
+     "x": 160.2,
+     "y": -68.0
+    },
+    {
+     "x": 161.0,
+     "y": -83.2
+    },
+    {
+     "x": 143.4,
+     "y": -78.9
+    },
+    {
+     "x": 115.9,
+     "y": -66.8
+    },
+    {
+     "x": 88.4,
+     "y": -54.7
+    },
+    {
+     "x": 63.5,
+     "y": -41.3
+    },
+    {
+     "x": 48.8,
+     "y": -46.6
+    },
+    {
+     "x": 35.1,
+     "y": -60.8
+    },
+    {
+     "x": 24.0,
+     "y": -73.8
+    },
+    {
+     "x": 12.0,
+     "y": -95.0
+    }
+   ]
+  }
+ ],
+ "notes": "Reef table, the sand tongue at the shore entry, the 3 m lagoon, coral heads and the two usual loops (south and north), placed on the OpenStreetMap coastline; positions and depths are approximate. The deep south side (wall to 60 m with chasms and overhangs) and the gorgonian boulder field on the north side at 20-25 m are described for the site but not drawn. Coastline © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 28.353167,
+  "lon": 34.43355
+ },
+ "underlay": null,
+ "id": "egy-gabr-el-bint-1",
+ "site_id": "egy-gabr-el-bint",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:56:15.537542Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

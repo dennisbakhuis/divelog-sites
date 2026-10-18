@@ -1,0 +1,486 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Koh Bida Nai",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "buoy-south",
+   "x": -40.2,
+   "y": 51.7,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "archway",
+   "x": -50.9,
+   "y": 53.5,
+   "type": "poi",
+   "label": "Archway swim-through (glassfish)",
+   "depth": 8.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r5",
+   "x": -62.6,
+   "y": 43.4,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 5.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r12",
+   "x": -58.2,
+   "y": 67.5,
+   "type": "marker",
+   "label": "Boulder base",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tip10",
+   "x": -10.5,
+   "y": 59.4,
+   "type": "marker",
+   "label": "South point",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-fantasy",
+   "x": 5.6,
+   "y": 41.8,
+   "type": "buoy",
+   "label": "Mooring, Fantasy Reef",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fantasy-1",
+   "x": 5.2,
+   "y": 75.2,
+   "type": "object",
+   "label": "Fantasy Reef",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fantasy-2",
+   "x": 28.5,
+   "y": 87.3,
+   "type": "object",
+   "label": "Fantasy Reef",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fantasy-3",
+   "x": 19.4,
+   "y": 108.5,
+   "type": "object",
+   "label": "Fantasy Reef",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sand-24",
+   "x": -11.4,
+   "y": 103.5,
+   "type": "marker",
+   "label": "Sand",
+   "depth": 24.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "east-dropoff",
+   "x": 36.0,
+   "y": 0.1,
+   "type": "poi",
+   "label": "East drop-off, sand and bommies",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ne-10",
+   "x": 30.7,
+   "y": -60.3,
+   "type": "marker",
+   "label": "Reef",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ne-22",
+   "x": 37.8,
+   "y": -87.2,
+   "type": "marker",
+   "label": "Reef base",
+   "depth": 22.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-ne",
+   "x": 46.6,
+   "y": -118.1,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "coral-garden",
+   "kind": "coral",
+   "label": "Hard coral garden",
+   "depth": 5.0,
+   "points": [
+    {
+     "x": -90.2,
+     "y": 7.7
+    },
+    {
+     "x": -74.9,
+     "y": 7.3
+    },
+    {
+     "x": -60.9,
+     "y": 33.8
+    },
+    {
+     "x": -52.8,
+     "y": 52.8
+    },
+    {
+     "x": -66.0,
+     "y": 60.7
+    },
+    {
+     "x": -81.7,
+     "y": 45.8
+    },
+    {
+     "x": -91.7,
+     "y": 26.9
+    }
+   ]
+  },
+  {
+   "id": "fantasy",
+   "kind": "other",
+   "label": "",
+   "depth": 14.0,
+   "points": [
+    {
+     "x": -12.1,
+     "y": 71.0
+    },
+    {
+     "x": 3.1,
+     "y": 66.8
+    },
+    {
+     "x": 26.1,
+     "y": 70.1
+    },
+    {
+     "x": 38.0,
+     "y": 85.1
+    },
+    {
+     "x": 34.8,
+     "y": 112.0
+    },
+    {
+     "x": 19.6,
+     "y": 118.1
+    },
+    {
+     "x": 0.3,
+     "y": 112.8
+    },
+    {
+     "x": -7.8,
+     "y": 93.9
+    }
+   ]
+  },
+  {
+   "id": "staghorn",
+   "kind": "coral",
+   "label": "Staghorn and sand",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": -31.5,
+     "y": 63.8
+    },
+    {
+     "x": -12.4,
+     "y": 59.5
+    },
+    {
+     "x": -0.8,
+     "y": 63.0
+    },
+    {
+     "x": -4.3,
+     "y": 78.5
+    },
+    {
+     "x": -19.5,
+     "y": 82.6
+    },
+    {
+     "x": -33.1,
+     "y": 75.3
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore-407437353",
+   "kind": "shoreline",
+   "label": "Koh Bida Nai",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 22.3,
+     "y": -62.1
+    },
+    {
+     "x": 3.1,
+     "y": -73.6
+    },
+    {
+     "x": -21.7,
+     "y": -83.5
+    },
+    {
+     "x": -45.5,
+     "y": -82.6
+    },
+    {
+     "x": -58.6,
+     "y": -81.3
+    },
+    {
+     "x": -76.5,
+     "y": -77.8
+    },
+    {
+     "x": -95.6,
+     "y": -68.0
+    },
+    {
+     "x": -108.6,
+     "y": -42.9
+    },
+    {
+     "x": -106.2,
+     "y": -25.3
+    },
+    {
+     "x": -96.1,
+     "y": -9.3
+    },
+    {
+     "x": -90.5,
+     "y": 6.8
+    },
+    {
+     "x": -80.9,
+     "y": 22.9
+    },
+    {
+     "x": -62.1,
+     "y": 39.0
+    },
+    {
+     "x": -54.6,
+     "y": 41.7
+    },
+    {
+     "x": -47.9,
+     "y": 44.1
+    },
+    {
+     "x": -30.7,
+     "y": 41.9
+    },
+    {
+     "x": -25.3,
+     "y": 34.1
+    },
+    {
+     "x": -16.1,
+     "y": 24.2
+    },
+    {
+     "x": -4.3,
+     "y": 11.3
+    },
+    {
+     "x": 9.8,
+     "y": 0.6
+    },
+    {
+     "x": 16.8,
+     "y": -7.7
+    },
+    {
+     "x": 38.7,
+     "y": -23.3
+    },
+    {
+     "x": 41.1,
+     "y": -30.6
+    },
+    {
+     "x": 41.4,
+     "y": -38.9
+    },
+    {
+     "x": 39.1,
+     "y": -47.5
+    }
+   ]
+  },
+  {
+   "id": "c25",
+   "kind": "depth",
+   "label": "",
+   "depth": 25.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -111.0,
+     "y": -60.8
+    },
+    {
+     "x": -73.4,
+     "y": -92.3
+    },
+    {
+     "x": -16.2,
+     "y": -101.3
+    },
+    {
+     "x": 45.2,
+     "y": -95.1
+    },
+    {
+     "x": 84.2,
+     "y": -65.3
+    },
+    {
+     "x": 104.7,
+     "y": -8.4
+    },
+    {
+     "x": 117.6,
+     "y": 48.8
+    },
+    {
+     "x": 114.7,
+     "y": 91.0
+    },
+    {
+     "x": 88.5,
+     "y": 114.6
+    },
+    {
+     "x": 34.9,
+     "y": 117.7
+    },
+    {
+     "x": -11.3,
+     "y": 105.4
+    },
+    {
+     "x": -57.5,
+     "y": 95.0
+    },
+    {
+     "x": -96.4,
+     "y": 73.0
+    },
+    {
+     "x": -116.6,
+     "y": 27.5
+    },
+    {
+     "x": -117.7,
+     "y": -22.3
+    }
+   ]
+  }
+ ],
+ "notes": "Koh Bida Nai, the inner of the two Bida limestone islets 2 km south of Phi Phi Leh, with Bida Nok 150 m to the south; coastlines from OpenStreetMap. Moorings, the archway swim-through, the three pinnacles of Fantasy Reef and the depths; descriptions from Phuket Dive Guide: the dive usually starts at the southern mooring, goes through the glassfish archway into a shallow hard-coral garden and on over sand and staghorn to Fantasy Reef, with a sloping drop-off of 7-25 m on the east side. Positions are approximate.",
+ "origin": {
+  "lat": 7.657765,
+  "lon": 98.768149
+ },
+ "underlay": null,
+ "id": "tha-koh-bida-nai-1",
+ "site_id": "tha-koh-bida-nai",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:24:04.331376Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

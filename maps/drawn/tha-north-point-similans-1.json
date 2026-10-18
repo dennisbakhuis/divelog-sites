@@ -1,0 +1,476 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "North Point",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "top-5-w",
+   "x": -33.7,
+   "y": 43.0,
+   "type": "object",
+   "label": "Boulder top",
+   "depth": 5.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "top-5-e",
+   "x": 23.2,
+   "y": 35.4,
+   "type": "object",
+   "label": "Boulder top",
+   "depth": 5.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "chimneys",
+   "x": -5.4,
+   "y": 17.7,
+   "type": "poi",
+   "label": "Chimneys and swim-throughs 5–20 m",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fans",
+   "x": 7.4,
+   "y": -53.4,
+   "type": "poi",
+   "label": "Sea fans in the deeper channels",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 112.5,
+   "y": -88.0,
+   "type": "hazard",
+   "label": "Current round the point",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "formation",
+   "kind": "other",
+   "label": "Giant boulder formation 20–40 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -42.5,
+     "y": -42.7
+    },
+    {
+     "x": -27.6,
+     "y": -68.7
+    },
+    {
+     "x": 8.8,
+     "y": -78.4
+    },
+    {
+     "x": 44.4,
+     "y": -73.8
+    },
+    {
+     "x": 49.0,
+     "y": -42.1
+    },
+    {
+     "x": 47.5,
+     "y": -15.3
+    },
+    {
+     "x": 26.8,
+     "y": 1.5
+    },
+    {
+     "x": -8.9,
+     "y": -0.5
+    },
+    {
+     "x": -39.7,
+     "y": -11.1
+    }
+   ]
+  },
+  {
+   "id": "boulders-nw",
+   "kind": "other",
+   "label": "Boulders",
+   "depth": 30.0,
+   "points": [
+    {
+     "x": -122.5,
+     "y": -87.4
+    },
+    {
+     "x": -102.1,
+     "y": -99.7
+    },
+    {
+     "x": -53.2,
+     "y": -92.6
+    },
+    {
+     "x": -31.6,
+     "y": -77.9
+    },
+    {
+     "x": -42.0,
+     "y": -51.6
+    },
+    {
+     "x": -78.0,
+     "y": -49.1
+    },
+    {
+     "x": -95.3,
+     "y": -60.8
+    },
+    {
+     "x": -113.0,
+     "y": -64.5
+    }
+   ]
+  },
+  {
+   "id": "boulders-mid",
+   "kind": "other",
+   "label": "Boulders 5–15 m",
+   "depth": 15.0,
+   "points": [
+    {
+     "x": -90.6,
+     "y": 17.5
+    },
+    {
+     "x": -54.1,
+     "y": 6.0
+    },
+    {
+     "x": 8.5,
+     "y": 9.5
+    },
+    {
+     "x": 43.5,
+     "y": 24.8
+    },
+    {
+     "x": 33.6,
+     "y": 42.2
+    },
+    {
+     "x": 1.8,
+     "y": 49.4
+    },
+    {
+     "x": -56.7,
+     "y": 52.5
+    },
+    {
+     "x": -91.8,
+     "y": 39.8
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 404.0,
+     "y": 370.5
+    },
+    {
+     "x": 354.4,
+     "y": 342.3
+    },
+    {
+     "x": 279.5,
+     "y": 247.9
+    },
+    {
+     "x": 188.9,
+     "y": 183.9
+    },
+    {
+     "x": 144.3,
+     "y": 140.0
+    },
+    {
+     "x": 61.1,
+     "y": 121.8
+    },
+    {
+     "x": -21.0,
+     "y": 101.9
+    },
+    {
+     "x": -64.7,
+     "y": 107.8
+    },
+    {
+     "x": -108.7,
+     "y": 117.4
+    },
+    {
+     "x": -141.7,
+     "y": 161.3
+    },
+    {
+     "x": -170.9,
+     "y": 196.3
+    },
+    {
+     "x": -215.8,
+     "y": 213.3
+    },
+    {
+     "x": -271.7,
+     "y": 241.2
+    },
+    {
+     "x": -288.0,
+     "y": 272.7
+    },
+    {
+     "x": -307.3,
+     "y": 269.0
+    },
+    {
+     "x": -326.2,
+     "y": 259.0
+    },
+    {
+     "x": -353.9,
+     "y": 214.5
+    },
+    {
+     "x": -372.2,
+     "y": 228.6
+    },
+    {
+     "x": -390.1,
+     "y": 224.5
+    },
+    {
+     "x": -408.8,
+     "y": 233.2
+    },
+    {
+     "x": -409.4,
+     "y": 277.8
+    },
+    {
+     "x": -398.8,
+     "y": 306.5
+    },
+    {
+     "x": -419.5,
+     "y": 335.3
+    },
+    {
+     "x": -429.6,
+     "y": 334.9
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -193.5,
+     "y": 95.2
+    },
+    {
+     "x": -156.3,
+     "y": 70.4
+    },
+    {
+     "x": -123.8,
+     "y": 49.7
+    },
+    {
+     "x": -56.7,
+     "y": 52.5
+    },
+    {
+     "x": 33.2,
+     "y": 48.5
+    },
+    {
+     "x": 77.7,
+     "y": 54.5
+    },
+    {
+     "x": 122.0,
+     "y": 65.9
+    },
+    {
+     "x": 166.2,
+     "y": 77.3
+    },
+    {
+     "x": 210.2,
+     "y": 92.3
+    },
+    {
+     "x": 236.5,
+     "y": 102.7
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -187.7,
+     "y": -10.3
+    },
+    {
+     "x": -142.1,
+     "y": -25.7
+    },
+    {
+     "x": -96.6,
+     "y": -36.7
+    },
+    {
+     "x": -51.8,
+     "y": -36.9
+    },
+    {
+     "x": -7.1,
+     "y": -33.5
+    },
+    {
+     "x": 37.5,
+     "y": -29.3
+    },
+    {
+     "x": 82.1,
+     "y": -24.2
+    },
+    {
+     "x": 126.6,
+     "y": -18.1
+    },
+    {
+     "x": 170.9,
+     "y": -8.5
+    },
+    {
+     "x": 214.8,
+     "y": 7.3
+    },
+    {
+     "x": 240.4,
+     "y": 31.2
+    }
+   ]
+  },
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -183.6,
+     "y": -86.3
+    },
+    {
+     "x": -138.1,
+     "y": -97.2
+    },
+    {
+     "x": -92.7,
+     "y": -108.2
+    },
+    {
+     "x": -38.4,
+     "y": -116.9
+    },
+    {
+     "x": -3.0,
+     "y": -107.8
+    },
+    {
+     "x": 40.9,
+     "y": -91.9
+    },
+    {
+     "x": 84.8,
+     "y": -74.2
+    },
+    {
+     "x": 129.0,
+     "y": -62.8
+    },
+    {
+     "x": 173.1,
+     "y": -48.8
+    },
+    {
+     "x": 217.1,
+     "y": -32.9
+    },
+    {
+     "x": 243.6,
+     "y": -27.0
+    }
+   ]
+  }
+ ],
+ "notes": "The northern tip of Ko Bangu (Similan 9): boulders lying parallel to the shore and getting deeper, two tops at 5 m with the chimneys and swim-throughs between them, and a giant boulder formation from 20 m to 40 m with sea fans in its channels, on the OpenStreetMap coastline, so positions are approximate. Chimneys from first-hand observation, the swim-throughs and fan corals from IDC Phuket and Raya Divers descriptions; current runs round the point.",
+ "origin": {
+  "lat": 8.682746,
+  "lon": 97.648138
+ },
+ "underlay": null,
+ "id": "tha-north-point-similans-1",
+ "site_id": "tha-north-point-similans",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:37:43.205390Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

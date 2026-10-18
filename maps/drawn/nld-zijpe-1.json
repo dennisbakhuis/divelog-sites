@@ -1,0 +1,462 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Zijpe",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "bootduik",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Bootduik (logpositie)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stroming",
+   "x": 150.0,
+   "y": 120.0,
+   "type": "hazard",
+   "label": "Sterke getijstroming, alleen kentering",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kt-37",
+   "x": -103.5,
+   "y": 146.3,
+   "type": "buoy",
+   "label": "KT 37",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kt-39",
+   "x": 430.8,
+   "y": -128.4,
+   "type": "buoy",
+   "label": "KT 39",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kt-40",
+   "x": -462.7,
+   "y": -138.2,
+   "type": "buoy",
+   "label": "KT 40",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kt-42-zg-1",
+   "x": -291.6,
+   "y": -471.1,
+   "type": "buoy",
+   "label": "KT 42-ZG 1",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "k-2-zg-1",
+   "x": -270.0,
+   "y": -509.2,
+   "type": "buoy",
+   "label": "K 2-ZG 1",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zg-2",
+   "x": -515.9,
+   "y": -412.4,
+   "type": "buoy",
+   "label": "ZG 2",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "mosselperceel-1",
+   "kind": "other",
+   "label": "Mosselperceel",
+   "depth": null,
+   "points": [
+    {
+     "x": -780.0,
+     "y": -480.0
+    },
+    {
+     "x": -566.2,
+     "y": -480.0
+    },
+    {
+     "x": -542.5,
+     "y": -458.2
+    },
+    {
+     "x": -596.8,
+     "y": -116.5
+    },
+    {
+     "x": -780.0,
+     "y": -315.5
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 719.1,
+     "y": 447.5
+    },
+    {
+     "x": 709.4,
+     "y": 448.4
+    },
+    {
+     "x": 702.3,
+     "y": 442.6
+    },
+    {
+     "x": 685.5,
+     "y": 447.6
+    },
+    {
+     "x": 672.4,
+     "y": 441.5
+    },
+    {
+     "x": 648.4,
+     "y": 444.9
+    },
+    {
+     "x": 635.5,
+     "y": 438.8
+    },
+    {
+     "x": 612.3,
+     "y": 451.6
+    },
+    {
+     "x": 595.8,
+     "y": 449.5
+    },
+    {
+     "x": 585.1,
+     "y": 455.3
+    },
+    {
+     "x": 553.6,
+     "y": 461.5
+    },
+    {
+     "x": 547.1,
+     "y": 454.3
+    },
+    {
+     "x": 550.0,
+     "y": 438.5
+    },
+    {
+     "x": 539.4,
+     "y": 432.3
+    },
+    {
+     "x": 606.8,
+     "y": 422.7
+    },
+    {
+     "x": 602.2,
+     "y": 414.0
+    },
+    {
+     "x": 518.7,
+     "y": 425.2
+    },
+    {
+     "x": 504.8,
+     "y": 423.9
+    },
+    {
+     "x": 448.1,
+     "y": 406.4
+    },
+    {
+     "x": 315.5,
+     "y": 486.0
+    },
+    {
+     "x": 324.0,
+     "y": 491.1
+    },
+    {
+     "x": 326.4,
+     "y": 500.0
+    },
+    {
+     "x": 347.9,
+     "y": 523.1
+    },
+    {
+     "x": 349.5,
+     "y": 526.6
+    },
+    {
+     "x": 344.9,
+     "y": 529.4
+    },
+    {
+     "x": 304.0,
+     "y": 520.0
+    },
+    {
+     "x": 294.9,
+     "y": 508.6
+    },
+    {
+     "x": 306.9,
+     "y": 500.5
+    },
+    {
+     "x": 304.5,
+     "y": 492.6
+    },
+    {
+     "x": 229.3,
+     "y": 536.9
+    },
+    {
+     "x": 176.8,
+     "y": 574.9
+    }
+   ]
+  },
+  {
+   "id": "shore-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -748.5,
+     "y": -217.6
+    },
+    {
+     "x": -655.8,
+     "y": -119.6
+    },
+    {
+     "x": -647.6,
+     "y": -105.7
+    },
+    {
+     "x": -644.7,
+     "y": -87.8
+    },
+    {
+     "x": -647.3,
+     "y": -69.3
+    },
+    {
+     "x": -680.5,
+     "y": -5.4
+    },
+    {
+     "x": -652.7,
+     "y": -62.5
+    },
+    {
+     "x": -647.6,
+     "y": -92.6
+    },
+    {
+     "x": -650.3,
+     "y": -105.3
+    },
+    {
+     "x": -657.8,
+     "y": -118.2
+    },
+    {
+     "x": -688.4,
+     "y": -151.8
+    }
+   ]
+  },
+  {
+   "id": "shore-3",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -648.9,
+     "y": -166.3
+    },
+    {
+     "x": -601.5,
+     "y": -114.7
+    },
+    {
+     "x": -596.6,
+     "y": -97.9
+    },
+    {
+     "x": -596.0,
+     "y": -79.9
+    },
+    {
+     "x": -753.8,
+     "y": 233.9
+    },
+    {
+     "x": -754.3,
+     "y": 243.9
+    },
+    {
+     "x": -761.0,
+     "y": 249.2
+    }
+   ]
+  },
+  {
+   "id": "shore-4",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -749.5,
+     "y": 72.2
+    },
+    {
+     "x": -731.3,
+     "y": 91.3
+    },
+    {
+     "x": -744.7,
+     "y": 120.3
+    },
+    {
+     "x": -743.0,
+     "y": 121.6
+    },
+    {
+     "x": -722.8,
+     "y": 78.3
+    },
+    {
+     "x": -730.1,
+     "y": 88.5
+    },
+    {
+     "x": -748.4,
+     "y": 70.5
+    }
+   ]
+  },
+  {
+   "id": "shore-5",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -744.4,
+     "y": 86.2
+    },
+    {
+     "x": -751.8,
+     "y": 94.1
+    },
+    {
+     "x": -773.5,
+     "y": 74.0
+    },
+    {
+     "x": -766.1,
+     "y": 66.0
+    },
+    {
+     "x": -744.4,
+     "y": 86.2
+    }
+   ]
+  },
+  {
+   "id": "shore-6",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -688.4,
+     "y": -151.8
+    },
+    {
+     "x": -740.7,
+     "y": -207.4
+    }
+   ]
+  }
+ ],
+ "notes": "The Zijpe channel off Bruinisse, where the Zijpe meets the Krammer, a boat dive site. The map is sparse: it shows only the shoreline, the channel buoys and mussel plots from OpenStreetMap and the site position as the boat entry. The strong tidal current is from the site description; dive at slack water only.",
+ "origin": {
+  "lat": 51.65727,
+  "lon": 4.11377
+ },
+ "underlay": null,
+ "id": "nld-zijpe-1",
+ "site_id": "nld-zijpe",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:59:29.696410Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

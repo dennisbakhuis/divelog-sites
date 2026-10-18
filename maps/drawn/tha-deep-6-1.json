@@ -1,0 +1,558 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Deep Six",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "rock-22",
+   "x": 16.2,
+   "y": -81.6,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 22.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-24",
+   "x": 55.2,
+   "y": -75.9,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 24.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-26",
+   "x": 83.5,
+   "y": -27.6,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 26.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-12",
+   "x": 1.0,
+   "y": -7.0,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-8",
+   "x": -41.1,
+   "y": 9.0,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-awash",
+   "x": -31.1,
+   "y": 61.7,
+   "type": "object",
+   "label": "Rock breaking the surface",
+   "depth": 0.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-5",
+   "x": -92.4,
+   "y": 88.1,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 5.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boulder-w",
+   "x": -60.8,
+   "y": -19.5,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 20.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "swim",
+   "x": 17.8,
+   "y": 29.1,
+   "type": "poi",
+   "label": "Swim-throughs 12–22 m",
+   "depth": 17.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 129.9,
+   "y": -43.0,
+   "type": "hazard",
+   "label": "Current round the tip",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "ridge",
+   "kind": "other",
+   "label": "Boulder ridge 5–26 m",
+   "depth": null,
+   "points": [
+    {
+     "x": 18.7,
+     "y": -68.0
+    },
+    {
+     "x": 62.6,
+     "y": -66.0
+    },
+    {
+     "x": 75.4,
+     "y": -33.2
+    },
+    {
+     "x": 66.6,
+     "y": 27.3
+    },
+    {
+     "x": 35.6,
+     "y": 58.1
+    },
+    {
+     "x": 7.2,
+     "y": 71.7
+    },
+    {
+     "x": -11.6,
+     "y": 79.5
+    },
+    {
+     "x": -47.9,
+     "y": 85.7
+    },
+    {
+     "x": -68.2,
+     "y": 73.9
+    },
+    {
+     "x": -62.6,
+     "y": 35.0
+    },
+    {
+     "x": -53.8,
+     "y": 5.4
+    },
+    {
+     "x": -27.2,
+     "y": -26.1
+    },
+    {
+     "x": 3.2,
+     "y": -52.6
+    }
+   ]
+  },
+  {
+   "id": "boulders-e",
+   "kind": "other",
+   "label": "Boulders 20–26 m",
+   "depth": 22.0,
+   "points": [
+    {
+     "x": 101.9,
+     "y": 28.0
+    },
+    {
+     "x": 126.0,
+     "y": 13.9
+    },
+    {
+     "x": 147.2,
+     "y": 19.6
+    },
+    {
+     "x": 150.0,
+     "y": 61.5
+    },
+    {
+     "x": 138.2,
+     "y": 81.9
+    },
+    {
+     "x": 98.7,
+     "y": 49.7
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 69.4,
+     "y": 399.8
+    },
+    {
+     "x": 24.6,
+     "y": 263.8
+    },
+    {
+     "x": -3.8,
+     "y": 161.8
+    },
+    {
+     "x": -3.8,
+     "y": 102.0
+    },
+    {
+     "x": -12.9,
+     "y": 100.8
+    },
+    {
+     "x": -21.8,
+     "y": 90.2
+    },
+    {
+     "x": -33.6,
+     "y": 86.4
+    },
+    {
+     "x": -35.4,
+     "y": 101.7
+    },
+    {
+     "x": -30.1,
+     "y": 114.9
+    },
+    {
+     "x": -54.6,
+     "y": 114.9
+    },
+    {
+     "x": -76.0,
+     "y": 121.7
+    },
+    {
+     "x": -87.6,
+     "y": 152.7
+    },
+    {
+     "x": -94.7,
+     "y": 145.4
+    },
+    {
+     "x": -104.2,
+     "y": 148.9
+    },
+    {
+     "x": -114.8,
+     "y": 174.1
+    },
+    {
+     "x": -110.1,
+     "y": 189.4
+    },
+    {
+     "x": -118.3,
+     "y": 182.9
+    },
+    {
+     "x": -125.4,
+     "y": 191.7
+    },
+    {
+     "x": -120.1,
+     "y": 203.4
+    },
+    {
+     "x": -113.6,
+     "y": 219.9
+    },
+    {
+     "x": -130.1,
+     "y": 212.2
+    },
+    {
+     "x": -137.8,
+     "y": 224.5
+    },
+    {
+     "x": -135.4,
+     "y": 235.7
+    },
+    {
+     "x": -119.5,
+     "y": 241.0
+    },
+    {
+     "x": -123.6,
+     "y": 252.1
+    },
+    {
+     "x": -131.0,
+     "y": 270.5
+    },
+    {
+     "x": -97.7,
+     "y": 326.0
+    },
+    {
+     "x": -76.1,
+     "y": 339.5
+    }
+   ]
+  },
+  {
+   "id": "c10-w",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -229.7,
+     "y": 121.1
+    },
+    {
+     "x": -182.6,
+     "y": 101.5
+    },
+    {
+     "x": -135.0,
+     "y": 77.5
+    },
+    {
+     "x": -97.2,
+     "y": 60.9
+    },
+    {
+     "x": -65.7,
+     "y": 56.6
+    }
+   ]
+  },
+  {
+   "id": "c10-e",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 36.3,
+     "y": 53.8
+    },
+    {
+     "x": 68.4,
+     "y": 76.2
+    },
+    {
+     "x": 93.6,
+     "y": 115.2
+    },
+    {
+     "x": 118.8,
+     "y": 154.2
+    },
+    {
+     "x": 149.0,
+     "y": 189.5
+    },
+    {
+     "x": 181.1,
+     "y": 211.8
+    }
+   ]
+  },
+  {
+   "id": "c20-w",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -222.1,
+     "y": 69.2
+    },
+    {
+     "x": -173.2,
+     "y": 36.6
+    },
+    {
+     "x": -125.5,
+     "y": 12.6
+    },
+    {
+     "x": -86.5,
+     "y": -12.6
+    },
+    {
+     "x": -64.2,
+     "y": -44.7
+    },
+    {
+     "x": -46.8,
+     "y": -73.1
+    },
+    {
+     "x": -23.3,
+     "y": -82.9
+    },
+    {
+     "x": 11.3,
+     "y": -77.9
+    }
+   ]
+  },
+  {
+   "id": "c20-e",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 61.9,
+     "y": -61.7
+    },
+    {
+     "x": 94.0,
+     "y": -39.4
+    },
+    {
+     "x": 107.5,
+     "y": -10.9
+    },
+    {
+     "x": 127.2,
+     "y": 36.1
+    },
+    {
+     "x": 146.8,
+     "y": 83.2
+    },
+    {
+     "x": 167.1,
+     "y": 125.9
+    },
+    {
+     "x": 191.2,
+     "y": 142.6
+    }
+   ]
+  },
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -208.3,
+     "y": -25.9
+    },
+    {
+     "x": -160.0,
+     "y": -54.2
+    },
+    {
+     "x": -102.4,
+     "y": -85.6
+    },
+    {
+     "x": -48.6,
+     "y": -91.0
+    },
+    {
+     "x": -12.8,
+     "y": -94.6
+    },
+    {
+     "x": 32.4,
+     "y": -101.3
+    },
+    {
+     "x": 118.2,
+     "y": -84.4
+    },
+    {
+     "x": 141.0,
+     "y": -59.0
+    },
+    {
+     "x": 159.4,
+     "y": -3.3
+    },
+    {
+     "x": 181.6,
+     "y": 26.4
+    },
+    {
+     "x": 205.7,
+     "y": 43.1
+    }
+   ]
+  }
+ ],
+ "notes": "The boulder ridge running north off the tip of Ko Payu (Similan 7): a rock breaking the surface, boulder tops at 5, 8 and 12 m, swim-throughs at 12–22 m and the big boulders at 22–26 m at its outer end, with more boulders to the east. Drawn north up on the OpenStreetMap coastline, so positions are approximate. Swim-through depths from DiveZone.",
+ "origin": {
+  "lat": 8.598023,
+  "lon": 97.636748
+ },
+ "underlay": null,
+ "id": "tha-deep-6-1",
+ "site_id": "tha-deep-6",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:37:43.936068Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

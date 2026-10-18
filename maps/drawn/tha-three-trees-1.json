@@ -1,0 +1,440 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Three Trees",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "boulder-18",
+   "x": 148.0,
+   "y": 111.6,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-1",
+   "x": 58.2,
+   "y": 120.3,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-2",
+   "x": -53.3,
+   "y": 12.6,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-3",
+   "x": -99.7,
+   "y": 11.9,
+   "type": "poi",
+   "label": "Hard coral heads",
+   "depth": 8.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "big-boulders",
+   "kind": "other",
+   "label": "Big granite boulders 22–25 m",
+   "depth": 22.0,
+   "points": [
+    {
+     "x": 82.9,
+     "y": 11.1
+    },
+    {
+     "x": 46.8,
+     "y": -19.3
+    },
+    {
+     "x": 24.4,
+     "y": -36.9
+    },
+    {
+     "x": 2.1,
+     "y": -54.4
+    },
+    {
+     "x": -14.3,
+     "y": -71.3
+    },
+    {
+     "x": -2.1,
+     "y": -89.7
+    },
+    {
+     "x": 24.7,
+     "y": -102.6
+    },
+    {
+     "x": 29.0,
+     "y": -80.6
+    },
+    {
+     "x": 48.7,
+     "y": -60.4
+    },
+    {
+     "x": 67.1,
+     "y": -52.2
+    },
+    {
+     "x": 65.6,
+     "y": -37.6
+    },
+    {
+     "x": 79.9,
+     "y": -12.2
+    },
+    {
+     "x": 89.6,
+     "y": 4.5
+    }
+   ]
+  },
+  {
+   "id": "boulder-cluster",
+   "kind": "other",
+   "label": "Boulder cluster 10–15 m",
+   "depth": 12.0,
+   "points": [
+    {
+     "x": -109.1,
+     "y": -31.4
+    },
+    {
+     "x": -138.2,
+     "y": -42.4
+    },
+    {
+     "x": -163.1,
+     "y": -66.6
+    },
+    {
+     "x": -151.0,
+     "y": -81.1
+    },
+    {
+     "x": -125.0,
+     "y": -88.0
+    },
+    {
+     "x": -105.7,
+     "y": -87.1
+    },
+    {
+     "x": -95.3,
+     "y": -71.0
+    },
+    {
+     "x": -95.7,
+     "y": -44.5
+    }
+   ]
+  },
+  {
+   "id": "sand",
+   "kind": "sand",
+   "label": "Sand slope past 30 m, garden eels",
+   "depth": 28.0,
+   "points": [
+    {
+     "x": 163.6,
+     "y": 181.5
+    },
+    {
+     "x": 108.2,
+     "y": 104.4
+    },
+    {
+     "x": 62.5,
+     "y": 44.0
+    },
+    {
+     "x": 20.0,
+     "y": -6.4
+    },
+    {
+     "x": -42.1,
+     "y": -76.9
+    },
+    {
+     "x": -154.2,
+     "y": -138.2
+    },
+    {
+     "x": -103.7,
+     "y": -187.3
+    },
+    {
+     "x": 1.6,
+     "y": -119.5
+    },
+    {
+     "x": 77.2,
+     "y": -62.1
+    },
+    {
+     "x": 146.1,
+     "y": 2.0
+    },
+    {
+     "x": 237.6,
+     "y": 109.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 143.8,
+     "y": 449.0
+    },
+    {
+     "x": 145.6,
+     "y": 425.0
+    },
+    {
+     "x": 171.0,
+     "y": 413.8
+    },
+    {
+     "x": 162.7,
+     "y": 403.9
+    },
+    {
+     "x": 149.1,
+     "y": 408.5
+    },
+    {
+     "x": 102.6,
+     "y": 269.9
+    },
+    {
+     "x": 91.9,
+     "y": 237.3
+    },
+    {
+     "x": 2.1,
+     "y": 158.8
+    },
+    {
+     "x": -47.5,
+     "y": 130.6
+    },
+    {
+     "x": -122.4,
+     "y": 36.2
+    },
+    {
+     "x": -213.0,
+     "y": -27.8
+    },
+    {
+     "x": -257.6,
+     "y": -71.7
+    },
+    {
+     "x": -340.8,
+     "y": -89.9
+    },
+    {
+     "x": -422.9,
+     "y": -109.8
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 109.8,
+     "y": 233.9
+    },
+    {
+     "x": 87.1,
+     "y": 190.4
+    },
+    {
+     "x": 59.1,
+     "y": 152.2
+    },
+    {
+     "x": -4.4,
+     "y": 83.0
+    },
+    {
+     "x": -74.6,
+     "y": 20.2
+    },
+    {
+     "x": -106.0,
+     "y": -14.7
+    },
+    {
+     "x": -135.4,
+     "y": -51.6
+    },
+    {
+     "x": -171.5,
+     "y": -82.0
+    },
+    {
+     "x": -197.9,
+     "y": -95.6
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 146.8,
+     "y": 197.9
+    },
+    {
+     "x": 120.8,
+     "y": 157.7
+    },
+    {
+     "x": 94.8,
+     "y": 117.5
+    },
+    {
+     "x": 65.4,
+     "y": 80.6
+    },
+    {
+     "x": 1.9,
+     "y": 11.3
+    },
+    {
+     "x": -29.5,
+     "y": -23.6
+    },
+    {
+     "x": -55.6,
+     "y": -63.8
+    },
+    {
+     "x": -71.9,
+     "y": -87.3
+    },
+    {
+     "x": -104.8,
+     "y": -107.7
+    },
+    {
+     "x": -144.4,
+     "y": -121.5
+    },
+    {
+     "x": -171.0,
+     "y": -121.8
+    }
+   ]
+  },
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 218.8,
+     "y": 127.8
+    },
+    {
+     "x": 191.4,
+     "y": 88.9
+    },
+    {
+     "x": 164.1,
+     "y": 50.0
+    },
+    {
+     "x": 129.3,
+     "y": 18.3
+    },
+    {
+     "x": 59.1,
+     "y": -44.4
+    },
+    {
+     "x": -13.2,
+     "y": -105.1
+    },
+    {
+     "x": -65.8,
+     "y": -145.7
+    },
+    {
+     "x": -100.7,
+     "y": -164.1
+    },
+    {
+     "x": -123.9,
+     "y": -167.7
+    }
+   ]
+  }
+ ],
+ "notes": "The north-east shore of Ko Bangu (Similan 9): a reef from about 8 m, coral heads and a boulder cluster in the shallows, then the sand slope with the big granite boulders at 22–25 m and a single boulder at 18 m, the sand going on past 30 m, on the OpenStreetMap coastline, so positions are approximate. The three trees that name the site stand on the island's edge above the reef; their exact place is not known, so they are not drawn. Boulder depth 22 m from first-hand observation; garden eels on the sand.",
+ "origin": {
+  "lat": 8.680832,
+  "lon": 97.65179
+ },
+ "underlay": null,
+ "id": "tha-three-trees-1",
+ "site_id": "tha-three-trees",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:37:43.349896Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

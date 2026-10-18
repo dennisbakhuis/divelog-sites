@@ -1,0 +1,385 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Middle Finger",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry-west",
+   "x": -97.0,
+   "y": -92.0,
+   "type": "entry",
+   "label": "Entry west of the point",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry-east",
+   "x": 30.0,
+   "y": -138.0,
+   "type": "entry",
+   "label": "Entry east of the point",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "middle-finger",
+   "x": 0.0,
+   "y": 32.0,
+   "type": "object",
+   "label": "Middle Finger (top)",
+   "depth": 10.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "channel",
+   "x": -2.0,
+   "y": 4.0,
+   "type": "poi",
+   "label": "Channel",
+   "depth": 35.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-base",
+   "x": 12.0,
+   "y": 62.0,
+   "type": "poi",
+   "label": "Base of the pinnacle",
+   "depth": 42.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "drop-off",
+   "x": 10.0,
+   "y": 120.0,
+   "type": "poi",
+   "label": "Drop-off to 90 m+",
+   "depth": 90.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "west-reef",
+   "x": -150.0,
+   "y": -30.0,
+   "type": "poi",
+   "label": "Shallow reef",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -323.8,
+     "y": -118.7
+    },
+    {
+     "x": -318.6,
+     "y": -115.7
+    },
+    {
+     "x": -312.8,
+     "y": -117.0
+    },
+    {
+     "x": -298.7,
+     "y": -110.5
+    },
+    {
+     "x": -269.2,
+     "y": -103.0
+    },
+    {
+     "x": -235.5,
+     "y": -88.1
+    },
+    {
+     "x": -230.5,
+     "y": -81.6
+    },
+    {
+     "x": -208.5,
+     "y": -67.8
+    },
+    {
+     "x": -197.6,
+     "y": -55.0
+    },
+    {
+     "x": -193.0,
+     "y": -53.1
+    },
+    {
+     "x": -161.1,
+     "y": -55.4
+    },
+    {
+     "x": -121.4,
+     "y": -65.7
+    },
+    {
+     "x": -118.5,
+     "y": -68.4
+    },
+    {
+     "x": -116.8,
+     "y": -79.4
+    },
+    {
+     "x": -112.7,
+     "y": -84.8
+    },
+    {
+     "x": -96.0,
+     "y": -95.9
+    },
+    {
+     "x": -79.2,
+     "y": -85.2
+    },
+    {
+     "x": -71.8,
+     "y": -72.2
+    },
+    {
+     "x": -59.1,
+     "y": -67.4
+    },
+    {
+     "x": -49.9,
+     "y": -60.9
+    },
+    {
+     "x": -43.2,
+     "y": -53.7
+    },
+    {
+     "x": -34.9,
+     "y": -37.4
+    },
+    {
+     "x": -24.4,
+     "y": -32.2
+    },
+    {
+     "x": -15.4,
+     "y": -21.4
+    },
+    {
+     "x": 5.8,
+     "y": -24.1
+    },
+    {
+     "x": 16.8,
+     "y": -44.6
+    },
+    {
+     "x": 30.6,
+     "y": -59.9
+    },
+    {
+     "x": 38.1,
+     "y": -79.1
+    },
+    {
+     "x": 36.7,
+     "y": -83.6
+    },
+    {
+     "x": 21.5,
+     "y": -86.6
+    },
+    {
+     "x": 17.9,
+     "y": -91.2
+    },
+    {
+     "x": 15.7,
+     "y": -105.3
+    },
+    {
+     "x": 19.4,
+     "y": -115.6
+    },
+    {
+     "x": 14.6,
+     "y": -124.3
+    },
+    {
+     "x": 15.0,
+     "y": -133.1
+    },
+    {
+     "x": 18.4,
+     "y": -135.4
+    },
+    {
+     "x": 35.2,
+     "y": -136.2
+    },
+    {
+     "x": 47.3,
+     "y": -140.0
+    },
+    {
+     "x": 57.7,
+     "y": -136.2
+    },
+    {
+     "x": 71.2,
+     "y": -140.0
+    },
+    {
+     "x": 66.3,
+     "y": -145.1
+    },
+    {
+     "x": 49.1,
+     "y": -151.0
+    },
+    {
+     "x": 45.2,
+     "y": -167.0
+    },
+    {
+     "x": 50.7,
+     "y": -181.4
+    },
+    {
+     "x": 49.1,
+     "y": -200.8
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -97.0,
+     "y": -92.0
+    },
+    {
+     "x": -80.0,
+     "y": -70.0
+    },
+    {
+     "x": -50.0,
+     "y": -45.0
+    },
+    {
+     "x": -25.0,
+     "y": -12.0
+    },
+    {
+     "x": -12.0,
+     "y": 8.0
+    },
+    {
+     "x": -22.0,
+     "y": 30.0
+    },
+    {
+     "x": -10.0,
+     "y": 55.0
+    },
+    {
+     "x": 15.0,
+     "y": 58.0
+    },
+    {
+     "x": 25.0,
+     "y": 35.0
+    },
+    {
+     "x": 15.0,
+     "y": 12.0
+    },
+    {
+     "x": 0.0,
+     "y": 20.0
+    },
+    {
+     "x": -8.0,
+     "y": 34.0
+    },
+    {
+     "x": 4.0,
+     "y": 42.0
+    },
+    {
+     "x": 8.0,
+     "y": 30.0
+    },
+    {
+     "x": -5.0,
+     "y": 10.0
+    },
+    {
+     "x": -20.0,
+     "y": -20.0
+    },
+    {
+     "x": -60.0,
+     "y": -60.0
+    },
+    {
+     "x": -97.0,
+     "y": -92.0
+    }
+   ]
+  }
+ ],
+ "notes": "Ras il-Ħobż headland at the mouth of Mġarr ix-Xini with the Middle Finger pinnacle about 50 m off its tip (top 8–10 m, base 40+ m, a 35 m channel on the shore side, the seaward side falling to 90 m), and one entry on each side of the headland. Layout and depths from maltadives.com, divers-guide.com, divebluewaters.com and nds-malta.com; the shoreline is OpenStreetMap. The pinnacle, entries and route are placed from the text descriptions and are approximate; the engine block and the 63 m anchor the guides mention are not placed.",
+ "origin": {
+  "lat": 36.01563,
+  "lon": 14.2794
+ },
+ "underlay": null,
+ "id": "mlt-ras-il-hobz-1",
+ "site_id": "mlt-ras-il-hobz",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:22:14.948149Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

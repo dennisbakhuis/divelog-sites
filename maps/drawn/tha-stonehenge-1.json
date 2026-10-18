@@ -1,0 +1,76 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Stonehenge",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "stonehenge",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "object",
+   "label": "Stonehenge boulders",
+   "depth": 24.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "shore-23610380",
+   "kind": "shoreline",
+   "label": "Island 4 (Ko Miang)",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 615.7,
+     "y": 685.9
+    },
+    {
+     "x": 552.1,
+     "y": 635.9
+    },
+    {
+     "x": 426.3,
+     "y": 304.0
+    },
+    {
+     "x": 369.9,
+     "y": 278.3
+    },
+    {
+     "x": 361.2,
+     "y": 314.8
+    },
+    {
+     "x": 456.7,
+     "y": 633.7
+    }
+   ]
+  }
+ ],
+ "notes": "Stonehenge, a group of very large granite boulders standing on sand off the north-western tip of Similan Island 4 (Ko Miang); coastline from OpenStreetMap. The boulders are drawn as one mark at the divezone position (8.57878, 97.62772), which agrees with Similan Diving Tours ('the north-western tip of Koh Miang') and the Similan Diving Safaris overview. The tops are at about 24 m and the sand at 35-40 m, with swim-throughs, canyons and gorgonian-lined valleys between the rocks and a mooring line for the descent; their individual layout is unknown. The site coordinates (8.5775, 97.641) are 1.5 km east, off the north coast.",
+ "origin": {
+  "lat": 8.57878,
+  "lon": 97.62772
+ },
+ "underlay": null,
+ "id": "tha-stonehenge-1",
+ "site_id": "tha-stonehenge",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:46:30.667477Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Pruisenwrak",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "instap-1",
+   "x": -31.2,
+   "y": -3.5,
+   "type": "entry",
+   "label": "Instap",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-2",
+   "x": -42.0,
+   "y": 2.0,
+   "type": "entry",
+   "label": "Instap",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-3",
+   "x": -58.6,
+   "y": 2.8,
+   "type": "entry",
+   "label": "Instap",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pruisenwrak",
+   "x": -23.2,
+   "y": 34.3,
+   "type": "object",
+   "label": "Pruisenwrak (duwbak, 4-9,5 m)",
+   "depth": 9.5,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boeg",
+   "x": -34.0,
+   "y": 9.8,
+   "type": "marker",
+   "label": "Boeg",
+   "depth": 4.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stoel",
+   "x": -28.3,
+   "y": 5.8,
+   "type": "object",
+   "label": "Stoel",
+   "depth": 2.4,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "jacht",
+   "x": -1.2,
+   "y": 17.2,
+   "type": "object",
+   "label": "Jacht",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bootje",
+   "x": 4.4,
+   "y": 7.1,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kooi-6",
+   "x": 5.2,
+   "y": 1.8,
+   "type": "object",
+   "label": "Kooi met bomen",
+   "depth": 6.0,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kooi-wrak",
+   "x": -21.9,
+   "y": 18.5,
+   "type": "object",
+   "label": "Kooi met bomen",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kooi-noord",
+   "x": -13.5,
+   "y": 26.9,
+   "type": "object",
+   "label": "Kooi met bomen",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wortels-1",
+   "x": -14.9,
+   "y": 18.8,
+   "type": "object",
+   "label": "Boomwortels",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wortels-2",
+   "x": -13.7,
+   "y": 5.6,
+   "type": "object",
+   "label": "Boomwortels",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "puinstort",
+   "x": -56.8,
+   "y": 13.0,
+   "type": "object",
+   "label": "Puinstort",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buis",
+   "x": -57.4,
+   "y": 15.3,
+   "type": "object",
+   "label": "Buis",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrak-lijn",
+   "x": -25.8,
+   "y": 19.4,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "stoel",
+   "to": "jacht",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "jacht",
+   "to": "bootje",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "jacht",
+   "to": "kooi-noord",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "kooi-wrak",
+   "to": "wrak-lijn",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  }
+ ],
+ "areas": [
+  {
+   "id": "duwbak",
+   "kind": "wreck",
+   "label": "Pruisenwrak",
+   "depth": null,
+   "points": [
+    {
+     "x": -34.3,
+     "y": 9.1
+    },
+    {
+     "x": -35.6,
+     "y": 15.8
+    },
+    {
+     "x": -28.8,
+     "y": 32.5
+    },
+    {
+     "x": -17.8,
+     "y": 57.0
+    },
+    {
+     "x": -10.4,
+     "y": 53.8
+    },
+    {
+     "x": -21.2,
+     "y": 29.8
+    },
+    {
+     "x": -28.5,
+     "y": 13.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "oever-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -127.8,
+     "y": 4.2
+    },
+    {
+     "x": -77.0,
+     "y": 20.1
+    },
+    {
+     "x": -67.8,
+     "y": 19.8
+    },
+    {
+     "x": -47.3,
+     "y": 8.9
+    },
+    {
+     "x": -33.5,
+     "y": -10.4
+    },
+    {
+     "x": -29.5,
+     "y": -46.6
+    },
+    {
+     "x": -22.5,
+     "y": -75.9
+    }
+   ]
+  },
+  {
+   "id": "diepte-6",
+   "kind": "depth",
+   "label": "",
+   "depth": 6.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 9.1,
+     "y": -0.5
+    },
+    {
+     "x": 4.5,
+     "y": 4.4
+    },
+    {
+     "x": -2.7,
+     "y": 10.9
+    },
+    {
+     "x": -10.3,
+     "y": 16.2
+    },
+    {
+     "x": -18.5,
+     "y": 20.1
+    },
+    {
+     "x": -23.7,
+     "y": 22.4
+    },
+    {
+     "x": -31.9,
+     "y": 25.3
+    },
+    {
+     "x": -38.2,
+     "y": 27.3
+    },
+    {
+     "x": -44.4,
+     "y": 28.0
+    },
+    {
+     "x": -50.8,
+     "y": 27.8
+    },
+    {
+     "x": -57.3,
+     "y": 27.5
+    }
+   ]
+  },
+  {
+   "id": "diepte-5-2",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.2,
+   "closed": false,
+   "points": [
+    {
+     "x": 6.3,
+     "y": -8.4
+    },
+    {
+     "x": 1.5,
+     "y": -4.0
+    },
+    {
+     "x": -3.4,
+     "y": 0.3
+    },
+    {
+     "x": -8.2,
+     "y": 4.6
+    },
+    {
+     "x": -13.1,
+     "y": 8.6
+    },
+    {
+     "x": -18.1,
+     "y": 12.3
+    },
+    {
+     "x": -23.4,
+     "y": 15.5
+    },
+    {
+     "x": -26.1,
+     "y": 16.8
+    },
+    {
+     "x": -33.8,
+     "y": 20.1
+    },
+    {
+     "x": -39.1,
+     "y": 21.3
+    },
+    {
+     "x": -44.3,
+     "y": 21.2
+    },
+    {
+     "x": -50.1,
+     "y": 21.1
+    },
+    {
+     "x": -56.3,
+     "y": 21.4
+    },
+    {
+     "x": -59.4,
+     "y": 21.6
+    }
+   ]
+  },
+  {
+   "id": "diepte-4-3",
+   "kind": "depth",
+   "label": "",
+   "depth": 4.3,
+   "closed": false,
+   "points": [
+    {
+     "x": 4.3,
+     "y": -13.7
+    },
+    {
+     "x": -0.6,
+     "y": -9.7
+    },
+    {
+     "x": -5.4,
+     "y": -5.4
+    },
+    {
+     "x": -10.0,
+     "y": -0.5
+    },
+    {
+     "x": -14.9,
+     "y": 3.5
+    },
+    {
+     "x": -19.9,
+     "y": 7.5
+    },
+    {
+     "x": -25.0,
+     "y": 11.0
+    },
+    {
+     "x": -28.6,
+     "y": 12.6
+    },
+    {
+     "x": -36.1,
+     "y": 14.7
+    },
+    {
+     "x": -42.2,
+     "y": 16.3
+    },
+    {
+     "x": -48.4,
+     "y": 17.0
+    },
+    {
+     "x": -54.8,
+     "y": 16.8
+    },
+    {
+     "x": -61.4,
+     "y": 16.3
+    }
+   ]
+  },
+  {
+   "id": "diepte-1-6",
+   "kind": "depth",
+   "label": "",
+   "depth": 1.6,
+   "closed": false,
+   "points": [
+    {
+     "x": 3.0,
+     "y": -17.4
+    },
+    {
+     "x": -1.8,
+     "y": -13.1
+    },
+    {
+     "x": -6.6,
+     "y": -8.8
+    },
+    {
+     "x": -11.3,
+     "y": -3.9
+    },
+    {
+     "x": -16.1,
+     "y": 0.4
+    },
+    {
+     "x": -21.2,
+     "y": 3.9
+    },
+    {
+     "x": -26.6,
+     "y": 6.5
+    },
+    {
+     "x": -29.8,
+     "y": 8.3
+    },
+    {
+     "x": -38.0,
+     "y": 10.3
+    },
+    {
+     "x": -44.3,
+     "y": 10.7
+    },
+    {
+     "x": -50.6,
+     "y": 10.8
+    },
+    {
+     "x": -57.3,
+     "y": 10.0
+    },
+    {
+     "x": -63.9,
+     "y": 9.5
+    }
+   ]
+  }
+ ],
+ "notes": "The Pruisenwrak, a gravel barge (duwbak) 50 by 8 m lying bow to the bank from 4 to 9.5 m, with the line from the chair at 2.4 m to the yacht, the tree cages, the rubble heap and the 1.6/4.3/5.2/6 m contours; the heading is about 180 degrees from the grass-bank entry. The shoreline is OpenStreetMap. The barge is drawn to its published size, pointing about 160 degrees from the entries, so positions are approximate.",
+ "origin": {
+  "lat": 51.15392,
+  "lon": 5.84297
+ },
+ "underlay": null,
+ "id": "nld-grote-hegge-1",
+ "site_id": "nld-grote-hegge",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:47:35.746935Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

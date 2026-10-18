@@ -1,0 +1,169 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "2 km south of Gabr el Bint",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "boat-drop",
+   "x": 67.0,
+   "y": -6.0,
+   "type": "entry",
+   "label": "Boat drop (back roll)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -108.9,
+     "y": 300.0
+    },
+    {
+     "x": -108.1,
+     "y": 296.3
+    },
+    {
+     "x": -99.4,
+     "y": 238.5
+    },
+    {
+     "x": -91.3,
+     "y": 214.3
+    },
+    {
+     "x": -78.4,
+     "y": 199.6
+    },
+    {
+     "x": -45.3,
+     "y": 182.7
+    },
+    {
+     "x": -33.7,
+     "y": 175.4
+    },
+    {
+     "x": -25.9,
+     "y": 167.0
+    },
+    {
+     "x": -21.1,
+     "y": 153.0
+    },
+    {
+     "x": -31.6,
+     "y": 83.7
+    },
+    {
+     "x": -35.6,
+     "y": 4.0
+    },
+    {
+     "x": -30.3,
+     "y": -17.3
+    },
+    {
+     "x": -18.2,
+     "y": -30.4
+    },
+    {
+     "x": 8.6,
+     "y": -52.7
+    },
+    {
+     "x": 17.3,
+     "y": -72.7
+    },
+    {
+     "x": 30.4,
+     "y": -175.7
+    },
+    {
+     "x": 31.7,
+     "y": -244.6
+    },
+    {
+     "x": 39.1,
+     "y": -299.5
+    },
+    {
+     "x": 39.3,
+     "y": -300.0
+    }
+   ]
+  },
+  {
+   "id": "reef-edge",
+   "kind": "wall",
+   "label": "Reef edge, wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 109.0,
+     "y": -290.0
+    },
+    {
+     "x": 89.0,
+     "y": -195.0
+    },
+    {
+     "x": 73.0,
+     "y": -101.0
+    },
+    {
+     "x": 57.0,
+     "y": -6.0
+    },
+    {
+     "x": 47.0,
+     "y": 78.0
+    },
+    {
+     "x": 41.0,
+     "y": 162.0
+    },
+    {
+     "x": 15.0,
+     "y": 225.0
+    },
+    {
+     "x": -22.0,
+     "y": 288.0
+    }
+   ]
+  }
+ ],
+ "notes": "Sparse map: the coastline and the reef edge about 2 km along the coast south of Gabr el Bint, with the boat drop on the wall. The reef edge lies 40-80 m seaward of the coarse OpenStreetMap coastline and the drop point is approximate; the site coordinate itself lies about 700 m offshore, so the drawing sits west of the origin. Coastline © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 28.336,
+  "lon": 34.419496
+ },
+ "underlay": null,
+ "id": "egy-2km-south-gabr-el-bint-1",
+ "site_id": "egy-2km-south-gabr-el-bint",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T18:57:51.399237Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

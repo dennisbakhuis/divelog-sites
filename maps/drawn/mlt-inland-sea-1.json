@@ -1,0 +1,674 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Inland Sea and tunnel",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": -3.0,
+   "y": 36.0,
+   "type": "entry",
+   "label": "Entry (slipway)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tunnel-in",
+   "x": -21.0,
+   "y": -48.0,
+   "type": "poi",
+   "label": "Tunnel mouth",
+   "depth": 3.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-5",
+   "x": -26.0,
+   "y": -64.0,
+   "type": "poi",
+   "label": "Rock",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-9",
+   "x": -32.0,
+   "y": -84.0,
+   "type": "poi",
+   "label": "Rock",
+   "depth": 9.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-15",
+   "x": -40.0,
+   "y": -106.0,
+   "type": "poi",
+   "label": "Rock",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tunnel-out",
+   "x": -58.0,
+   "y": -150.0,
+   "type": "poi",
+   "label": "Tunnel exit, pebble floor",
+   "depth": 26.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "blue-hole",
+   "x": -217.0,
+   "y": 86.0,
+   "type": "poi",
+   "label": "Blue Hole",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "whale-cave",
+   "x": 75.0,
+   "y": -362.0,
+   "type": "poi",
+   "label": "Whale Cave",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "lagoon",
+   "kind": "shallows",
+   "label": "Lagoon 1–2 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -61.6,
+     "y": -2.5
+    },
+    {
+     "x": -51.0,
+     "y": -21.3
+    },
+    {
+     "x": -42.0,
+     "y": -30.6
+    },
+    {
+     "x": -32.6,
+     "y": -33.5
+    },
+    {
+     "x": -23.6,
+     "y": -39.0
+    },
+    {
+     "x": -18.6,
+     "y": -40.5
+    },
+    {
+     "x": -10.4,
+     "y": -40.4
+    },
+    {
+     "x": -5.0,
+     "y": -35.8
+    },
+    {
+     "x": 3.9,
+     "y": -35.1
+    },
+    {
+     "x": 12.4,
+     "y": -38.0
+    },
+    {
+     "x": 36.5,
+     "y": -45.0
+    },
+    {
+     "x": 65.1,
+     "y": -42.7
+    },
+    {
+     "x": 65.1,
+     "y": -23.1
+    },
+    {
+     "x": 62.4,
+     "y": -8.1
+    },
+    {
+     "x": 56.7,
+     "y": 3.6
+    },
+    {
+     "x": 38.5,
+     "y": 17.8
+    },
+    {
+     "x": 26.6,
+     "y": 32.8
+    },
+    {
+     "x": 15.1,
+     "y": 38.6
+    },
+    {
+     "x": 1.9,
+     "y": 41.1
+    },
+    {
+     "x": -7.8,
+     "y": 39.7
+    },
+    {
+     "x": -12.5,
+     "y": 38.0
+    },
+    {
+     "x": -47.8,
+     "y": 12.1
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shoreline-23563616-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 89.6,
+     "y": -410.0
+    },
+    {
+     "x": 94.6,
+     "y": -368.3
+    },
+    {
+     "x": 88.5,
+     "y": -346.7
+    },
+    {
+     "x": 63.0,
+     "y": -297.1
+    },
+    {
+     "x": 38.0,
+     "y": -257.4
+    },
+    {
+     "x": 27.4,
+     "y": -249.8
+    },
+    {
+     "x": 26.2,
+     "y": -238.1
+    },
+    {
+     "x": 19.6,
+     "y": -227.6
+    },
+    {
+     "x": 5.1,
+     "y": -219.8
+    },
+    {
+     "x": -34.5,
+     "y": -167.9
+    },
+    {
+     "x": -48.2,
+     "y": -165.2
+    },
+    {
+     "x": -55.0,
+     "y": -157.0
+    },
+    {
+     "x": -57.5,
+     "y": -147.5
+    },
+    {
+     "x": -64.7,
+     "y": -144.8
+    },
+    {
+     "x": -70.8,
+     "y": -135.0
+    },
+    {
+     "x": -86.2,
+     "y": -141.4
+    },
+    {
+     "x": -115.9,
+     "y": -130.9
+    },
+    {
+     "x": -126.9,
+     "y": -121.3
+    },
+    {
+     "x": -143.2,
+     "y": -123.3
+    },
+    {
+     "x": -155.7,
+     "y": -117.2
+    },
+    {
+     "x": -172.2,
+     "y": -117.2
+    },
+    {
+     "x": -180.1,
+     "y": -110.8
+    },
+    {
+     "x": -187.9,
+     "y": -94.1
+    },
+    {
+     "x": -186.1,
+     "y": -57.9
+    },
+    {
+     "x": -187.8,
+     "y": -50.1
+    },
+    {
+     "x": -200.1,
+     "y": -41.4
+    },
+    {
+     "x": -215.3,
+     "y": -37.8
+    },
+    {
+     "x": -231.6,
+     "y": -25.4
+    },
+    {
+     "x": -234.8,
+     "y": 2.7
+    },
+    {
+     "x": -226.0,
+     "y": 31.0
+    },
+    {
+     "x": -212.6,
+     "y": 45.5
+    },
+    {
+     "x": -209.2,
+     "y": 75.0
+    },
+    {
+     "x": -213.9,
+     "y": 72.5
+    },
+    {
+     "x": -224.0,
+     "y": 75.7
+    },
+    {
+     "x": -234.1,
+     "y": 83.7
+    },
+    {
+     "x": -255.7,
+     "y": 87.8
+    },
+    {
+     "x": -274.6,
+     "y": 94.6
+    },
+    {
+     "x": -267.0,
+     "y": 97.2
+    },
+    {
+     "x": -244.1,
+     "y": 93.6
+    },
+    {
+     "x": -242.8,
+     "y": 110.0
+    }
+   ]
+  },
+  {
+   "id": "shoreline-23559792-0",
+   "kind": "shoreline",
+   "label": "Inland Sea",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -61.6,
+     "y": -2.5
+    },
+    {
+     "x": -51.0,
+     "y": -21.3
+    },
+    {
+     "x": -42.0,
+     "y": -30.6
+    },
+    {
+     "x": -32.6,
+     "y": -33.5
+    },
+    {
+     "x": -23.6,
+     "y": -39.0
+    },
+    {
+     "x": -18.6,
+     "y": -40.5
+    },
+    {
+     "x": -10.4,
+     "y": -40.4
+    },
+    {
+     "x": -5.0,
+     "y": -35.8
+    },
+    {
+     "x": 3.9,
+     "y": -35.1
+    },
+    {
+     "x": 12.4,
+     "y": -38.0
+    },
+    {
+     "x": 36.5,
+     "y": -45.0
+    },
+    {
+     "x": 65.1,
+     "y": -42.7
+    },
+    {
+     "x": 65.1,
+     "y": -23.1
+    },
+    {
+     "x": 62.4,
+     "y": -8.1
+    },
+    {
+     "x": 56.7,
+     "y": 3.6
+    },
+    {
+     "x": 38.5,
+     "y": 17.8
+    },
+    {
+     "x": 26.6,
+     "y": 32.8
+    },
+    {
+     "x": 15.1,
+     "y": 38.6
+    },
+    {
+     "x": 1.9,
+     "y": 41.1
+    },
+    {
+     "x": -7.8,
+     "y": 39.7
+    },
+    {
+     "x": -9.5,
+     "y": 39.0
+    },
+    {
+     "x": -12.5,
+     "y": 38.0
+    },
+    {
+     "x": -47.8,
+     "y": 12.1
+    }
+   ]
+  },
+  {
+   "id": "tunnel-east",
+   "kind": "wall",
+   "label": "Tunnel, about 80 m",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -22.4,
+     "y": -39.2
+    },
+    {
+     "x": -23.9,
+     "y": -43.7
+    },
+    {
+     "x": -48.8,
+     "y": -119.8
+    },
+    {
+     "x": -61.1,
+     "y": -145.8
+    }
+   ]
+  },
+  {
+   "id": "tunnel-west",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -14.8,
+     "y": -41.8
+    },
+    {
+     "x": -16.3,
+     "y": -46.1
+    },
+    {
+     "x": -41.2,
+     "y": -122.6
+    },
+    {
+     "x": -53.9,
+     "y": -149.2
+    }
+   ]
+  },
+  {
+   "id": "outer-wall",
+   "kind": "wall",
+   "label": "Wall to 50 m+",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 48.0,
+     "y": -305.0
+    },
+    {
+     "x": 8.0,
+     "y": -240.0
+    },
+    {
+     "x": -40.0,
+     "y": -182.0
+    },
+    {
+     "x": -68.0,
+     "y": -166.0
+    },
+    {
+     "x": -110.0,
+     "y": -154.0
+    },
+    {
+     "x": -150.0,
+     "y": -142.0
+    },
+    {
+     "x": -195.0,
+     "y": -130.0
+    },
+    {
+     "x": -205.0,
+     "y": -95.0
+    },
+    {
+     "x": -205.0,
+     "y": -58.0
+    },
+    {
+     "x": -250.0,
+     "y": -35.0
+    },
+    {
+     "x": -255.0,
+     "y": 0.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -3.0,
+     "y": 36.0
+    },
+    {
+     "x": -15.0,
+     "y": 0.0
+    },
+    {
+     "x": -19.0,
+     "y": -40.0
+    },
+    {
+     "x": -22.0,
+     "y": -52.0
+    },
+    {
+     "x": -45.0,
+     "y": -121.0
+    },
+    {
+     "x": -62.0,
+     "y": -158.0
+    },
+    {
+     "x": -95.0,
+     "y": -145.0
+    },
+    {
+     "x": -135.0,
+     "y": -132.0
+    },
+    {
+     "x": -170.0,
+     "y": -122.0
+    },
+    {
+     "x": -140.0,
+     "y": -128.0
+    },
+    {
+     "x": -95.0,
+     "y": -140.0
+    },
+    {
+     "x": -62.0,
+     "y": -150.0
+    },
+    {
+     "x": -45.0,
+     "y": -121.0
+    },
+    {
+     "x": -22.0,
+     "y": -52.0
+    },
+    {
+     "x": -19.0,
+     "y": -40.0
+    },
+    {
+     "x": -15.0,
+     "y": 0.0
+    },
+    {
+     "x": -3.0,
+     "y": 36.0
+    }
+   ]
+  }
+ ],
+ "notes": "The Inland Sea at Dwejra: the lagoon, the tunnel through the cliff to the open sea and the wall outside. The lagoon, coastline and tunnel line are from OpenStreetMap; tunnel depths (3 m at the lagoon to 26 m at the exit, rock steps at 5, 9 and 15 m) and the routes left towards the Blue Hole or right towards Whale Cave and Ta' Barba follow the St Andrew's Divers Cove (gozodive.com) and maltadives.com descriptions. Tunnel width, the slipway position and the wall line are approximate; Whale Cave is placed from maltadives.com's approximate coordinates.",
+ "origin": {
+  "lat": 36.05374,
+  "lon": 14.19116
+ },
+ "underlay": null,
+ "id": "mlt-inland-sea-1",
+ "site_id": "mlt-inland-sea",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:32:41.020143Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

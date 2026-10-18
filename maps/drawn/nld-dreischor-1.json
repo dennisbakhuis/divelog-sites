@@ -1,0 +1,344 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Gemaal Dreischor",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "trap",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Trap (touw)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "plateau",
+   "x": 5.3,
+   "y": -15.9,
+   "type": "poi",
+   "label": "Plateau 1,5–2 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gemaal-buizen",
+   "x": 88.0,
+   "y": 31.4,
+   "type": "object",
+   "label": "Gemaal: buizen en balken",
+   "depth": 5.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zinkblokken",
+   "x": 104.9,
+   "y": 17.5,
+   "type": "object",
+   "label": "Zinkblokken",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fuik",
+   "x": 32.0,
+   "y": -48.9,
+   "type": "object",
+   "label": "Fuik",
+   "depth": null,
+   "object_kind": "net",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "frame",
+   "x": 143.0,
+   "y": -110.6,
+   "type": "object",
+   "label": "Frame",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gemaal",
+   "x": -17.5,
+   "y": 44.3,
+   "type": "poi",
+   "label": "Gemaal Dreischor",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "shoreline-grevelingenmeer-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 184.4,
+     "y": 160.0
+    },
+    {
+     "x": 51.0,
+     "y": 27.1
+    },
+    {
+     "x": 35.7,
+     "y": 15.4
+    },
+    {
+     "x": -25.6,
+     "y": -16.0
+    },
+    {
+     "x": -42.6,
+     "y": -27.4
+    },
+    {
+     "x": -105.0,
+     "y": -115.4
+    },
+    {
+     "x": -129.7,
+     "y": -144.9
+    },
+    {
+     "x": -143.4,
+     "y": -160.0
+    }
+   ]
+  },
+  {
+   "id": "d10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -52.4,
+     "y": -106.1
+    },
+    {
+     "x": -38.3,
+     "y": -87.9
+    },
+    {
+     "x": -19.6,
+     "y": -65.3
+    },
+    {
+     "x": 2.8,
+     "y": -43.4
+    },
+    {
+     "x": 31.1,
+     "y": -22.2
+    },
+    {
+     "x": 58.0,
+     "y": -0.9
+    },
+    {
+     "x": 83.9,
+     "y": 20.6
+    },
+    {
+     "x": 108.5,
+     "y": 42.3
+    }
+   ]
+  },
+  {
+   "id": "d15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -17.5,
+     "y": -111.1
+    },
+    {
+     "x": -0.7,
+     "y": -93.4
+    },
+    {
+     "x": 21.4,
+     "y": -71.3
+    },
+    {
+     "x": 44.8,
+     "y": -49.5
+    },
+    {
+     "x": 69.2,
+     "y": -27.8
+    },
+    {
+     "x": 92.9,
+     "y": -6.0
+    },
+    {
+     "x": 116.5,
+     "y": 15.8
+    },
+    {
+     "x": 139.4,
+     "y": 37.8
+    }
+   ]
+  },
+  {
+   "id": "d20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 30.3,
+     "y": -118.1
+    },
+    {
+     "x": 47.0,
+     "y": -100.3
+    },
+    {
+     "x": 68.9,
+     "y": -78.3
+    },
+    {
+     "x": 91.3,
+     "y": -56.3
+    },
+    {
+     "x": 114.7,
+     "y": -34.4
+    },
+    {
+     "x": 140.4,
+     "y": -12.9
+    },
+    {
+     "x": 168.5,
+     "y": 8.3
+    },
+    {
+     "x": 184.6,
+     "y": 18.5
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 6.3,
+     "y": -8.5
+    },
+    {
+     "x": 27.4,
+     "y": -28.8
+    },
+    {
+     "x": 56.0,
+     "y": -40.5
+    },
+    {
+     "x": 89.2,
+     "y": -38.3
+    },
+    {
+     "x": 115.9,
+     "y": -19.4
+    },
+    {
+     "x": 135.6,
+     "y": 3.0
+    },
+    {
+     "x": 146.3,
+     "y": 24.1
+    },
+    {
+     "x": 141.1,
+     "y": 40.6
+    },
+    {
+     "x": 125.8,
+     "y": 39.8
+    },
+    {
+     "x": 103.9,
+     "y": 27.8
+    },
+    {
+     "x": 73.0,
+     "y": 7.0
+    },
+    {
+     "x": 43.0,
+     "y": -8.3
+    },
+    {
+     "x": 20.2,
+     "y": -8.5
+    },
+    {
+     "x": 11.1,
+     "y": -2.1
+    }
+   ]
+  }
+ ],
+ "notes": "Shore dive at the Dreischor pumping station: entry by the steps and rope on the dike, a shallow plateau, then along the dike to the south-east to the overgrown pipes and beams of the gemaal outlet from about 5 m, about ten minutes' swim from the entry. Shoreline from OpenStreetMap; the 10/15/20 m contours follow the neighbouring Frans Kokrif map and every position is approximate. Not placed for lack of a position: the remains of a rowing boat on the plateau, the small hill on the way south-east and the toilet near the outlet.",
+ "origin": {
+  "lat": 51.707859,
+  "lon": 4.00016
+ },
+ "underlay": null,
+ "id": "nld-dreischor-1",
+ "site_id": "nld-dreischor",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:42:37.818687Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

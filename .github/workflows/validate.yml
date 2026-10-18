@@ -1,0 +1,48 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  DIVELOG: git+https://github.com/dennisbakhuis/divelog#subdirectory=packages/server
+  BASE: ${{ github.event_name == 'pull_request' && format('origin/{0}', github.base_ref || 'main') || 'HEAD~1' }}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+      - name: Validate the commons against ${{ env.BASE }}
+        run: uvx --from "$DIVELOG" divelog validate --kind sites --base "$BASE" .
+
+  renders:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+      - name: Render the changed maps
+        run: |
+          mkdir -p renders
+          for id in $(uvx --from "$DIVELOG" divelog maps changed --base "$BASE"); do
+            uvx --from "$DIVELOG" divelog maps render "$id" --out "renders/$id.png"
+          done
+          ls renders
+      - uses: actions/upload-artifact@v4
+        with:
+          name: map-renders
+          path: renders/
+          if-no-files-found: ignore

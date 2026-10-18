@@ -1,0 +1,662 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Carrière de Lillé",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mise-a-l-eau",
+   "x": 42.6,
+   "y": 4.3,
+   "type": "entry",
+   "label": "0 Mise à l'eau",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "jacques",
+   "x": 28.8,
+   "y": -4.1,
+   "type": "object",
+   "label": "2 Jacques le mort",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vierge",
+   "x": 21.3,
+   "y": 10.8,
+   "type": "object",
+   "label": "3 Vierge",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "crane",
+   "x": 21.3,
+   "y": 2.5,
+   "type": "object",
+   "label": "4 Crâne de vache",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "barque",
+   "x": 21.3,
+   "y": -15.2,
+   "type": "object",
+   "label": "5 Barque",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "velo",
+   "x": 32.1,
+   "y": 1.6,
+   "type": "object",
+   "label": "6 Vélo",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "petit-sapin",
+   "x": 6.2,
+   "y": 5.9,
+   "type": "object",
+   "label": "7 Petit sapin",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "miroir",
+   "x": 1.3,
+   "y": 10.8,
+   "type": "object",
+   "label": "8 Miroir",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fossiles",
+   "x": -4.1,
+   "y": -1.1,
+   "type": "object",
+   "label": "9 Fossiles",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "grand-sapin-1",
+   "x": -33.5,
+   "y": -3.0,
+   "type": "object",
+   "label": "10 Grand sapin",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "grand-sapin-2",
+   "x": -16.0,
+   "y": 7.9,
+   "type": "object",
+   "label": "10 Grand sapin",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "plateforme",
+   "x": -22.9,
+   "y": 6.3,
+   "type": "object",
+   "label": "11 Plateforme",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "squelette",
+   "x": -18.6,
+   "y": -12.3,
+   "type": "object",
+   "label": "12 Squelette",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tole",
+   "x": -35.7,
+   "y": 10.8,
+   "type": "object",
+   "label": "13 Tôle",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bobine",
+   "x": -39.5,
+   "y": -7.5,
+   "type": "object",
+   "label": "14 Bobine",
+   "depth": null,
+   "object_kind": "reel",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "faille",
+   "x": -41.5,
+   "y": 14.6,
+   "type": "poi",
+   "label": "15 Faille",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "poulie",
+   "x": -43.0,
+   "y": 9.5,
+   "type": "object",
+   "label": "16 Poulie",
+   "depth": null,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cage",
+   "x": -47.7,
+   "y": 7.2,
+   "type": "object",
+   "label": "17 Cage de fer",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "prof-24",
+   "x": -49.8,
+   "y": -9.4,
+   "type": "marker",
+   "label": "-24 m",
+   "depth": 24.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "prof-23",
+   "x": -45.2,
+   "y": -5.1,
+   "type": "marker",
+   "label": "-23 m",
+   "depth": 23.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "prof-15",
+   "x": -21.5,
+   "y": -6.3,
+   "type": "marker",
+   "label": "-15 m",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "prof-3",
+   "x": 50.3,
+   "y": -8.3,
+   "type": "marker",
+   "label": "-3 m",
+   "depth": 3.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-1",
+   "x": -40.9,
+   "y": -12.7,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-2",
+   "x": -37.2,
+   "y": -8.8,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-3",
+   "x": -29.5,
+   "y": -4.5,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-4",
+   "x": -28.6,
+   "y": 2.2,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-5",
+   "x": -36.4,
+   "y": 4.1,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-6",
+   "x": -28.6,
+   "y": 10.0,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-7",
+   "x": -6.8,
+   "y": -13.1,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-8",
+   "x": -4.4,
+   "y": -7.8,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-9",
+   "x": -1.8,
+   "y": -2.1,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-10",
+   "x": 0.2,
+   "y": 3.2,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-11",
+   "x": 15.5,
+   "y": -13.9,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pierres-12",
+   "x": 41.3,
+   "y": -1.0,
+   "type": "poi",
+   "label": "1 Zone de pierres",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "oever",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -57.9,
+     "y": -18.7
+    },
+    {
+     "x": -34.4,
+     "y": -20.4
+    },
+    {
+     "x": -32.1,
+     "y": -20.5
+    },
+    {
+     "x": -31.0,
+     "y": -18.2
+    },
+    {
+     "x": -22.9,
+     "y": -20.1
+    },
+    {
+     "x": -15.7,
+     "y": -20.4
+    },
+    {
+     "x": -12.0,
+     "y": -18.7
+    },
+    {
+     "x": -1.5,
+     "y": -17.6
+    },
+    {
+     "x": 0.4,
+     "y": -16.1
+    },
+    {
+     "x": 2.9,
+     "y": -15.5
+    },
+    {
+     "x": 5.5,
+     "y": -16.1
+    },
+    {
+     "x": 7.3,
+     "y": -17.7
+    },
+    {
+     "x": 17.1,
+     "y": -18.3
+    },
+    {
+     "x": 18.2,
+     "y": -17.6
+    },
+    {
+     "x": 26.2,
+     "y": -18.0
+    },
+    {
+     "x": 27.0,
+     "y": -19.0
+    },
+    {
+     "x": 33.2,
+     "y": -20.0
+    },
+    {
+     "x": 41.5,
+     "y": -20.3
+    },
+    {
+     "x": 41.7,
+     "y": -18.2
+    },
+    {
+     "x": 52.8,
+     "y": -18.2
+    },
+    {
+     "x": 53.6,
+     "y": -15.4
+    },
+    {
+     "x": 59.5,
+     "y": -15.4
+    },
+    {
+     "x": 59.5,
+     "y": -8.8
+    },
+    {
+     "x": 54.3,
+     "y": -8.1
+    },
+    {
+     "x": 54.8,
+     "y": -3.9
+    },
+    {
+     "x": 47.0,
+     "y": -2.1
+    },
+    {
+     "x": 47.5,
+     "y": 2.5
+    },
+    {
+     "x": 42.0,
+     "y": 3.3
+    },
+    {
+     "x": 43.7,
+     "y": 4.6
+    },
+    {
+     "x": 43.7,
+     "y": 9.0
+    },
+    {
+     "x": 40.3,
+     "y": 9.0
+    },
+    {
+     "x": 40.3,
+     "y": 10.8
+    },
+    {
+     "x": 9.1,
+     "y": 13.0
+    },
+    {
+     "x": 8.0,
+     "y": 11.6
+    },
+    {
+     "x": -24.0,
+     "y": 13.9
+    },
+    {
+     "x": -24.0,
+     "y": 17.5
+    },
+    {
+     "x": -58.6,
+     "y": 20.4
+    },
+    {
+     "x": -59.4,
+     "y": -2.3
+    }
+   ]
+  },
+  {
+   "id": "cable",
+   "kind": "line",
+   "label": "Câble",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -21.5,
+     "y": 6.1
+    },
+    {
+     "x": -11.3,
+     "y": 6.3
+    },
+    {
+     "x": -0.4,
+     "y": 4.3
+    },
+    {
+     "x": 10.6,
+     "y": 1.7
+    },
+    {
+     "x": 25.1,
+     "y": -2.4
+    },
+    {
+     "x": 36.1,
+     "y": -6.7
+    },
+    {
+     "x": 43.4,
+     "y": -10.3
+    },
+    {
+     "x": 51.4,
+     "y": -13.2
+    },
+    {
+     "x": 59.5,
+     "y": -14.3
+    }
+   ]
+  },
+  {
+   "id": "diepte-3",
+   "kind": "depth",
+   "label": "",
+   "depth": 3.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 34.3,
+     "y": -19.4
+    },
+    {
+     "x": 47.4,
+     "y": -2.3
+    }
+   ]
+  }
+ ],
+ "notes": "The entry, objects 1-17, the cable from the platform to the east end, the shallow -3 m bay and the depth marks of -15, -23 and -24 m, on the OpenStreetMap water outline (118 m long); positions are approximate and no depths are given for individual objects. The site's coordinates lie about 3 km west of the quarry, so the drawing sits far from the origin.",
+ "origin": {
+  "lat": 50.501464,
+  "lon": 5.648347
+ },
+ "underlay": null,
+ "id": "bel-sprimont-1",
+ "site_id": "bel-sprimont",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T18:57:50.169573Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

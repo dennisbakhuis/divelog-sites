@@ -1,0 +1,612 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Ruinerwold",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "instap-3",
+   "x": -61.1,
+   "y": -122.2,
+   "type": "entry",
+   "label": "Instap 3",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-noord",
+   "x": -23.9,
+   "y": -115.5,
+   "type": "entry",
+   "label": "Steiger",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-2",
+   "x": -176.3,
+   "y": 16.1,
+   "type": "entry",
+   "label": "Instap 2",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-oost",
+   "x": 146.3,
+   "y": -96.0,
+   "type": "entry",
+   "label": "Steiger",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kooi",
+   "x": -6.5,
+   "y": -120.3,
+   "type": "object",
+   "label": "Kooi",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrakje-1",
+   "x": 14.9,
+   "y": -127.6,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": 5.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrakje-2",
+   "x": 5.8,
+   "y": -101.9,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": 5.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrakje-3",
+   "x": -60.5,
+   "y": -72.5,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": 4.5,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "picknicktafel",
+   "x": -44.0,
+   "y": -89.3,
+   "type": "object",
+   "label": "Picknicktafel",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buizen-1",
+   "x": -4.3,
+   "y": -79.1,
+   "type": "object",
+   "label": "Buizen",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buizen-2",
+   "x": -35.7,
+   "y": -61.9,
+   "type": "object",
+   "label": "Buizen",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wortels",
+   "x": -107.0,
+   "y": -91.2,
+   "type": "object",
+   "label": "Boomwortels",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "takken-noord",
+   "x": -80.2,
+   "y": -89.5,
+   "type": "object",
+   "label": "Takken",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "takken-oost",
+   "x": 159.6,
+   "y": -72.0,
+   "type": "object",
+   "label": "Takken",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform",
+   "x": -136.5,
+   "y": 11.9,
+   "type": "object",
+   "label": "Platform",
+   "depth": 5.5,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "monument",
+   "x": -164.0,
+   "y": 35.0,
+   "type": "object",
+   "label": "Monument",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "geocache",
+   "x": -150.6,
+   "y": 43.6,
+   "type": "object",
+   "label": "Geocache",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bord-2003",
+   "x": -53.1,
+   "y": 20.9,
+   "type": "object",
+   "label": "Bord 2003",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "viswater",
+   "x": 7.0,
+   "y": 88.3,
+   "type": "hazard",
+   "label": "Viswater: niet duiken",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "10-15 m",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": -108.7,
+     "y": -54.0
+    },
+    {
+     "x": -81.4,
+     "y": -58.8
+    },
+    {
+     "x": -56.7,
+     "y": -38.7
+    },
+    {
+     "x": -31.9,
+     "y": -33.6
+    },
+    {
+     "x": 2.9,
+     "y": -45.8
+    },
+    {
+     "x": 42.7,
+     "y": -44.0
+    },
+    {
+     "x": 67.3,
+     "y": -23.0
+    },
+    {
+     "x": 82.0,
+     "y": 6.9
+    },
+    {
+     "x": 89.2,
+     "y": 46.7
+    },
+    {
+     "x": 76.8,
+     "y": 54.0
+    },
+    {
+     "x": 42.0,
+     "y": 58.8
+    },
+    {
+     "x": 12.1,
+     "y": 66.0
+    },
+    {
+     "x": -12.8,
+     "y": 78.3
+    },
+    {
+     "x": -17.6,
+     "y": 60.9
+    },
+    {
+     "x": -37.4,
+     "y": 50.8
+    },
+    {
+     "x": -72.1,
+     "y": 40.6
+    },
+    {
+     "x": -94.4,
+     "y": 25.6
+    },
+    {
+     "x": -96.7,
+     "y": 0.7
+    },
+    {
+     "x": -106.5,
+     "y": -19.2
+    }
+   ]
+  },
+  {
+   "id": "diepte-17",
+   "kind": "depth",
+   "label": "17 m",
+   "depth": 17.0,
+   "points": [
+    {
+     "x": 52.1,
+     "y": 21.6
+    },
+    {
+     "x": 67.1,
+     "y": 16.7
+    },
+    {
+     "x": 77.0,
+     "y": 24.2
+    },
+    {
+     "x": 79.3,
+     "y": 39.2
+    },
+    {
+     "x": 64.4,
+     "y": 42.5
+    },
+    {
+     "x": 51.1,
+     "y": 36.5
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "oever",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 171.7,
+     "y": -115.4
+    },
+    {
+     "x": 180.0,
+     "y": -103.7
+    },
+    {
+     "x": 185.2,
+     "y": -87.9
+    },
+    {
+     "x": 186.1,
+     "y": -53.3
+    },
+    {
+     "x": 179.2,
+     "y": -44.4
+    },
+    {
+     "x": 188.7,
+     "y": -16.0
+    },
+    {
+     "x": 189.6,
+     "y": -8.4
+    },
+    {
+     "x": 186.2,
+     "y": 78.7
+    },
+    {
+     "x": 179.6,
+     "y": 98.8
+    },
+    {
+     "x": 180.0,
+     "y": 113.3
+    },
+    {
+     "x": 184.0,
+     "y": 119.8
+    },
+    {
+     "x": 186.3,
+     "y": 127.6
+    },
+    {
+     "x": 184.9,
+     "y": 132.9
+    },
+    {
+     "x": 181.2,
+     "y": 137.2
+    },
+    {
+     "x": 176.3,
+     "y": 139.8
+    },
+    {
+     "x": -3.8,
+     "y": 150.3
+    },
+    {
+     "x": -136.5,
+     "y": 150.7
+    },
+    {
+     "x": -152.6,
+     "y": 144.4
+    },
+    {
+     "x": -160.8,
+     "y": 138.6
+    },
+    {
+     "x": -167.0,
+     "y": 129.5
+    },
+    {
+     "x": -171.2,
+     "y": 110.2
+    },
+    {
+     "x": -171.2,
+     "y": 37.9
+    },
+    {
+     "x": -172.5,
+     "y": 31.9
+    },
+    {
+     "x": -181.7,
+     "y": 15.8
+    },
+    {
+     "x": -183.5,
+     "y": 3.1
+    },
+    {
+     "x": -189.6,
+     "y": -17.3
+    },
+    {
+     "x": -188.8,
+     "y": -29.6
+    },
+    {
+     "x": -173.2,
+     "y": -49.8
+    },
+    {
+     "x": -157.0,
+     "y": -64.5
+    },
+    {
+     "x": -135.7,
+     "y": -79.0
+    },
+    {
+     "x": -121.5,
+     "y": -94.5
+    },
+    {
+     "x": -98.9,
+     "y": -112.9
+    },
+    {
+     "x": -66.7,
+     "y": -127.5
+    },
+    {
+     "x": -23.1,
+     "y": -138.0
+    },
+    {
+     "x": -4.0,
+     "y": -145.8
+    },
+    {
+     "x": 27.9,
+     "y": -150.7
+    },
+    {
+     "x": 132.4,
+     "y": -135.2
+    },
+    {
+     "x": 150.2,
+     "y": -130.7
+    },
+    {
+     "x": 166.8,
+     "y": -120.8
+    }
+   ]
+  },
+  {
+   "id": "grens",
+   "kind": "line",
+   "label": "Grens duikgebied",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -176.5,
+     "y": 24.2
+    },
+    {
+     "x": 171.3,
+     "y": 27.4
+    }
+   ]
+  },
+  {
+   "id": "leemwand-w",
+   "kind": "wall",
+   "label": "Leemwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -103.9,
+     "y": -44.0
+    },
+    {
+     "x": -99.0,
+     "y": -29.1
+    },
+    {
+     "x": -94.1,
+     "y": -19.1
+    },
+    {
+     "x": -76.8,
+     "y": -6.6
+    }
+   ]
+  },
+  {
+   "id": "leemwand-o",
+   "kind": "wall",
+   "label": "Leemwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 12.9,
+     "y": -50.7
+    },
+    {
+     "x": 27.8,
+     "y": -55.5
+    },
+    {
+     "x": 42.7,
+     "y": -55.4
+    },
+    {
+     "x": 57.6,
+     "y": -47.9
+    },
+    {
+     "x": 62.5,
+     "y": -37.9
+    }
+   ]
+  }
+ ],
+ "notes": "Ruinerwold sand pit (Engelgaarde): entries on the north and west sides, the three small boat wrecks, picnic table, pipes and cage by the northern steiger, loam walls around the 10-15 m basin with a 17 m hole, and the line south of which diving is not allowed (fishing water), on the OpenStreetMap shoreline; positions are approximate. The site point is the village centre, about 2 km north-east of the lake.",
+ "origin": {
+  "lat": 52.704372,
+  "lon": 6.232696
+ },
+ "underlay": null,
+ "id": "nld-ruinerwold-1",
+ "site_id": "nld-ruinerwold",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T19:31:36.560084Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

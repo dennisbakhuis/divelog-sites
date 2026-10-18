@@ -1,0 +1,277 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Poseidon Garden",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "moorings",
+   "x": -45.4,
+   "y": 79.5,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "brain",
+   "x": -0.4,
+   "y": 112.5,
+   "type": "poi",
+   "label": "Brain corals, max ~15 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "sand",
+   "kind": "sand",
+   "label": "Sand 12-15 m",
+   "depth": 13.0,
+   "points": [
+    {
+     "x": -200.4,
+     "y": 67.5
+    },
+    {
+     "x": 199.6,
+     "y": 47.5
+    },
+    {
+     "x": 199.6,
+     "y": 207.5
+    },
+    {
+     "x": -200.4,
+     "y": 207.5
+    }
+   ]
+  },
+  {
+   "id": "garden",
+   "kind": "coral",
+   "label": "Coral garden",
+   "depth": 8.0,
+   "points": [
+    {
+     "x": -150.4,
+     "y": 47.5
+    },
+    {
+     "x": -80.4,
+     "y": 87.5
+    },
+    {
+     "x": -0.4,
+     "y": 67.5
+    },
+    {
+     "x": 79.6,
+     "y": 77.5
+    },
+    {
+     "x": 139.6,
+     "y": 47.5
+    },
+    {
+     "x": 159.6,
+     "y": 127.5
+    },
+    {
+     "x": 29.6,
+     "y": 167.5
+    },
+    {
+     "x": -120.4,
+     "y": 147.5
+    }
+   ]
+  },
+  {
+   "id": "reef-b",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": -180.4,
+     "y": -342.5
+    },
+    {
+     "x": -120.4,
+     "y": -332.5
+    },
+    {
+     "x": -50.4,
+     "y": -252.5
+    },
+    {
+     "x": -60.4,
+     "y": -212.5
+    },
+    {
+     "x": -120.4,
+     "y": -222.5
+    },
+    {
+     "x": -170.4,
+     "y": -282.5
+    }
+   ]
+  },
+  {
+   "id": "reef-c",
+   "kind": "shallows",
+   "label": "Poseidon Reef",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": -150.4,
+     "y": -192.5
+    },
+    {
+     "x": -90.4,
+     "y": -182.5
+    },
+    {
+     "x": -60.4,
+     "y": -112.5
+    },
+    {
+     "x": -65.4,
+     "y": -12.5
+    },
+    {
+     "x": -50.4,
+     "y": 47.5
+    },
+    {
+     "x": -80.4,
+     "y": 77.5
+    },
+    {
+     "x": -120.4,
+     "y": 27.5
+    },
+    {
+     "x": -140.4,
+     "y": -72.5
+    }
+   ]
+  },
+  {
+   "id": "reef-d",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 19.6,
+     "y": -172.5
+    },
+    {
+     "x": 99.6,
+     "y": -172.5
+    },
+    {
+     "x": 139.6,
+     "y": -92.5
+    },
+    {
+     "x": 129.6,
+     "y": -12.5
+    },
+    {
+     "x": 79.6,
+     "y": 57.5
+    },
+    {
+     "x": 29.6,
+     "y": 27.5
+    },
+    {
+     "x": 9.6,
+     "y": -62.5
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual loop",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -45.4,
+     "y": 82.5
+    },
+    {
+     "x": -100.4,
+     "y": 97.5
+    },
+    {
+     "x": -130.4,
+     "y": 67.5
+    },
+    {
+     "x": -80.4,
+     "y": 127.5
+    },
+    {
+     "x": 19.6,
+     "y": 127.5
+    },
+    {
+     "x": 119.6,
+     "y": 87.5
+    },
+    {
+     "x": 149.6,
+     "y": 47.5
+    },
+    {
+     "x": 79.6,
+     "y": 87.5
+    },
+    {
+     "x": -20.4,
+     "y": 97.5
+    },
+    {
+     "x": -45.4,
+     "y": 82.5
+    }
+   ]
+  }
+ ],
+ "notes": "Poseidon Garden (Poseidon Reef) at the southern end of Shaab el Erg: the coral garden on the south side of the two southernmost patch reefs (the two ergs the dive centres mention are not located individually), sand at 12-15 m and the moorings. It is a reef and coral-garden site, not a wreck. The garden and depths are from dive-centre descriptions (divers-guide.com); the loop is a typical one, not a recorded track, and positions are approximate.",
+ "origin": {
+  "lat": 27.399211,
+  "lon": 33.862318
+ },
+ "underlay": null,
+ "id": "egy-poseidon-1",
+ "site_id": "egy-poseidon",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:24:33.393675Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Plompe Toren",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "plompetoren",
+   "x": 202.6,
+   "y": -198.6,
+   "type": "marker",
+   "label": "Plompe Toren",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "trap",
+   "x": 13.7,
+   "y": -2.5,
+   "type": "entry",
+   "label": "Trap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stenen",
+   "x": 29.1,
+   "y": 13.9,
+   "type": "poi",
+   "label": "Stenen, oesters, slangsterren",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stroming",
+   "x": 68.6,
+   "y": 30.9,
+   "type": "hazard",
+   "label": "Stroming: duik rond de kentering",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "stenenveld",
+   "kind": "other",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 68.9,
+     "y": -8.0
+    },
+    {
+     "x": 50.5,
+     "y": 7.5
+    },
+    {
+     "x": 17.0,
+     "y": 28.1
+    },
+    {
+     "x": -9.7,
+     "y": 49.0
+    },
+    {
+     "x": -36.5,
+     "y": 69.9
+    },
+    {
+     "x": -39.3,
+     "y": 61.5
+    },
+    {
+     "x": -12.8,
+     "y": 39.9
+    },
+    {
+     "x": 13.9,
+     "y": 19.1
+    },
+    {
+     "x": 41.1,
+     "y": -0.3
+    },
+    {
+     "x": 65.9,
+     "y": -12.1
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shoreline-oosterschelde-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -90.0,
+     "y": 65.5
+    },
+    {
+     "x": 28.5,
+     "y": -16.5
+    },
+    {
+     "x": 95.3,
+     "y": -75.3
+    },
+    {
+     "x": 180.5,
+     "y": -131.4
+    },
+    {
+     "x": 225.0,
+     "y": -165.2
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 122.9,
+     "y": -53.1
+    },
+    {
+     "x": 82.8,
+     "y": -26.9
+    },
+    {
+     "x": -36.1,
+     "y": 66.0
+    }
+   ]
+  },
+  {
+   "id": "d10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 128.4,
+     "y": -36.8
+    },
+    {
+     "x": 86.1,
+     "y": -17.2
+    },
+    {
+     "x": -32.8,
+     "y": 75.7
+    }
+   ]
+  },
+  {
+   "id": "d15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 132.5,
+     "y": -24.8
+    },
+    {
+     "x": 90.2,
+     "y": -4.9
+    },
+    {
+     "x": -28.6,
+     "y": 88.0
+    }
+   ]
+  },
+  {
+   "id": "d20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 133.9,
+     "y": -20.7
+    },
+    {
+     "x": 94.4,
+     "y": 7.3
+    },
+    {
+     "x": 1.0,
+     "y": 80.8
+    }
+   ]
+  },
+  {
+   "id": "route-west",
+   "kind": "path",
+   "label": "Route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 29.7,
+     "y": -6.6
+    },
+    {
+     "x": 53.7,
+     "y": -13.0
+    },
+    {
+     "x": 83.6,
+     "y": -14.7
+    },
+    {
+     "x": 107.9,
+     "y": -2.6
+    },
+    {
+     "x": 111.5,
+     "y": 13.0
+    },
+    {
+     "x": 102.7,
+     "y": 27.0
+    },
+    {
+     "x": 79.3,
+     "y": 37.5
+    },
+    {
+     "x": 55.0,
+     "y": 40.6
+    },
+    {
+     "x": 34.7,
+     "y": 30.6
+    },
+    {
+     "x": 20.6,
+     "y": -0.1
+    }
+   ]
+  },
+  {
+   "id": "route-oost",
+   "kind": "path",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 14.0,
+     "y": 3.5
+    },
+    {
+     "x": 26.1,
+     "y": 25.1
+    },
+    {
+     "x": 39.8,
+     "y": 45.7
+    },
+    {
+     "x": 41.9,
+     "y": 61.9
+    },
+    {
+     "x": 32.3,
+     "y": 73.3
+    }
+   ]
+  },
+  {
+   "id": "route-oost-2",
+   "kind": "path",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -10.2,
+     "y": 87.7
+    },
+    {
+     "x": -19.0,
+     "y": 74.1
+    },
+    {
+     "x": -20.3,
+     "y": 57.7
+    },
+    {
+     "x": -13.3,
+     "y": 38.4
+    },
+    {
+     "x": 4.8,
+     "y": 12.0
+    }
+   ]
+  }
+ ],
+ "notes": "Shore dive on the Oosterschelde below the Plompe Toren: the concrete steps down the dike, a band of stones and oyster beds along the slope and the 5/10/15/20 m contours of a steep, tidal slope that continues past 25 m. Dive steps and shoreline from OpenStreetMap; positions and contours are approximate. Strong current: dive around slack water, and move away if fishing boats come close.",
+ "origin": {
+  "lat": 51.681599,
+  "lon": 3.77227
+ },
+ "underlay": null,
+ "id": "nld-plompe-toren-1",
+ "site_id": "nld-plompe-toren",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:18:41.162357Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

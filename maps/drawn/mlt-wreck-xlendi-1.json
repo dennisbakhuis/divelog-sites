@@ -1,0 +1,667 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Xatt l-Aħmar wrecks",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "ladders",
+   "x": 80.0,
+   "y": -132.0,
+   "type": "entry",
+   "label": "Ladders",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ladder-east",
+   "x": 122.0,
+   "y": -151.0,
+   "type": "entry",
+   "label": "Ladder",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "karwela-bow",
+   "x": 124.7,
+   "y": -53.0,
+   "type": "object",
+   "label": "Karwela bow",
+   "depth": 39.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "karwela-deck",
+   "x": 115.9,
+   "y": -33.3,
+   "type": "object",
+   "label": "MV Karwela",
+   "depth": 30.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "karwela-stern",
+   "x": 107.2,
+   "y": -13.7,
+   "type": "object",
+   "label": "Karwela stern",
+   "depth": 41.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "xlendi",
+   "x": -0.1,
+   "y": -0.2,
+   "type": "object",
+   "label": "MV Xlendi, upside down",
+   "depth": 42.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "xlendi-seaward",
+   "x": 3.1,
+   "y": 8.2,
+   "type": "poi",
+   "label": "Seaward side",
+   "depth": 44.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cominoland",
+   "x": 188.1,
+   "y": -61.1,
+   "type": "object",
+   "label": "MV Cominoland",
+   "depth": 35.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "car",
+   "x": -54.0,
+   "y": 3.0,
+   "type": "object",
+   "label": "Car wreck",
+   "depth": 38.0,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "xlendi-hull",
+   "kind": "wreck",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -37.4,
+     "y": 14.1
+    },
+    {
+     "x": -32.1,
+     "y": 5.7
+    },
+    {
+     "x": 35.3,
+     "y": -19.6
+    },
+    {
+     "x": 39.2,
+     "y": -9.5
+    },
+    {
+     "x": -27.8,
+     "y": 16.9
+    }
+   ]
+  },
+  {
+   "id": "karwela-hull",
+   "kind": "wreck",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 124.7,
+     "y": -53.0
+    },
+    {
+     "x": 126.8,
+     "y": -47.3
+    },
+    {
+     "x": 110.7,
+     "y": -12.1
+    },
+    {
+     "x": 103.7,
+     "y": -15.2
+    },
+    {
+     "x": 119.0,
+     "y": -50.8
+    }
+   ]
+  },
+  {
+   "id": "cominoland-hull",
+   "kind": "wreck",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 172.0,
+     "y": -54.9
+    },
+    {
+     "x": 173.7,
+     "y": -59.9
+    },
+    {
+     "x": 202.9,
+     "y": -70.7
+    },
+    {
+     "x": 205.5,
+     "y": -63.8
+    },
+    {
+     "x": 176.6,
+     "y": -52.3
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -163.9,
+     "y": -104.4
+    },
+    {
+     "x": -110.7,
+     "y": -104.8
+    },
+    {
+     "x": -71.8,
+     "y": -98.1
+    },
+    {
+     "x": -33.7,
+     "y": -95.4
+    },
+    {
+     "x": -34.6,
+     "y": -88.6
+    },
+    {
+     "x": -32.3,
+     "y": -87.7
+    },
+    {
+     "x": -29.6,
+     "y": -91.2
+    },
+    {
+     "x": -30.6,
+     "y": -93.2
+    },
+    {
+     "x": -20.3,
+     "y": -95.5
+    },
+    {
+     "x": -17.2,
+     "y": -98.6
+    },
+    {
+     "x": -9.2,
+     "y": -98.6
+    },
+    {
+     "x": -6.8,
+     "y": -93.1
+    },
+    {
+     "x": -1.0,
+     "y": -92.5
+    },
+    {
+     "x": 9.2,
+     "y": -101.7
+    },
+    {
+     "x": 29.6,
+     "y": -105.7
+    },
+    {
+     "x": 48.6,
+     "y": -96.3
+    },
+    {
+     "x": 54.4,
+     "y": -99.4
+    },
+    {
+     "x": 60.8,
+     "y": -113.2
+    },
+    {
+     "x": 68.9,
+     "y": -118.2
+    },
+    {
+     "x": 74.2,
+     "y": -127.0
+    },
+    {
+     "x": 80.2,
+     "y": -131.6
+    },
+    {
+     "x": 97.7,
+     "y": -135.8
+    },
+    {
+     "x": 108.9,
+     "y": -145.8
+    },
+    {
+     "x": 117.4,
+     "y": -149.7
+    },
+    {
+     "x": 127.8,
+     "y": -150.1
+    },
+    {
+     "x": 131.7,
+     "y": -153.7
+    },
+    {
+     "x": 137.9,
+     "y": -152.4
+    },
+    {
+     "x": 150.2,
+     "y": -154.5
+    },
+    {
+     "x": 165.7,
+     "y": -166.4
+    },
+    {
+     "x": 182.2,
+     "y": -170.7
+    },
+    {
+     "x": 194.7,
+     "y": -177.2
+    },
+    {
+     "x": 204.9,
+     "y": -190.1
+    },
+    {
+     "x": 210.2,
+     "y": -202.3
+    },
+    {
+     "x": 207.7,
+     "y": -206.7
+    },
+    {
+     "x": 219.9,
+     "y": -226.8
+    },
+    {
+     "x": 226.9,
+     "y": -226.4
+    },
+    {
+     "x": 238.9,
+     "y": -232.3
+    },
+    {
+     "x": 241.0,
+     "y": -236.6
+    }
+   ]
+  },
+  {
+   "id": "reef-7",
+   "kind": "depth",
+   "label": "",
+   "depth": 7.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -164.3,
+     "y": -96.0
+    },
+    {
+     "x": -38.6,
+     "y": -91.0
+    },
+    {
+     "x": 38.1,
+     "y": -107.3
+    },
+    {
+     "x": 82.8,
+     "y": -124.5
+    },
+    {
+     "x": 144.0,
+     "y": -147.6
+    },
+    {
+     "x": 199.2,
+     "y": -171.7
+    }
+   ]
+  },
+  {
+   "id": "reef-11",
+   "kind": "depth",
+   "label": "",
+   "depth": 11.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -164.6,
+     "y": -88.0
+    },
+    {
+     "x": -38.1,
+     "y": -83.0
+    },
+    {
+     "x": 40.3,
+     "y": -99.6
+    },
+    {
+     "x": 85.7,
+     "y": -117.0
+    },
+    {
+     "x": 147.0,
+     "y": -140.2
+    },
+    {
+     "x": 202.4,
+     "y": -164.3
+    }
+   ]
+  },
+  {
+   "id": "drop-off-line",
+   "kind": "wall",
+   "label": "Drop-off 11–32 m",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -165.0,
+     "y": -79.0
+    },
+    {
+     "x": -37.6,
+     "y": -74.0
+    },
+    {
+     "x": 42.7,
+     "y": -90.9
+    },
+    {
+     "x": 88.9,
+     "y": -108.6
+    },
+    {
+     "x": 150.4,
+     "y": -131.8
+    },
+    {
+     "x": 206.0,
+     "y": -156.1
+    }
+   ]
+  },
+  {
+   "id": "sand-37",
+   "kind": "depth",
+   "label": "",
+   "depth": 37.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -166.2,
+     "y": -49.0
+    },
+    {
+     "x": -36.0,
+     "y": -44.1
+    },
+    {
+     "x": 50.7,
+     "y": -62.0
+    },
+    {
+     "x": 99.6,
+     "y": -80.6
+    },
+    {
+     "x": 161.7,
+     "y": -104.0
+    },
+    {
+     "x": 218.0,
+     "y": -128.6
+    }
+   ]
+  },
+  {
+   "id": "sand-40",
+   "kind": "depth",
+   "label": "",
+   "depth": 40.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -167.6,
+     "y": -14.1
+    },
+    {
+     "x": -34.1,
+     "y": -9.1
+    },
+    {
+     "x": 60.1,
+     "y": -28.3
+    },
+    {
+     "x": 112.0,
+     "y": -47.9
+    },
+    {
+     "x": 174.8,
+     "y": -71.6
+    },
+    {
+     "x": 232.0,
+     "y": -96.5
+    }
+   ]
+  },
+  {
+   "id": "sand-45",
+   "kind": "depth",
+   "label": "",
+   "depth": 45.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -169.2,
+     "y": 25.9
+    },
+    {
+     "x": -31.9,
+     "y": 30.8
+    },
+    {
+     "x": 70.7,
+     "y": 10.3
+    },
+    {
+     "x": 126.3,
+     "y": -10.5
+    },
+    {
+     "x": 189.8,
+     "y": -34.5
+    },
+    {
+     "x": 248.0,
+     "y": -59.8
+    }
+   ]
+  },
+  {
+   "id": "sand-50",
+   "kind": "depth",
+   "label": "",
+   "depth": 50.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -170.8,
+     "y": 65.9
+    },
+    {
+     "x": -29.7,
+     "y": 70.7
+    },
+    {
+     "x": 81.4,
+     "y": 48.8
+    },
+    {
+     "x": 140.5,
+     "y": 26.9
+    },
+    {
+     "x": 204.8,
+     "y": 2.6
+    },
+    {
+     "x": 264.0,
+     "y": -23.2
+    }
+   ]
+  },
+  {
+   "id": "to-cominoland",
+   "kind": "path",
+   "label": "130° Cominoland",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 80.0,
+     "y": -132.0
+    },
+    {
+     "x": 171.9,
+     "y": -54.9
+    }
+   ]
+  },
+  {
+   "id": "to-karwela",
+   "kind": "path",
+   "label": "160° Karwela",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 80.0,
+     "y": -132.0
+    },
+    {
+     "x": 124.7,
+     "y": -53.0
+    }
+   ]
+  },
+  {
+   "id": "to-xlendi",
+   "kind": "path",
+   "label": "200° Xlendi",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 80.0,
+     "y": -132.0
+    },
+    {
+     "x": 37.2,
+     "y": -14.5
+    }
+   ]
+  }
+ ],
+ "notes": "The three scuttled wrecks off Xatt l-Aħmar: MV Xlendi (80 x 12 m, upside down, 42 m shore side, 44 m sea side), MV Karwela (43 m, upright, deck 30 m, bow 39 m) and MV Cominoland (34.5 m, upright, 35–42 m), with the car wreck. Bearings from the ladders (130°, 160°, 200°), spacing (about 50 m and 60 m), depth lines and the drop-off 25 m out, checked against the maltadives.com GPS positions and the OSM MV Xlendi node; shoreline from OpenStreetMap. Contours are drawn as straight lines parallel to the shore and all positions are approximate; the Hephaestus (2022) is not shown.",
+ "origin": {
+  "lat": 36.016652,
+  "lon": 14.285053
+ },
+ "underlay": null,
+ "id": "mlt-wreck-xlendi-1",
+ "site_id": "mlt-wreck-xlendi",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:27:52.869103Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

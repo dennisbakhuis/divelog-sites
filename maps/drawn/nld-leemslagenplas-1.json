@@ -1,0 +1,1002 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Onderwaterparcours",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "instap",
+   "x": 198.4,
+   "y": -78.5,
+   "type": "entry",
+   "label": "Instap",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrak-10",
+   "x": 151.6,
+   "y": -55.2,
+   "type": "object",
+   "label": "Wrak",
+   "depth": 10.5,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrak-4",
+   "x": 185.6,
+   "y": -45.8,
+   "type": "object",
+   "label": "Wrak",
+   "depth": 4.5,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "amforen",
+   "x": 199.1,
+   "y": 9.9,
+   "type": "object",
+   "label": "Amforenveld",
+   "depth": 6.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "shovelband-15",
+   "x": 120.8,
+   "y": -45.9,
+   "type": "object",
+   "label": "Shovelband",
+   "depth": 15.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bocht-1",
+   "x": 82.1,
+   "y": -47.8,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "uk269",
+   "x": 60.3,
+   "y": -69.6,
+   "type": "object",
+   "label": "UK269",
+   "depth": 24.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "knoop",
+   "x": 62.4,
+   "y": -87.3,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bocht-2",
+   "x": 88.0,
+   "y": -139.3,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrak-11",
+   "x": 120.9,
+   "y": -152.2,
+   "type": "object",
+   "label": "Wrak",
+   "depth": 11.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "verkeersborden",
+   "x": 124.7,
+   "y": -160.6,
+   "type": "object",
+   "label": "Verkeersborden",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrak-12",
+   "x": 110.8,
+   "y": -180.3,
+   "type": "object",
+   "label": "Wrak",
+   "depth": 12.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "paal",
+   "x": 135.4,
+   "y": -113.9,
+   "type": "object",
+   "label": "Paal",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform",
+   "x": 132.0,
+   "y": -91.3,
+   "type": "object",
+   "label": "Platform",
+   "depth": 10.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "strijdkar",
+   "x": 147.2,
+   "y": -93.7,
+   "type": "object",
+   "label": "Strijdkar",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bocht-3",
+   "x": 53.9,
+   "y": -150.6,
+   "type": "station",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "canyon",
+   "x": 20.3,
+   "y": -141.5,
+   "type": "poi",
+   "label": "Canyon (drop-off)",
+   "depth": 27.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "shovelband-5",
+   "x": 185.2,
+   "y": -87.0,
+   "type": "object",
+   "label": "Shovelband",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto",
+   "x": 178.4,
+   "y": -99.7,
+   "type": "object",
+   "label": "Auto",
+   "depth": 5.0,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wipkip",
+   "x": 165.9,
+   "y": -113.0,
+   "type": "object",
+   "label": "Wipkip",
+   "depth": null,
+   "object_kind": "wipkip",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zuil",
+   "x": 171.9,
+   "y": -121.1,
+   "type": "object",
+   "label": "Zuil",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pvc-buizen",
+   "x": 150.0,
+   "y": -204.6,
+   "type": "object",
+   "label": "Pvc-buizen",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "amforen",
+   "to": "wrak-4",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrak-4",
+   "to": "wrak-10",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrak-10",
+   "to": "shovelband-15",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "shovelband-15",
+   "to": "bocht-1",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bocht-1",
+   "to": "uk269",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "uk269",
+   "to": "knoop",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "knoop",
+   "to": "bocht-2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bocht-2",
+   "to": "wrak-11",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrak-10",
+   "to": "paal",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "paal",
+   "to": "wrak-11",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrak-11",
+   "to": "wrak-12",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "wrak-11",
+   "to": "bocht-3",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "bocht-3",
+   "to": "canyon",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "canyon",
+   "to": "knoop",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  }
+ ],
+ "areas": [
+  {
+   "id": "uk269-romp",
+   "kind": "wreck",
+   "label": "UK269",
+   "depth": 24.0,
+   "points": [
+    {
+     "x": 53.3,
+     "y": -64.8
+    },
+    {
+     "x": 51.8,
+     "y": -69.7
+    },
+    {
+     "x": 67.3,
+     "y": -74.0
+    },
+    {
+     "x": 68.9,
+     "y": -69.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "oever",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 158.2,
+     "y": 253.1
+    },
+    {
+     "x": 141.9,
+     "y": 252.1
+    },
+    {
+     "x": 126.4,
+     "y": 255.7
+    },
+    {
+     "x": 81.9,
+     "y": 272.1
+    },
+    {
+     "x": 53.5,
+     "y": 277.6
+    },
+    {
+     "x": 20.9,
+     "y": 297.0
+    },
+    {
+     "x": -17.7,
+     "y": 305.8
+    },
+    {
+     "x": -61.6,
+     "y": 327.8
+    },
+    {
+     "x": -79.4,
+     "y": 332.7
+    },
+    {
+     "x": -89.7,
+     "y": 332.8
+    },
+    {
+     "x": -111.8,
+     "y": 329.5
+    },
+    {
+     "x": -125.5,
+     "y": 321.9
+    },
+    {
+     "x": -131.9,
+     "y": 316.1
+    },
+    {
+     "x": -135.1,
+     "y": 312.0
+    },
+    {
+     "x": -164.4,
+     "y": 251.7
+    },
+    {
+     "x": -178.2,
+     "y": 220.1
+    },
+    {
+     "x": -180.4,
+     "y": 207.8
+    },
+    {
+     "x": -180.8,
+     "y": 189.8
+    },
+    {
+     "x": -182.9,
+     "y": 185.5
+    },
+    {
+     "x": -198.5,
+     "y": 176.9
+    },
+    {
+     "x": -201.5,
+     "y": 173.3
+    },
+    {
+     "x": -206.1,
+     "y": 163.2
+    },
+    {
+     "x": -218.8,
+     "y": 122.2
+    },
+    {
+     "x": -218.7,
+     "y": 115.8
+    },
+    {
+     "x": -217.0,
+     "y": 112.0
+    },
+    {
+     "x": -211.8,
+     "y": 106.6
+    },
+    {
+     "x": -186.1,
+     "y": 93.5
+    },
+    {
+     "x": -181.1,
+     "y": 84.5
+    },
+    {
+     "x": -171.4,
+     "y": 41.8
+    },
+    {
+     "x": -174.5,
+     "y": 29.9
+    },
+    {
+     "x": -178.9,
+     "y": 24.8
+    },
+    {
+     "x": -191.9,
+     "y": 17.2
+    },
+    {
+     "x": -210.2,
+     "y": 9.6
+    },
+    {
+     "x": -217.7,
+     "y": 3.5
+    },
+    {
+     "x": -223.3,
+     "y": -4.0
+    },
+    {
+     "x": -226.5,
+     "y": -13.0
+    },
+    {
+     "x": -228.1,
+     "y": -20.1
+    },
+    {
+     "x": -227.5,
+     "y": -25.8
+    },
+    {
+     "x": -222.8,
+     "y": -33.6
+    },
+    {
+     "x": -218.0,
+     "y": -37.3
+    },
+    {
+     "x": -201.2,
+     "y": -43.4
+    },
+    {
+     "x": -194.7,
+     "y": -47.6
+    },
+    {
+     "x": -187.1,
+     "y": -56.7
+    },
+    {
+     "x": -181.8,
+     "y": -71.7
+    },
+    {
+     "x": -181.8,
+     "y": -86.6
+    },
+    {
+     "x": -187.5,
+     "y": -101.5
+    },
+    {
+     "x": -196.5,
+     "y": -109.9
+    },
+    {
+     "x": -209.6,
+     "y": -112.1
+    },
+    {
+     "x": -227.7,
+     "y": -110.0
+    },
+    {
+     "x": -246.3,
+     "y": -111.0
+    },
+    {
+     "x": -259.1,
+     "y": -118.1
+    },
+    {
+     "x": -285.1,
+     "y": -147.1
+    },
+    {
+     "x": -299.1,
+     "y": -169.4
+    },
+    {
+     "x": -326.9,
+     "y": -275.7
+    },
+    {
+     "x": -327.7,
+     "y": -283.3
+    },
+    {
+     "x": -326.2,
+     "y": -298.7
+    },
+    {
+     "x": -320.5,
+     "y": -313.9
+    },
+    {
+     "x": -306.6,
+     "y": -327.3
+    },
+    {
+     "x": -291.2,
+     "y": -335.6
+    },
+    {
+     "x": -255.9,
+     "y": -336.7
+    },
+    {
+     "x": -93.7,
+     "y": -330.4
+    },
+    {
+     "x": -68.0,
+     "y": -334.1
+    },
+    {
+     "x": -2.7,
+     "y": -333.0
+    },
+    {
+     "x": 100.2,
+     "y": -339.4
+    },
+    {
+     "x": 114.1,
+     "y": -337.7
+    },
+    {
+     "x": 118.7,
+     "y": -333.5
+    },
+    {
+     "x": 123.3,
+     "y": -325.7
+    },
+    {
+     "x": 130.2,
+     "y": -307.5
+    },
+    {
+     "x": 141.8,
+     "y": -257.2
+    },
+    {
+     "x": 146.9,
+     "y": -250.4
+    },
+    {
+     "x": 152.9,
+     "y": -237.4
+    },
+    {
+     "x": 157.6,
+     "y": -212.5
+    },
+    {
+     "x": 165.2,
+     "y": -196.4
+    },
+    {
+     "x": 169.9,
+     "y": -168.9
+    },
+    {
+     "x": 177.3,
+     "y": -148.6
+    },
+    {
+     "x": 180.6,
+     "y": -129.5
+    },
+    {
+     "x": 184.5,
+     "y": -125.9
+    },
+    {
+     "x": 186.7,
+     "y": -116.1
+    },
+    {
+     "x": 193.7,
+     "y": -101.7
+    },
+    {
+     "x": 193.6,
+     "y": -92.4
+    },
+    {
+     "x": 202.3,
+     "y": -70.1
+    },
+    {
+     "x": 203.2,
+     "y": -55.9
+    },
+    {
+     "x": 209.5,
+     "y": -30.3
+    },
+    {
+     "x": 210.6,
+     "y": -11.6
+    },
+    {
+     "x": 218.8,
+     "y": -5.1
+    },
+    {
+     "x": 238.8,
+     "y": 74.6
+    },
+    {
+     "x": 248.7,
+     "y": 101.5
+    },
+    {
+     "x": 262.9,
+     "y": 132.9
+    },
+    {
+     "x": 262.6,
+     "y": 148.8
+    },
+    {
+     "x": 272.9,
+     "y": 196.0
+    },
+    {
+     "x": 271.9,
+     "y": 213.2
+    },
+    {
+     "x": 261.3,
+     "y": 229.6
+    },
+    {
+     "x": 252.8,
+     "y": 238.5
+    },
+    {
+     "x": 243.7,
+     "y": 242.4
+    },
+    {
+     "x": 230.5,
+     "y": 242.9
+    },
+    {
+     "x": 218.0,
+     "y": 246.1
+    },
+    {
+     "x": 207.5,
+     "y": 250.8
+    },
+    {
+     "x": 192.5,
+     "y": 252.9
+    },
+    {
+     "x": 173.2,
+     "y": 252.2
+    },
+    {
+     "x": 162.9,
+     "y": 253.4
+    }
+   ]
+  },
+  {
+   "id": "bandenspoor-1",
+   "kind": "path",
+   "label": "Bandenspoor",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 193.5,
+     "y": -75.9
+    },
+    {
+     "x": 151.6,
+     "y": -55.2
+    }
+   ]
+  },
+  {
+   "id": "bandenspoor-2",
+   "kind": "path",
+   "label": "Bandenspoor",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 169.1,
+     "y": -149.1
+    },
+    {
+     "x": 129.0,
+     "y": -154.0
+    }
+   ]
+  },
+  {
+   "id": "canyon-wand",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 29.8,
+     "y": -85.3
+    },
+    {
+     "x": 14.5,
+     "y": -142.0
+    },
+    {
+     "x": -0.9,
+     "y": -196.4
+    }
+   ]
+  },
+  {
+   "id": "diepte-5",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 212.8,
+     "y": 47.7
+    },
+    {
+     "x": 171.2,
+     "y": -110.0
+    },
+    {
+     "x": 129.7,
+     "y": -267.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 187.4,
+     "y": 55.4
+    },
+    {
+     "x": 141.4,
+     "y": -101.0
+    },
+    {
+     "x": 95.4,
+     "y": -257.4
+    }
+   ]
+  },
+  {
+   "id": "diepte-15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 156.2,
+     "y": 64.9
+    },
+    {
+     "x": 108.3,
+     "y": -91.0
+    },
+    {
+     "x": 60.4,
+     "y": -246.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 109.8,
+     "y": 79.0
+    },
+    {
+     "x": 63.3,
+     "y": -77.3
+    },
+    {
+     "x": 16.7,
+     "y": -233.6
+    }
+   ]
+  },
+  {
+   "id": "diepte-25",
+   "kind": "depth",
+   "label": "",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 88.0,
+     "y": 85.6
+    },
+    {
+     "x": 43.6,
+     "y": -71.3
+    },
+    {
+     "x": -0.8,
+     "y": -228.3
+    }
+   ]
+  }
+ ],
+ "notes": "Leemslagenplas at Almelo: the underwater course from the entry at the end of the access road on the east bank, with boat wrecks at 4.5-12 m, a platform, the UK269 Urk cutter at 22-24 m (buoys on the fore and aft deck) and the canyon drop-off at 27 m; the lake bottom is to the west of the entry. Shoreline from OpenStreetMap; depth lines are schematic and all positions are approximate. The UK-JE (9 m, sunk 2014) is not drawn.",
+ "origin": {
+  "lat": 52.33685,
+  "lon": 6.61522
+ },
+ "underlay": null,
+ "id": "nld-leemslagenplas-1",
+ "site_id": "nld-leemslagenplas",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:59:06.163703Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

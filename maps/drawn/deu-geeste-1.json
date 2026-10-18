@@ -1,0 +1,649 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Speicherbecken Geeste",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "einstieg-treppe-ost",
+   "x": -149.9,
+   "y": -104.3,
+   "type": "entry",
+   "label": "Treppenaufgang Ost",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "einstieg-treppe-west",
+   "x": -196.8,
+   "y": -58.4,
+   "type": "entry",
+   "label": "Treppenaufgang West",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ruderboot",
+   "x": -28.8,
+   "y": -11.5,
+   "type": "object",
+   "label": "Ruderboot",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "seil-ende",
+   "x": -1.9,
+   "y": -74.6,
+   "type": "marker",
+   "label": "Führungsseil",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "segelboot",
+   "x": 0.0,
+   "y": -87.9,
+   "type": "object",
+   "label": "Segelboot",
+   "depth": 11.5,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kuh",
+   "x": -19.8,
+   "y": -90.7,
+   "type": "object",
+   "label": "Kuh",
+   "depth": 9.5,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tunnel",
+   "x": -23.2,
+   "y": -105.4,
+   "type": "object",
+   "label": "Tunnel (große Barsche)",
+   "depth": 8.7,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gedenksteine",
+   "x": -28.3,
+   "y": -112.7,
+   "type": "object",
+   "label": "Gedenksteine",
+   "depth": 7.8,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "baum-nord",
+   "x": -23.7,
+   "y": -135.4,
+   "type": "object",
+   "label": "Baum",
+   "depth": 6.6,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "uebungsplattform",
+   "x": -63.3,
+   "y": -98.0,
+   "type": "object",
+   "label": "Übungsplattform mit „Taucher(in)“",
+   "depth": 7.6,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "spiegel",
+   "x": -74.6,
+   "y": -61.4,
+   "type": "object",
+   "label": "ehemaliger Spiegel",
+   "depth": 9.5,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kirschbaum",
+   "x": -95.6,
+   "y": -60.1,
+   "type": "object",
+   "label": "Kirschbaum",
+   "depth": 8.5,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sitzbank",
+   "x": -84.0,
+   "y": -78.5,
+   "type": "object",
+   "label": "Sitzbank mit Dame",
+   "depth": 8.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fahrrad",
+   "x": -120.5,
+   "y": -62.4,
+   "type": "object",
+   "label": "Fahrrad",
+   "depth": 7.7,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "baum-84",
+   "x": -112.9,
+   "y": -48.0,
+   "type": "object",
+   "label": "Baum",
+   "depth": 8.4,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "baum-80",
+   "x": -118.5,
+   "y": -51.4,
+   "type": "object",
+   "label": "Baum",
+   "depth": 8.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "badewanne",
+   "x": -89.6,
+   "y": -28.8,
+   "type": "object",
+   "label": "Badewanne",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "toiletten",
+   "x": -100.4,
+   "y": -33.3,
+   "type": "object",
+   "label": "Toiletten",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "umleitungsschild",
+   "x": -82.8,
+   "y": -24.3,
+   "type": "object",
+   "label": "Umleitungsschild",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "halteverbot",
+   "x": -75.2,
+   "y": -18.7,
+   "type": "object",
+   "label": "Halteverbot",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "birken",
+   "x": -113.7,
+   "y": 7.7,
+   "type": "object",
+   "label": "4 Birken (z. T. umgefallen)",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "flosse",
+   "x": -143.1,
+   "y": 38.7,
+   "type": "object",
+   "label": "Flosse",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "frosch",
+   "x": -135.7,
+   "y": 7.2,
+   "type": "object",
+   "label": "Frosch",
+   "depth": 11.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "schild",
+   "x": -128.7,
+   "y": -2.8,
+   "type": "object",
+   "label": "Schild",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "roehre",
+   "x": -149.9,
+   "y": -4.7,
+   "type": "object",
+   "label": "8 m lange Röhre",
+   "depth": 9.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "figuren",
+   "x": -141.4,
+   "y": -20.0,
+   "type": "object",
+   "label": "Figuren",
+   "depth": 8.8,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "schild-40",
+   "x": -133.5,
+   "y": -27.9,
+   "type": "object",
+   "label": "Schild „40“",
+   "depth": 8.2,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "weihnachtsbaumwald",
+   "x": -157.8,
+   "y": -11.5,
+   "type": "object",
+   "label": "Weihnachtsbaumwald",
+   "depth": 6.7,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "deichkrone",
+   "x": -234.0,
+   "y": -111.2,
+   "type": "poi",
+   "label": "Restaurant Deichkrone",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "ruderboot",
+   "to": "seil-ende",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsseil, ca. 6 min",
+   "style": "line"
+  },
+  {
+   "from": "umleitungsschild",
+   "to": "fahrrad",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsseil",
+   "style": "line"
+  }
+ ],
+ "areas": [
+  {
+   "id": "grasguertel",
+   "kind": "reeds",
+   "label": "Grasgürtel im Sommer (2–5 m)",
+   "depth": null,
+   "points": [
+    {
+     "x": -62.2,
+     "y": -160.3
+    },
+    {
+     "x": -73.5,
+     "y": -153.5
+    },
+    {
+     "x": -101.2,
+     "y": -135.9
+    },
+    {
+     "x": -127.8,
+     "y": -117.3
+    },
+    {
+     "x": -150.4,
+     "y": -99.2
+    },
+    {
+     "x": -170.8,
+     "y": -81.1
+    },
+    {
+     "x": -192.9,
+     "y": -57.9
+    },
+    {
+     "x": -213.2,
+     "y": -33.0
+    },
+    {
+     "x": -194.6,
+     "y": -14.3
+    },
+    {
+     "x": -174.2,
+     "y": -39.2
+    },
+    {
+     "x": -152.1,
+     "y": -62.4
+    },
+    {
+     "x": -131.8,
+     "y": -80.5
+    },
+    {
+     "x": -109.1,
+     "y": -98.6
+    },
+    {
+     "x": -82.6,
+     "y": -117.3
+    },
+    {
+     "x": -54.8,
+     "y": -134.8
+    },
+    {
+     "x": -43.5,
+     "y": -141.6
+    }
+   ]
+  },
+  {
+   "id": "steinschuettung",
+   "kind": "other",
+   "label": "Steinschüttung",
+   "depth": null,
+   "points": [
+    {
+     "x": -146.5,
+     "y": 37.2
+    },
+    {
+     "x": -145.9,
+     "y": 50.2
+    },
+    {
+     "x": -153.3,
+     "y": 60.9
+    },
+    {
+     "x": -226.2,
+     "y": -14.3
+    },
+    {
+     "x": -208.1,
+     "y": -0.7
+    },
+    {
+     "x": -179.9,
+     "y": 11.7
+    },
+    {
+     "x": -161.2,
+     "y": 24.7
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "speicherbecken-geeste",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -217.2,
+     "y": 169.0
+    },
+    {
+     "x": -237.6,
+     "y": 126.0
+    },
+    {
+     "x": -247.1,
+     "y": 81.9
+    },
+    {
+     "x": -244.6,
+     "y": 24.5
+    },
+    {
+     "x": -186.4,
+     "y": -71.6
+    },
+    {
+     "x": -161.9,
+     "y": -101.1
+    },
+    {
+     "x": -134.5,
+     "y": -124.8
+    },
+    {
+     "x": -93.4,
+     "y": -148.0
+    },
+    {
+     "x": -44.0,
+     "y": -164.9
+    },
+    {
+     "x": -7.3,
+     "y": -169.0
+    },
+    {
+     "x": 37.9,
+     "y": -166.3
+    },
+    {
+     "x": 75.9,
+     "y": -155.9
+    },
+    {
+     "x": 107.3,
+     "y": -142.2
+    },
+    {
+     "x": 143.4,
+     "y": -119.9
+    },
+    {
+     "x": 168.6,
+     "y": -92.7
+    },
+    {
+     "x": 184.6,
+     "y": -64.7
+    },
+    {
+     "x": 200.1,
+     "y": -9.1
+    },
+    {
+     "x": 205.7,
+     "y": 48.6
+    },
+    {
+     "x": 212.2,
+     "y": 71.1
+    },
+    {
+     "x": 228.3,
+     "y": 110.8
+    },
+    {
+     "x": 247.1,
+     "y": 134.7
+    }
+   ]
+  },
+  {
+   "id": "peilung-90",
+   "kind": "path",
+   "label": "Peilung 90°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -152.7,
+     "y": -101.4
+    },
+    {
+     "x": -67.9,
+     "y": -95.8
+    }
+   ]
+  },
+  {
+   "id": "peilung-100",
+   "kind": "path",
+   "label": "Peilung 100°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -55.4,
+     "y": -96.9
+    },
+    {
+     "x": -11.3,
+     "y": -87.9
+    }
+   ]
+  },
+  {
+   "id": "peilung-300",
+   "kind": "path",
+   "label": "Peilung zurück 300° (ca. 11 min)",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -29.4,
+     "y": -12.1
+    },
+    {
+     "x": -152.7,
+     "y": -101.4
+    }
+   ]
+  }
+ ],
+ "notes": "The dive area off the Restaurant Deichkrone in the north-west corner of the reservoir: the two stair entries, the Übungsplattform, the guide lines and the sunken objects with their depths at full water level, fitted to the OpenStreetMap shoreline. Object positions are approximate to some 20 m. Shoreline © OpenStreetMap contributors.",
+ "origin": {
+  "lat": 52.593456,
+  "lon": 7.282812
+ },
+ "underlay": null,
+ "id": "deu-geeste-1",
+ "site_id": "deu-geeste",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:24:01.153337Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

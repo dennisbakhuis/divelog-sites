@@ -1,0 +1,311 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Shark Point",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mooring",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "drop",
+   "x": -45.0,
+   "y": -25.0,
+   "type": "entry",
+   "label": "Boat drop",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sharks",
+   "x": -20.0,
+   "y": 30.0,
+   "type": "object",
+   "label": "Bull sharks, kneel on the sand",
+   "depth": 30.0,
+   "object_kind": "shark",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sand",
+   "x": -110.0,
+   "y": 70.0,
+   "type": "poi",
+   "label": "Sand flats",
+   "depth": 28.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": -120.0,
+   "y": -140.0,
+   "type": "hazard",
+   "label": "Current, mostly running north",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "jardines",
+   "x": -197.6,
+   "y": -331.6,
+   "type": "buoy",
+   "label": "Los Jardines reef mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "pier-69706824",
+   "kind": "wall",
+   "label": "Ferry pier",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -469.7,
+     "y": -610.0
+    },
+    {
+     "x": -278.3,
+     "y": -477.1
+    },
+    {
+     "x": -272.1,
+     "y": -487.1
+    },
+    {
+     "x": -461.0,
+     "y": -616.8
+    },
+    {
+     "x": -495.0,
+     "y": -640.4
+    },
+    {
+     "x": -501.2,
+     "y": -632.2
+    },
+    {
+     "x": -469.7,
+     "y": -610.0
+    }
+   ]
+  },
+  {
+   "id": "coast-1026912026",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -461.0,
+     "y": -616.8
+    },
+    {
+     "x": -459.4,
+     "y": -618.5
+    },
+    {
+     "x": -452.6,
+     "y": -625.4
+    },
+    {
+     "x": -436.2,
+     "y": -659.2
+    }
+   ]
+  },
+  {
+   "id": "coast-1442853266",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -996.4,
+     "y": -344.1
+    },
+    {
+     "x": -988.2,
+     "y": -356.2
+    },
+    {
+     "x": -976.4,
+     "y": -365.6
+    },
+    {
+     "x": -952.8,
+     "y": -388.1
+    },
+    {
+     "x": -939.5,
+     "y": -401.9
+    },
+    {
+     "x": -926.7,
+     "y": -415.9
+    },
+    {
+     "x": -917.0,
+     "y": -422.6
+    },
+    {
+     "x": -896.0,
+     "y": -439.9
+    },
+    {
+     "x": -886.9,
+     "y": -447.0
+    },
+    {
+     "x": -861.0,
+     "y": -449.8
+    },
+    {
+     "x": -833.9,
+     "y": -466.6
+    },
+    {
+     "x": -804.8,
+     "y": -502.8
+    },
+    {
+     "x": -778.3,
+     "y": -529.2
+    },
+    {
+     "x": -729.0,
+     "y": -583.5
+    },
+    {
+     "x": -711.0,
+     "y": -596.1
+    },
+    {
+     "x": -687.5,
+     "y": -622.9
+    },
+    {
+     "x": -674.0,
+     "y": -626.9
+    },
+    {
+     "x": -657.0,
+     "y": -621.4
+    },
+    {
+     "x": -618.3,
+     "y": -622.0
+    },
+    {
+     "x": -594.0,
+     "y": -612.7
+    },
+    {
+     "x": -563.9,
+     "y": -600.3
+    },
+    {
+     "x": -544.0,
+     "y": -589.3
+    },
+    {
+     "x": -523.7,
+     "y": -573.5
+    },
+    {
+     "x": -525.2,
+     "y": -563.0
+    },
+    {
+     "x": -521.9,
+     "y": -561.5
+    },
+    {
+     "x": -516.2,
+     "y": -565.0
+    },
+    {
+     "x": -511.1,
+     "y": -574.9
+    },
+    {
+     "x": -491.8,
+     "y": -591.1
+    },
+    {
+     "x": -469.7,
+     "y": -610.0
+    },
+    {
+     "x": -465.2,
+     "y": -613.8
+    }
+   ]
+  },
+  {
+   "id": "coast-1442853275",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -465.2,
+     "y": -613.8
+    },
+    {
+     "x": -461.0,
+     "y": -616.8
+    }
+   ]
+  }
+ ],
+ "notes": "Sparse map of the winter bull-shark dive off Playa del Carmen: the site is the 'Dive Site Bull Sharks' mooring in OpenStreetMap, about 1.2 km off the beach south of the ferry pier, with the Los Jardines reef mooring for reference. The sand flats at 25-30 m, the kneeling on the sand in current and the northward current come from the site description and first-hand observation; the sharks and sand markers only stand for the sand around the mooring and are not surveyed positions.",
+ "origin": {
+  "lat": 20.6222259,
+  "lon": -87.0621637
+ },
+ "underlay": null,
+ "id": "mex-shark-point-1",
+ "site_id": "mex-shark-point",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:40:25.822840Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

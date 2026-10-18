@@ -1,0 +1,434 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Moray Garden",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "buoy",
+   "x": 12.8,
+   "y": 59.9,
+   "type": "buoy",
+   "label": "Buoy",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-13",
+   "x": 27.1,
+   "y": 80.6,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-12",
+   "x": 34.8,
+   "y": 68.0,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tables",
+   "x": 0.4,
+   "y": 76.4,
+   "type": "poi",
+   "label": "Table corals",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-7",
+   "x": -65.7,
+   "y": 109.9,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "glassfish",
+   "x": 129.2,
+   "y": 5.5,
+   "type": "object",
+   "label": "Coral head with glassfish",
+   "depth": 6.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry",
+   "x": 5.2,
+   "y": 14.7,
+   "type": "entry",
+   "label": "Beach entry",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "sand-plateau",
+   "kind": "sand",
+   "label": "Sand plateau",
+   "depth": null,
+   "points": [
+    {
+     "x": 223.4,
+     "y": -16.6
+    },
+    {
+     "x": 172.5,
+     "y": 10.5
+    },
+    {
+     "x": 132.5,
+     "y": 45.1
+    },
+    {
+     "x": 99.8,
+     "y": 68.6
+    },
+    {
+     "x": 87.5,
+     "y": 87.3
+    },
+    {
+     "x": 62.0,
+     "y": 103.1
+    },
+    {
+     "x": 13.2,
+     "y": 118.6
+    },
+    {
+     "x": -7.1,
+     "y": 123.4
+    },
+    {
+     "x": -35.5,
+     "y": 142.1
+    },
+    {
+     "x": -34.9,
+     "y": 183.3
+    },
+    {
+     "x": -67.8,
+     "y": 202.3
+    },
+    {
+     "x": -105.8,
+     "y": 107.6
+    },
+    {
+     "x": 19.1,
+     "y": 9.8
+    },
+    {
+     "x": 199.2,
+     "y": -35.2
+    }
+   ]
+  },
+  {
+   "id": "coral-ridge",
+   "kind": "coral",
+   "label": "Coral ridge 6-14 m",
+   "depth": 6.0,
+   "points": [
+    {
+     "x": -34.9,
+     "y": 183.3
+    },
+    {
+     "x": -41.7,
+     "y": 159.5
+    },
+    {
+     "x": -35.5,
+     "y": 142.1
+    },
+    {
+     "x": -7.1,
+     "y": 123.4
+    },
+    {
+     "x": 13.2,
+     "y": 118.6
+    },
+    {
+     "x": 32.5,
+     "y": 112.1
+    },
+    {
+     "x": 62.0,
+     "y": 103.1
+    },
+    {
+     "x": 87.5,
+     "y": 87.3
+    },
+    {
+     "x": 99.8,
+     "y": 68.6
+    },
+    {
+     "x": 132.5,
+     "y": 45.1
+    },
+    {
+     "x": 166.6,
+     "y": 16.2
+    },
+    {
+     "x": 223.4,
+     "y": -16.6
+    },
+    {
+     "x": 258.4,
+     "y": 44.0
+    },
+    {
+     "x": 231.8,
+     "y": 57.1
+    },
+    {
+     "x": 201.5,
+     "y": 60.7
+    },
+    {
+     "x": 164.6,
+     "y": 80.8
+    },
+    {
+     "x": 120.8,
+     "y": 105.0
+    },
+    {
+     "x": 87.2,
+     "y": 126.7
+    },
+    {
+     "x": 73.4,
+     "y": 142.8
+    },
+    {
+     "x": 53.5,
+     "y": 148.4
+    },
+    {
+     "x": 19.9,
+     "y": 170.2
+    },
+    {
+     "x": -15.7,
+     "y": 188.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -200.0,
+     "y": 237.5
+    },
+    {
+     "x": -180.4,
+     "y": 220.3
+    },
+    {
+     "x": -166.4,
+     "y": 188.2
+    },
+    {
+     "x": -138.7,
+     "y": 157.0
+    },
+    {
+     "x": -86.7,
+     "y": 78.9
+    },
+    {
+     "x": -63.4,
+     "y": 52.6
+    },
+    {
+     "x": -15.0,
+     "y": 21.9
+    },
+    {
+     "x": 29.5,
+     "y": 6.1
+    },
+    {
+     "x": 136.9,
+     "y": -15.9
+    },
+    {
+     "x": 170.8,
+     "y": -25.4
+    },
+    {
+     "x": 300.0,
+     "y": -69.8
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -3.3,
+     "y": 21.9
+    },
+    {
+     "x": 11.5,
+     "y": 45.7
+    },
+    {
+     "x": 25.4,
+     "y": 67.7
+    },
+    {
+     "x": 32.7,
+     "y": 84.3
+    },
+    {
+     "x": 27.5,
+     "y": 103.4
+    },
+    {
+     "x": 17.0,
+     "y": 121.1
+    },
+    {
+     "x": 23.2,
+     "y": 135.9
+    },
+    {
+     "x": 37.9,
+     "y": 141.3
+    },
+    {
+     "x": 61.4,
+     "y": 130.1
+    },
+    {
+     "x": 77.5,
+     "y": 130.0
+    },
+    {
+     "x": 102.5,
+     "y": 113.2
+    },
+    {
+     "x": 127.0,
+     "y": 95.6
+    },
+    {
+     "x": 154.9,
+     "y": 76.1
+    },
+    {
+     "x": 166.3,
+     "y": 55.7
+    },
+    {
+     "x": 163.9,
+     "y": 31.6
+    },
+    {
+     "x": 153.6,
+     "y": 9.8
+    },
+    {
+     "x": 143.9,
+     "y": -3.0
+    },
+    {
+     "x": 131.7,
+     "y": -12.2
+    },
+    {
+     "x": 117.6,
+     "y": -8.6
+    },
+    {
+     "x": 97.8,
+     "y": 5.1
+    },
+    {
+     "x": 69.4,
+     "y": 23.8
+    },
+    {
+     "x": 42.9,
+     "y": 29.9
+    },
+    {
+     "x": 24.5,
+     "y": 22.1
+    },
+    {
+     "x": 13.7,
+     "y": 7.5
+    }
+   ]
+  }
+ ],
+ "notes": "Sand plateau with the buoy, coral blocks at 7-13 m, the coral ridge at 6-14 m and the glassfish coral head with the usual loop, placed on the OpenStreetMap coastline; positions and depths are approximate. Coastline © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 28.4379,
+  "lon": 34.459117
+ },
+ "underlay": null,
+ "id": "egy-moray-garden-1",
+ "site_id": "egy-moray-garden",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:56:16.444207Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,498 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Boulder City",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "p-north",
+   "x": -81.6,
+   "y": -28.8,
+   "type": "object",
+   "label": "North pinnacle",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p-middle",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "object",
+   "label": "Middle pinnacle",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "p-south",
+   "x": 52.2,
+   "y": 34.2,
+   "type": "object",
+   "label": "South pinnacle",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "n20",
+   "x": -106.8,
+   "y": -32.4,
+   "type": "marker",
+   "label": "Boulder",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "n18",
+   "x": -96.0,
+   "y": -11.4,
+   "type": "marker",
+   "label": "Boulder",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sand24",
+   "x": -82.8,
+   "y": 5.4,
+   "type": "marker",
+   "label": "Sand",
+   "depth": 24.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy",
+   "x": -130.8,
+   "y": -18.6,
+   "type": "buoy",
+   "label": "Mooring, line to 18 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "b-e1",
+   "x": -4.8,
+   "y": -37.8,
+   "type": "object",
+   "label": "Boulders",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "b-w",
+   "x": -97.8,
+   "y": 14.4,
+   "type": "object",
+   "label": "Boulder",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "north",
+   "kind": "other",
+   "label": "",
+   "depth": 14.0,
+   "points": [
+    {
+     "x": -118.8,
+     "y": -36.6
+    },
+    {
+     "x": -103.8,
+     "y": -51.6
+    },
+    {
+     "x": -76.8,
+     "y": -59.4
+    },
+    {
+     "x": -46.8,
+     "y": -60.6
+    },
+    {
+     "x": -28.8,
+     "y": -54.6
+    },
+    {
+     "x": -31.8,
+     "y": -36.6
+    },
+    {
+     "x": -46.8,
+     "y": -18.6
+    },
+    {
+     "x": -70.8,
+     "y": -12.6
+    },
+    {
+     "x": -94.8,
+     "y": -9.6
+    },
+    {
+     "x": -115.8,
+     "y": -15.6
+    }
+   ]
+  },
+  {
+   "id": "middle",
+   "kind": "other",
+   "label": "",
+   "depth": 12.0,
+   "points": [
+    {
+     "x": -31.8,
+     "y": 11.4
+    },
+    {
+     "x": -16.8,
+     "y": -3.6
+    },
+    {
+     "x": 7.2,
+     "y": -12.6
+    },
+    {
+     "x": 25.2,
+     "y": -13.8
+    },
+    {
+     "x": 28.2,
+     "y": -0.6
+    },
+    {
+     "x": 10.2,
+     "y": 8.4
+    },
+    {
+     "x": -13.8,
+     "y": 14.4
+    }
+   ]
+  },
+  {
+   "id": "south",
+   "kind": "other",
+   "label": "",
+   "depth": 18.0,
+   "points": [
+    {
+     "x": 16.2,
+     "y": 50.4
+    },
+    {
+     "x": 31.2,
+     "y": 35.4
+    },
+    {
+     "x": 55.2,
+     "y": 24.6
+    },
+    {
+     "x": 70.2,
+     "y": 23.4
+    },
+    {
+     "x": 72.0,
+     "y": 35.4
+    },
+    {
+     "x": 55.2,
+     "y": 44.4
+    },
+    {
+     "x": 31.2,
+     "y": 53.4
+    }
+   ]
+  },
+  {
+   "id": "sand-a",
+   "kind": "sand",
+   "label": "Sand 25 m",
+   "depth": 25.0,
+   "points": [
+    {
+     "x": -64.8,
+     "y": -9.6
+    },
+    {
+     "x": -43.8,
+     "y": -21.6
+    },
+    {
+     "x": -22.8,
+     "y": -27.6
+    },
+    {
+     "x": -16.8,
+     "y": -12.6
+    },
+    {
+     "x": -25.8,
+     "y": 8.4
+    },
+    {
+     "x": -46.8,
+     "y": 14.4
+    },
+    {
+     "x": -64.8,
+     "y": 5.4
+    }
+   ]
+  },
+  {
+   "id": "sand-b",
+   "kind": "sand",
+   "label": "Sand 25 m",
+   "depth": 25.0,
+   "points": [
+    {
+     "x": -22.8,
+     "y": 29.4
+    },
+    {
+     "x": -4.8,
+     "y": 17.4
+    },
+    {
+     "x": 19.2,
+     "y": 11.4
+    },
+    {
+     "x": 46.2,
+     "y": 8.4
+    },
+    {
+     "x": 48.0,
+     "y": 17.4
+    },
+    {
+     "x": 31.2,
+     "y": 29.4
+    },
+    {
+     "x": 16.2,
+     "y": 44.4
+    },
+    {
+     "x": -1.8,
+     "y": 53.4
+    },
+    {
+     "x": -19.8,
+     "y": 44.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -133.8,
+     "y": -27.6
+    },
+    {
+     "x": -121.8,
+     "y": -48.6
+    },
+    {
+     "x": -88.8,
+     "y": -66.6
+    },
+    {
+     "x": -46.8,
+     "y": -72.6
+    },
+    {
+     "x": -10.8,
+     "y": -71.4
+    },
+    {
+     "x": 25.2,
+     "y": -54.6
+    },
+    {
+     "x": 49.2,
+     "y": -30.6
+    },
+    {
+     "x": 73.2,
+     "y": -12.6
+    },
+    {
+     "x": 97.2,
+     "y": 2.4
+    },
+    {
+     "x": 97.2,
+     "y": 38.4
+    },
+    {
+     "x": 79.2,
+     "y": 65.4
+    },
+    {
+     "x": 49.2,
+     "y": 71.4
+    },
+    {
+     "x": 7.2,
+     "y": 71.4
+    },
+    {
+     "x": -28.8,
+     "y": 50.4
+    },
+    {
+     "x": -64.8,
+     "y": 32.4
+    },
+    {
+     "x": -100.8,
+     "y": 23.4
+    },
+    {
+     "x": -124.8,
+     "y": 5.4
+    }
+   ]
+  },
+  {
+   "id": "c35",
+   "kind": "depth",
+   "label": "",
+   "depth": 35.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -139.8,
+     "y": -36.6
+    },
+    {
+     "x": -124.8,
+     "y": -66.6
+    },
+    {
+     "x": -94.8,
+     "y": -96.6
+    },
+    {
+     "x": -52.8,
+     "y": -105.6
+    },
+    {
+     "x": -16.8,
+     "y": -103.8
+    },
+    {
+     "x": 25.2,
+     "y": -84.6
+    },
+    {
+     "x": 55.2,
+     "y": -54.6
+    },
+    {
+     "x": 85.2,
+     "y": -24.6
+    },
+    {
+     "x": 121.2,
+     "y": -0.6
+    },
+    {
+     "x": 133.2,
+     "y": 35.4
+    },
+    {
+     "x": 127.2,
+     "y": 71.4
+    },
+    {
+     "x": 103.2,
+     "y": 95.4
+    },
+    {
+     "x": 49.2,
+     "y": 101.4
+    },
+    {
+     "x": 7.2,
+     "y": 95.4
+    },
+    {
+     "x": -34.8,
+     "y": 71.4
+    },
+    {
+     "x": -70.8,
+     "y": 50.4
+    },
+    {
+     "x": -112.8,
+     "y": 29.4
+    },
+    {
+     "x": -136.8,
+     "y": -0.6
+    }
+   ]
+  }
+ ],
+ "notes": "Boulder City, three pinnacles of granite boulders on a sand bottom in the southern Similans, with sand gaps of 30-40 m between the pinnacles (Similan Dive Center); the northern pinnacle tops out at about 14 m, the middle one at 12 m and the southern one at 18 m, with sand at 25-30 m and the bottom past 35-40 m (IDC Phuket), and the mooring line is on the west side down to about 18 m. No OpenStreetMap feature exists; the position is estimated 400 m south-east of the end of Shark Fin Reef as the dive guides describe, so it is uncertain. The site coordinates (8.54, 97.64) were 4 km north-west, near Island 4.",
+ "origin": {
+  "lat": 8.5069,
+  "lon": 97.67857
+ },
+ "underlay": null,
+ "id": "tha-the-boulders-1",
+ "site_id": "tha-the-boulders",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:46:30.523169Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

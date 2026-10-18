@@ -1,0 +1,315 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "The Forest",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mooring",
+   "x": 10.2,
+   "y": 13.4,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": 8.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "black-coral",
+   "x": -63.9,
+   "y": 56.7,
+   "type": "poi",
+   "label": "Black coral forest",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gorgonians",
+   "x": 44.7,
+   "y": -30.4,
+   "type": "poi",
+   "label": "Gorgonians in the shallows",
+   "depth": 6.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-top",
+   "kind": "shallows",
+   "label": "Reef top 0-9 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -126.2,
+     "y": -248.6
+    },
+    {
+     "x": -123.2,
+     "y": -203.6
+    },
+    {
+     "x": -115.2,
+     "y": -185.2
+    },
+    {
+     "x": -111.3,
+     "y": -156.5
+    },
+    {
+     "x": -98.2,
+     "y": -112.2
+    },
+    {
+     "x": -91.5,
+     "y": -95.8
+    },
+    {
+     "x": -81.6,
+     "y": -79.8
+    },
+    {
+     "x": -51.8,
+     "y": -77.4
+    },
+    {
+     "x": -32.4,
+     "y": -80.2
+    },
+    {
+     "x": 10.2,
+     "y": -82.5
+    },
+    {
+     "x": 34.9,
+     "y": -95.2
+    },
+    {
+     "x": 245.5,
+     "y": -187.7
+    },
+    {
+     "x": 205.6,
+     "y": -99.1
+    },
+    {
+     "x": 174.7,
+     "y": -84.6
+    },
+    {
+     "x": 72.3,
+     "y": -15.6
+    },
+    {
+     "x": 15.2,
+     "y": 17.4
+    },
+    {
+     "x": -29.4,
+     "y": 35.6
+    },
+    {
+     "x": -80.2,
+     "y": 50.8
+    },
+    {
+     "x": -113.1,
+     "y": 49.8
+    },
+    {
+     "x": -140.1,
+     "y": 41.5
+    },
+    {
+     "x": -175.3,
+     "y": 7.2
+    },
+    {
+     "x": -198.6,
+     "y": -36.0
+    },
+    {
+     "x": -233.8,
+     "y": -106.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -126.2,
+     "y": -248.6
+    },
+    {
+     "x": -123.2,
+     "y": -203.6
+    },
+    {
+     "x": -115.2,
+     "y": -185.2
+    },
+    {
+     "x": -111.3,
+     "y": -156.5
+    },
+    {
+     "x": -98.2,
+     "y": -112.2
+    },
+    {
+     "x": -91.5,
+     "y": -95.8
+    },
+    {
+     "x": -81.6,
+     "y": -79.8
+    },
+    {
+     "x": -51.8,
+     "y": -77.4
+    },
+    {
+     "x": -32.4,
+     "y": -80.2
+    },
+    {
+     "x": 10.2,
+     "y": -82.5
+    },
+    {
+     "x": 34.9,
+     "y": -95.2
+    },
+    {
+     "x": 245.5,
+     "y": -187.7
+    }
+   ]
+  },
+  {
+   "id": "wall",
+   "kind": "wall",
+   "label": "Drop-off ~9 m, reef to 20 m",
+   "depth": 9.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 205.6,
+     "y": -99.1
+    },
+    {
+     "x": 174.7,
+     "y": -84.6
+    },
+    {
+     "x": 72.3,
+     "y": -15.6
+    },
+    {
+     "x": 15.2,
+     "y": 17.4
+    },
+    {
+     "x": -29.4,
+     "y": 35.6
+    },
+    {
+     "x": -80.2,
+     "y": 50.8
+    },
+    {
+     "x": -113.1,
+     "y": 49.8
+    },
+    {
+     "x": -140.1,
+     "y": 41.5
+    },
+    {
+     "x": -175.3,
+     "y": 7.2
+    },
+    {
+     "x": -198.6,
+     "y": -36.0
+    },
+    {
+     "x": -233.8,
+     "y": -106.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 10.2,
+     "y": 13.4
+    },
+    {
+     "x": 10.2,
+     "y": 27.4
+    },
+    {
+     "x": -113.1,
+     "y": 57.8
+    },
+    {
+     "x": -167.3,
+     "y": 11.2
+    },
+    {
+     "x": -155.3,
+     "y": 1.2
+    },
+    {
+     "x": -113.1,
+     "y": 39.8
+    },
+    {
+     "x": 10.2,
+     "y": 13.4
+    }
+   ]
+  }
+ ],
+ "notes": "Boat dive off the south-west point of Klein Bonaire (BNMP site N): the mooring sits in about 8 m next to a steep drop-off, the reef runs from about 9 m to 20 m and then slopes to a sandbank at about 50 m, with black coral from about 8 m to 30 m that gives the site its name, gorgonians in the shallows and a cave at about 23 m (infobonaire.com, divers-guide.com, scubadiving.com). The site point is from divers-guide.com and the drop-off follows the outer edge of the OpenStreetMap reef outline; the mooring is placed on the reef edge at that point, the cave's position is not published, and the route is illustrative. The site file gives this site the island-centre coordinates it shares with Carl's Reef; this map is centred on the real site. Coastline and the reef outline © OpenStreetMap contributors (ODbL). Positions are approximate.",
+ "origin": {
+  "lat": 12.14847,
+  "lon": -68.327599
+ },
+ "underlay": null,
+ "id": "bes-the-forest-klein-bonaire-1",
+ "site_id": "bes-the-forest-klein-bonaire",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:43:13.579661Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

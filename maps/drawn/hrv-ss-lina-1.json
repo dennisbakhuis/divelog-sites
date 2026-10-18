@@ -1,0 +1,374 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "SS Lina",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "buoy",
+   "x": -0.0,
+   "y": -0.0,
+   "type": "buoy",
+   "label": "Buoy and line to the bow",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": -1.4,
+   "y": 1.6,
+   "type": "object",
+   "label": "Bow",
+   "depth": 25.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow-mast",
+   "x": -8.1,
+   "y": 9.6,
+   "type": "object",
+   "label": "Bow mast, still standing",
+   "depth": 30.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fwd-hold",
+   "x": -13.5,
+   "y": 16.1,
+   "type": "object",
+   "label": "Forward holds, remains of the timber cargo",
+   "depth": 33.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bridge",
+   "x": -21.6,
+   "y": 25.7,
+   "type": "object",
+   "label": "Bridge and cabins",
+   "depth": 40.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "funnel",
+   "x": -23.2,
+   "y": 29.9,
+   "type": "object",
+   "label": "Funnel with a big 6, chains",
+   "depth": 38.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "engine",
+   "x": -26.1,
+   "y": 31.1,
+   "type": "object",
+   "label": "Engine room",
+   "depth": 42.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-hold",
+   "x": -33.7,
+   "y": 40.2,
+   "type": "object",
+   "label": "Aft hold",
+   "depth": 47.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stern",
+   "x": -44.1,
+   "y": 52.5,
+   "type": "object",
+   "label": "Stern and rudder",
+   "depth": 55.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "hull",
+   "kind": "wreck",
+   "label": "SS Lina, 70 x 9 m",
+   "depth": 55.0,
+   "points": [
+    {
+     "x": -42.4,
+     "y": 55.8
+    },
+    {
+     "x": -37.8,
+     "y": 52.0
+    },
+    {
+     "x": -34.1,
+     "y": 47.6
+    },
+    {
+     "x": -30.3,
+     "y": 43.1
+    },
+    {
+     "x": -26.6,
+     "y": 38.6
+    },
+    {
+     "x": -22.8,
+     "y": 34.2
+    },
+    {
+     "x": -19.1,
+     "y": 29.7
+    },
+    {
+     "x": -15.3,
+     "y": 25.2
+    },
+    {
+     "x": -11.6,
+     "y": 20.8
+    },
+    {
+     "x": -7.8,
+     "y": 16.3
+    },
+    {
+     "x": -4.4,
+     "y": 11.5
+    },
+    {
+     "x": -1.7,
+     "y": 6.2
+    },
+    {
+     "x": -0.0,
+     "y": -0.0
+    },
+    {
+     "x": -5.8,
+     "y": 2.7
+    },
+    {
+     "x": -10.6,
+     "y": 6.3
+    },
+    {
+     "x": -14.7,
+     "y": 10.5
+    },
+    {
+     "x": -18.4,
+     "y": 15.0
+    },
+    {
+     "x": -22.2,
+     "y": 19.4
+    },
+    {
+     "x": -25.9,
+     "y": 23.9
+    },
+    {
+     "x": -29.7,
+     "y": 28.4
+    },
+    {
+     "x": -33.4,
+     "y": 32.8
+    },
+    {
+     "x": -37.2,
+     "y": 37.3
+    },
+    {
+     "x": -40.9,
+     "y": 41.8
+    },
+    {
+     "x": -44.7,
+     "y": 46.3
+    },
+    {
+     "x": -47.6,
+     "y": 51.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -152.1,
+     "y": -159.5
+    },
+    {
+     "x": -137.2,
+     "y": -145.3
+    },
+    {
+     "x": -145.6,
+     "y": -131.4
+    },
+    {
+     "x": -68.2,
+     "y": -61.0
+    },
+    {
+     "x": -52.9,
+     "y": -66.0
+    },
+    {
+     "x": -44.6,
+     "y": -57.0
+    },
+    {
+     "x": -3.7,
+     "y": -52.2
+    },
+    {
+     "x": 69.1,
+     "y": -73.7
+    },
+    {
+     "x": 72.1,
+     "y": -68.7
+    },
+    {
+     "x": 68.6,
+     "y": -29.4
+    },
+    {
+     "x": 83.3,
+     "y": -15.1
+    },
+    {
+     "x": 93.4,
+     "y": -1.1
+    },
+    {
+     "x": 92.6,
+     "y": 18.7
+    },
+    {
+     "x": 83.7,
+     "y": 40.6
+    },
+    {
+     "x": 90.3,
+     "y": 97.5
+    },
+    {
+     "x": 101.6,
+     "y": 120.5
+    },
+    {
+     "x": 159.5,
+     "y": 152.5
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Down the starboard side, back up the port side",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -0.0,
+     "y": -0.0
+    },
+    {
+     "x": 3.5,
+     "y": 7.5
+    },
+    {
+     "x": -7.8,
+     "y": 20.9
+    },
+    {
+     "x": -19.0,
+     "y": 34.3
+    },
+    {
+     "x": -27.0,
+     "y": 32.2
+    },
+    {
+     "x": -30.5,
+     "y": 24.7
+    },
+    {
+     "x": -19.2,
+     "y": 11.3
+    },
+    {
+     "x": -8.0,
+     "y": -2.2
+    },
+    {
+     "x": -0.0,
+     "y": -0.0
+    },
+    {
+     "x": 11.2,
+     "y": -13.4
+    }
+   ]
+  }
+ ],
+ "notes": "The iron steamer Lina (70 x 9 m, 1879) upright on the slope off Cape Pecenj, Cres, bow up the slope at 25 m towards the shore and stern at 55 m. Position from pro-taucher.com (taken as the bow buoy), shoreline from OpenStreetMap, dimensions, bow buoy, standing bow mast, timber cargo in the holds, bridge at 40 m and the usual route from krnicadive.com; the funnel with its '6' and its chains from first-hand observation. The heading is not published: the hull is drawn straight down the slope (bow NE, perpendicular to the coast), and positions along the hull are approximate. EMODnet bathymetry places the coast west-facing here.",
+ "origin": {
+  "lat": 45.102639,
+  "lon": 14.278975
+ },
+ "underlay": null,
+ "id": "hrv-ss-lina-1",
+ "site_id": "hrv-ss-lina",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:36:53.185201Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,1760 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Kreidesee",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "einstieg-e1",
+   "x": 3.6,
+   "y": 1.7,
+   "type": "entry",
+   "label": "E1",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e5b",
+   "x": 249.9,
+   "y": -284.1,
+   "type": "entry",
+   "label": "E5B",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e5a",
+   "x": 118.5,
+   "y": -334.0,
+   "type": "entry",
+   "label": "E5A",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "apnoe-plattform",
+   "x": 306.2,
+   "y": 91.9,
+   "type": "object",
+   "label": "Apnoe-Plattform",
+   "depth": 0.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e4b",
+   "x": 404.6,
+   "y": 405.2,
+   "type": "entry",
+   "label": "E4B",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e4a",
+   "x": 359.2,
+   "y": 275.0,
+   "type": "entry",
+   "label": "E4A",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e3",
+   "x": 243.2,
+   "y": 192.9,
+   "type": "entry",
+   "label": "E3",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e2",
+   "x": 122.9,
+   "y": 99.4,
+   "type": "entry",
+   "label": "E2",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einstieg-e0",
+   "x": -8.7,
+   "y": -62.2,
+   "type": "entry",
+   "label": "E0",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "chinesisches-tor",
+   "x": 40.7,
+   "y": 25.2,
+   "type": "object",
+   "label": "Chinesisches Tor",
+   "depth": 3.0,
+   "object_kind": "gate",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "skywalk",
+   "x": 93.5,
+   "y": 42.9,
+   "type": "object",
+   "label": "Skywalk",
+   "depth": 10.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "plattform-3-m",
+   "x": 64.9,
+   "y": 32.6,
+   "type": "object",
+   "label": "Plattformen 3 / 6 m",
+   "depth": 3.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "segelboot",
+   "x": 130.7,
+   "y": 77.1,
+   "type": "object",
+   "label": "Segelboot",
+   "depth": 12.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "steilhang",
+   "x": 117.1,
+   "y": 52.1,
+   "type": "poi",
+   "label": "Steilhang",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "pflasterstrae",
+   "x": 122.8,
+   "y": 72.8,
+   "type": "poi",
+   "label": "Pflasterstraße",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "baume-und-busche",
+   "x": 188.3,
+   "y": 137.0,
+   "type": "object",
+   "label": "Bäume",
+   "depth": 10.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "kabelrolle",
+   "x": 661.6,
+   "y": 542.3,
+   "type": "object",
+   "label": "Kabelrolle",
+   "depth": 25.0,
+   "object_kind": "reel",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "hugellandschaft",
+   "x": 751.8,
+   "y": 443.7,
+   "type": "poi",
+   "label": "Hügellandschaft",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "eingesturzter-stollen",
+   "x": 696.0,
+   "y": 579.4,
+   "type": "object",
+   "label": "Eingestürzter Stollen",
+   "depth": 7.0,
+   "object_kind": "ruin",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "segelyacht-hemmoor",
+   "x": 494.1,
+   "y": 427.7,
+   "type": "object",
+   "label": "Segelyacht Hemmoor",
+   "depth": 17.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "leuchtturm",
+   "x": 472.6,
+   "y": 358.3,
+   "type": "object",
+   "label": "Leuchtturm",
+   "depth": 26.0,
+   "object_kind": "lighthouse",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "wohnwagen",
+   "x": 496.8,
+   "y": 323.7,
+   "type": "object",
+   "label": "DLRG-Wohnwagen",
+   "depth": 26.0,
+   "object_kind": "caravan",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "busche-und-baume",
+   "x": 584.3,
+   "y": 224.1,
+   "type": "object",
+   "label": "Büsche",
+   "depth": 8.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "gullyschacht",
+   "x": 605.5,
+   "y": 123.3,
+   "type": "object",
+   "label": "Gullyschacht",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "holztreppe",
+   "x": 564.6,
+   "y": 180.7,
+   "type": "object",
+   "label": "Holztreppe",
+   "depth": 20.0,
+   "object_kind": "ladder",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "ford-mondeo",
+   "x": 453.1,
+   "y": 430.5,
+   "type": "object",
+   "label": "Ford Mondeo",
+   "depth": null,
+   "object_kind": "car",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "piper-aerostar",
+   "x": 186.7,
+   "y": -20.3,
+   "type": "object",
+   "label": "Piper Aerostar",
+   "depth": 53.0,
+   "object_kind": "plane",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "forderbandgestelle",
+   "x": 593.2,
+   "y": 174.2,
+   "type": "object",
+   "label": "Förderbandgestell",
+   "depth": 8.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "einmundung-rohrleitung",
+   "x": 397.3,
+   "y": -100.6,
+   "type": "object",
+   "label": "Rohrleitung (Einmündung)",
+   "depth": 8.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "rohrleitung",
+   "x": 459.6,
+   "y": 25.6,
+   "type": "object",
+   "label": "Rohrleitung",
+   "depth": 8.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "wald",
+   "x": 356.8,
+   "y": -95.5,
+   "type": "object",
+   "label": "Wald",
+   "depth": 35.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "steilhang-ii",
+   "x": 318.8,
+   "y": -157.4,
+   "type": "poi",
+   "label": "Steilhang II",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "kleine-hohlen",
+   "x": 277.1,
+   "y": -199.8,
+   "type": "poi",
+   "label": "Kleine Höhlen",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "kabelrolle-ii",
+   "x": 238.3,
+   "y": -191.6,
+   "type": "object",
+   "label": "Kabelrolle II",
+   "depth": 35.0,
+   "object_kind": "reel",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "trummerfeld",
+   "x": 189.2,
+   "y": -297.7,
+   "type": "object",
+   "label": "Trümmerfeld",
+   "depth": 10.0,
+   "object_kind": "ruin",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "beton-trummerfeld",
+   "x": 81.4,
+   "y": -254.8,
+   "type": "object",
+   "label": "Beton-Trümmerfeld",
+   "depth": 10.0,
+   "object_kind": "ruin",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "weier-hai",
+   "x": 112.9,
+   "y": -237.3,
+   "type": "object",
+   "label": "Weißer Hai",
+   "depth": 10.0,
+   "object_kind": "shark",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "uberreste-steilhang",
+   "x": 49.1,
+   "y": -176.7,
+   "type": "poi",
+   "label": "Alte Steilwand",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "forderband",
+   "x": 72.6,
+   "y": -208.6,
+   "type": "object",
+   "label": "Förderband",
+   "depth": 13.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "schweitisch",
+   "x": 27.0,
+   "y": -136.9,
+   "type": "object",
+   "label": "Schweißtisch",
+   "depth": 3.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "flieger-piper-pa-28",
+   "x": 50.2,
+   "y": -80.9,
+   "type": "object",
+   "label": "Piper PA-28",
+   "depth": 10.0,
+   "object_kind": "plane",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "ruhrwerkstutze",
+   "x": 64.2,
+   "y": -95.9,
+   "type": "object",
+   "label": "Rührwerkstütze",
+   "depth": 27.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "lkw-rampe",
+   "x": 32.1,
+   "y": -40.0,
+   "type": "object",
+   "label": "LKW-Rampe",
+   "depth": 6.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "plattform-4-5-m",
+   "x": 6.4,
+   "y": -59.8,
+   "type": "object",
+   "label": "Plattform 4,5 m",
+   "depth": 4.5,
+   "object_kind": "platform",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "betonbombe-i",
+   "x": 94.0,
+   "y": -5.4,
+   "type": "object",
+   "label": "Betonbombe I",
+   "depth": 43.0,
+   "object_kind": "hopper",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "betonbombe-ii",
+   "x": 187.3,
+   "y": 112.7,
+   "type": "object",
+   "label": "Betonbombe II",
+   "depth": 23.0,
+   "object_kind": "hopper",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "ruttler",
+   "x": 256.4,
+   "y": 147.1,
+   "type": "object",
+   "label": "Rüttler",
+   "depth": 20.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "briefkasten",
+   "x": 271.4,
+   "y": 163.1,
+   "type": "object",
+   "label": "Briefkasten",
+   "depth": 20.0,
+   "object_kind": "postbox",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "meisterbude-und-gange",
+   "x": 259.6,
+   "y": 129.9,
+   "type": "object",
+   "label": "Meisterbude",
+   "depth": 35.0,
+   "object_kind": "ruin",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "holztreppen",
+   "x": 288.3,
+   "y": 133.0,
+   "type": "object",
+   "label": "Holztreppen",
+   "depth": 42.0,
+   "object_kind": "ladder",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "bruckenkonstruktion",
+   "x": 343.4,
+   "y": 202.8,
+   "type": "object",
+   "label": "Brücke",
+   "depth": 25.0,
+   "object_kind": "bridge",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "steinschlagmatten",
+   "x": 305.0,
+   "y": 200.2,
+   "type": "object",
+   "label": "Steinschlagmatten",
+   "depth": 0.0,
+   "object_kind": "net",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "versorgungsleitungen",
+   "x": 374.0,
+   "y": 196.8,
+   "type": "object",
+   "label": "Versorgungsleitungen",
+   "depth": 20.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "pkw-verkehrsunfall",
+   "x": 373.5,
+   "y": 253.8,
+   "type": "object",
+   "label": "PKW Verkehrsunfall",
+   "depth": 20.0,
+   "object_kind": "car",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "mahusan",
+   "x": 282.6,
+   "y": 44.2,
+   "type": "object",
+   "label": "Mahusan",
+   "depth": 53.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "ultraleichtflieger",
+   "x": 170.7,
+   "y": -184.4,
+   "type": "object",
+   "label": "Ultraleichtflieger",
+   "depth": 45.0,
+   "object_kind": "plane",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boot",
+   "x": 207.0,
+   "y": -187.7,
+   "type": "object",
+   "label": "Boot",
+   "depth": 40.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "scootermessstrecke",
+   "x": 400.8,
+   "y": 301.3,
+   "type": "poi",
+   "label": "Scootermessstrecke",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "schwarzer-wohnwagen",
+   "x": 458.9,
+   "y": 230.9,
+   "type": "object",
+   "label": "Wohnwagen",
+   "depth": 40.0,
+   "object_kind": "caravan",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-ruttler",
+   "x": 254.3,
+   "y": 147.4,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-autos",
+   "x": 374.6,
+   "y": 253.5,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-leuchtturm",
+   "x": 474.0,
+   "y": 357.6,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-wrack-hemmoor",
+   "x": 493.7,
+   "y": 426.6,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-plattform",
+   "x": 67.1,
+   "y": 33.4,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-betonbombe",
+   "x": 96.1,
+   "y": -6.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "boje-flieger",
+   "x": 48.6,
+   "y": -83.6,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "lorenzug",
+   "x": -7.3,
+   "y": -243.0,
+   "type": "object",
+   "label": "Lorenzug (Denkmal)",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null
+  },
+  {
+   "id": "lkw",
+   "x": 244.4,
+   "y": 159.1,
+   "type": "object",
+   "label": "LKW",
+   "depth": 25.0,
+   "object_kind": "truck",
+   "left": null,
+   "right": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "ufer",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 616.2,
+     "y": 102.6
+    },
+    {
+     "x": 625.2,
+     "y": 111.6
+    },
+    {
+     "x": 629.2,
+     "y": 119.9
+    },
+    {
+     "x": 628.1,
+     "y": 137.7
+    },
+    {
+     "x": 620.0,
+     "y": 164.7
+    },
+    {
+     "x": 603.1,
+     "y": 213.9
+    },
+    {
+     "x": 599.7,
+     "y": 231.3
+    },
+    {
+     "x": 599.7,
+     "y": 243.7
+    },
+    {
+     "x": 600.8,
+     "y": 253.3
+    },
+    {
+     "x": 608.7,
+     "y": 260.3
+    },
+    {
+     "x": 619.1,
+     "y": 265.2
+    },
+    {
+     "x": 623.2,
+     "y": 268.1
+    },
+    {
+     "x": 635.0,
+     "y": 280.0
+    },
+    {
+     "x": 653.6,
+     "y": 287.5
+    },
+    {
+     "x": 667.8,
+     "y": 293.9
+    },
+    {
+     "x": 678.3,
+     "y": 296.7
+    },
+    {
+     "x": 695.8,
+     "y": 293.8
+    },
+    {
+     "x": 700.6,
+     "y": 293.1
+    },
+    {
+     "x": 706.5,
+     "y": 295.8
+    },
+    {
+     "x": 713.4,
+     "y": 296.3
+    },
+    {
+     "x": 722.2,
+     "y": 294.5
+    },
+    {
+     "x": 743.4,
+     "y": 295.8
+    },
+    {
+     "x": 758.4,
+     "y": 297.1
+    },
+    {
+     "x": 770.1,
+     "y": 295.8
+    },
+    {
+     "x": 781.6,
+     "y": 296.2
+    },
+    {
+     "x": 788.9,
+     "y": 299.8
+    },
+    {
+     "x": 792.5,
+     "y": 305.4
+    },
+    {
+     "x": 792.1,
+     "y": 315.5
+    },
+    {
+     "x": 792.4,
+     "y": 334.7
+    },
+    {
+     "x": 799.8,
+     "y": 341.8
+    },
+    {
+     "x": 801.4,
+     "y": 351.4
+    },
+    {
+     "x": 805.2,
+     "y": 358.6
+    },
+    {
+     "x": 811.9,
+     "y": 366.3
+    },
+    {
+     "x": 817.0,
+     "y": 380.7
+    },
+    {
+     "x": 818.3,
+     "y": 393.0
+    },
+    {
+     "x": 822.7,
+     "y": 410.4
+    },
+    {
+     "x": 822.6,
+     "y": 419.7
+    },
+    {
+     "x": 818.5,
+     "y": 432.2
+    },
+    {
+     "x": 818.1,
+     "y": 446.1
+    },
+    {
+     "x": 809.5,
+     "y": 458.7
+    },
+    {
+     "x": 801.7,
+     "y": 472.2
+    },
+    {
+     "x": 799.8,
+     "y": 480.1
+    },
+    {
+     "x": 797.9,
+     "y": 486.3
+    },
+    {
+     "x": 792.3,
+     "y": 489.0
+    },
+    {
+     "x": 788.1,
+     "y": 497.9
+    },
+    {
+     "x": 776.1,
+     "y": 525.2
+    },
+    {
+     "x": 772.3,
+     "y": 529.7
+    },
+    {
+     "x": 768.9,
+     "y": 540.5
+    },
+    {
+     "x": 765.5,
+     "y": 559.2
+    },
+    {
+     "x": 762.3,
+     "y": 566.1
+    },
+    {
+     "x": 759.4,
+     "y": 571.8
+    },
+    {
+     "x": 759.2,
+     "y": 582.0
+    },
+    {
+     "x": 761.6,
+     "y": 590.6
+    },
+    {
+     "x": 757.7,
+     "y": 601.0
+    },
+    {
+     "x": 748.3,
+     "y": 604.8
+    },
+    {
+     "x": 742.5,
+     "y": 605.0
+    },
+    {
+     "x": 734.5,
+     "y": 600.3
+    },
+    {
+     "x": 729.7,
+     "y": 596.2
+    },
+    {
+     "x": 721.6,
+     "y": 596.9
+    },
+    {
+     "x": 713.8,
+     "y": 600.0
+    },
+    {
+     "x": 705.3,
+     "y": 609.7
+    },
+    {
+     "x": 700.5,
+     "y": 613.7
+    },
+    {
+     "x": 695.8,
+     "y": 612.3
+    },
+    {
+     "x": 691.9,
+     "y": 614.1
+    },
+    {
+     "x": 679.0,
+     "y": 626.4
+    },
+    {
+     "x": 672.3,
+     "y": 627.9
+    },
+    {
+     "x": 660.6,
+     "y": 625.6
+    },
+    {
+     "x": 647.1,
+     "y": 623.1
+    },
+    {
+     "x": 636.5,
+     "y": 616.3
+    },
+    {
+     "x": 629.7,
+     "y": 615.7
+    },
+    {
+     "x": 616.3,
+     "y": 618.7
+    },
+    {
+     "x": 606.7,
+     "y": 618.5
+    },
+    {
+     "x": 598.6,
+     "y": 615.9
+    },
+    {
+     "x": 590.6,
+     "y": 605.5
+    },
+    {
+     "x": 574.4,
+     "y": 586.4
+    },
+    {
+     "x": 557.1,
+     "y": 569.0
+    },
+    {
+     "x": 541.9,
+     "y": 553.9
+    },
+    {
+     "x": 528.0,
+     "y": 539.3
+    },
+    {
+     "x": 518.9,
+     "y": 531.2
+    },
+    {
+     "x": 486.7,
+     "y": 508.0
+    },
+    {
+     "x": 477.8,
+     "y": 506.0
+    },
+    {
+     "x": 464.7,
+     "y": 497.6
+    },
+    {
+     "x": 459.0,
+     "y": 485.6
+    },
+    {
+     "x": 450.7,
+     "y": 472.5
+    },
+    {
+     "x": 443.8,
+     "y": 463.9
+    },
+    {
+     "x": 436.9,
+     "y": 462.6
+    },
+    {
+     "x": 431.3,
+     "y": 454.8
+    },
+    {
+     "x": 423.7,
+     "y": 454.0
+    },
+    {
+     "x": 412.7,
+     "y": 446.9
+    },
+    {
+     "x": 403.4,
+     "y": 429.4
+    },
+    {
+     "x": 403.9,
+     "y": 413.1
+    },
+    {
+     "x": 402.0,
+     "y": 391.9
+    },
+    {
+     "x": 400.2,
+     "y": 365.7
+    },
+    {
+     "x": 393.5,
+     "y": 351.0
+    },
+    {
+     "x": 380.7,
+     "y": 319.5
+    },
+    {
+     "x": 364.0,
+     "y": 287.9
+    },
+    {
+     "x": 357.4,
+     "y": 275.8
+    },
+    {
+     "x": 345.9,
+     "y": 246.7
+    },
+    {
+     "x": 329.4,
+     "y": 231.5
+    },
+    {
+     "x": 302.0,
+     "y": 214.5
+    },
+    {
+     "x": 266.2,
+     "y": 204.2
+    },
+    {
+     "x": 241.2,
+     "y": 199.8
+    },
+    {
+     "x": 223.1,
+     "y": 201.2
+    },
+    {
+     "x": 215.4,
+     "y": 196.7
+    },
+    {
+     "x": 209.1,
+     "y": 182.0
+    },
+    {
+     "x": 201.2,
+     "y": 172.0
+    },
+    {
+     "x": 189.2,
+     "y": 159.6
+    },
+    {
+     "x": 170.5,
+     "y": 151.9
+    },
+    {
+     "x": 158.9,
+     "y": 136.6
+    },
+    {
+     "x": 148.8,
+     "y": 120.6
+    },
+    {
+     "x": 140.6,
+     "y": 108.7
+    },
+    {
+     "x": 135.2,
+     "y": 104.2
+    },
+    {
+     "x": 129.4,
+     "y": 102.1
+    },
+    {
+     "x": 123.5,
+     "y": 102.9
+    },
+    {
+     "x": 109.4,
+     "y": 105.0
+    },
+    {
+     "x": 89.5,
+     "y": 106.0
+    },
+    {
+     "x": 79.8,
+     "y": 97.1
+    },
+    {
+     "x": 62.5,
+     "y": 69.8
+    },
+    {
+     "x": 56.0,
+     "y": 57.3
+    },
+    {
+     "x": 42.0,
+     "y": 53.1
+    },
+    {
+     "x": 25.8,
+     "y": 38.5
+    },
+    {
+     "x": 19.8,
+     "y": 24.6
+    },
+    {
+     "x": 5.8,
+     "y": 11.0
+    },
+    {
+     "x": -5.5,
+     "y": 4.4
+    },
+    {
+     "x": -3.0,
+     "y": -0.1
+    },
+    {
+     "x": 3.5,
+     "y": 3.2
+    },
+    {
+     "x": 4.6,
+     "y": 1.2
+    },
+    {
+     "x": 9.5,
+     "y": 1.9
+    },
+    {
+     "x": 15.0,
+     "y": 4.5
+    },
+    {
+     "x": 18.1,
+     "y": -0.4
+    },
+    {
+     "x": 21.1,
+     "y": -1.0
+    },
+    {
+     "x": 23.2,
+     "y": -4.6
+    },
+    {
+     "x": 27.9,
+     "y": -5.7
+    },
+    {
+     "x": 32.8,
+     "y": -6.6
+    },
+    {
+     "x": 34.4,
+     "y": -8.1
+    },
+    {
+     "x": 36.3,
+     "y": -11.9
+    },
+    {
+     "x": 34.1,
+     "y": -15.0
+    },
+    {
+     "x": 26.5,
+     "y": -21.9
+    },
+    {
+     "x": 25.2,
+     "y": -27.2
+    },
+    {
+     "x": 22.3,
+     "y": -28.5
+    },
+    {
+     "x": 15.4,
+     "y": -28.8
+    },
+    {
+     "x": 11.4,
+     "y": -30.9
+    },
+    {
+     "x": 7.1,
+     "y": -31.6
+    },
+    {
+     "x": 1.8,
+     "y": -34.9
+    },
+    {
+     "x": -1.2,
+     "y": -39.0
+    },
+    {
+     "x": -4.5,
+     "y": -45.4
+    },
+    {
+     "x": -5.8,
+     "y": -52.1
+    },
+    {
+     "x": -10.5,
+     "y": -57.4
+    },
+    {
+     "x": -14.6,
+     "y": -58.4
+    },
+    {
+     "x": -15.3,
+     "y": -63.0
+    },
+    {
+     "x": -12.8,
+     "y": -70.1
+    },
+    {
+     "x": -8.9,
+     "y": -79.8
+    },
+    {
+     "x": -1.9,
+     "y": -90.5
+    },
+    {
+     "x": 10.0,
+     "y": -98.0
+    },
+    {
+     "x": 13.7,
+     "y": -110.9
+    },
+    {
+     "x": 14.0,
+     "y": -123.3
+    },
+    {
+     "x": 20.9,
+     "y": -144.1
+    },
+    {
+     "x": 34.1,
+     "y": -179.9
+    },
+    {
+     "x": 35.7,
+     "y": -190.2
+    },
+    {
+     "x": 44.4,
+     "y": -198.4
+    },
+    {
+     "x": 43.5,
+     "y": -210.2
+    },
+    {
+     "x": 57.5,
+     "y": -228.9
+    },
+    {
+     "x": 56.6,
+     "y": -241.6
+    },
+    {
+     "x": 58.5,
+     "y": -252.1
+    },
+    {
+     "x": 66.3,
+     "y": -264.3
+    },
+    {
+     "x": 74.7,
+     "y": -271.6
+    },
+    {
+     "x": 81.4,
+     "y": -273.8
+    },
+    {
+     "x": 86.2,
+     "y": -273.1
+    },
+    {
+     "x": 92.3,
+     "y": -272.8
+    },
+    {
+     "x": 95.7,
+     "y": -275.9
+    },
+    {
+     "x": 98.9,
+     "y": -283.9
+    },
+    {
+     "x": 99.4,
+     "y": -294.1
+    },
+    {
+     "x": 97.9,
+     "y": -304.8
+    },
+    {
+     "x": 97.3,
+     "y": -314.4
+    },
+    {
+     "x": 103.0,
+     "y": -328.2
+    },
+    {
+     "x": 104.9,
+     "y": -336.3
+    },
+    {
+     "x": 108.1,
+     "y": -339.4
+    },
+    {
+     "x": 117.4,
+     "y": -340.1
+    },
+    {
+     "x": 122.3,
+     "y": -335.4
+    },
+    {
+     "x": 128.2,
+     "y": -338.9
+    },
+    {
+     "x": 137.5,
+     "y": -338.9
+    },
+    {
+     "x": 148.4,
+     "y": -335.8
+    },
+    {
+     "x": 155.9,
+     "y": -332.7
+    },
+    {
+     "x": 161.0,
+     "y": -331.4
+    },
+    {
+     "x": 175.2,
+     "y": -325.0
+    },
+    {
+     "x": 183.7,
+     "y": -318.6
+    },
+    {
+     "x": 190.5,
+     "y": -320.2
+    },
+    {
+     "x": 194.2,
+     "y": -319.5
+    },
+    {
+     "x": 200.1,
+     "y": -313.8
+    },
+    {
+     "x": 208.3,
+     "y": -311.3
+    },
+    {
+     "x": 219.2,
+     "y": -308.1
+    },
+    {
+     "x": 227.7,
+     "y": -302.4
+    },
+    {
+     "x": 233.8,
+     "y": -295.9
+    },
+    {
+     "x": 241.1,
+     "y": -293.5
+    },
+    {
+     "x": 249.7,
+     "y": -287.9
+    },
+    {
+     "x": 254.9,
+     "y": -281.1
+    },
+    {
+     "x": 259.1,
+     "y": -277.2
+    },
+    {
+     "x": 263.2,
+     "y": -270.4
+    },
+    {
+     "x": 268.2,
+     "y": -265.1
+    },
+    {
+     "x": 282.3,
+     "y": -254.1
+    },
+    {
+     "x": 288.4,
+     "y": -248.9
+    },
+    {
+     "x": 292.1,
+     "y": -242.5
+    },
+    {
+     "x": 290.5,
+     "y": -235.9
+    },
+    {
+     "x": 285.9,
+     "y": -228.6
+    },
+    {
+     "x": 284.2,
+     "y": -223.8
+    },
+    {
+     "x": 287.1,
+     "y": -216.9
+    },
+    {
+     "x": 293.3,
+     "y": -210.4
+    },
+    {
+     "x": 300.7,
+     "y": -210.3
+    },
+    {
+     "x": 312.4,
+     "y": -207.9
+    },
+    {
+     "x": 328.9,
+     "y": -200.2
+    },
+    {
+     "x": 342.2,
+     "y": -193.5
+    },
+    {
+     "x": 357.0,
+     "y": -183.6
+    },
+    {
+     "x": 364.5,
+     "y": -178.6
+    },
+    {
+     "x": 368.4,
+     "y": -174.0
+    },
+    {
+     "x": 369.6,
+     "y": -169.9
+    },
+    {
+     "x": 366.7,
+     "y": -164.8
+    },
+    {
+     "x": 365.8,
+     "y": -162.2
+    },
+    {
+     "x": 369.6,
+     "y": -159.9
+    },
+    {
+     "x": 377.1,
+     "y": -155.3
+    },
+    {
+     "x": 387.3,
+     "y": -145.7
+    },
+    {
+     "x": 392.4,
+     "y": -140.9
+    },
+    {
+     "x": 395.7,
+     "y": -136.2
+    },
+    {
+     "x": 401.2,
+     "y": -135.5
+    },
+    {
+     "x": 405.5,
+     "y": -129.3
+    },
+    {
+     "x": 405.6,
+     "y": -120.6
+    },
+    {
+     "x": 409.3,
+     "y": -113.3
+    },
+    {
+     "x": 414.6,
+     "y": -101.3
+    },
+    {
+     "x": 417.2,
+     "y": -93.9
+    },
+    {
+     "x": 417.5,
+     "y": -82.8
+    },
+    {
+     "x": 414.9,
+     "y": -73.0
+    },
+    {
+     "x": 415.4,
+     "y": -65.6
+    },
+    {
+     "x": 421.7,
+     "y": -52.6
+    },
+    {
+     "x": 433.0,
+     "y": -31.0
+    },
+    {
+     "x": 443.1,
+     "y": -19.4
+    },
+    {
+     "x": 460.0,
+     "y": 1.8
+    },
+    {
+     "x": 489.8,
+     "y": 43.8
+    },
+    {
+     "x": 514.7,
+     "y": 71.6
+    },
+    {
+     "x": 532.3,
+     "y": 88.9
+    },
+    {
+     "x": 539.2,
+     "y": 95.0
+    },
+    {
+     "x": 547.6,
+     "y": 98.0
+    },
+    {
+     "x": 557.4,
+     "y": 101.0
+    },
+    {
+     "x": 588.6,
+     "y": 99.9
+    },
+    {
+     "x": 616.2,
+     "y": 102.6
+    }
+   ]
+  }
+ ],
+ "notes": "Einstiege E0–E5B, Bojen und die Objekte des Kreidesees mit ihren Tiefen. Lage und Tiefen aus OpenStreetMap (© OpenStreetMap-Mitwirkende, ODbL). Die Segelyacht Hemmoor ist 13 m lang, die Mahusan ein ausgebranntes Streifenboot; Skywalk und Leuchtturm sind Teile des Lamstedter Fernsehturms.",
+ "origin": {
+  "lat": 53.6995,
+  "lon": 9.12916575
+ },
+ "underlay": null,
+ "id": "deu-hemmoor-1",
+ "site_id": "deu-hemmoor",
+ "sort": 0,
+ "revision": 3,
+ "updated_at": "2026-09-29T10:57:59.240334Z",
+ "changelog": [
+  {
+   "revision": 3,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

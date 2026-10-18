@@ -1,0 +1,321 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Baron Gautsch",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "rudder",
+   "x": 14.5,
+   "y": 39.7,
+   "type": "object",
+   "label": "Rudder, propellers removed",
+   "depth": 38.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stern",
+   "x": 12.7,
+   "y": 34.9,
+   "type": "object",
+   "label": "Stern",
+   "depth": 31.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-hold",
+   "x": 8.7,
+   "y": 23.8,
+   "type": "object",
+   "label": "Aft hold",
+   "depth": 33.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "davits",
+   "x": -1.4,
+   "y": 13.1,
+   "type": "object",
+   "label": "Port davits, turned outboard",
+   "depth": 29.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-funnel",
+   "x": 2.0,
+   "y": 5.6,
+   "type": "object",
+   "label": "Aft funnel, fallen into the hull",
+   "depth": 29.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "engine-room",
+   "x": 0.3,
+   "y": 0.8,
+   "type": "object",
+   "label": "Engine room",
+   "depth": 34.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mine-hole",
+   "x": -6.0,
+   "y": 0.4,
+   "type": "object",
+   "label": "Mine hole, port side, 2 x 2 m",
+   "depth": 35.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "promenade",
+   "x": -1.7,
+   "y": -4.8,
+   "type": "object",
+   "label": "Promenade deck",
+   "depth": 28.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bridge",
+   "x": -4.6,
+   "y": -12.7,
+   "type": "object",
+   "label": "Bridge and fore funnel (gone)",
+   "depth": 29.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fore-mast",
+   "x": -3.8,
+   "y": -19.3,
+   "type": "object",
+   "label": "Fore mast, fallen across the superstructure",
+   "depth": 30.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fore-hold",
+   "x": -9.5,
+   "y": -26.2,
+   "type": "object",
+   "label": "Forward hold",
+   "depth": 33.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": -13.9,
+   "y": -38.1,
+   "type": "object",
+   "label": "Bow",
+   "depth": 31.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "hull",
+   "kind": "wreck",
+   "label": "SS Baron Gautsch, 84.5 x 11.6 m",
+   "depth": 40.0,
+   "points": [
+    {
+     "x": 18.5,
+     "y": 38.2
+    },
+    {
+     "x": 17.5,
+     "y": 31.1
+    },
+    {
+     "x": 15.1,
+     "y": 24.5
+    },
+    {
+     "x": 12.7,
+     "y": 17.9
+    },
+    {
+     "x": 10.3,
+     "y": 11.3
+    },
+    {
+     "x": 7.9,
+     "y": 4.6
+    },
+    {
+     "x": 5.5,
+     "y": -2.0
+    },
+    {
+     "x": 3.0,
+     "y": -8.6
+    },
+    {
+     "x": 0.6,
+     "y": -15.2
+    },
+    {
+     "x": -1.8,
+     "y": -21.8
+    },
+    {
+     "x": -4.7,
+     "y": -28.2
+    },
+    {
+     "x": -8.8,
+     "y": -34.3
+    },
+    {
+     "x": -14.5,
+     "y": -39.7
+    },
+    {
+     "x": -15.3,
+     "y": -31.9
+    },
+    {
+     "x": -14.5,
+     "y": -24.7
+    },
+    {
+     "x": -12.7,
+     "y": -17.9
+    },
+    {
+     "x": -10.3,
+     "y": -11.3
+    },
+    {
+     "x": -7.9,
+     "y": -4.6
+    },
+    {
+     "x": -5.5,
+     "y": 2.0
+    },
+    {
+     "x": -3.0,
+     "y": 8.6
+    },
+    {
+     "x": -0.6,
+     "y": 15.2
+    },
+    {
+     "x": 1.8,
+     "y": 21.8
+    },
+    {
+     "x": 4.2,
+     "y": 28.5
+    },
+    {
+     "x": 6.6,
+     "y": 35.1
+    },
+    {
+     "x": 10.4,
+     "y": 41.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual tour: stern to bow over the upper deck",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 22.3,
+     "y": 35.0
+    },
+    {
+     "x": 12.1,
+     "y": 33.3
+    },
+    {
+     "x": 5.8,
+     "y": 15.9
+    },
+    {
+     "x": -1.7,
+     "y": -4.8
+    },
+    {
+     "x": -8.7,
+     "y": -23.8
+    },
+    {
+     "x": -13.6,
+     "y": -37.3
+    },
+    {
+     "x": -3.1,
+     "y": -34.8
+    }
+   ]
+  }
+ ],
+ "notes": "Plan of the Austrian Lloyd steamer Baron Gautsch (84.5 x 11.6 m), upright on a sand and pebble seabed at 40 m, shallowest at the promenade deck at 28 m; position 44 56 25 N 13 34 40 E from pro-taucher.com, confirmed at 38 m by EMODnet bathymetry. Condition per adventuredives.com: bridge and fore funnel gone, aft funnel fallen into the hull, fore mast lying across the superstructure, propellers removed, 2 x 2 m mine hole on the port side amidships, port davits turned outboard; dimensions from dive3d.eu and divers-guide.com, the stern-to-bow tour from the Rovinj dive centres. No published heading was found: the bow is drawn NNW (340 deg), her course towards Trieste, and the hold, engine-room and feature positions along the hull are approximate. The mooring point is not published.",
+ "origin": {
+  "lat": 44.940278,
+  "lon": 13.577778
+ },
+ "underlay": null,
+ "id": "hrv-baron-gautsch-1",
+ "site_id": "hrv-baron-gautsch",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:12:07.025396Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

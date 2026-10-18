@@ -1,0 +1,688 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Koh Haa Yai",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "cave1",
+   "x": 9.1,
+   "y": 102.2,
+   "type": "poi",
+   "label": "Cathedral, cave 1",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cave2",
+   "x": 30.0,
+   "y": 109.1,
+   "type": "poi",
+   "label": "The Cathedral, air pocket inside",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cave-link",
+   "x": 17.1,
+   "y": 111.7,
+   "type": "poi",
+   "label": "Window between the chambers",
+   "depth": 9.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cave1-exit",
+   "x": 6.2,
+   "y": 114.6,
+   "type": "marker",
+   "label": "Cave exit",
+   "depth": 15.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cave2-exit",
+   "x": 34.4,
+   "y": 120.7,
+   "type": "marker",
+   "label": "Cave exit",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "swim-thru",
+   "x": -0.8,
+   "y": 130.0,
+   "type": "poi",
+   "label": "Swim-through",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "overhang",
+   "x": -62.7,
+   "y": 94.1,
+   "type": "poi",
+   "label": "Overhang",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "whip",
+   "x": -17.6,
+   "y": 138.1,
+   "type": "poi",
+   "label": "Field of whip coral",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r6",
+   "x": -46.1,
+   "y": 86.3,
+   "type": "object",
+   "label": "Rock",
+   "depth": 6.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r14",
+   "x": -91.1,
+   "y": 76.0,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r18",
+   "x": -93.0,
+   "y": 91.3,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r12a",
+   "x": -7.1,
+   "y": 121.3,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r12b",
+   "x": 24.1,
+   "y": 135.5,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r16a",
+   "x": 11.7,
+   "y": 151.5,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r16b",
+   "x": 40.7,
+   "y": 159.3,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 16.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r22",
+   "x": 32.4,
+   "y": 173.7,
+   "type": "object",
+   "label": "Boulder",
+   "depth": 22.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "r8",
+   "x": 61.9,
+   "y": 165.5,
+   "type": "object",
+   "label": "Rock",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "plate-coral",
+   "kind": "coral",
+   "label": "Plate and staghorn coral",
+   "depth": 5.0,
+   "points": [
+    {
+     "x": -81.5,
+     "y": 51.2
+    },
+    {
+     "x": -52.2,
+     "y": 69.7
+    },
+    {
+     "x": -50.5,
+     "y": 80.8
+    },
+    {
+     "x": -77.3,
+     "y": 72.0
+    },
+    {
+     "x": -89.3,
+     "y": 68.2
+    }
+   ]
+  },
+  {
+   "id": "boulders",
+   "kind": "other",
+   "label": "Boulders",
+   "depth": null,
+   "points": [
+    {
+     "x": -23.8,
+     "y": 105.1
+    },
+    {
+     "x": -13.3,
+     "y": 104.7
+    },
+    {
+     "x": 7.5,
+     "y": 111.8
+    },
+    {
+     "x": 25.8,
+     "y": 116.8
+    },
+    {
+     "x": 38.5,
+     "y": 119.1
+    },
+    {
+     "x": 51.8,
+     "y": 127.6
+    },
+    {
+     "x": 60.6,
+     "y": 138.5
+    },
+    {
+     "x": 60.2,
+     "y": 146.9
+    },
+    {
+     "x": 52.1,
+     "y": 156.9
+    },
+    {
+     "x": 42.8,
+     "y": 169.8
+    },
+    {
+     "x": 29.5,
+     "y": 168.9
+    },
+    {
+     "x": 15.3,
+     "y": 162.4
+    },
+    {
+     "x": 4.8,
+     "y": 162.8
+    },
+    {
+     "x": -5.9,
+     "y": 156.2
+    },
+    {
+     "x": -21.6,
+     "y": 145.5
+    },
+    {
+     "x": -29.8,
+     "y": 133.2
+    },
+    {
+     "x": -28.8,
+     "y": 119.9
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore-23984716",
+   "kind": "shoreline",
+   "label": "Koh Haa Yai",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 84.7,
+     "y": -127.1
+    },
+    {
+     "x": 88.7,
+     "y": -151.0
+    },
+    {
+     "x": 82.9,
+     "y": -183.4
+    },
+    {
+     "x": 87.7,
+     "y": -196.8
+    },
+    {
+     "x": 83.5,
+     "y": -211.3
+    },
+    {
+     "x": 70.2,
+     "y": -221.1
+    },
+    {
+     "x": 62.1,
+     "y": -221.5
+    },
+    {
+     "x": 54.2,
+     "y": -234.8
+    },
+    {
+     "x": 56.9,
+     "y": -242.1
+    },
+    {
+     "x": 52.5,
+     "y": -245.6
+    },
+    {
+     "x": 47.9,
+     "y": -242.1
+    },
+    {
+     "x": 33.4,
+     "y": -261.5
+    },
+    {
+     "x": 25.9,
+     "y": -271.6
+    },
+    {
+     "x": 18.3,
+     "y": -277.3
+    },
+    {
+     "x": 7.7,
+     "y": -284.3
+    },
+    {
+     "x": -4.2,
+     "y": -284.9
+    },
+    {
+     "x": -16.6,
+     "y": -274.9
+    },
+    {
+     "x": -18.9,
+     "y": -268.1
+    },
+    {
+     "x": -32.7,
+     "y": -260.8
+    },
+    {
+     "x": -49.7,
+     "y": -257.7
+    },
+    {
+     "x": -64.3,
+     "y": -256.4
+    },
+    {
+     "x": -77.5,
+     "y": -254.6
+    },
+    {
+     "x": -88.3,
+     "y": -251.2
+    },
+    {
+     "x": -95.7,
+     "y": -243.1
+    },
+    {
+     "x": -112.0,
+     "y": -229.4
+    },
+    {
+     "x": -124.0,
+     "y": -200.9
+    },
+    {
+     "x": -120.6,
+     "y": -185.3
+    },
+    {
+     "x": -123.8,
+     "y": -159.3
+    },
+    {
+     "x": -133.8,
+     "y": -116.7
+    },
+    {
+     "x": -125.0,
+     "y": -94.7
+    },
+    {
+     "x": -118.7,
+     "y": -85.7
+    },
+    {
+     "x": -110.2,
+     "y": -73.6
+    },
+    {
+     "x": -106.2,
+     "y": -58.9
+    },
+    {
+     "x": -117.9,
+     "y": -45.8
+    },
+    {
+     "x": -142.8,
+     "y": -32.4
+    },
+    {
+     "x": -140.9,
+     "y": -10.3
+    },
+    {
+     "x": -120.6,
+     "y": -5.8
+    },
+    {
+     "x": -108.5,
+     "y": 3.7
+    },
+    {
+     "x": -92.2,
+     "y": 3.7
+    },
+    {
+     "x": -68.3,
+     "y": 16.4
+    },
+    {
+     "x": -48.1,
+     "y": 83.5
+    },
+    {
+     "x": 30.3,
+     "y": 111.0
+    },
+    {
+     "x": 52.6,
+     "y": 127.7
+    },
+    {
+     "x": 68.6,
+     "y": 119.8
+    },
+    {
+     "x": 84.5,
+     "y": 112.1
+    },
+    {
+     "x": 82.4,
+     "y": 106.0
+    },
+    {
+     "x": 88.1,
+     "y": 84.2
+    },
+    {
+     "x": 83.5,
+     "y": 67.4
+    },
+    {
+     "x": 72.4,
+     "y": 44.5
+    },
+    {
+     "x": 76.2,
+     "y": 26.6
+    },
+    {
+     "x": 83.3,
+     "y": -3.2
+    },
+    {
+     "x": 90.4,
+     "y": -24.6
+    },
+    {
+     "x": 87.3,
+     "y": -45.6
+    },
+    {
+     "x": 81.8,
+     "y": -61.8
+    },
+    {
+     "x": 71.6,
+     "y": -78.0
+    },
+    {
+     "x": 61.8,
+     "y": -85.0
+    },
+    {
+     "x": 46.4,
+     "y": -87.4
+    },
+    {
+     "x": 34.1,
+     "y": -89.7
+    },
+    {
+     "x": 34.5,
+     "y": -120.3
+    },
+    {
+     "x": 42.9,
+     "y": -127.9
+    },
+    {
+     "x": 58.2,
+     "y": -120.8
+    },
+    {
+     "x": 70.7,
+     "y": -117.1
+    },
+    {
+     "x": 80.4,
+     "y": -121.5
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -141.5,
+     "y": 62.2
+    },
+    {
+     "x": -96.9,
+     "y": 84.7
+    },
+    {
+     "x": -70.0,
+     "y": 101.1
+    },
+    {
+     "x": -49.2,
+     "y": 115.7
+    },
+    {
+     "x": -32.8,
+     "y": 125.0
+    }
+   ]
+  },
+  {
+   "id": "c20b",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 58.3,
+     "y": 154.6
+    },
+    {
+     "x": 86.6,
+     "y": 164.1
+    }
+   ]
+  },
+  {
+   "id": "c25",
+   "kind": "depth",
+   "label": "",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -152.3,
+     "y": 85.8
+    },
+    {
+     "x": -109.7,
+     "y": 105.3
+    },
+    {
+     "x": -71.2,
+     "y": 126.3
+    },
+    {
+     "x": -36.5,
+     "y": 148.0
+    },
+    {
+     "x": -11.1,
+     "y": 167.5
+    },
+    {
+     "x": 18.6,
+     "y": 177.7
+    },
+    {
+     "x": 49.2,
+     "y": 185.8
+    },
+    {
+     "x": 74.9,
+     "y": 189.7
+    }
+   ]
+  }
+ ],
+ "notes": "Koh Haa Yai (Koh Haa No. 5), the largest of the Koh Haa islets; island outlines from OpenStreetMap. The Cathedral caverns on its southern shore, the swim-through, boulders and depths, on the OSM coastline (positions are approximate); the chambers open from low-tide level to 14 m, the first two are joined by a swim-through at about 9 m and the largest has an air space under stalactites (Phuket Dive Guide). The Chimney that the site description mentions is at Koh Haa No. 1 according to Phuket Dive Guide and is not drawn and the Lagoon between islands 2-4, 700 m to the north-east, is a separate dive and left off. The site coordinates (7.45, 98.98) are 10 km east of the islands; the origin here is on Koh Haa Yai.",
+ "origin": {
+  "lat": 7.4236,
+  "lon": 98.8895
+ },
+ "underlay": null,
+ "id": "tha-koh-tha-yai-1",
+ "site_id": "tha-koh-tha-yai",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:46:31.408119Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

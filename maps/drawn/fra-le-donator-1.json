@@ -1,0 +1,425 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Le Donator",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "propeller",
+   "x": 29.7,
+   "y": 26.8,
+   "type": "object",
+   "label": "Propeller and rudder",
+   "depth": 51.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stern-castle",
+   "x": 23.8,
+   "y": 23.8,
+   "type": "object",
+   "label": "Stern castle, iron steering wheel",
+   "depth": 41.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-holds",
+   "x": 15.5,
+   "y": 15.5,
+   "type": "object",
+   "label": "Aft holds, wine tanks",
+   "depth": 45.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-mast",
+   "x": 7.8,
+   "y": 12.1,
+   "type": "object",
+   "label": "Aft mast, fallen 1999",
+   "depth": 42.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coursives",
+   "x": 1.7,
+   "y": 1.7,
+   "type": "object",
+   "label": "Midships superstructure, coursives",
+   "depth": 37.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bridge",
+   "x": -5.5,
+   "y": -5.5,
+   "type": "object",
+   "label": "Bridge front",
+   "depth": 37.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fore-hold",
+   "x": -13.3,
+   "y": -13.3,
+   "type": "object",
+   "label": "Forward hold torn open by the mine",
+   "depth": 44.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fore-mast",
+   "x": -14.5,
+   "y": -18.7,
+   "type": "object",
+   "label": "Foremast, fallen",
+   "depth": 44.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": -26.7,
+   "y": -23.1,
+   "type": "object",
+   "label": "Bow, detached and leaning to port",
+   "depth": 48.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring-stern",
+   "x": 19.1,
+   "y": 31.8,
+   "type": "entry",
+   "label": "Shot line, stern",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring-mid",
+   "x": -12.5,
+   "y": 0.3,
+   "type": "entry",
+   "label": "Shot line, midships",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "hull",
+   "kind": "wreck",
+   "label": "Donator (Prosper Schiaffino), 78 x 12 m",
+   "depth": 48.0,
+   "points": [
+    {
+     "x": 30.9,
+     "y": 24.5
+    },
+    {
+     "x": 27.9,
+     "y": 19.4
+    },
+    {
+     "x": 23.9,
+     "y": 15.4
+    },
+    {
+     "x": 19.9,
+     "y": 11.4
+    },
+    {
+     "x": 15.9,
+     "y": 7.4
+    },
+    {
+     "x": 11.9,
+     "y": 3.4
+    },
+    {
+     "x": 7.8,
+     "y": -0.6
+    },
+    {
+     "x": 3.8,
+     "y": -4.7
+    },
+    {
+     "x": -0.2,
+     "y": -8.7
+    },
+    {
+     "x": -4.2,
+     "y": -12.7
+    },
+    {
+     "x": -8.2,
+     "y": -16.7
+    },
+    {
+     "x": -12.2,
+     "y": -20.7
+    },
+    {
+     "x": -16.2,
+     "y": -24.7
+    },
+    {
+     "x": -24.7,
+     "y": -16.2
+    },
+    {
+     "x": -20.7,
+     "y": -12.2
+    },
+    {
+     "x": -16.7,
+     "y": -8.2
+    },
+    {
+     "x": -12.7,
+     "y": -4.2
+    },
+    {
+     "x": -8.7,
+     "y": -0.2
+    },
+    {
+     "x": -4.7,
+     "y": 3.8
+    },
+    {
+     "x": -0.6,
+     "y": 7.8
+    },
+    {
+     "x": 3.4,
+     "y": 11.9
+    },
+    {
+     "x": 7.4,
+     "y": 15.9
+    },
+    {
+     "x": 11.4,
+     "y": 19.9
+    },
+    {
+     "x": 15.4,
+     "y": 23.9
+    },
+    {
+     "x": 19.4,
+     "y": 27.9
+    },
+    {
+     "x": 24.5,
+     "y": 30.9
+    }
+   ]
+  },
+  {
+   "id": "bow-section",
+   "kind": "wreck",
+   "label": "Bow section",
+   "depth": 48.0,
+   "points": [
+    {
+     "x": -21.2,
+     "y": -23.7
+    },
+    {
+     "x": -21.9,
+     "y": -24.0
+    },
+    {
+     "x": -22.5,
+     "y": -24.4
+    },
+    {
+     "x": -23.2,
+     "y": -24.8
+    },
+    {
+     "x": -24.0,
+     "y": -25.1
+    },
+    {
+     "x": -24.7,
+     "y": -25.5
+    },
+    {
+     "x": -25.4,
+     "y": -25.8
+    },
+    {
+     "x": -26.1,
+     "y": -26.1
+    },
+    {
+     "x": -26.9,
+     "y": -26.4
+    },
+    {
+     "x": -27.7,
+     "y": -26.7
+    },
+    {
+     "x": -28.5,
+     "y": -27.0
+    },
+    {
+     "x": -29.4,
+     "y": -27.1
+    },
+    {
+     "x": -30.6,
+     "y": -27.0
+    },
+    {
+     "x": -30.7,
+     "y": -25.8
+    },
+    {
+     "x": -30.6,
+     "y": -24.9
+    },
+    {
+     "x": -30.3,
+     "y": -24.1
+    },
+    {
+     "x": -30.0,
+     "y": -23.3
+    },
+    {
+     "x": -29.7,
+     "y": -22.5
+    },
+    {
+     "x": -29.4,
+     "y": -21.8
+    },
+    {
+     "x": -29.1,
+     "y": -21.1
+    },
+    {
+     "x": -28.7,
+     "y": -20.4
+    },
+    {
+     "x": -28.4,
+     "y": -19.6
+    },
+    {
+     "x": -28.0,
+     "y": -18.9
+    },
+    {
+     "x": -27.6,
+     "y": -18.3
+    },
+    {
+     "x": -27.3,
+     "y": -17.6
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual tour: stern to bow, back to the shot line",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 20.5,
+     "y": 30.4
+    },
+    {
+     "x": 32.3,
+     "y": 25.3
+    },
+    {
+     "x": 27.8,
+     "y": 16.5
+    },
+    {
+     "x": 11.2,
+     "y": -0.1
+    },
+    {
+     "x": -8.2,
+     "y": -19.5
+    },
+    {
+     "x": -23.2,
+     "y": -28.9
+    },
+    {
+     "x": -27.8,
+     "y": -16.5
+    },
+    {
+     "x": -12.3,
+     "y": -1.0
+    }
+   ]
+  }
+ ],
+ "notes": "Plan of the cargo ship Donator (Prosper Schiaffino), 78.3 x 12 m, upright on flat sand at 48 m between Porquerolles and Port-Cros, about 430 m WSW of Le Grec. Position 42 59.592 N 6 16.436 E from the Port-Cros national park Neptune sheet (Wikipedia gives a point 700 m further NE). The stern points south-east (the bow is drawn at 315 deg) per Joncheray and Brunner's Portraits d'épaves as quoted by several club pages; the feature order and depths (propeller 51 m, stern castle 41 m, midships 35-37 m, holds 44-45 m, bow 48 m) come from nicoblon.free.fr. Shot-line positions and all positions along the hull are approximate. The site file's coordinates (6.2023 E) are about 6 km too far west.",
+ "origin": {
+  "lat": 42.9932,
+  "lon": 6.273933
+ },
+ "underlay": null,
+ "id": "fra-le-donator-1",
+ "site_id": "fra-le-donator",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:41:07.981216Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

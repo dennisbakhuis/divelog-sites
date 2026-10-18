@@ -1,0 +1,32 @@
+name: Site correction
+description: Correct something about a site that is already in the database.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: site
+    attributes:
+      label: Site
+      description: The site id (the file name in `sites/`, without `.md`) or a link to it.
+      placeholder: bes-hilma-hooker
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: Correct value
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where the correct value comes from, for example "own dive, 2026", a map, or a website.
+    validations:
+      required: true

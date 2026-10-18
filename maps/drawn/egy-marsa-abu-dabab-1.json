@@ -1,0 +1,686 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Marsa Abu Dabab",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": -185.0,
+   "y": 60.0,
+   "type": "entry",
+   "label": "Beach entry",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-10",
+   "x": -10.0,
+   "y": -175.0,
+   "type": "object",
+   "label": "Erg 10 m",
+   "depth": 10.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "erg-10b",
+   "x": 60.0,
+   "y": -235.0,
+   "type": "object",
+   "label": "",
+   "depth": 10.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "turtle-area-1",
+   "x": -40.0,
+   "y": 40.0,
+   "type": "object",
+   "label": "Green turtle area",
+   "depth": 12.0,
+   "object_kind": "turtle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "turtle-area-2",
+   "x": 160.0,
+   "y": -150.0,
+   "type": "object",
+   "label": "Green turtle area",
+   "depth": 12.0,
+   "object_kind": "turtle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "dugong-area",
+   "x": 240.0,
+   "y": 20.0,
+   "type": "poi",
+   "label": "Dugong grazing area",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "marker-buoy",
+   "x": 150.0,
+   "y": -60.0,
+   "type": "buoy",
+   "label": "Marker buoy",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ergs-15",
+   "x": 90.0,
+   "y": 130.0,
+   "type": "object",
+   "label": "Ergs 15 m",
+   "depth": 15.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "north-reef",
+   "kind": "coral",
+   "label": "North reef",
+   "depth": null,
+   "points": [
+    {
+     "x": 28.5,
+     "y": -520.0
+    },
+    {
+     "x": 14.8,
+     "y": -443.1
+    },
+    {
+     "x": 9.2,
+     "y": -428.2
+    },
+    {
+     "x": -37.8,
+     "y": -346.5
+    },
+    {
+     "x": -62.9,
+     "y": -315.3
+    },
+    {
+     "x": -135.3,
+     "y": -247.3
+    },
+    {
+     "x": -199.2,
+     "y": -117.2
+    },
+    {
+     "x": -213.2,
+     "y": -77.1
+    },
+    {
+     "x": -220.7,
+     "y": -42.7
+    },
+    {
+     "x": -104.5,
+     "y": -123.6
+    },
+    {
+     "x": -47.5,
+     "y": -186.1
+    },
+    {
+     "x": -41.3,
+     "y": -203.0
+    },
+    {
+     "x": -48.4,
+     "y": -214.5
+    },
+    {
+     "x": -23.3,
+     "y": -212.1
+    },
+    {
+     "x": 12.1,
+     "y": -252.3
+    },
+    {
+     "x": 42.0,
+     "y": -271.3
+    },
+    {
+     "x": 69.6,
+     "y": -273.7
+    },
+    {
+     "x": 123.0,
+     "y": -309.7
+    },
+    {
+     "x": 207.5,
+     "y": -483.1
+    },
+    {
+     "x": 214.8,
+     "y": -520.0
+    }
+   ]
+  },
+  {
+   "id": "south-reef",
+   "kind": "coral",
+   "label": "South reef",
+   "depth": null,
+   "points": [
+    {
+     "x": -15.4,
+     "y": 206.1
+    },
+    {
+     "x": 19.9,
+     "y": 168.0
+    },
+    {
+     "x": 97.6,
+     "y": 141.2
+    },
+    {
+     "x": 185.3,
+     "y": 96.4
+    },
+    {
+     "x": 252.3,
+     "y": 103.1
+    },
+    {
+     "x": 354.3,
+     "y": 157.0
+    },
+    {
+     "x": 380.0,
+     "y": 194.6
+    },
+    {
+     "x": 380.0,
+     "y": 380.0
+    },
+    {
+     "x": 265.5,
+     "y": 380.0
+    },
+    {
+     "x": 261.0,
+     "y": 372.3
+    },
+    {
+     "x": 247.0,
+     "y": 333.4
+    },
+    {
+     "x": 255.7,
+     "y": 323.9
+    },
+    {
+     "x": 253.6,
+     "y": 312.2
+    },
+    {
+     "x": 240.4,
+     "y": 299.5
+    },
+    {
+     "x": 227.2,
+     "y": 291.4
+    },
+    {
+     "x": 202.8,
+     "y": 284.5
+    },
+    {
+     "x": 194.1,
+     "y": 277.4
+    },
+    {
+     "x": 193.3,
+     "y": 268.5
+    },
+    {
+     "x": 186.6,
+     "y": 258.4
+    },
+    {
+     "x": 156.5,
+     "y": 239.0
+    },
+    {
+     "x": 140.3,
+     "y": 245.5
+    },
+    {
+     "x": 115.1,
+     "y": 250.0
+    },
+    {
+     "x": 45.8,
+     "y": 253.9
+    },
+    {
+     "x": 20.1,
+     "y": 252.4
+    },
+    {
+     "x": -17.9,
+     "y": 254.2
+    },
+    {
+     "x": -44.9,
+     "y": 250.9
+    },
+    {
+     "x": -26.0,
+     "y": 244.8
+    },
+    {
+     "x": -25.3,
+     "y": 225.6
+    },
+    {
+     "x": -17.1,
+     "y": 219.7
+    }
+   ]
+  },
+  {
+   "id": "seagrass",
+   "kind": "reeds",
+   "label": "Seagrass 10-12 m",
+   "depth": 10.0,
+   "points": [
+    {
+     "x": -150.0,
+     "y": -30.0
+    },
+    {
+     "x": -60.0,
+     "y": -120.0
+    },
+    {
+     "x": 40.0,
+     "y": -200.0
+    },
+    {
+     "x": 150.0,
+     "y": -290.0
+    },
+    {
+     "x": 300.0,
+     "y": -250.0
+    },
+    {
+     "x": 320.0,
+     "y": 100.0
+    },
+    {
+     "x": 180.0,
+     "y": 70.0
+    },
+    {
+     "x": 60.0,
+     "y": 110.0
+    },
+    {
+     "x": -20.0,
+     "y": 170.0
+    },
+    {
+     "x": -120.0,
+     "y": 170.0
+    },
+    {
+     "x": -170.0,
+     "y": 80.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 265.5,
+     "y": 380.0
+    },
+    {
+     "x": 261.0,
+     "y": 372.3
+    },
+    {
+     "x": 247.0,
+     "y": 333.4
+    },
+    {
+     "x": 255.7,
+     "y": 323.9
+    },
+    {
+     "x": 253.6,
+     "y": 312.2
+    },
+    {
+     "x": 240.4,
+     "y": 299.5
+    },
+    {
+     "x": 227.2,
+     "y": 291.4
+    },
+    {
+     "x": 202.8,
+     "y": 284.5
+    },
+    {
+     "x": 194.1,
+     "y": 277.4
+    },
+    {
+     "x": 193.3,
+     "y": 268.5
+    },
+    {
+     "x": 181.4,
+     "y": 254.3
+    },
+    {
+     "x": 156.5,
+     "y": 239.0
+    },
+    {
+     "x": 140.3,
+     "y": 245.5
+    },
+    {
+     "x": 115.1,
+     "y": 250.0
+    },
+    {
+     "x": 75.6,
+     "y": 253.2
+    },
+    {
+     "x": -17.9,
+     "y": 254.2
+    },
+    {
+     "x": -50.0,
+     "y": 249.5
+    },
+    {
+     "x": -74.4,
+     "y": 237.3
+    },
+    {
+     "x": -91.7,
+     "y": 219.9
+    },
+    {
+     "x": -116.1,
+     "y": 188.8
+    },
+    {
+     "x": -152.8,
+     "y": 135.7
+    },
+    {
+     "x": -163.9,
+     "y": 111.6
+    },
+    {
+     "x": -220.7,
+     "y": -42.7
+    },
+    {
+     "x": -213.2,
+     "y": -77.1
+    },
+    {
+     "x": -199.2,
+     "y": -117.2
+    },
+    {
+     "x": -135.3,
+     "y": -247.3
+    },
+    {
+     "x": -62.9,
+     "y": -315.3
+    },
+    {
+     "x": -37.8,
+     "y": -346.5
+    },
+    {
+     "x": 9.2,
+     "y": -428.2
+    },
+    {
+     "x": 14.8,
+     "y": -443.1
+    },
+    {
+     "x": 21.0,
+     "y": -505.6
+    },
+    {
+     "x": 24.9,
+     "y": -520.0
+    }
+   ]
+  },
+  {
+   "id": "north-wall-inner",
+   "kind": "wall",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -220.0,
+     "y": -50.0
+    },
+    {
+     "x": -120.0,
+     "y": -110.0
+    },
+    {
+     "x": -60.0,
+     "y": -150.0
+    },
+    {
+     "x": -40.0,
+     "y": -220.0
+    }
+   ]
+  },
+  {
+   "id": "north-wall-mid",
+   "kind": "wall",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -40.0,
+     "y": -220.0
+    },
+    {
+     "x": -25.0,
+     "y": -215.0
+    },
+    {
+     "x": 0.0,
+     "y": -235.0
+    },
+    {
+     "x": 70.0,
+     "y": -270.0
+    },
+    {
+     "x": 120.0,
+     "y": -310.0
+    }
+   ]
+  },
+  {
+   "id": "north-wall-outer",
+   "kind": "wall",
+   "label": "",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 120.0,
+     "y": -310.0
+    },
+    {
+     "x": 170.0,
+     "y": -400.0
+    },
+    {
+     "x": 210.0,
+     "y": -480.0
+    }
+   ]
+  },
+  {
+   "id": "south-wall",
+   "kind": "wall",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -50.0,
+     "y": 250.0
+    },
+    {
+     "x": -20.0,
+     "y": 200.0
+    },
+    {
+     "x": 20.0,
+     "y": 150.0
+    },
+    {
+     "x": 100.0,
+     "y": 115.0
+    },
+    {
+     "x": 180.0,
+     "y": 95.0
+    },
+    {
+     "x": 250.0,
+     "y": 100.0
+    },
+    {
+     "x": 350.0,
+     "y": 150.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -185.0,
+     "y": 60.0
+    },
+    {
+     "x": -150.0,
+     "y": -30.0
+    },
+    {
+     "x": -70.0,
+     "y": -125.0
+    },
+    {
+     "x": -10.0,
+     "y": -165.0
+    },
+    {
+     "x": 60.0,
+     "y": -210.0
+    },
+    {
+     "x": 120.0,
+     "y": -150.0
+    },
+    {
+     "x": 60.0,
+     "y": -60.0
+    },
+    {
+     "x": -40.0,
+     "y": 40.0
+    },
+    {
+     "x": -185.0,
+     "y": 60.0
+    }
+   ]
+  }
+ ],
+ "notes": "The wide sandy bay of Marsa Abu Dabab: the beach entry, the north reef with its ergs, the south reef, and the seagrass meadow in 10-12 m where green turtles graze and dugongs are occasionally seen. Coastline and reef flats from OpenStreetMap (© OpenStreetMap contributors, ODbL); the ergs, turtle and dugong areas, the marker buoy and depths are schematic and not to scale. Parts of the meadow are closed to divers under the protected-area rules; the route is a typical beach dive, not a signed trail, and all positions are approximate.",
+ "origin": {
+  "lat": 25.33861,
+  "lon": 34.73969
+ },
+ "underlay": null,
+ "id": "egy-marsa-abu-dabab-1",
+ "site_id": "egy-marsa-abu-dabab",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:23:56.871493Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

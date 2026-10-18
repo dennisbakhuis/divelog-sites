@@ -1,0 +1,432 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Ras Abu Soma",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mooring",
+   "x": 130.0,
+   "y": 45.0,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tables",
+   "x": 70.0,
+   "y": 150.0,
+   "type": "poi",
+   "label": "Table corals up to 4 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "blocks",
+   "x": 150.0,
+   "y": 20.0,
+   "type": "poi",
+   "label": "Coral blocks on the sandy slope",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 250.0,
+   "y": -330.0,
+   "type": "hazard",
+   "label": "Current, usually north to south",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-top",
+   "kind": "shallows",
+   "label": "Reef top",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 160.0,
+     "y": -400.0
+    },
+    {
+     "x": 175.0,
+     "y": -300.0
+    },
+    {
+     "x": 165.0,
+     "y": -200.0
+    },
+    {
+     "x": 160.0,
+     "y": -100.0
+    },
+    {
+     "x": 130.0,
+     "y": -40.0
+    },
+    {
+     "x": 80.0,
+     "y": 20.0
+    },
+    {
+     "x": 40.0,
+     "y": 60.0
+    },
+    {
+     "x": 0.0,
+     "y": 110.0
+    },
+    {
+     "x": -50.0,
+     "y": 180.0
+    },
+    {
+     "x": -100.0,
+     "y": 260.0
+    },
+    {
+     "x": -160.0,
+     "y": 330.0
+    },
+    {
+     "x": -200.0,
+     "y": 400.0
+    },
+    {
+     "x": -400.0,
+     "y": 400.0
+    },
+    {
+     "x": -400.0,
+     "y": -20.0
+    },
+    {
+     "x": -400.0,
+     "y": -20.0
+    },
+    {
+     "x": -360.0,
+     "y": -60.0
+    },
+    {
+     "x": -300.0,
+     "y": -120.0
+    },
+    {
+     "x": -240.0,
+     "y": -200.0
+    },
+    {
+     "x": -210.0,
+     "y": -300.0
+    },
+    {
+     "x": -230.0,
+     "y": -400.0
+    }
+   ]
+  },
+  {
+   "id": "lagoon",
+   "kind": "sand",
+   "label": "Sandy lagoon, coral heads",
+   "depth": 4.0,
+   "points": [
+    {
+     "x": -20.0,
+     "y": -95.0
+    },
+    {
+     "x": 50.0,
+     "y": -90.0
+    },
+    {
+     "x": 70.0,
+     "y": -40.0
+    },
+    {
+     "x": 60.0,
+     "y": -10.0
+    },
+    {
+     "x": 20.0,
+     "y": 30.0
+    },
+    {
+     "x": -20.0,
+     "y": 80.0
+    },
+    {
+     "x": -80.0,
+     "y": 160.0
+    },
+    {
+     "x": -150.0,
+     "y": 220.0
+    },
+    {
+     "x": -230.0,
+     "y": 230.0
+    },
+    {
+     "x": -240.0,
+     "y": 150.0
+    },
+    {
+     "x": -200.0,
+     "y": 60.0
+    },
+    {
+     "x": -100.0,
+     "y": 20.0
+    },
+    {
+     "x": -60.0,
+     "y": -60.0
+    }
+   ]
+  },
+  {
+   "id": "plateau",
+   "kind": "coral",
+   "label": "Plateau ~25 m",
+   "depth": 25.0,
+   "points": [
+    {
+     "x": 215.0,
+     "y": -80.0
+    },
+    {
+     "x": 180.0,
+     "y": 10.0
+    },
+    {
+     "x": 130.0,
+     "y": 80.0
+    },
+    {
+     "x": 80.0,
+     "y": 150.0
+    },
+    {
+     "x": 20.0,
+     "y": 240.0
+    },
+    {
+     "x": -40.0,
+     "y": 330.0
+    },
+    {
+     "x": -80.0,
+     "y": 400.0
+    },
+    {
+     "x": -200.0,
+     "y": 400.0
+    },
+    {
+     "x": -160.0,
+     "y": 330.0
+    },
+    {
+     "x": -100.0,
+     "y": 260.0
+    },
+    {
+     "x": -50.0,
+     "y": 180.0
+    },
+    {
+     "x": 0.0,
+     "y": 110.0
+    },
+    {
+     "x": 40.0,
+     "y": 60.0
+    },
+    {
+     "x": 80.0,
+     "y": 20.0
+    },
+    {
+     "x": 130.0,
+     "y": -40.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore",
+   "kind": "shoreline",
+   "label": "Ras Abu Soma",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -230.0,
+     "y": -400.0
+    },
+    {
+     "x": -210.0,
+     "y": -300.0
+    },
+    {
+     "x": -240.0,
+     "y": -200.0
+    },
+    {
+     "x": -300.0,
+     "y": -120.0
+    },
+    {
+     "x": -360.0,
+     "y": -60.0
+    },
+    {
+     "x": -400.0,
+     "y": -20.0
+    }
+   ]
+  },
+  {
+   "id": "wall-north",
+   "kind": "wall",
+   "label": "Wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 185.0,
+     "y": -400.0
+    },
+    {
+     "x": 200.0,
+     "y": -300.0
+    },
+    {
+     "x": 190.0,
+     "y": -200.0
+    },
+    {
+     "x": 185.0,
+     "y": -100.0
+    },
+    {
+     "x": 155.0,
+     "y": -40.0
+    }
+   ]
+  },
+  {
+   "id": "drop-off",
+   "kind": "wall",
+   "label": "Drop-off 25-30 m",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 215.0,
+     "y": -80.0
+    },
+    {
+     "x": 180.0,
+     "y": 10.0
+    },
+    {
+     "x": 130.0,
+     "y": 80.0
+    },
+    {
+     "x": 80.0,
+     "y": 150.0
+    },
+    {
+     "x": 20.0,
+     "y": 240.0
+    },
+    {
+     "x": -40.0,
+     "y": 330.0
+    },
+    {
+     "x": -80.0,
+     "y": 400.0
+    }
+   ]
+  },
+  {
+   "id": "drift",
+   "kind": "path",
+   "label": "Drift south with the current",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 195.0,
+     "y": -380.0
+    },
+    {
+     "x": 195.0,
+     "y": -250.0
+    },
+    {
+     "x": 190.0,
+     "y": -120.0
+    },
+    {
+     "x": 160.0,
+     "y": -20.0
+    },
+    {
+     "x": 110.0,
+     "y": 60.0
+    },
+    {
+     "x": 60.0,
+     "y": 120.0
+    },
+    {
+     "x": 10.0,
+     "y": 200.0
+    }
+   ]
+  }
+ ],
+ "notes": "The reef off the point of Ras Abu Soma: the wall on the north side where the shelf narrows, the sandy slope with coral blocks and the plateau at about 25 m with big table corals to the south, the drop-off beyond it at 25-30 m, the moorings at the corner by the sandy lagoon, and the usual drift south with the current. The zones come from dive-centre descriptions (4eversea), so extents are approximate. The origin is set on the dive site (26.8451, 34.0038); the site's stored coordinates lie about 1.4 km inland.",
+ "origin": {
+  "lat": 26.8451,
+  "lon": 34.0038
+ },
+ "underlay": null,
+ "id": "egy-ras-abu-soma-1",
+ "site_id": "egy-ras-abu-soma",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:19:15.215927Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Eiland 9, oostkant",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "zestien-kwadraat",
+   "x": 81.2,
+   "y": -108.1,
+   "type": "object",
+   "label": "Zestien Kwadraat",
+   "depth": 12.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pleziervaart",
+   "x": 104.3,
+   "y": -34.2,
+   "type": "hazard",
+   "label": "Pleziervaart",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "waterplanten-1",
+   "kind": "reeds",
+   "label": "Waterplanten",
+   "depth": null,
+   "points": [
+    {
+     "x": -63.9,
+     "y": 38.8
+    },
+    {
+     "x": -69.6,
+     "y": 9.8
+    },
+    {
+     "x": -71.0,
+     "y": -24.5
+    },
+    {
+     "x": -78.6,
+     "y": -62.7
+    },
+    {
+     "x": -82.2,
+     "y": -62.0
+    },
+    {
+     "x": -74.6,
+     "y": -24.1
+    },
+    {
+     "x": -73.2,
+     "y": 10.2
+    },
+    {
+     "x": -67.5,
+     "y": 39.5
+    }
+   ]
+  },
+  {
+   "id": "waterplanten-2",
+   "kind": "reeds",
+   "label": "Waterplanten",
+   "depth": null,
+   "points": [
+    {
+     "x": -55.5,
+     "y": -45.4
+    },
+    {
+     "x": -60.6,
+     "y": -65.2
+    },
+    {
+     "x": -62.3,
+     "y": -85.7
+    },
+    {
+     "x": -70.8,
+     "y": -121.5
+    },
+    {
+     "x": -74.3,
+     "y": -120.6
+    },
+    {
+     "x": -65.9,
+     "y": -85.1
+    },
+    {
+     "x": -64.2,
+     "y": -64.6
+    },
+    {
+     "x": -59.0,
+     "y": -44.5
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 69.5,
+     "y": 24.8
+    },
+    {
+     "x": 64.7,
+     "y": -20.6
+    },
+    {
+     "x": 54.7,
+     "y": -83.7
+    },
+    {
+     "x": 48.2,
+     "y": -138.0
+    }
+   ]
+  },
+  {
+   "id": "diepte-8",
+   "kind": "depth",
+   "label": "",
+   "depth": 8.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 44.0,
+     "y": 28.4
+    },
+    {
+     "x": 38.3,
+     "y": -28.4
+    },
+    {
+     "x": 35.4,
+     "y": -74.0
+    },
+    {
+     "x": 25.7,
+     "y": -134.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-6",
+   "kind": "depth",
+   "label": "",
+   "depth": 6.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 14.6,
+     "y": 32.5
+    },
+    {
+     "x": 3.3,
+     "y": -23.5
+    },
+    {
+     "x": -1.7,
+     "y": -75.7
+    },
+    {
+     "x": 5.8,
+     "y": -104.4
+    },
+    {
+     "x": 0.8,
+     "y": -131.4
+    }
+   ]
+  },
+  {
+   "id": "diepte-3",
+   "kind": "depth",
+   "label": "",
+   "depth": 3.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -19.2,
+     "y": 37.2
+    },
+    {
+     "x": -29.5,
+     "y": -2.8
+    },
+    {
+     "x": -29.9,
+     "y": -30.3
+    },
+    {
+     "x": -40.2,
+     "y": -79.5
+    },
+    {
+     "x": -35.5,
+     "y": -103.2
+    },
+    {
+     "x": -40.9,
+     "y": -125.5
+    }
+   ]
+  },
+  {
+   "id": "veenwand-1",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 41.9,
+     "y": 25.2
+    },
+    {
+     "x": 40.0,
+     "y": 8.2
+    },
+    {
+     "x": 31.8,
+     "y": -9.1
+    },
+    {
+     "x": 31.5,
+     "y": -22.8
+    }
+   ]
+  },
+  {
+   "id": "veenwand-2",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 15.8,
+     "y": 32.3
+    },
+    {
+     "x": 11.1,
+     "y": 7.6
+    }
+   ]
+  },
+  {
+   "id": "veenwand-3",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 33.2,
+     "y": -59.9
+    },
+    {
+     "x": 27.4,
+     "y": -84.4
+    },
+    {
+     "x": 24.0,
+     "y": -113.9
+    }
+   ]
+  },
+  {
+   "id": "noordplas-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -71.8,
+     "y": 54.2
+    },
+    {
+     "x": -77.0,
+     "y": 46.7
+    },
+    {
+     "x": -88.4,
+     "y": 8.7
+    },
+    {
+     "x": -95.5,
+     "y": -32.5
+    },
+    {
+     "x": -105.6,
+     "y": -125.3
+    },
+    {
+     "x": -86.4,
+     "y": -213.2
+    }
+   ]
+  },
+  {
+   "id": "noordplas-3",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -123.3,
+     "y": -200.4
+    },
+    {
+     "x": -130.4,
+     "y": -168.6
+    },
+    {
+     "x": -135.0,
+     "y": -120.6
+    },
+    {
+     "x": -129.9,
+     "y": -10.5
+    },
+    {
+     "x": -120.0,
+     "y": 27.1
+    },
+    {
+     "x": -110.8,
+     "y": 51.5
+    },
+    {
+     "x": -99.5,
+     "y": 74.9
+    },
+    {
+     "x": -77.1,
+     "y": 111.2
+    },
+    {
+     "x": -37.8,
+     "y": 169.6
+    }
+   ]
+  },
+  {
+   "id": "noordplas-3-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -4.3,
+     "y": 144.7
+    },
+    {
+     "x": -71.8,
+     "y": 54.2
+    }
+   ]
+  },
+  {
+   "id": "noordplas-4",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -155.6,
+     "y": 113.0
+    },
+    {
+     "x": -165.7,
+     "y": 128.6
+    },
+    {
+     "x": -163.8,
+     "y": 132.0
+    }
+   ]
+  },
+  {
+   "id": "noordplas-4-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -160.0,
+     "y": 131.1
+    },
+    {
+     "x": -152.0,
+     "y": 120.6
+    },
+    {
+     "x": -153.6,
+     "y": 112.8
+    }
+   ]
+  }
+ ],
+ "notes": "The east side of Eiland 9 on the OpenStreetMap island outline (© OpenStreetMap contributors, ODbL), with the Zestien Kwadraat at 12 m in the north-east of the site. The concrete wreck at 8 m to the north and the peat area on the south side are not drawn. Boat dive site; positions are approximate.",
+ "origin": {
+  "lat": 52.24717,
+  "lon": 4.94586
+ },
+ "underlay": null,
+ "id": "nld-zandeiland-9-1",
+ "site_id": "nld-zandeiland-9",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:32:48.398976Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

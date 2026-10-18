@@ -1,0 +1,565 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "The Lighthouse",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Entry (beach)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-heads",
+   "x": 31.1,
+   "y": 26.0,
+   "type": "object",
+   "label": "Coral heads",
+   "depth": 9.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-heads-2",
+   "x": 78.1,
+   "y": 31.6,
+   "type": "object",
+   "label": "Coral heads",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-heads-3",
+   "x": 103.7,
+   "y": 41.6,
+   "type": "object",
+   "label": "Coral heads",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "yellow-coral",
+   "x": 122.9,
+   "y": 25.8,
+   "type": "poi",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gorgonians",
+   "x": 149.5,
+   "y": 77.1,
+   "type": "poi",
+   "label": "Gorgonians and coral blocks",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "crack",
+   "x": 152.4,
+   "y": 29.6,
+   "type": "poi",
+   "label": "Crack",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-28",
+   "x": 179.6,
+   "y": -23.2,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 28.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-flat",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 5.0,
+     "y": -3.0
+    },
+    {
+     "x": 60.0,
+     "y": -12.0
+    },
+    {
+     "x": 85.0,
+     "y": -40.0
+    },
+    {
+     "x": 95.0,
+     "y": -100.0
+    },
+    {
+     "x": 92.0,
+     "y": -200.0
+    },
+    {
+     "x": 85.0,
+     "y": -300.0
+    },
+    {
+     "x": 185.0,
+     "y": -300.0
+    },
+    {
+     "x": 175.0,
+     "y": -200.0
+    },
+    {
+     "x": 160.0,
+     "y": -120.0
+    },
+    {
+     "x": 150.0,
+     "y": -60.0
+    },
+    {
+     "x": 158.0,
+     "y": -5.0
+    },
+    {
+     "x": 150.0,
+     "y": 30.0
+    },
+    {
+     "x": 120.0,
+     "y": 25.0
+    },
+    {
+     "x": 80.0,
+     "y": 18.0
+    },
+    {
+     "x": 40.0,
+     "y": 12.0
+    }
+   ]
+  },
+  {
+   "id": "sand-slope",
+   "kind": "sand",
+   "label": "Sand",
+   "depth": null,
+   "points": [
+    {
+     "x": -42.9,
+     "y": 2.0
+    },
+    {
+     "x": 1.6,
+     "y": -1.1
+    },
+    {
+     "x": 88.6,
+     "y": 18.4
+    },
+    {
+     "x": 115.0,
+     "y": 24.4
+    },
+    {
+     "x": 155.8,
+     "y": 26.1
+    },
+    {
+     "x": 162.3,
+     "y": -11.1
+    },
+    {
+     "x": 165.8,
+     "y": -92.8
+    },
+    {
+     "x": 193.9,
+     "y": -252.3
+    },
+    {
+     "x": 217.8,
+     "y": -248.1
+    },
+    {
+     "x": 195.0,
+     "y": -87.6
+    },
+    {
+     "x": 188.9,
+     "y": -6.4
+    },
+    {
+     "x": 182.4,
+     "y": 30.8
+    },
+    {
+     "x": 173.9,
+     "y": 78.6
+    },
+    {
+     "x": 145.0,
+     "y": 87.3
+    },
+    {
+     "x": 90.4,
+     "y": 85.9
+    },
+    {
+     "x": 36.8,
+     "y": 79.1
+    },
+    {
+     "x": -42.5,
+     "y": 62.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "x",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 83.3,
+     "y": -345.3
+    },
+    {
+     "x": 92.9,
+     "y": -256.3
+    },
+    {
+     "x": 108.4,
+     "y": -175.2
+    },
+    {
+     "x": 98.7,
+     "y": -109.3
+    },
+    {
+     "x": 99.2,
+     "y": -86.9
+    },
+    {
+     "x": 95.4,
+     "y": -68.6
+    },
+    {
+     "x": 73.9,
+     "y": -27.1
+    },
+    {
+     "x": 53.7,
+     "y": -13.5
+    },
+    {
+     "x": 11.6,
+     "y": -5.2
+    },
+    {
+     "x": -27.3,
+     "y": -17.2
+    },
+    {
+     "x": -63.2,
+     "y": -15.3
+    },
+    {
+     "x": -86.0,
+     "y": -5.2
+    },
+    {
+     "x": -121.1,
+     "y": 15.2
+    },
+    {
+     "x": -146.0,
+     "y": 32.4
+    },
+    {
+     "x": -155.5,
+     "y": 41.6
+    },
+    {
+     "x": -163.6,
+     "y": 39.7
+    },
+    {
+     "x": -175.1,
+     "y": 53.0
+    },
+    {
+     "x": -177.7,
+     "y": 73.8
+    },
+    {
+     "x": -183.9,
+     "y": 82.4
+    },
+    {
+     "x": -214.6,
+     "y": 109.8
+    },
+    {
+     "x": -243.2,
+     "y": 141.9
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "kind": "depth",
+   "label": "",
+   "depth": 20.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 178.2,
+     "y": 54.7
+    },
+    {
+     "x": 190.3,
+     "y": -6.2
+    },
+    {
+     "x": 196.4,
+     "y": -87.4
+    },
+    {
+     "x": 206.4,
+     "y": -167.9
+    },
+    {
+     "x": 215.2,
+     "y": -248.6
+    }
+   ]
+  },
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -53.2,
+     "y": 60.5
+    },
+    {
+     "x": 36.5,
+     "y": 80.5
+    },
+    {
+     "x": 117.0,
+     "y": 90.5
+    },
+    {
+     "x": 171.6,
+     "y": 91.9
+    },
+    {
+     "x": 199.6,
+     "y": 88.7
+    }
+   ]
+  },
+  {
+   "id": "reef-edge",
+   "kind": "wall",
+   "label": "Reef edge",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 60.0,
+     "y": 16.0
+    },
+    {
+     "x": 120.0,
+     "y": 25.0
+    },
+    {
+     "x": 150.0,
+     "y": 30.0
+    },
+    {
+     "x": 158.0,
+     "y": -5.0
+    },
+    {
+     "x": 150.0,
+     "y": -60.0
+    },
+    {
+     "x": 160.0,
+     "y": -120.0
+    },
+    {
+     "x": 175.0,
+     "y": -200.0
+    },
+    {
+     "x": 185.0,
+     "y": -300.0
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 3.3,
+     "y": 4.7
+    },
+    {
+     "x": 21.2,
+     "y": 12.0
+    },
+    {
+     "x": 48.0,
+     "y": 15.3
+    },
+    {
+     "x": 73.2,
+     "y": 28.0
+    },
+    {
+     "x": 98.4,
+     "y": 40.7
+    },
+    {
+     "x": 125.0,
+     "y": 45.3
+    },
+    {
+     "x": 131.1,
+     "y": 57.4
+    },
+    {
+     "x": 141.6,
+     "y": 75.7
+    },
+    {
+     "x": 162.1,
+     "y": 83.4
+    },
+    {
+     "x": 170.9,
+     "y": 72.6
+    },
+    {
+     "x": 176.5,
+     "y": 40.7
+    },
+    {
+     "x": 180.8,
+     "y": 8.6
+    },
+    {
+     "x": 173.0,
+     "y": -9.3
+    },
+    {
+     "x": 167.2,
+     "y": -7.5
+    },
+    {
+     "x": 163.9,
+     "y": 11.1
+    },
+    {
+     "x": 161.9,
+     "y": 38.1
+    },
+    {
+     "x": 146.7,
+     "y": 46.4
+    },
+    {
+     "x": 127.3,
+     "y": 32.0
+    },
+    {
+     "x": 114.3,
+     "y": 28.4
+    },
+    {
+     "x": 90.3,
+     "y": 24.2
+    },
+    {
+     "x": 62.5,
+     "y": 11.0
+    },
+    {
+     "x": 36.4,
+     "y": 3.7
+    },
+    {
+     "x": 6.0,
+     "y": -3.1
+    }
+   ]
+  }
+ ],
+ "notes": "Dahab's town beach at the north end of Masbat bay: entry from the beach corner, down the sand slope along the south edge of the reef flat past coral heads at 7–9 m, out to the reef tip with the crack at about 20 m, sand to 30 m and deeper water beyond 40 m. Positions are approximate. Coastline from OpenStreetMap.",
+ "origin": {
+  "lat": 28.49888,
+  "lon": 34.51972
+ },
+ "underlay": null,
+ "id": "egy-the-lighthouse-1",
+ "site_id": "egy-the-lighthouse",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:07:15.444134Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

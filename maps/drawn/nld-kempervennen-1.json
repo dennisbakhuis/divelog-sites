@@ -1,0 +1,517 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Duikvijver Kempervennen",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "instap",
+   "x": -38.4,
+   "y": 34.7,
+   "type": "entry",
+   "label": "Instap duikschool",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform",
+   "x": -34.6,
+   "y": 28.8,
+   "type": "object",
+   "label": "Scuba Park platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bus",
+   "x": 14.1,
+   "y": -10.4,
+   "type": "object",
+   "label": "Bus",
+   "depth": null,
+   "object_kind": "bus",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-1",
+   "x": -0.8,
+   "y": 32.1,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-2",
+   "x": -43.5,
+   "y": 19.4,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot-3",
+   "x": -41.5,
+   "y": 27.2,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "telefooncel",
+   "x": -15.9,
+   "y": 31.1,
+   "type": "object",
+   "label": "Telefooncel",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ijscokar",
+   "x": -26.9,
+   "y": 23.6,
+   "type": "object",
+   "label": "IJscokar",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld",
+   "x": -23.5,
+   "y": 28.9,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zuil",
+   "x": -11.9,
+   "y": 32.7,
+   "type": "object",
+   "label": "Zuil",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "anker",
+   "x": -33.7,
+   "y": 32.7,
+   "type": "object",
+   "label": "Anker",
+   "depth": null,
+   "object_kind": "anchor",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstam-1",
+   "x": 14.2,
+   "y": 4.1,
+   "type": "object",
+   "label": "Boomstam",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstam-2",
+   "x": 16.2,
+   "y": 8.7,
+   "type": "object",
+   "label": "Boomstam",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstam-3",
+   "x": 16.5,
+   "y": 20.1,
+   "type": "object",
+   "label": "Boomstam",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstam-4",
+   "x": 9.0,
+   "y": 25.1,
+   "type": "object",
+   "label": "Boomstam",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstam-5",
+   "x": -17.6,
+   "y": 34.2,
+   "type": "object",
+   "label": "Boomstam",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstam-6",
+   "x": -47.6,
+   "y": 14.8,
+   "type": "object",
+   "label": "Boomstam",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bomen-1",
+   "x": 1.3,
+   "y": 27.4,
+   "type": "object",
+   "label": "Bomen",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bomen-2",
+   "x": -6.7,
+   "y": 30.4,
+   "type": "object",
+   "label": "Bomen",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bomen-3",
+   "x": -44.2,
+   "y": 12.1,
+   "type": "object",
+   "label": "Bomen",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-1",
+   "x": -28.8,
+   "y": 29.2,
+   "type": "object",
+   "label": "Ton",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-2",
+   "x": -28.9,
+   "y": 34.5,
+   "type": "object",
+   "label": "Ton",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ton-3",
+   "x": -44.2,
+   "y": 21.8,
+   "type": "object",
+   "label": "Ton",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "diepste",
+   "x": 17.8,
+   "y": -25.7,
+   "type": "marker",
+   "label": "14 m",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "platform-vlak",
+   "kind": "other",
+   "label": "Platform",
+   "depth": null,
+   "points": [
+    {
+     "x": -32.8,
+     "y": 23.0
+    },
+    {
+     "x": -31.1,
+     "y": 24.1
+    },
+    {
+     "x": -36.5,
+     "y": 34.4
+    },
+    {
+     "x": -38.3,
+     "y": 33.2
+    },
+    {
+     "x": -37.2,
+     "y": 29.3
+    },
+    {
+     "x": -36.3,
+     "y": 25.1
+    },
+    {
+     "x": -34.6,
+     "y": 26.1
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "oever",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -25.3,
+     "y": 36.7
+    },
+    {
+     "x": -33.0,
+     "y": 36.3
+    },
+    {
+     "x": -41.9,
+     "y": 35.0
+    },
+    {
+     "x": -45.5,
+     "y": 34.0
+    },
+    {
+     "x": -48.5,
+     "y": 32.2
+    },
+    {
+     "x": -49.4,
+     "y": 31.1
+    },
+    {
+     "x": -50.2,
+     "y": 28.6
+    },
+    {
+     "x": -48.9,
+     "y": 15.4
+    },
+    {
+     "x": -49.0,
+     "y": 14.3
+    },
+    {
+     "x": -49.7,
+     "y": 9.3
+    },
+    {
+     "x": -46.2,
+     "y": 3.4
+    },
+    {
+     "x": -35.9,
+     "y": -5.0
+    },
+    {
+     "x": 24.2,
+     "y": -39.0
+    },
+    {
+     "x": 26.2,
+     "y": -35.6
+    },
+    {
+     "x": 28.6,
+     "y": -29.7
+    },
+    {
+     "x": 29.6,
+     "y": -24.7
+    },
+    {
+     "x": 31.7,
+     "y": -21.1
+    },
+    {
+     "x": 36.7,
+     "y": -20.2
+    },
+    {
+     "x": 39.8,
+     "y": -17.4
+    },
+    {
+     "x": 43.7,
+     "y": -10.9
+    },
+    {
+     "x": 44.8,
+     "y": -5.1
+    },
+    {
+     "x": 45.1,
+     "y": -3.3
+    },
+    {
+     "x": 49.1,
+     "y": 4.3
+    },
+    {
+     "x": 50.1,
+     "y": 7.3
+    },
+    {
+     "x": 49.7,
+     "y": 11.3
+    },
+    {
+     "x": 48.6,
+     "y": 14.2
+    },
+    {
+     "x": 47.1,
+     "y": 17.1
+    },
+    {
+     "x": 41.6,
+     "y": 20.8
+    },
+    {
+     "x": 29.8,
+     "y": 27.0
+    },
+    {
+     "x": 20.2,
+     "y": 31.7
+    },
+    {
+     "x": 10.2,
+     "y": 38.4
+    },
+    {
+     "x": 2.3,
+     "y": 39.0
+    },
+    {
+     "x": -1.8,
+     "y": 37.9
+    },
+    {
+     "x": -9.9,
+     "y": 34.1
+    },
+    {
+     "x": -13.2,
+     "y": 33.6
+    },
+    {
+     "x": -19.3,
+     "y": 34.8
+    },
+    {
+     "x": -24.3,
+     "y": 36.8
+    },
+    {
+     "x": -25.3,
+     "y": 36.7
+    }
+   ]
+  }
+ ],
+ "notes": "The dive pond of Dive Company at Center Parcs De Kempervennen: the entry in front of the dive school at the south-west corner, the Scuba Park training platform just off it, and the bus, ice-cream cart, phone box, boats, logs and trees. The pond outline is from OpenStreetMap; all positions are approximate. No object depths are given, only 14 m for the deepest part. The site coordinates lie about 700 m south-east of the pond, so the drawing sits away from the origin.",
+ "origin": {
+  "lat": 51.327189,
+  "lon": 5.424988
+ },
+ "underlay": null,
+ "id": "nld-kempervennen-1",
+ "site_id": "nld-kempervennen",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T18:57:50.579119Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Two-Mile Reef",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "launch",
+   "x": -513.4,
+   "y": 2156.2,
+   "type": "entry",
+   "label": "Beach launch, Jesser Point",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "jesser-point",
+   "x": -464.0,
+   "y": 2288.9,
+   "type": "poi",
+   "label": "Jesser Point",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "antons",
+   "x": -49.4,
+   "y": 884.6,
+   "type": "poi",
+   "label": "Anton's, southern tip of the ridge",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stringer",
+   "x": -227.1,
+   "y": 1382.2,
+   "type": "poi",
+   "label": "Stringer",
+   "depth": 11.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "caves-overhangs",
+   "x": -227.1,
+   "y": 387.0,
+   "type": "poi",
+   "label": "Caves and Overhangs, inshore side",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "chain",
+   "x": 167.8,
+   "y": 331.7,
+   "type": "poi",
+   "label": "Chain",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bikini",
+   "x": 315.9,
+   "y": 497.6,
+   "type": "poi",
+   "label": "Bikini",
+   "depth": 22.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mellow-yellow",
+   "x": 158.0,
+   "y": 774.0,
+   "type": "poi",
+   "label": "Mellow Yellow, south end of Bikini",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "north-sections",
+   "x": 138.2,
+   "y": -552.9,
+   "type": "poi",
+   "label": "4 Buoy, Pinnacles, Coral Gardens, Wayne's World, Simon's Cave",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "arches",
+   "x": -276.4,
+   "y": -442.3,
+   "type": "poi",
+   "label": "Arches",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "two-mile-reef",
+   "kind": "coral",
+   "label": "Two-Mile Reef, about 2 km x 900 m",
+   "depth": null,
+   "points": [
+    {
+     "x": 82.8,
+     "y": -946.4
+    },
+    {
+     "x": 189.6,
+     "y": -904.6
+    },
+    {
+     "x": 283.4,
+     "y": -801.1
+    },
+    {
+     "x": 357.9,
+     "y": -643.0
+    },
+    {
+     "x": 408.1,
+     "y": -441.1
+    },
+    {
+     "x": 430.4,
+     "y": -209.2
+    },
+    {
+     "x": 423.4,
+     "y": 37.0
+    },
+    {
+     "x": 387.5,
+     "y": 280.7
+    },
+    {
+     "x": 325.3,
+     "y": 505.3
+    },
+    {
+     "x": 240.8,
+     "y": 695.4
+    },
+    {
+     "x": 140.0,
+     "y": 838.1
+    },
+    {
+     "x": 29.6,
+     "y": 923.7
+    },
+    {
+     "x": -82.8,
+     "y": 946.4
+    },
+    {
+     "x": -189.6,
+     "y": 904.6
+    },
+    {
+     "x": -283.4,
+     "y": 801.1
+    },
+    {
+     "x": -357.9,
+     "y": 643.0
+    },
+    {
+     "x": -408.1,
+     "y": 441.1
+    },
+    {
+     "x": -430.4,
+     "y": 209.2
+    },
+    {
+     "x": -423.4,
+     "y": -37.0
+    },
+    {
+     "x": -387.5,
+     "y": -280.7
+    },
+    {
+     "x": -325.3,
+     "y": -505.3
+    },
+    {
+     "x": -240.8,
+     "y": -695.4
+    },
+    {
+     "x": -140.0,
+     "y": -838.1
+    },
+    {
+     "x": -29.6,
+     "y": -923.7
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -527.9,
+     "y": 2451.7
+    },
+    {
+     "x": -529.0,
+     "y": 2369.1
+    },
+    {
+     "x": -515.7,
+     "y": 2325.5
+    },
+    {
+     "x": -500.1,
+     "y": 2304.4
+    },
+    {
+     "x": -486.9,
+     "y": 2288.1
+    },
+    {
+     "x": -480.8,
+     "y": 2270.0
+    },
+    {
+     "x": -471.5,
+     "y": 2222.6
+    },
+    {
+     "x": -481.3,
+     "y": 2145.3
+    },
+    {
+     "x": -496.4,
+     "y": 2115.6
+    },
+    {
+     "x": -535.9,
+     "y": 2097.5
+    },
+    {
+     "x": -580.3,
+     "y": 2096.7
+    },
+    {
+     "x": -662.7,
+     "y": 2100.6
+    },
+    {
+     "x": -707.4,
+     "y": 2084.7
+    },
+    {
+     "x": -770.5,
+     "y": 2032.0
+    },
+    {
+     "x": -812.6,
+     "y": 1982.8
+    },
+    {
+     "x": -844.6,
+     "y": 1942.9
+    },
+    {
+     "x": -880.1,
+     "y": 1867.9
+    },
+    {
+     "x": -903.1,
+     "y": 1822.1
+    },
+    {
+     "x": -939.7,
+     "y": 1750.1
+    },
+    {
+     "x": -962.4,
+     "y": 1684.1
+    },
+    {
+     "x": -988.1,
+     "y": 1617.5
+    },
+    {
+     "x": -1003.2,
+     "y": 1564.9
+    },
+    {
+     "x": -1025.5,
+     "y": 1482.6
+    },
+    {
+     "x": -1043.5,
+     "y": 1421.6
+    },
+    {
+     "x": -1055.4,
+     "y": 1354.8
+    },
+    {
+     "x": -1063.6,
+     "y": 1296.4
+    },
+    {
+     "x": -1081.6,
+     "y": 1149.7
+    },
+    {
+     "x": -1102.3,
+     "y": 1015.0
+    },
+    {
+     "x": -1104.6,
+     "y": 941.4
+    },
+    {
+     "x": -1112.8,
+     "y": 851.4
+    },
+    {
+     "x": -1113.9,
+     "y": 747.8
+    },
+    {
+     "x": -1110.7,
+     "y": 660.0
+    },
+    {
+     "x": -1107.8,
+     "y": 584.0
+    },
+    {
+     "x": -1101.2,
+     "y": 433.8
+    },
+    {
+     "x": -1085.8,
+     "y": 266.5
+    },
+    {
+     "x": -1077.1,
+     "y": 163.7
+    },
+    {
+     "x": -1065.7,
+     "y": 54.5
+    },
+    {
+     "x": -1050.4,
+     "y": -49.1
+    },
+    {
+     "x": -1041.4,
+     "y": -167.5
+    },
+    {
+     "x": -1033.9,
+     "y": -279.0
+    },
+    {
+     "x": -1021.2,
+     "y": -389.5
+    },
+    {
+     "x": -1014.3,
+     "y": -501.5
+    },
+    {
+     "x": -998.5,
+     "y": -622.5
+    },
+    {
+     "x": -976.2,
+     "y": -779.8
+    },
+    {
+     "x": -938.6,
+     "y": -966.1
+    },
+    {
+     "x": -903.1,
+     "y": -1150.7
+    },
+    {
+     "x": -873.5,
+     "y": -1304.9
+    },
+    {
+     "x": -859.7,
+     "y": -1395.9
+    },
+    {
+     "x": -845.1,
+     "y": -1461.9
+    }
+   ]
+  },
+  {
+   "id": "boat-run",
+   "kind": "path",
+   "label": "Boat run through the surf",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -513.4,
+     "y": 2156.2
+    },
+    {
+     "x": -177.7,
+     "y": 1658.6
+    },
+    {
+     "x": -29.6,
+     "y": 995.2
+    }
+   ]
+  }
+ ],
+ "notes": "Two-Mile Reef off Sodwana Bay, about 2 km by 900 m at 9-35 m, reached by rigid inflatable launched through the surf from the beach at Jesser Point. Coastline and Jesser Point from OpenStreetMap; reef extent from the Sodwana dive centres (Coral Divers, Amoray, sodwana-bay.co.za) and its position from wannadive and the SeaKeys standard positions on iNaturalist, which give the named sections only to 0.01 degree, so the reef outline is an ellipse and every section position is approximate to a few hundred metres, placed by the descriptions (Anton's at the southern tip, Stringer south towards Quarter Mile, Caves and Overhangs on the shoreward side, Mellow Yellow at the south end of Bikini). The northern sections are grouped under one marker; Deep Sponge and Hopscotch (28-35 m, outside the reef) are left off because their position is not known.",
+ "origin": {
+  "lat": -27.521,
+  "lon": 32.6848
+ },
+ "underlay": null,
+ "id": "zaf-2-mile-sodwana-bay-1",
+ "site_id": "zaf-2-mile-sodwana-bay",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:38:07.683473Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

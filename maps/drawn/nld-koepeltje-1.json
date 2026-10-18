@@ -1,0 +1,774 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Koepeltje",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "t-koepeltje",
+   "x": 74.9,
+   "y": 49.9,
+   "type": "poi",
+   "label": "'t Koepeltje",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "g-74",
+   "x": 199.4,
+   "y": -84.4,
+   "type": "buoy",
+   "label": "G 74",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lift",
+   "x": 0.0,
+   "y": -1.0,
+   "type": "entry",
+   "label": "Steiger met mindervalidenlift",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-1",
+   "x": 33.7,
+   "y": 8.4,
+   "type": "entry",
+   "label": "Instap 1",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-2",
+   "x": 268.0,
+   "y": 86.0,
+   "type": "entry",
+   "label": "Instap 2",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "trapje",
+   "x": -68.3,
+   "y": -34.7,
+   "type": "marker",
+   "label": "Trapje",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bootduik",
+   "x": 232.1,
+   "y": -55.7,
+   "type": "poi",
+   "label": "Bootduik",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "begroeiing",
+   "kind": "other",
+   "label": "Begroeiing",
+   "depth": null,
+   "points": [
+    {
+     "x": -74.8,
+     "y": -45.1
+    },
+    {
+     "x": -31.7,
+     "y": -23.8
+    },
+    {
+     "x": -42.2,
+     "y": -5.5
+    },
+    {
+     "x": -79.3,
+     "y": -13.3
+    }
+   ]
+  },
+  {
+   "id": "snorkelgebied",
+   "kind": "shallows",
+   "label": "Snorkelgebied 1–3 m",
+   "depth": null,
+   "points": [
+    {
+     "x": -85.3,
+     "y": 29.1
+    },
+    {
+     "x": -43.1,
+     "y": 34.4
+    },
+    {
+     "x": -44.6,
+     "y": 60.9
+    },
+    {
+     "x": -89.4,
+     "y": 57.8
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "wall-pier-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 10.7,
+     "y": 36.9
+    },
+    {
+     "x": -0.3,
+     "y": -0.7
+    }
+   ]
+  },
+  {
+   "id": "wall-breakwater-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -23.1,
+     "y": 31.7
+    },
+    {
+     "x": -111.7,
+     "y": 49.4
+    },
+    {
+     "x": -122.9,
+     "y": 50.3
+    },
+    {
+     "x": -148.5,
+     "y": 45.4
+    },
+    {
+     "x": -148.4,
+     "y": 41.2
+    },
+    {
+     "x": -112.2,
+     "y": 46.3
+    },
+    {
+     "x": -76.0,
+     "y": 37.0
+    },
+    {
+     "x": -38.5,
+     "y": 30.8
+    },
+    {
+     "x": -24.3,
+     "y": 30.6
+    }
+   ]
+  },
+  {
+   "id": "wall-breakwater-2-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -9.1,
+     "y": 14.5
+    },
+    {
+     "x": -29.5,
+     "y": 18.4
+    },
+    {
+     "x": -30.9,
+     "y": 17.0
+    },
+    {
+     "x": -28.0,
+     "y": 15.8
+    },
+    {
+     "x": -10.1,
+     "y": 13.8
+    }
+   ]
+  },
+  {
+   "id": "wall-groyne-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 169.8,
+     "y": 66.4
+    },
+    {
+     "x": 176.4,
+     "y": 70.0
+    },
+    {
+     "x": 177.1,
+     "y": 47.4
+    },
+    {
+     "x": 176.0,
+     "y": 45.5
+    },
+    {
+     "x": 175.2,
+     "y": 47.3
+    }
+   ]
+  },
+  {
+   "id": "wall-groyne-2-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 287.8,
+     "y": 111.2
+    },
+    {
+     "x": 271.8,
+     "y": 109.6
+    },
+    {
+     "x": 281.7,
+     "y": 78.1
+    },
+    {
+     "x": 281.9,
+     "y": 101.2
+    },
+    {
+     "x": 284.0,
+     "y": 105.4
+    }
+   ]
+  },
+  {
+   "id": "wall-groyne-3-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 362.2,
+     "y": 130.0
+    },
+    {
+     "x": 376.9,
+     "y": 92.0
+    },
+    {
+     "x": 371.0,
+     "y": 125.6
+    },
+    {
+     "x": 373.2,
+     "y": 129.0
+    }
+   ]
+  },
+  {
+   "id": "wall-breakwater-4-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 10.0,
+     "y": 27.1
+    },
+    {
+     "x": 10.4,
+     "y": 29.6
+    },
+    {
+     "x": -8.7,
+     "y": 33.4
+    },
+    {
+     "x": -11.5,
+     "y": 31.8
+    },
+    {
+     "x": 10.3,
+     "y": 24.1
+    }
+   ]
+  },
+  {
+   "id": "shoreline-grevelingenmeer-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 374.8,
+     "y": 130.0
+    },
+    {
+     "x": 371.0,
+     "y": 125.6
+    },
+    {
+     "x": 376.9,
+     "y": 92.0
+    },
+    {
+     "x": 362.2,
+     "y": 130.0
+    }
+   ]
+  },
+  {
+   "id": "shoreline-grevelingenmeer-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 361.3,
+     "y": 130.0
+    },
+    {
+     "x": 287.8,
+     "y": 111.2
+    },
+    {
+     "x": 281.9,
+     "y": 101.2
+    },
+    {
+     "x": 281.7,
+     "y": 78.1
+    },
+    {
+     "x": 271.8,
+     "y": 109.6
+    },
+    {
+     "x": 244.9,
+     "y": 106.9
+    },
+    {
+     "x": 218.7,
+     "y": 95.9
+    },
+    {
+     "x": 176.4,
+     "y": 70.0
+    },
+    {
+     "x": 176.0,
+     "y": 45.5
+    },
+    {
+     "x": 169.8,
+     "y": 66.4
+    },
+    {
+     "x": 92.4,
+     "y": 27.0
+    },
+    {
+     "x": 22.8,
+     "y": 3.6
+    },
+    {
+     "x": 18.2,
+     "y": 5.5
+    },
+    {
+     "x": 13.6,
+     "y": 12.6
+    },
+    {
+     "x": 8.7,
+     "y": 35.0
+    },
+    {
+     "x": 10.3,
+     "y": 42.9
+    },
+    {
+     "x": 8.3,
+     "y": 53.9
+    },
+    {
+     "x": 0.3,
+     "y": 63.4
+    },
+    {
+     "x": -12.4,
+     "y": 67.2
+    },
+    {
+     "x": -42.1,
+     "y": 66.3
+    },
+    {
+     "x": -76.9,
+     "y": 77.7
+    },
+    {
+     "x": -102.3,
+     "y": 80.4
+    },
+    {
+     "x": -138.6,
+     "y": 90.1
+    },
+    {
+     "x": -161.6,
+     "y": 91.7
+    },
+    {
+     "x": -177.3,
+     "y": 76.2
+    },
+    {
+     "x": -163.1,
+     "y": 42.6
+    },
+    {
+     "x": -164.3,
+     "y": 40.9
+    },
+    {
+     "x": -179.6,
+     "y": 77.0
+    },
+    {
+     "x": -200.0,
+     "y": 103.7
+    },
+    {
+     "x": -200.0,
+     "y": 103.7
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 29.8,
+     "y": -8.7
+    },
+    {
+     "x": 46.7,
+     "y": -4.4
+    },
+    {
+     "x": 76.9,
+     "y": 6.9
+    },
+    {
+     "x": 107.2,
+     "y": 17.9
+    },
+    {
+     "x": 137.6,
+     "y": 27.3
+    },
+    {
+     "x": 168.3,
+     "y": 35.8
+    },
+    {
+     "x": 198.9,
+     "y": 43.9
+    },
+    {
+     "x": 229.6,
+     "y": 51.8
+    },
+    {
+     "x": 260.3,
+     "y": 60.0
+    },
+    {
+     "x": 287.9,
+     "y": 66.8
+    }
+   ]
+  },
+  {
+   "id": "d10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -71.5,
+     "y": -46.0
+    },
+    {
+     "x": -44.2,
+     "y": -36.0
+    },
+    {
+     "x": -13.4,
+     "y": -29.4
+    },
+    {
+     "x": 18.2,
+     "y": -27.8
+    },
+    {
+     "x": 48.9,
+     "y": -20.0
+    },
+    {
+     "x": 78.3,
+     "y": -3.1
+    },
+    {
+     "x": 108.9,
+     "y": 5.7
+    },
+    {
+     "x": 140.1,
+     "y": 9.8
+    },
+    {
+     "x": 171.8,
+     "y": 10.5
+    },
+    {
+     "x": 203.7,
+     "y": 10.3
+    },
+    {
+     "x": 235.4,
+     "y": 11.0
+    },
+    {
+     "x": 266.8,
+     "y": 13.8
+    },
+    {
+     "x": 295.0,
+     "y": 16.9
+    }
+   ]
+  },
+  {
+   "id": "d15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -65.6,
+     "y": -87.4
+    },
+    {
+     "x": -38.1,
+     "y": -79.7
+    },
+    {
+     "x": -7.5,
+     "y": -70.6
+    },
+    {
+     "x": 22.3,
+     "y": -56.5
+    },
+    {
+     "x": 51.7,
+     "y": -39.6
+    },
+    {
+     "x": 81.7,
+     "y": -27.1
+    },
+    {
+     "x": 112.9,
+     "y": -22.7
+    },
+    {
+     "x": 144.6,
+     "y": -21.7
+    },
+    {
+     "x": 176.8,
+     "y": -24.4
+    },
+    {
+     "x": 209.2,
+     "y": -28.7
+    },
+    {
+     "x": 241.0,
+     "y": -28.7
+    },
+    {
+     "x": 272.3,
+     "y": -24.9
+    },
+    {
+     "x": 300.3,
+     "y": -20.6
+    }
+   ]
+  },
+  {
+   "id": "route-west",
+   "kind": "path",
+   "label": "Route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -0.7,
+     "y": -6.6
+    },
+    {
+     "x": -12.1,
+     "y": -20.4
+    },
+    {
+     "x": -7.3,
+     "y": -45.1
+    },
+    {
+     "x": 24.0,
+     "y": -68.7
+    },
+    {
+     "x": 53.7,
+     "y": -54.0
+    },
+    {
+     "x": 101.9,
+     "y": -34.4
+    },
+    {
+     "x": 104.5,
+     "y": -19.7
+    },
+    {
+     "x": 94.3,
+     "y": 18.6
+    },
+    {
+     "x": 41.2,
+     "y": 0.6
+    }
+   ]
+  },
+  {
+   "id": "route-oost",
+   "kind": "path",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 179.8,
+     "y": 44.4
+    },
+    {
+     "x": 142.8,
+     "y": 36.0
+    },
+    {
+     "x": 143.8,
+     "y": 1.8
+    },
+    {
+     "x": 163.6,
+     "y": -20.9
+    },
+    {
+     "x": 208.3,
+     "y": -22.2
+    },
+    {
+     "x": 282.3,
+     "y": -5.3
+    },
+    {
+     "x": 278.8,
+     "y": 59.1
+    }
+   ]
+  }
+ ],
+ "notes": "The Koepeltje entries on the Grevelingen side of the Brouwersdam: the steiger with the wheelchair lift, Instap 1 beside it, Instap 2 among the groynes to the east, the overgrown breakwater to the west, the 5/10/15 m contours and the usual loops. Shoreline and structures from OpenStreetMap; positions are approximate. Bottom of oysters and sand, maximum about 15 m.",
+ "origin": {
+  "lat": 51.74007,
+  "lon": 3.83044
+ },
+ "underlay": null,
+ "id": "nld-koepeltje-1",
+ "site_id": "nld-koepeltje",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:46:26.254003Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,449 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Le Grec (Sagona)",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "propeller",
+   "x": -19.7,
+   "y": 0.0,
+   "type": "object",
+   "label": "Propeller and rudder",
+   "depth": 47.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "poop",
+   "x": -15.4,
+   "y": -3.5,
+   "type": "object",
+   "label": "Poop deck",
+   "depth": 40.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "aft-hold",
+   "x": -9.6,
+   "y": -1.2,
+   "type": "object",
+   "label": "Aft hold and hatch",
+   "depth": 38.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "winch",
+   "x": -3.7,
+   "y": 1.2,
+   "type": "object",
+   "label": "Open hatch and big winch",
+   "depth": 40.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coursives",
+   "x": 3.2,
+   "y": 3.5,
+   "type": "object",
+   "label": "Superstructure, coursives with gorgonians",
+   "depth": 35.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "funnel",
+   "x": 7.5,
+   "y": -3.5,
+   "type": "object",
+   "label": "Funnel",
+   "depth": 36.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "engine",
+   "x": 11.8,
+   "y": -1.2,
+   "type": "object",
+   "label": "Engine room, triple-expansion engine",
+   "depth": 40.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ladder",
+   "x": 2.2,
+   "y": 5.5,
+   "type": "object",
+   "label": "Ladder from deck to sand, starboard",
+   "depth": 46.0,
+   "object_kind": "ladder",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "break",
+   "x": 18.2,
+   "y": 1.2,
+   "type": "object",
+   "label": "Break, forward end of the main section",
+   "depth": 40.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": 28.8,
+   "y": -62.0,
+   "type": "object",
+   "label": "Bow section, winch",
+   "depth": 47.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mast",
+   "x": 24.6,
+   "y": -56.0,
+   "type": "object",
+   "label": "Foremast lying beside the bow",
+   "depth": 47.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "shot-stern",
+   "x": -17.0,
+   "y": -7.0,
+   "type": "entry",
+   "label": "Shot line, stern",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "shot-fore",
+   "x": 18.2,
+   "y": -7.0,
+   "type": "entry",
+   "label": "Shot line, forward",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "main-section",
+   "kind": "wreck",
+   "label": "Sagona, main section (53 x 8.6 m ship)",
+   "depth": 47.0,
+   "points": [
+    {
+     "x": -19.1,
+     "y": 3.2
+    },
+    {
+     "x": -16.0,
+     "y": 4.3
+    },
+    {
+     "x": -12.8,
+     "y": 4.3
+    },
+    {
+     "x": -9.7,
+     "y": 4.3
+    },
+    {
+     "x": -6.5,
+     "y": 4.3
+    },
+    {
+     "x": -3.4,
+     "y": 4.3
+    },
+    {
+     "x": -0.2,
+     "y": 4.3
+    },
+    {
+     "x": 2.9,
+     "y": 4.3
+    },
+    {
+     "x": 6.1,
+     "y": 4.3
+    },
+    {
+     "x": 9.2,
+     "y": 4.3
+    },
+    {
+     "x": 12.4,
+     "y": 4.3
+    },
+    {
+     "x": 15.5,
+     "y": 4.3
+    },
+    {
+     "x": 18.7,
+     "y": 4.3
+    },
+    {
+     "x": 18.7,
+     "y": -4.3
+    },
+    {
+     "x": 15.5,
+     "y": -4.3
+    },
+    {
+     "x": 12.4,
+     "y": -4.3
+    },
+    {
+     "x": 9.2,
+     "y": -4.3
+    },
+    {
+     "x": 6.1,
+     "y": -4.3
+    },
+    {
+     "x": 2.9,
+     "y": -4.3
+    },
+    {
+     "x": -0.2,
+     "y": -4.3
+    },
+    {
+     "x": -3.4,
+     "y": -4.3
+    },
+    {
+     "x": -6.5,
+     "y": -4.3
+    },
+    {
+     "x": -9.7,
+     "y": -4.3
+    },
+    {
+     "x": -12.8,
+     "y": -4.3
+    },
+    {
+     "x": -16.0,
+     "y": -4.3
+    },
+    {
+     "x": -19.1,
+     "y": -3.2
+    }
+   ]
+  },
+  {
+   "id": "bow-section",
+   "kind": "wreck",
+   "label": "Bow section, 15 m",
+   "depth": 47.0,
+   "points": [
+    {
+     "x": 19.2,
+     "y": -57.7
+    },
+    {
+     "x": 20.5,
+     "y": -57.7
+    },
+    {
+     "x": 21.7,
+     "y": -57.7
+    },
+    {
+     "x": 23.0,
+     "y": -57.7
+    },
+    {
+     "x": 24.2,
+     "y": -57.9
+    },
+    {
+     "x": 25.4,
+     "y": -58.2
+    },
+    {
+     "x": 26.7,
+     "y": -58.5
+    },
+    {
+     "x": 27.9,
+     "y": -58.9
+    },
+    {
+     "x": 29.2,
+     "y": -59.3
+    },
+    {
+     "x": 30.4,
+     "y": -59.7
+    },
+    {
+     "x": 31.7,
+     "y": -60.2
+    },
+    {
+     "x": 32.9,
+     "y": -60.8
+    },
+    {
+     "x": 34.1,
+     "y": -62.0
+    },
+    {
+     "x": 32.9,
+     "y": -63.2
+    },
+    {
+     "x": 31.7,
+     "y": -63.8
+    },
+    {
+     "x": 30.4,
+     "y": -64.3
+    },
+    {
+     "x": 29.2,
+     "y": -64.7
+    },
+    {
+     "x": 27.9,
+     "y": -65.1
+    },
+    {
+     "x": 26.7,
+     "y": -65.5
+    },
+    {
+     "x": 25.4,
+     "y": -65.8
+    },
+    {
+     "x": 24.2,
+     "y": -66.1
+    },
+    {
+     "x": 23.0,
+     "y": -66.3
+    },
+    {
+     "x": 21.7,
+     "y": -66.3
+    },
+    {
+     "x": 20.5,
+     "y": -66.3
+    },
+    {
+     "x": 19.2,
+     "y": -66.3
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual tour: propeller, along the hull to the coursives",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -17.0,
+     "y": -6.0
+    },
+    {
+     "x": -20.7,
+     "y": 0.0
+    },
+    {
+     "x": -13.8,
+     "y": 6.5
+    },
+    {
+     "x": 4.8,
+     "y": 6.5
+    },
+    {
+     "x": 19.2,
+     "y": 3.0
+    },
+    {
+     "x": 19.2,
+     "y": -5.0
+    },
+    {
+     "x": 7.5,
+     "y": -6.0
+    },
+    {
+     "x": 18.2,
+     "y": -7.0
+    }
+   ]
+  }
+ ],
+ "notes": "Plan of the collier Sagona, 'Le Grec' (53.3 x 8.6 m), broken in two by a mine: the stern and midships section stands upright on shelly sand at 47 m (propeller 47 m, poop 40 m, holds 38-40 m, coursives 35-37 m) and the 15 m bow section lies 60-80 m to the north, parallel to the port side, with the foremast beside it. Position from Wikipedia; dimensions, depths and layout from nicoblon.free.fr (after Joncheray and Brunner) and frenchdiver-wim-csr. No heading is published: bow east is assumed because it puts the bow piece both north and off the port side, as the sources say. The Donator lies about 430 m WSW. Positions along the hull are approximate.",
+ "origin": {
+  "lat": 42.994064,
+  "lon": 6.279133
+ },
+ "underlay": null,
+ "id": "fra-le-grec-1",
+ "site_id": "fra-le-grec",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:41:40.607149Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

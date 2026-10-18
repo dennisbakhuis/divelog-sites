@@ -1,0 +1,555 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Wrak De Kiekuut",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "buoy-2",
+   "x": 32.8,
+   "y": -90.2,
+   "type": "buoy",
+   "label": "Boei",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-3",
+   "x": 64.9,
+   "y": -72.5,
+   "type": "buoy",
+   "label": "Boei",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-4",
+   "x": 95.4,
+   "y": -16.8,
+   "type": "buoy",
+   "label": "Boei",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-5",
+   "x": 119.5,
+   "y": -10.3,
+   "type": "buoy",
+   "label": "Boei",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "dive-centre",
+   "x": 24.3,
+   "y": 87.8,
+   "type": "poi",
+   "label": "Duikcentrum",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kiekuut",
+   "x": 111.7,
+   "y": -52.4,
+   "type": "object",
+   "label": "Kiekuut",
+   "depth": 12.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "reefball-1",
+   "x": 91.8,
+   "y": -41.3,
+   "type": "object",
+   "label": "Reefball",
+   "depth": 10.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "reefball-2",
+   "x": 76.5,
+   "y": -37.6,
+   "type": "object",
+   "label": "Reefball",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-1",
+   "x": 45.5,
+   "y": 30.0,
+   "type": "entry",
+   "label": "Instap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-2",
+   "x": 41.5,
+   "y": 37.0,
+   "type": "entry",
+   "label": "Instap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "kiekuut",
+   "to": "reefball-1",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  },
+  {
+   "from": "reefball-1",
+   "to": "reefball-2",
+   "distance": null,
+   "azimuth": null,
+   "note": "",
+   "style": "line"
+  }
+ ],
+ "areas": [
+  {
+   "id": "kiekuut-romp",
+   "kind": "wreck",
+   "label": "",
+   "depth": 12.0,
+   "points": [
+    {
+     "x": 112.0,
+     "y": -66.3
+    },
+    {
+     "x": 117.3,
+     "y": -39.8
+    },
+    {
+     "x": 111.4,
+     "y": -38.6
+    },
+    {
+     "x": 106.1,
+     "y": -65.1
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "pier-3",
+   "kind": "wall",
+   "label": "Steiger",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 54.0,
+     "y": 57.9
+    },
+    {
+     "x": 65.1,
+     "y": 23.1
+    },
+    {
+     "x": 48.8,
+     "y": 18.1
+    }
+   ]
+  },
+  {
+   "id": "kraaijenbergse-plassen",
+   "kind": "shoreline",
+   "label": "Kraaijenbergse Plassen",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -104.2,
+     "y": -175.0
+    },
+    {
+     "x": -106.8,
+     "y": -170.0
+    },
+    {
+     "x": -117.1,
+     "y": -161.6
+    },
+    {
+     "x": -119.5,
+     "y": -162.6
+    }
+   ]
+  },
+  {
+   "id": "kraaijenbergse-plassen-3",
+   "kind": "shoreline",
+   "label": "Kraaijenbergse Plassen",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 1.3,
+     "y": 175.0
+    },
+    {
+     "x": -1.8,
+     "y": 166.1
+    },
+    {
+     "x": -4.7,
+     "y": 138.5
+    },
+    {
+     "x": 18.3,
+     "y": 78.6
+    },
+    {
+     "x": 35.8,
+     "y": 44.3
+    },
+    {
+     "x": 58.4,
+     "y": 16.7
+    },
+    {
+     "x": 65.4,
+     "y": -9.2
+    },
+    {
+     "x": 60.8,
+     "y": -26.7
+    },
+    {
+     "x": 50.7,
+     "y": -41.3
+    },
+    {
+     "x": -6.6,
+     "y": -68.3
+    },
+    {
+     "x": -13.0,
+     "y": -86.5
+    },
+    {
+     "x": -26.3,
+     "y": -90.4
+    },
+    {
+     "x": -47.0,
+     "y": -78.5
+    },
+    {
+     "x": -54.0,
+     "y": -59.9
+    },
+    {
+     "x": -69.4,
+     "y": -45.2
+    },
+    {
+     "x": -89.0,
+     "y": -42.4
+    },
+    {
+     "x": -97.6,
+     "y": -44.3
+    },
+    {
+     "x": -98.7,
+     "y": -59.8
+    },
+    {
+     "x": -93.4,
+     "y": -69.9
+    },
+    {
+     "x": -72.8,
+     "y": -87.7
+    },
+    {
+     "x": -59.6,
+     "y": -110.3
+    },
+    {
+     "x": -65.7,
+     "y": -132.1
+    },
+    {
+     "x": -69.4,
+     "y": -138.0
+    },
+    {
+     "x": -79.1,
+     "y": -140.1
+    },
+    {
+     "x": -86.8,
+     "y": -138.2
+    },
+    {
+     "x": -104.8,
+     "y": -154.7
+    },
+    {
+     "x": -98.8,
+     "y": -166.4
+    },
+    {
+     "x": -97.1,
+     "y": -175.0
+    }
+   ]
+  },
+  {
+   "id": "diepte-3",
+   "kind": "depth",
+   "label": "",
+   "depth": 3.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 9.7,
+     "y": -62.5
+    },
+    {
+     "x": 32.5,
+     "y": -52.4
+    },
+    {
+     "x": 48.3,
+     "y": -45.1
+    },
+    {
+     "x": 59.2,
+     "y": -35.7
+    },
+    {
+     "x": 65.3,
+     "y": -22.6
+    },
+    {
+     "x": 66.0,
+     "y": -12.5
+    },
+    {
+     "x": 63.7,
+     "y": 1.2
+    },
+    {
+     "x": 58.0,
+     "y": 15.2
+    },
+    {
+     "x": 52.4,
+     "y": 30.9
+    },
+    {
+     "x": 48.6,
+     "y": 48.2
+    },
+    {
+     "x": 46.3,
+     "y": 73.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-7",
+   "kind": "depth",
+   "label": "",
+   "depth": 7.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -12.2,
+     "y": -82.9
+    },
+    {
+     "x": 8.1,
+     "y": -83.6
+    },
+    {
+     "x": 33.2,
+     "y": -87.2
+    },
+    {
+     "x": 50.1,
+     "y": -88.5
+    },
+    {
+     "x": 60.5,
+     "y": -85.0
+    },
+    {
+     "x": 66.2,
+     "y": -77.0
+    },
+    {
+     "x": 67.3,
+     "y": -66.9
+    },
+    {
+     "x": 66.9,
+     "y": -49.9
+    },
+    {
+     "x": 71.8,
+     "y": -36.7
+    },
+    {
+     "x": 75.7,
+     "y": -23.4
+    },
+    {
+     "x": 75.6,
+     "y": -9.8
+    },
+    {
+     "x": 73.2,
+     "y": 3.9
+    },
+    {
+     "x": 69.4,
+     "y": 21.2
+    },
+    {
+     "x": 67.3,
+     "y": 38.3
+    },
+    {
+     "x": 68.6,
+     "y": 55.1
+    },
+    {
+     "x": 72.4,
+     "y": 71.8
+    }
+   ]
+  },
+  {
+   "id": "diepte-10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -14.9,
+     "y": -118.3
+    },
+    {
+     "x": 22.9,
+     "y": -111.0
+    },
+    {
+     "x": 48.6,
+     "y": -107.9
+    },
+    {
+     "x": 67.7,
+     "y": -102.5
+    },
+    {
+     "x": 82.2,
+     "y": -90.1
+    },
+    {
+     "x": 87.4,
+     "y": -73.5
+    },
+    {
+     "x": 87.7,
+     "y": -61.6
+    },
+    {
+     "x": 87.0,
+     "y": -49.7
+    },
+    {
+     "x": 89.5,
+     "y": -38.0
+    },
+    {
+     "x": 91.7,
+     "y": -14.4
+    },
+    {
+     "x": 91.8,
+     "y": 2.5
+    },
+    {
+     "x": 92.2,
+     "y": 19.4
+    },
+    {
+     "x": 95.2,
+     "y": 36.2
+    },
+    {
+     "x": 101.5,
+     "y": 52.7
+    },
+    {
+     "x": 110.4,
+     "y": 68.9
+    }
+   ]
+  }
+ ],
+ "notes": "The shore entry at the dive centre and parking on the Kraaijenbergse Plassen near Beers, with the line and two reef balls out to the Kiekuut wreck (27 x 6 m, sunk March 2021, 11-12 m); wreck size and depth from duikeninbeeld.tv. Placed on the OpenStreetMap shore and the yellow buoys; positions are approximate, and the wreck sits about 50 m south-west of the site's own coordinates. The 3, 7 and 10 m contours are approximate; the sunken car and the small boat Daisy are not placed because their positions are not known. Shoreline from OpenStreetMap (© OpenStreetMap contributors, ODbL).",
+ "origin": {
+  "lat": 51.731223,
+  "lon": 5.820622
+ },
+ "underlay": null,
+ "id": "nld-de-kiekhut-1",
+ "site_id": "nld-de-kiekhut",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:24:03.000854Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

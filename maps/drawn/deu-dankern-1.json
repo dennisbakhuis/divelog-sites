@@ -1,0 +1,1133 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Dankernsee",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "einstieg",
+   "x": 26.1,
+   "y": -37.8,
+   "type": "entry",
+   "label": "Einstieg",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o01",
+   "x": 1.1,
+   "y": -24.9,
+   "type": "object",
+   "label": "01 Blumentopf",
+   "depth": 3.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o02",
+   "x": -12.6,
+   "y": -7.9,
+   "type": "object",
+   "label": "02 Verkehrspylon (Boje)",
+   "depth": 3.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o03",
+   "x": -40.2,
+   "y": -35.8,
+   "type": "object",
+   "label": "03 Übungsplattform 6 m (Boje)",
+   "depth": 6.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o04",
+   "x": -33.2,
+   "y": -23.0,
+   "type": "object",
+   "label": "04 Amphorenfeld",
+   "depth": 6.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o05",
+   "x": -21.1,
+   "y": -8.8,
+   "type": "object",
+   "label": "05 Pavillon",
+   "depth": 6.0,
+   "object_kind": "house",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o06",
+   "x": -19.7,
+   "y": -2.5,
+   "type": "object",
+   "label": "06 Zelt",
+   "depth": 6.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o07",
+   "x": -32.2,
+   "y": 0.2,
+   "type": "object",
+   "label": "07 Holzgans",
+   "depth": 7.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o08",
+   "x": -26.5,
+   "y": 6.0,
+   "type": "object",
+   "label": "08 Playmobilfigur",
+   "depth": 5.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o09",
+   "x": -20.5,
+   "y": 5.9,
+   "type": "object",
+   "label": "09 Sitzbank",
+   "depth": 5.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o10",
+   "x": -15.9,
+   "y": 4.9,
+   "type": "object",
+   "label": "10 Tulpe",
+   "depth": 5.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o11",
+   "x": -10.6,
+   "y": 7.1,
+   "type": "object",
+   "label": "11 Bär",
+   "depth": 5.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o12",
+   "x": -6.9,
+   "y": 9.1,
+   "type": "object",
+   "label": "12 Tarierringe",
+   "depth": 5.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o13",
+   "x": -0.9,
+   "y": 7.3,
+   "type": "object",
+   "label": "13 Metallboot",
+   "depth": 4.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o14",
+   "x": -1.1,
+   "y": 10.8,
+   "type": "object",
+   "label": "14 Delphin",
+   "depth": 6.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o15",
+   "x": 7.1,
+   "y": 7.0,
+   "type": "object",
+   "label": "15 Blumenschale",
+   "depth": 5.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o16",
+   "x": 11.2,
+   "y": 10.2,
+   "type": "object",
+   "label": "16 Metallkäfig",
+   "depth": 5.0,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o17",
+   "x": -28.0,
+   "y": 9.5,
+   "type": "object",
+   "label": "17 LKW-Kabine (Boje)",
+   "depth": 6.0,
+   "object_kind": "truck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o18",
+   "x": -24.0,
+   "y": 11.0,
+   "type": "object",
+   "label": "18 Kleiderständer",
+   "depth": 5.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o19",
+   "x": 5.8,
+   "y": 18.5,
+   "type": "object",
+   "label": "19 Stuhl",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o20",
+   "x": 6.3,
+   "y": 29.1,
+   "type": "object",
+   "label": "20 Seemine",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o21",
+   "x": 5.0,
+   "y": 36.9,
+   "type": "object",
+   "label": "21 Schutzmann",
+   "depth": 7.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o22",
+   "x": -9.5,
+   "y": 46.7,
+   "type": "object",
+   "label": "22 Fahrräder",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o23",
+   "x": -34.4,
+   "y": 53.7,
+   "type": "object",
+   "label": "23 Segelboot (Boje)",
+   "depth": 9.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o24",
+   "x": -31.7,
+   "y": 19.0,
+   "type": "object",
+   "label": "24 Wohnwagen Galileo",
+   "depth": 8.0,
+   "object_kind": "caravan",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o25",
+   "x": -36.3,
+   "y": 18.6,
+   "type": "object",
+   "label": "25 Metallsilo (Boje)",
+   "depth": 8.0,
+   "object_kind": "container",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o26",
+   "x": -70.0,
+   "y": 30.1,
+   "type": "object",
+   "label": "26 Verkehrszeichen",
+   "depth": 11.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o27",
+   "x": -69.8,
+   "y": 27.1,
+   "type": "object",
+   "label": "27 Wohnwagen (Boje)",
+   "depth": 11.0,
+   "object_kind": "caravan",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o28",
+   "x": -69.9,
+   "y": 21.2,
+   "type": "object",
+   "label": "28 Verkehrszeichen",
+   "depth": 11.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o29",
+   "x": -84.5,
+   "y": 17.8,
+   "type": "object",
+   "label": "29 Kleine Wurzel",
+   "depth": 11.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o30",
+   "x": -85.7,
+   "y": 13.4,
+   "type": "object",
+   "label": "30 Große Wurzel",
+   "depth": 11.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o31",
+   "x": -92.9,
+   "y": 12.6,
+   "type": "object",
+   "label": "31 Große Wurzel",
+   "depth": 10.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o32",
+   "x": -84.8,
+   "y": 7.6,
+   "type": "object",
+   "label": "32 Pavillon",
+   "depth": 11.0,
+   "object_kind": "house",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o33",
+   "x": -89.3,
+   "y": -8.7,
+   "type": "object",
+   "label": "33 Pavillon",
+   "depth": 11.0,
+   "object_kind": "house",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o35",
+   "x": -71.8,
+   "y": 4.4,
+   "type": "object",
+   "label": "35 Apnoeröhre",
+   "depth": 8.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o36",
+   "x": -66.2,
+   "y": 5.3,
+   "type": "object",
+   "label": "36 Kunststoffsilo (Boje)",
+   "depth": 8.0,
+   "object_kind": "container",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o37",
+   "x": -62.3,
+   "y": 4.8,
+   "type": "object",
+   "label": "37 Verkehrszeichen",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o38",
+   "x": -53.3,
+   "y": 5.1,
+   "type": "object",
+   "label": "38 Schwebender Wald",
+   "depth": 8.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o39",
+   "x": -39.5,
+   "y": 6.1,
+   "type": "object",
+   "label": "39 Plakat Harener Musiktage",
+   "depth": 8.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o40",
+   "x": -41.8,
+   "y": -24.1,
+   "type": "object",
+   "label": "40 Übungsplattform 0 m",
+   "depth": 0.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "o34",
+   "x": -70.8,
+   "y": -2.2,
+   "type": "buoy",
+   "label": "34 Aufstiegsboje",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "baum-leine",
+   "x": 0.2,
+   "y": -7.6,
+   "type": "object",
+   "label": "Baum",
+   "depth": 3.0,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [
+  {
+   "from": "o03",
+   "to": "o02",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o02",
+   "to": "baum-leine",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "baum-leine",
+   "to": "o01",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o36",
+   "to": "o28",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o28",
+   "to": "o27",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o17",
+   "to": "o24",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o23",
+   "to": "o22",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o19",
+   "to": "o20",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  },
+  {
+   "from": "o34",
+   "to": "o36",
+   "distance": null,
+   "azimuth": null,
+   "note": "Führungsleine",
+   "style": "line"
+  }
+ ],
+ "areas": [],
+ "lines": [
+  {
+   "id": "dankernsee-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 121.6,
+     "y": -22.2
+    },
+    {
+     "x": 110.7,
+     "y": -20.0
+    },
+    {
+     "x": 103.5,
+     "y": -11.4
+    },
+    {
+     "x": 99.9,
+     "y": 4.4
+    },
+    {
+     "x": 96.3,
+     "y": 73.2
+    },
+    {
+     "x": 92.4,
+     "y": 85.3
+    },
+    {
+     "x": 84.3,
+     "y": 92.5
+    },
+    {
+     "x": 75.8,
+     "y": 90.4
+    },
+    {
+     "x": 47.2,
+     "y": 67.5
+    },
+    {
+     "x": 40.0,
+     "y": 53.1
+    },
+    {
+     "x": 34.2,
+     "y": -25.1
+    },
+    {
+     "x": 29.8,
+     "y": -40.1
+    },
+    {
+     "x": 21.2,
+     "y": -45.8
+    },
+    {
+     "x": -48.1,
+     "y": -72.4
+    },
+    {
+     "x": -120.4,
+     "y": -92.5
+    }
+   ]
+  },
+  {
+   "id": "kurs-210",
+   "kind": "path",
+   "label": "210°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -40.3,
+     "y": -34.8
+    },
+    {
+     "x": -65.6,
+     "y": 4.5
+    }
+   ]
+  },
+  {
+   "id": "kurs-90",
+   "kind": "path",
+   "label": "90°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -64.8,
+     "y": 4.3
+    },
+    {
+     "x": -41.1,
+     "y": 6.0
+    }
+   ]
+  },
+  {
+   "id": "kurs-180",
+   "kind": "path",
+   "label": "180°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -31.8,
+     "y": 20.2
+    },
+    {
+     "x": -34.3,
+     "y": 52.1
+    }
+   ]
+  },
+  {
+   "id": "kurs-300",
+   "kind": "path",
+   "label": "300°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -35.6,
+     "y": 52.8
+    },
+    {
+     "x": -64.8,
+     "y": 30.0
+    }
+   ]
+  },
+  {
+   "id": "kurs-360",
+   "kind": "path",
+   "label": "360°",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -0.8,
+     "y": 6.0
+    },
+    {
+     "x": 0.1,
+     "y": -6.3
+    }
+   ]
+  },
+  {
+   "id": "kante-nord",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -121.6,
+     "y": -83.6
+    },
+    {
+     "x": -109.0,
+     "y": -79.6
+    },
+    {
+     "x": -96.6,
+     "y": -72.8
+    },
+    {
+     "x": -86.9,
+     "y": -65.7
+    },
+    {
+     "x": -79.4,
+     "y": -62.1
+    },
+    {
+     "x": -72.2,
+     "y": -55.7
+    },
+    {
+     "x": -66.1,
+     "y": -50.9
+    },
+    {
+     "x": -59.9,
+     "y": -47.9
+    },
+    {
+     "x": -53.5,
+     "y": -47.5
+    },
+    {
+     "x": -46.9,
+     "y": -49.6
+    },
+    {
+     "x": -40.7,
+     "y": -47.6
+    },
+    {
+     "x": -33.3,
+     "y": -42.2
+    },
+    {
+     "x": -28.6,
+     "y": -36.5
+    },
+    {
+     "x": -32.3,
+     "y": -31.1
+    },
+    {
+     "x": -36.3,
+     "y": -26.3
+    },
+    {
+     "x": -38.2,
+     "y": -13.6
+    },
+    {
+     "x": -38.6,
+     "y": -0.8
+    },
+    {
+     "x": -36.8,
+     "y": 7.1
+    },
+    {
+     "x": -37.2,
+     "y": 13.4
+    }
+   ]
+  },
+  {
+   "id": "kante-plateau",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -33.2,
+     "y": -26.1
+    },
+    {
+     "x": -29.9,
+     "y": -29.7
+    },
+    {
+     "x": -23.9,
+     "y": -30.0
+    },
+    {
+     "x": -19.1,
+     "y": -26.1
+    },
+    {
+     "x": -14.6,
+     "y": -17.1
+    },
+    {
+     "x": -13.5,
+     "y": -6.7
+    },
+    {
+     "x": -14.7,
+     "y": 3.5
+    }
+   ]
+  },
+  {
+   "id": "kante-ost",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -29.8,
+     "y": 5.5
+    },
+    {
+     "x": -22.6,
+     "y": 5.5
+    },
+    {
+     "x": -12.3,
+     "y": 5.7
+    },
+    {
+     "x": -2.1,
+     "y": 5.9
+    },
+    {
+     "x": 8.1,
+     "y": 7.1
+    },
+    {
+     "x": 12.8,
+     "y": 13.1
+    },
+    {
+     "x": 17.4,
+     "y": 21.1
+    },
+    {
+     "x": 27.1,
+     "y": 29.5
+    },
+    {
+     "x": 36.6,
+     "y": 40.4
+    },
+    {
+     "x": 46.3,
+     "y": 48.8
+    },
+    {
+     "x": 50.8,
+     "y": 56.8
+    },
+    {
+     "x": 52.9,
+     "y": 63.4
+    }
+   ]
+  },
+  {
+   "id": "kante-sued",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -36.0,
+     "y": 13.5
+    },
+    {
+     "x": -23.1,
+     "y": 13.1
+    },
+    {
+     "x": -7.7,
+     "y": 13.5
+    },
+    {
+     "x": 5.0,
+     "y": 15.6
+    },
+    {
+     "x": 9.7,
+     "y": 20.6
+    },
+    {
+     "x": 11.4,
+     "y": 33.5
+    },
+    {
+     "x": 16.1,
+     "y": 40.3
+    },
+    {
+     "x": 28.7,
+     "y": 42.9
+    },
+    {
+     "x": 43.9,
+     "y": 46.1
+    }
+   ]
+  },
+  {
+   "id": "kante-zunge",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -13.5,
+     "y": 45.1
+    },
+    {
+     "x": -4.6,
+     "y": 42.7
+    },
+    {
+     "x": 4.4,
+     "y": 41.3
+    },
+    {
+     "x": 8.8,
+     "y": 33.3
+    },
+    {
+     "x": 9.0,
+     "y": 23.1
+    },
+    {
+     "x": 5.3,
+     "y": 18.2
+    },
+    {
+     "x": -8.0,
+     "y": 16.8
+    },
+    {
+     "x": -23.3,
+     "y": 16.2
+    },
+    {
+     "x": -34.9,
+     "y": 16.2
+    }
+   ]
+  },
+  {
+   "id": "grube-gross",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -92.5,
+     "y": -22.0
+    },
+    {
+     "x": -79.6,
+     "y": -22.9
+    },
+    {
+     "x": -68.1,
+     "y": -22.1
+    },
+    {
+     "x": -69.2,
+     "y": -2.9
+    },
+    {
+     "x": -67.1,
+     "y": 3.7
+    },
+    {
+     "x": -62.5,
+     "y": 7.8
+    },
+    {
+     "x": -63.6,
+     "y": 23.1
+    },
+    {
+     "x": -65.4,
+     "y": 30.7
+    },
+    {
+     "x": -78.3,
+     "y": 31.6
+    },
+    {
+     "x": -91.0,
+     "y": 29.4
+    },
+    {
+     "x": -92.1,
+     "y": 19.9
+    },
+    {
+     "x": -93.3,
+     "y": 8.2
+    },
+    {
+     "x": -93.7,
+     "y": -4.6
+    }
+   ]
+  },
+  {
+   "id": "grube-klein",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": -98.9,
+     "y": 2.7
+    },
+    {
+     "x": -94.4,
+     "y": 5.6
+    },
+    {
+     "x": -92.2,
+     "y": 10.9
+    },
+    {
+     "x": -92.1,
+     "y": 16.0
+    },
+    {
+     "x": -95.0,
+     "y": 21.0
+    },
+    {
+     "x": -99.4,
+     "y": 21.9
+    },
+    {
+     "x": -100.8,
+     "y": 15.4
+    },
+    {
+     "x": -99.7,
+     "y": 7.8
+    }
+   ]
+  }
+ ],
+ "notes": "The dive area off the Tauchschule Dankern: the beach entry, the 40 numbered objects, the guide lines (Führungsleine) and compass courses, and the edges of the plateaus and pits, on the OpenStreetMap shoreline. Positions are approximate to some 10 m, and objects may have been moved or added since. The site coordinates lie on the separate pond north of the lake.",
+ "origin": {
+  "lat": 52.797229,
+  "lon": 7.184819
+ },
+ "underlay": null,
+ "id": "deu-dankern-1",
+ "site_id": "deu-dankern",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-29T18:57:50.983733Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,611 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Golden Blocks",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": 4.2,
+   "y": 12.0,
+   "type": "entry",
+   "label": "Entry (beach)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-1",
+   "x": -11.0,
+   "y": 59.6,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 10.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-2",
+   "x": -16.3,
+   "y": 103.6,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-3",
+   "x": -88.2,
+   "y": 135.5,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-4",
+   "x": -99.6,
+   "y": 167.0,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "golden-block-1",
+   "x": -37.3,
+   "y": 132.7,
+   "type": "object",
+   "label": "Golden Block",
+   "depth": 25.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "golden-block-2",
+   "x": -20.5,
+   "y": 133.7,
+   "type": "object",
+   "label": "Golden Block",
+   "depth": 25.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gorgonians",
+   "x": -115.1,
+   "y": 144.1,
+   "type": "poi",
+   "label": "Gorgonians",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "crack-south",
+   "x": -59.5,
+   "y": 176.8,
+   "type": "poi",
+   "label": "Crack",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "crack-north",
+   "x": 22.4,
+   "y": 142.0,
+   "type": "poi",
+   "label": "Crack",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-flat-south",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -153.0,
+     "y": 60.6
+    },
+    {
+     "x": -100.5,
+     "y": 41.3
+    },
+    {
+     "x": -43.3,
+     "y": 22.9
+    },
+    {
+     "x": -11.5,
+     "y": 14.1
+    },
+    {
+     "x": -10.5,
+     "y": 24.6
+    },
+    {
+     "x": -16.8,
+     "y": 40.9
+    },
+    {
+     "x": -29.4,
+     "y": 52.2
+    },
+    {
+     "x": -51.2,
+     "y": 61.6
+    },
+    {
+     "x": -79.3,
+     "y": 72.2
+    },
+    {
+     "x": -108.9,
+     "y": 79.4
+    },
+    {
+     "x": -129.9,
+     "y": 81.3
+    },
+    {
+     "x": -146.9,
+     "y": 82.0
+    }
+   ]
+  },
+  {
+   "id": "reef-flat-north",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 45.7,
+     "y": -3.8
+    },
+    {
+     "x": 88.4,
+     "y": -22.7
+    },
+    {
+     "x": 157.9,
+     "y": -61.9
+    },
+    {
+     "x": 175.8,
+     "y": -31.1
+    },
+    {
+     "x": 138.7,
+     "y": -13.9
+    },
+    {
+     "x": 109.8,
+     "y": -2.6
+    },
+    {
+     "x": 79.4,
+     "y": 6.8
+    },
+    {
+     "x": 57.8,
+     "y": 9.0
+    },
+    {
+     "x": 48.3,
+     "y": 3.9
+    }
+   ]
+  },
+  {
+   "id": "sand-slope",
+   "kind": "sand",
+   "label": "Sand",
+   "depth": null,
+   "points": [
+    {
+     "x": -146.4,
+     "y": 83.8
+    },
+    {
+     "x": -88.5,
+     "y": 76.1
+    },
+    {
+     "x": -23.9,
+     "y": 50.4
+    },
+    {
+     "x": -10.2,
+     "y": 14.9
+    },
+    {
+     "x": 46.5,
+     "y": -1.6
+    },
+    {
+     "x": 69.2,
+     "y": 9.7
+    },
+    {
+     "x": 129.6,
+     "y": -9.0
+    },
+    {
+     "x": 176.4,
+     "y": -30.1
+    },
+    {
+     "x": 192.5,
+     "y": -2.3
+    },
+    {
+     "x": 96.1,
+     "y": 45.9
+    },
+    {
+     "x": -4.5,
+     "y": 80.4
+    },
+    {
+     "x": -134.3,
+     "y": 125.8
+    }
+   ]
+  },
+  {
+   "id": "seagrass",
+   "kind": "other",
+   "label": "Seagrass",
+   "depth": null,
+   "points": [
+    {
+     "x": -57.7,
+     "y": 88.6
+    },
+    {
+     "x": -43.9,
+     "y": 82.7
+    },
+    {
+     "x": -40.7,
+     "y": 88.9
+    },
+    {
+     "x": -54.7,
+     "y": 94.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -282.0,
+     "y": 89.6
+    },
+    {
+     "x": -174.6,
+     "y": 67.6
+    },
+    {
+     "x": -140.8,
+     "y": 58.1
+    },
+    {
+     "x": -10.3,
+     "y": 13.2
+    },
+    {
+     "x": 50.8,
+     "y": -1.5
+    },
+    {
+     "x": 111.9,
+     "y": -30.7
+    },
+    {
+     "x": 207.1,
+     "y": -86.0
+    },
+    {
+     "x": 272.7,
+     "y": -127.7
+    }
+   ]
+  },
+  {
+   "id": "x",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 272.7,
+     "y": -127.7
+    },
+    {
+     "x": 207.1,
+     "y": -86.0
+    },
+    {
+     "x": 111.9,
+     "y": -30.7
+    },
+    {
+     "x": 50.8,
+     "y": -1.5
+    },
+    {
+     "x": -10.3,
+     "y": 13.2
+    },
+    {
+     "x": -140.8,
+     "y": 58.1
+    },
+    {
+     "x": -174.6,
+     "y": 67.6
+    },
+    {
+     "x": -282.0,
+     "y": 89.6
+    }
+   ]
+  },
+  {
+   "id": "pier",
+   "kind": "wall",
+   "label": "Pier",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -110.1,
+     "y": 38.1
+    },
+    {
+     "x": -95.5,
+     "y": 72.1
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -134.3,
+     "y": 125.8
+    },
+    {
+     "x": -59.1,
+     "y": 100.0
+    },
+    {
+     "x": 12.6,
+     "y": 73.0
+    },
+    {
+     "x": 95.6,
+     "y": 44.9
+    },
+    {
+     "x": 192.5,
+     "y": -2.3
+    }
+   ]
+  },
+  {
+   "id": "c25",
+   "kind": "depth",
+   "label": "",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -115.3,
+     "y": 192.1
+    },
+    {
+     "x": -54.6,
+     "y": 175.1
+    },
+    {
+     "x": 1.3,
+     "y": 155.9
+    },
+    {
+     "x": 42.9,
+     "y": 148.1
+    },
+    {
+     "x": 74.1,
+     "y": 132.1
+    },
+    {
+     "x": 147.5,
+     "y": 96.9
+    },
+    {
+     "x": 227.8,
+     "y": 58.4
+    }
+   ]
+  },
+  {
+   "id": "drop-off",
+   "kind": "wall",
+   "label": "Drop-off 25–55 m",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -113.7,
+     "y": 197.7
+    },
+    {
+     "x": -52.7,
+     "y": 180.6
+    },
+    {
+     "x": 2.9,
+     "y": 160.7
+    },
+    {
+     "x": 44.1,
+     "y": 152.5
+    },
+    {
+     "x": 75.5,
+     "y": 136.5
+    },
+    {
+     "x": 149.5,
+     "y": 101.0
+    },
+    {
+     "x": 230.1,
+     "y": 62.4
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -3.5,
+     "y": 16.6
+    },
+    {
+     "x": -5.6,
+     "y": 37.5
+    },
+    {
+     "x": -19.7,
+     "y": 63.5
+    },
+    {
+     "x": -27.1,
+     "y": 95.1
+    },
+    {
+     "x": -47.8,
+     "y": 114.4
+    },
+    {
+     "x": -74.3,
+     "y": 124.0
+    },
+    {
+     "x": -105.8,
+     "y": 132.8
+    },
+    {
+     "x": -98.5,
+     "y": 163.0
+    },
+    {
+     "x": -75.2,
+     "y": 174.8
+    },
+    {
+     "x": -37.4,
+     "y": 163.1
+    },
+    {
+     "x": -9.6,
+     "y": 152.3
+    },
+    {
+     "x": 8.6,
+     "y": 134.2
+    },
+    {
+     "x": 15.2,
+     "y": 108.1
+    },
+    {
+     "x": 18.0,
+     "y": 78.6
+    },
+    {
+     "x": 20.0,
+     "y": 49.5
+    },
+    {
+     "x": 15.0,
+     "y": 17.5
+    },
+    {
+     "x": 12.6,
+     "y": 11.0
+    }
+   ]
+  }
+ ],
+ "notes": "Shore dive at the north-east end of the Happy Life Village beach, south of Dahab: sand slope and reef flat, coral blocks with tops at 7 m, the two golden coral towers at about 25 m on the sand and the drop-off from 25 to 55 m with two cracks. Oriented along the OSM coastline; all positions are approximate (tens of metres). The gorgonian at 18 m is from the site description; the coastline and the jetty are from OpenStreetMap.",
+ "origin": {
+  "lat": 28.438667,
+  "lon": 34.4623
+ },
+ "underlay": null,
+ "id": "egy-golden-blocks-1",
+ "site_id": "egy-golden-blocks",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:07:14.843621Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

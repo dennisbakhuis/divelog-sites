@@ -1,0 +1,408 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Eiland 12, zuidkant",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "wrakje-1",
+   "x": -43.9,
+   "y": 29.4,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wrakje-2",
+   "x": 64.3,
+   "y": 44.3,
+   "type": "object",
+   "label": "Wrakje",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zwemverbod",
+   "x": 22.0,
+   "y": -13.9,
+   "type": "hazard",
+   "label": "Zwemverbod",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pleziervaart",
+   "x": -50.0,
+   "y": 127.0,
+   "type": "hazard",
+   "label": "Pleziervaart",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "waterplanten-1",
+   "kind": "reeds",
+   "label": "Waterplanten",
+   "depth": null,
+   "points": [
+    {
+     "x": -61.6,
+     "y": 16.6
+    },
+    {
+     "x": -42.0,
+     "y": 10.5
+    },
+    {
+     "x": -30.6,
+     "y": 7.2
+    },
+    {
+     "x": -25.1,
+     "y": -1.4
+    },
+    {
+     "x": -11.4,
+     "y": -5.3
+    },
+    {
+     "x": 6.0,
+     "y": -9.3
+    },
+    {
+     "x": 5.2,
+     "y": -12.7
+    },
+    {
+     "x": -12.2,
+     "y": -8.6
+    },
+    {
+     "x": -26.9,
+     "y": -4.3
+    },
+    {
+     "x": -32.6,
+     "y": 4.3
+    },
+    {
+     "x": -43.0,
+     "y": 7.1
+    },
+    {
+     "x": -62.6,
+     "y": 13.3
+    }
+   ]
+  },
+  {
+   "id": "waterplanten-2",
+   "kind": "reeds",
+   "label": "Waterplanten",
+   "depth": null,
+   "points": [
+    {
+     "x": 47.1,
+     "y": -16.1
+    },
+    {
+     "x": 60.1,
+     "y": -17.0
+    },
+    {
+     "x": 75.3,
+     "y": -17.8
+    },
+    {
+     "x": 75.1,
+     "y": -21.3
+    },
+    {
+     "x": 59.9,
+     "y": -20.4
+    },
+    {
+     "x": 46.9,
+     "y": -19.6
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "contour-1",
+   "kind": "depth",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -82.8,
+     "y": 83.0
+    },
+    {
+     "x": -39.6,
+     "y": 95.7
+    },
+    {
+     "x": 3.7,
+     "y": 97.5
+    },
+    {
+     "x": 73.3,
+     "y": 90.0
+    }
+   ]
+  },
+  {
+   "id": "contour-2",
+   "kind": "depth",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -82.4,
+     "y": 60.2
+    },
+    {
+     "x": -38.8,
+     "y": 45.8
+    },
+    {
+     "x": 4.6,
+     "y": 49.8
+    },
+    {
+     "x": 74.2,
+     "y": 40.1
+    }
+   ]
+  },
+  {
+   "id": "contour-3",
+   "kind": "depth",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -82.0,
+     "y": 36.3
+    },
+    {
+     "x": -49.4,
+     "y": 31.5
+    },
+    {
+     "x": 27.1,
+     "y": 0.3
+    },
+    {
+     "x": 75.0,
+     "y": -7.6
+    }
+   ]
+  },
+  {
+   "id": "veenwand-1",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -82.1,
+     "y": 40.0
+    },
+    {
+     "x": -71.2,
+     "y": 38.7
+    }
+   ]
+  },
+  {
+   "id": "veenwand-2",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -23.2,
+     "y": 22.2
+    },
+    {
+     "x": -3.5,
+     "y": 14.9
+    },
+    {
+     "x": 18.4,
+     "y": 4.4
+    }
+   ]
+  },
+  {
+   "id": "veenwand-3",
+   "kind": "wall",
+   "label": "Veenwand",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 63.0,
+     "y": -2.4
+    },
+    {
+     "x": 75.0,
+     "y": -4.3
+    }
+   ]
+  },
+  {
+   "id": "noordplas-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 253.3,
+     "y": 3.8
+    },
+    {
+     "x": 235.8,
+     "y": 13.1
+    },
+    {
+     "x": 238.3,
+     "y": 20.8
+    },
+    {
+     "x": 343.7,
+     "y": 56.6
+    }
+   ]
+  },
+  {
+   "id": "noordplas-5",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 99.9,
+     "y": -65.3
+    },
+    {
+     "x": 28.5,
+     "y": -63.4
+    },
+    {
+     "x": -59.2,
+     "y": -66.7
+    },
+    {
+     "x": -67.5,
+     "y": -65.2
+    },
+    {
+     "x": -84.5,
+     "y": -53.5
+    },
+    {
+     "x": -90.7,
+     "y": -42.3
+    },
+    {
+     "x": -90.6,
+     "y": -22.9
+    },
+    {
+     "x": -86.7,
+     "y": -17.1
+    },
+    {
+     "x": -73.0,
+     "y": -14.2
+    },
+    {
+     "x": -42.5,
+     "y": -36.3
+    },
+    {
+     "x": -28.9,
+     "y": -39.3
+    },
+    {
+     "x": 175.6,
+     "y": -44.4
+    },
+    {
+     "x": 209.2,
+     "y": -40.2
+    },
+    {
+     "x": 230.7,
+     "y": -34.0
+    },
+    {
+     "x": 238.5,
+     "y": -39.4
+    },
+    {
+     "x": 240.3,
+     "y": -59.3
+    },
+    {
+     "x": 238.8,
+     "y": -66.6
+    },
+    {
+     "x": 235.9,
+     "y": -68.5
+    },
+    {
+     "x": 164.3,
+     "y": -67.1
+    }
+   ]
+  }
+ ],
+ "notes": "The south side of Eiland 12 on the OpenStreetMap island outline (© OpenStreetMap contributors, ODbL): weed zones between peat walls and sand gullies, max 20 m, with boat traffic. The contours and the two small wrecks carry no depths. Boat dive site; positions are approximate.",
+ "origin": {
+  "lat": 52.25024,
+  "lon": 4.95458
+ },
+ "underlay": null,
+ "id": "nld-zandeiland-12-1",
+ "site_id": "nld-zandeiland-12",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:32:21.535667Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

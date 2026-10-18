@@ -1,0 +1,366 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Kabbelaarsrif",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "g-72",
+   "x": 78.3,
+   "y": -268.3,
+   "type": "buoy",
+   "label": "G 72",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "duik-b",
+   "x": -76.1,
+   "y": -248.9,
+   "type": "buoy",
+   "label": "DUIK B",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "duik-c",
+   "x": -53.5,
+   "y": -210.2,
+   "type": "buoy",
+   "label": "DUIK C",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "duik-a",
+   "x": -154.4,
+   "y": -207.1,
+   "type": "buoy",
+   "label": "DUIK A",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "duik-d",
+   "x": -133.3,
+   "y": -169.0,
+   "type": "buoy",
+   "label": "DUIK D",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform",
+   "x": -23.5,
+   "y": -124.0,
+   "type": "entry",
+   "label": "Platform (einde steiger)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stenen-trap",
+   "x": -38.0,
+   "y": -40.0,
+   "type": "entry",
+   "label": "Stenen trap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "oefenplatform",
+   "x": -24.0,
+   "y": -140.0,
+   "type": "object",
+   "label": "Oefenplatform",
+   "depth": 9.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "le-serpent-wrak",
+   "x": -106.8,
+   "y": -221.2,
+   "type": "object",
+   "label": "Le Serpent (57 m)",
+   "depth": 23.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "le-serpent-romp",
+   "kind": "wreck",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -79.5,
+     "y": -231.1
+    },
+    {
+     "x": -84.5,
+     "y": -239.8
+    },
+    {
+     "x": -134.0,
+     "y": -211.4
+    },
+    {
+     "x": -129.0,
+     "y": -202.7
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "wall-pier-6-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -24.8,
+     "y": -106.0
+    },
+    {
+     "x": -22.5,
+     "y": -125.9
+    }
+   ]
+  },
+  {
+   "id": "wall-pier-8-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 150.8,
+     "y": -83.6
+    },
+    {
+     "x": 132.6,
+     "y": -84.6
+    },
+    {
+     "x": 99.5,
+     "y": -81.1
+    }
+   ]
+  },
+  {
+   "id": "wall-groyne-3-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -28.3,
+     "y": -38.7
+    },
+    {
+     "x": -43.4,
+     "y": -17.6
+    },
+    {
+     "x": -26.0,
+     "y": -106.2
+    },
+    {
+     "x": -23.2,
+     "y": -105.9
+    },
+    {
+     "x": -23.5,
+     "y": -71.9
+    }
+   ]
+  },
+  {
+   "id": "shoreline-grevelingenmeer-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 160.0,
+     "y": -122.5
+    },
+    {
+     "x": 112.7,
+     "y": -131.9
+    },
+    {
+     "x": 107.2,
+     "y": -135.5
+    },
+    {
+     "x": 106.5,
+     "y": -140.7
+    },
+    {
+     "x": 103.9,
+     "y": -141.6
+    },
+    {
+     "x": 94.3,
+     "y": -127.0
+    },
+    {
+     "x": 84.3,
+     "y": -125.8
+    },
+    {
+     "x": 63.6,
+     "y": -179.3
+    },
+    {
+     "x": 62.8,
+     "y": -171.2
+    },
+    {
+     "x": 75.5,
+     "y": -125.1
+    },
+    {
+     "x": 72.3,
+     "y": -119.4
+    },
+    {
+     "x": 30.6,
+     "y": -98.8
+    },
+    {
+     "x": -7.7,
+     "y": -65.9
+    },
+    {
+     "x": -23.5,
+     "y": -71.9
+    },
+    {
+     "x": -23.2,
+     "y": -105.9
+    },
+    {
+     "x": -26.0,
+     "y": -106.2
+    },
+    {
+     "x": -43.4,
+     "y": -17.6
+    },
+    {
+     "x": -79.7,
+     "y": 17.0
+    },
+    {
+     "x": -106.8,
+     "y": 37.5
+    },
+    {
+     "x": -124.2,
+     "y": 47.7
+    },
+    {
+     "x": -154.7,
+     "y": 58.7
+    },
+    {
+     "x": -171.9,
+     "y": 60.0
+    }
+   ]
+  },
+  {
+   "id": "shoreline-grevelingenmeer-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -182.4,
+     "y": 60.0
+    },
+    {
+     "x": -191.1,
+     "y": 58.9
+    },
+    {
+     "x": -260.0,
+     "y": 38.9
+    }
+   ]
+  },
+  {
+   "id": "koers-serpent",
+   "kind": "path",
+   "label": "330°, ca. 130 m",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -24.0,
+     "y": -127.0
+    },
+    {
+     "x": -100.8,
+     "y": -211.2
+    }
+   ]
+  }
+ ],
+ "notes": "Scharendijke Kabbelaarsrif: the long steiger with the entry platform at its end and stone steps at its base, the training platform at 9 m just in front of it, and Le Serpent (57 m concrete barge, sunk 2011, deck 23 m, bottom 29 m) about 130 m out on a course of 330°, drawn from its bow and stern in OpenStreetMap. Shoreline, steiger and buoys from OpenStreetMap; descriptions from duikplaats.net. The reefballs (8–12 m, west of the platform) and the small wrecks Zeehond (10 m) and Rat (14 m), each on its own buoy further west, are not drawn because their positions are not known.",
+ "origin": {
+  "lat": 51.73928,
+  "lon": 3.84437
+ },
+ "underlay": null,
+ "id": "nld-scharendijke-kabbelaar-1",
+ "site_id": "nld-scharendijke-kabbelaar",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:21:29.669188Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

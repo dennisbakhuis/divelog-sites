@@ -1,0 +1,799 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Rick's Reef to the Canyon",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry-ricks",
+   "x": 237.0,
+   "y": -238.0,
+   "type": "entry",
+   "label": "Entry Rick's Reef (gap in the reef flat)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Exit Canyon lagoon",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fishbowl",
+   "x": 122.9,
+   "y": 113.5,
+   "type": "poi",
+   "label": "Fishbowl (entry hole into the canyon)",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "canyon-end",
+   "x": 148.5,
+   "y": 172.0,
+   "type": "poi",
+   "label": "Canyon exit",
+   "depth": 52.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-tower",
+   "x": 109.5,
+   "y": 96.7,
+   "type": "object",
+   "label": "Coral tower with cave and glassfish",
+   "depth": 15.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "eels",
+   "x": 180.0,
+   "y": 12.0,
+   "type": "poi",
+   "label": "Garden eels on sand",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-1",
+   "x": -19.7,
+   "y": 142.4,
+   "type": "object",
+   "label": "Coral head",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-2",
+   "x": 24.9,
+   "y": 142.5,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-3",
+   "x": -1.9,
+   "y": 178.6,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-4",
+   "x": 16.2,
+   "y": 193.8,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-5",
+   "x": 54.3,
+   "y": 195.0,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-6",
+   "x": 86.2,
+   "y": 179.3,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-7",
+   "x": 92.4,
+   "y": 115.2,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-8",
+   "x": 150.7,
+   "y": 82.6,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-9",
+   "x": 182.1,
+   "y": 70.1,
+   "type": "object",
+   "label": "",
+   "depth": null,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-flat-north",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 3.7,
+     "y": 12.3
+    },
+    {
+     "x": 38.6,
+     "y": -33.5
+    },
+    {
+     "x": 50.4,
+     "y": -59.4
+    },
+    {
+     "x": 64.7,
+     "y": -102.9
+    },
+    {
+     "x": 90.7,
+     "y": -141.6
+    },
+    {
+     "x": 128.3,
+     "y": -171.1
+    },
+    {
+     "x": 186.4,
+     "y": -210.3
+    },
+    {
+     "x": 214.0,
+     "y": -227.2
+    },
+    {
+     "x": 237.5,
+     "y": -238.2
+    },
+    {
+     "x": 362.6,
+     "y": -346.2
+    },
+    {
+     "x": 393.8,
+     "y": -379.1
+    },
+    {
+     "x": 430.0,
+     "y": -426.0
+    },
+    {
+     "x": 440.0,
+     "y": -411.0
+    },
+    {
+     "x": 375.0,
+     "y": -345.0
+    },
+    {
+     "x": 309.0,
+     "y": -299.0
+    },
+    {
+     "x": 257.0,
+     "y": -233.0
+    },
+    {
+     "x": 217.0,
+     "y": -135.0
+    },
+    {
+     "x": 191.0,
+     "y": -63.0
+    },
+    {
+     "x": 145.0,
+     "y": 9.0
+    },
+    {
+     "x": 99.0,
+     "y": 75.0
+    },
+    {
+     "x": 70.0,
+     "y": 60.0
+    },
+    {
+     "x": 40.0,
+     "y": 25.0
+    },
+    {
+     "x": 20.0,
+     "y": 12.0
+    }
+   ]
+  },
+  {
+   "id": "reef-flat-south",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -160.0,
+     "y": 136.0
+    },
+    {
+     "x": -135.8,
+     "y": 122.2
+    },
+    {
+     "x": -109.7,
+     "y": 99.6
+    },
+    {
+     "x": -73.0,
+     "y": 74.4
+    },
+    {
+     "x": -18.6,
+     "y": 24.8
+    },
+    {
+     "x": 3.7,
+     "y": 12.3
+    },
+    {
+     "x": 10.0,
+     "y": 20.0
+    },
+    {
+     "x": 30.0,
+     "y": 55.0
+    },
+    {
+     "x": 55.0,
+     "y": 85.0
+    },
+    {
+     "x": 14.0,
+     "y": 114.0
+    },
+    {
+     "x": -52.0,
+     "y": 134.0
+    },
+    {
+     "x": -117.0,
+     "y": 160.0
+    },
+    {
+     "x": -160.0,
+     "y": 150.0
+    }
+   ]
+  },
+  {
+   "id": "lagoon",
+   "kind": "sand",
+   "label": "Lagoon 3 m",
+   "depth": 3.0,
+   "points": [
+    {
+     "x": 8.0,
+     "y": 8.0
+    },
+    {
+     "x": 22.0,
+     "y": 10.0
+    },
+    {
+     "x": 45.0,
+     "y": 35.0
+    },
+    {
+     "x": 70.0,
+     "y": 58.0
+    },
+    {
+     "x": 95.0,
+     "y": 78.0
+    },
+    {
+     "x": 80.0,
+     "y": 100.0
+    },
+    {
+     "x": 55.0,
+     "y": 92.0
+    },
+    {
+     "x": 35.0,
+     "y": 65.0
+    },
+    {
+     "x": 15.0,
+     "y": 30.0
+    }
+   ]
+  },
+  {
+   "id": "coral-garden",
+   "kind": "coral",
+   "label": "Coral garden",
+   "depth": null,
+   "points": [
+    {
+     "x": -41.2,
+     "y": 143.5
+    },
+    {
+     "x": -8.1,
+     "y": 127.3
+    },
+    {
+     "x": 33.4,
+     "y": 133.0
+    },
+    {
+     "x": 62.4,
+     "y": 161.3
+    },
+    {
+     "x": 113.6,
+     "y": 164.9
+    },
+    {
+     "x": 65.9,
+     "y": 200.8
+    },
+    {
+     "x": 29.2,
+     "y": 212.5
+    },
+    {
+     "x": -12.1,
+     "y": 206.5
+    },
+    {
+     "x": -39.8,
+     "y": 177.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "x",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 435.1,
+     "y": -431.9
+    },
+    {
+     "x": 393.8,
+     "y": -379.1
+    },
+    {
+     "x": 362.6,
+     "y": -346.2
+    },
+    {
+     "x": 237.5,
+     "y": -238.2
+    },
+    {
+     "x": 214.0,
+     "y": -227.2
+    },
+    {
+     "x": 186.4,
+     "y": -210.3
+    },
+    {
+     "x": 128.3,
+     "y": -171.1
+    },
+    {
+     "x": 90.7,
+     "y": -141.6
+    },
+    {
+     "x": 64.7,
+     "y": -102.9
+    },
+    {
+     "x": 50.4,
+     "y": -59.4
+    },
+    {
+     "x": 38.6,
+     "y": -33.5
+    },
+    {
+     "x": 3.7,
+     "y": 12.3
+    },
+    {
+     "x": -18.6,
+     "y": 24.8
+    },
+    {
+     "x": -73.0,
+     "y": 74.4
+    },
+    {
+     "x": -109.7,
+     "y": 99.6
+    },
+    {
+     "x": -135.8,
+     "y": 122.2
+    },
+    {
+     "x": -177.0,
+     "y": 180.1
+    },
+    {
+     "x": -191.7,
+     "y": 204.4
+    },
+    {
+     "x": -197.2,
+     "y": 226.9
+    },
+    {
+     "x": -206.8,
+     "y": 248.4
+    },
+    {
+     "x": -213.2,
+     "y": 278.9
+    }
+   ]
+  },
+  {
+   "id": "reef-edge",
+   "kind": "wall",
+   "label": "Reef edge",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 99.0,
+     "y": 75.0
+    },
+    {
+     "x": 145.0,
+     "y": 9.0
+    },
+    {
+     "x": 191.0,
+     "y": -63.0
+    },
+    {
+     "x": 217.0,
+     "y": -135.0
+    },
+    {
+     "x": 257.0,
+     "y": -233.0
+    },
+    {
+     "x": 309.0,
+     "y": -299.0
+    },
+    {
+     "x": 375.0,
+     "y": -345.0
+    },
+    {
+     "x": 440.0,
+     "y": -411.0
+    }
+   ]
+  },
+  {
+   "id": "reef-edge-south",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -160.0,
+     "y": 150.0
+    },
+    {
+     "x": -117.0,
+     "y": 160.0
+    },
+    {
+     "x": -52.0,
+     "y": 134.0
+    },
+    {
+     "x": 14.0,
+     "y": 114.0
+    },
+    {
+     "x": 73.0,
+     "y": 88.0
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 125.0,
+     "y": 85.0
+    },
+    {
+     "x": 170.0,
+     "y": 20.0
+    },
+    {
+     "x": 215.0,
+     "y": -52.0
+    },
+    {
+     "x": 242.0,
+     "y": -128.0
+    },
+    {
+     "x": 282.0,
+     "y": -225.0
+    },
+    {
+     "x": 330.0,
+     "y": -290.0
+    }
+   ]
+  },
+  {
+   "id": "c25",
+   "kind": "depth",
+   "label": "",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -71.6,
+     "y": 185.4
+    },
+    {
+     "x": -66.7,
+     "y": 192.4
+    },
+    {
+     "x": -34.1,
+     "y": 201.0
+    },
+    {
+     "x": 24.3,
+     "y": 205.5
+    },
+    {
+     "x": 75.2,
+     "y": 197.7
+    },
+    {
+     "x": 134.0,
+     "y": 156.3
+    },
+    {
+     "x": 177.3,
+     "y": 92.6
+    },
+    {
+     "x": 193.2,
+     "y": 46.2
+    },
+    {
+     "x": 214.9,
+     "y": -8.4
+    },
+    {
+     "x": 228.2,
+     "y": -49.0
+    }
+   ]
+  },
+  {
+   "id": "canyon",
+   "kind": "wall",
+   "label": "The Canyon",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 116.2,
+     "y": 95.9
+    },
+    {
+     "x": 122.9,
+     "y": 113.5
+    },
+    {
+     "x": 126.8,
+     "y": 133.7
+    },
+    {
+     "x": 129.2,
+     "y": 151.1
+    },
+    {
+     "x": 136.6,
+     "y": 163.7
+    },
+    {
+     "x": 150.5,
+     "y": 174.1
+    }
+   ]
+  },
+  {
+   "id": "drift",
+   "kind": "path",
+   "label": "Drift south to the Canyon lagoon",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 237.0,
+     "y": -238.0
+    },
+    {
+     "x": 262.0,
+     "y": -232.0
+    },
+    {
+     "x": 285.0,
+     "y": -205.0
+    },
+    {
+     "x": 268.0,
+     "y": -160.0
+    },
+    {
+     "x": 248.0,
+     "y": -110.0
+    },
+    {
+     "x": 222.0,
+     "y": -50.0
+    },
+    {
+     "x": 190.0,
+     "y": 20.0
+    },
+    {
+     "x": 150.0,
+     "y": 65.0
+    },
+    {
+     "x": 120.0,
+     "y": 80.0
+    },
+    {
+     "x": 90.0,
+     "y": 85.0
+    },
+    {
+     "x": 60.0,
+     "y": 55.0
+    },
+    {
+     "x": 35.0,
+     "y": 25.0
+    },
+    {
+     "x": 12.0,
+     "y": 5.0
+    }
+   ]
+  }
+ ],
+ "notes": "One-way shore dive: in at Rick's Reef about 300 m north-east of the Canyon along the coast, south-west along the shallow reef slope (max 14 m) and out through the Canyon lagoon. Dive-centre descriptions (H2O Divers, Sea Dancer) put Rick's Reef 300 m north of the Canyon and drift south, so the path runs that way; the Rick's Reef entry point is placed from that distance and is approximate. Coastline from OpenStreetMap.",
+ "origin": {
+  "lat": 28.554867,
+  "lon": 34.5209
+ },
+ "underlay": null,
+ "id": "egy-rick-s-reef-canyon-1",
+ "site_id": "egy-rick-s-reef-canyon",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:07:15.759638Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

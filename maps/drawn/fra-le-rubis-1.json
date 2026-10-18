@@ -1,0 +1,235 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Le Rubis",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "stern",
+   "x": 0.0,
+   "y": 31.7,
+   "type": "object",
+   "label": "Stern blown open, propellers gone",
+   "depth": 40.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "side-decks",
+   "x": 2.5,
+   "y": 19.8,
+   "type": "object",
+   "label": "Wide side decks with rail",
+   "depth": 37.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mine-wells",
+   "x": -2.8,
+   "y": 13.2,
+   "type": "object",
+   "label": "Mine-well hatches in the saddle tanks",
+   "depth": 37.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kiosk",
+   "x": 0.0,
+   "y": 2.6,
+   "type": "object",
+   "label": "Conning tower, hatch open",
+   "depth": 34.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gun",
+   "x": 0.0,
+   "y": -7.3,
+   "type": "object",
+   "label": "75 mm gun mounting",
+   "depth": 36.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "deck",
+   "x": 2.0,
+   "y": -14.5,
+   "type": "object",
+   "label": "Deck plating gone: air bottles, valves",
+   "depth": 37.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fore-hatch",
+   "x": -1.5,
+   "y": -21.1,
+   "type": "object",
+   "label": "Forward hatch, half open",
+   "depth": 37.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": 0.0,
+   "y": -31.7,
+   "type": "object",
+   "label": "Bow off the sand, towing cable; pass under the keel",
+   "depth": 40.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "hull",
+   "kind": "wreck",
+   "label": "Rubis, Saphir-class minelayer, 66 x 7.1 m",
+   "depth": 41.0,
+   "points": [
+    {
+     "x": 2.7,
+     "y": 33.0
+    },
+    {
+     "x": 3.6,
+     "y": 27.5
+    },
+    {
+     "x": 3.6,
+     "y": 22.0
+    },
+    {
+     "x": 3.6,
+     "y": 16.5
+    },
+    {
+     "x": 3.6,
+     "y": 11.0
+    },
+    {
+     "x": 3.6,
+     "y": 5.5
+    },
+    {
+     "x": 3.6,
+     "y": 0.0
+    },
+    {
+     "x": 3.6,
+     "y": -5.5
+    },
+    {
+     "x": 3.6,
+     "y": -11.0
+    },
+    {
+     "x": 3.6,
+     "y": -16.5
+    },
+    {
+     "x": 3.2,
+     "y": -22.0
+    },
+    {
+     "x": 2.1,
+     "y": -27.5
+    },
+    {
+     "x": 0.0,
+     "y": -33.0
+    },
+    {
+     "x": -2.1,
+     "y": -27.5
+    },
+    {
+     "x": -3.2,
+     "y": -22.0
+    },
+    {
+     "x": -3.6,
+     "y": -16.5
+    },
+    {
+     "x": -3.6,
+     "y": -11.0
+    },
+    {
+     "x": -3.6,
+     "y": -5.5
+    },
+    {
+     "x": -3.6,
+     "y": 0.0
+    },
+    {
+     "x": -3.6,
+     "y": 5.5
+    },
+    {
+     "x": -3.6,
+     "y": 11.0
+    },
+    {
+     "x": -3.6,
+     "y": 16.5
+    },
+    {
+     "x": -3.6,
+     "y": 22.0
+    },
+    {
+     "x": -3.6,
+     "y": 27.5
+    },
+    {
+     "x": -2.7,
+     "y": 33.0
+    }
+   ]
+  }
+ ],
+ "lines": [],
+ "notes": "Plan of the Free French minelaying submarine Rubis (66 x 7.12 m), scuttled in 1958 and upright on flat sand at 40-41 m about 2.6 km SE of Cap Camarat, bow north and stern south (Atlas PALM, DRASSM). Position 43 11.301 N 6 42.038 E from the Port-Cros national park Neptune sheet; features from Joncheray and Brunner via nicoblon.free.fr and Atlas PALM: the stern was blown open and both propellers are gone, the bow overhangs the sand with the tow cable, the conning tower (about 34 m) and gun mounting sit amidships; positions along the hull are approximate. No fixed mooring is published; the site file's point is about 600 m SW of the wreck.",
+ "origin": {
+  "lat": 43.18835,
+  "lon": 6.700633
+ },
+ "underlay": null,
+ "id": "fra-le-rubis-1",
+ "site_id": "fra-le-rubis",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:41:57.558871Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

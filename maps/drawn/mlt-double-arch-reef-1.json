@@ -1,0 +1,421 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Double Arch",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "washing-machine",
+   "x": 6.0,
+   "y": 227.0,
+   "type": "entry",
+   "label": "The Washing Machine",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "xwejni-slipway",
+   "x": 97.0,
+   "y": 325.0,
+   "type": "entry",
+   "label": "Xwejni Bay slipway",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "reef-edge",
+   "x": 4.0,
+   "y": 74.0,
+   "type": "poi",
+   "label": "Reef drop-off, descend here",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boulders",
+   "x": -2.0,
+   "y": 39.0,
+   "type": "poi",
+   "label": "House-sized boulders",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "reef-top",
+   "x": 18.0,
+   "y": -12.0,
+   "type": "poi",
+   "label": "Reef top",
+   "depth": 17.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "upper-arch",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "poi",
+   "label": "Upper arch",
+   "depth": 27.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lower-arch",
+   "x": -6.0,
+   "y": 14.0,
+   "type": "poi",
+   "label": "Lower arch, sand below",
+   "depth": 36.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "posidonia",
+   "x": 56.0,
+   "y": 119.0,
+   "type": "poi",
+   "label": "Posidonia meadows",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 321.8,
+     "y": 204.7
+    },
+    {
+     "x": 320.3,
+     "y": 200.3
+    },
+    {
+     "x": 322.6,
+     "y": 196.4
+    },
+    {
+     "x": 315.8,
+     "y": 189.5
+    },
+    {
+     "x": 289.8,
+     "y": 182.9
+    },
+    {
+     "x": 265.4,
+     "y": 187.1
+    },
+    {
+     "x": 241.3,
+     "y": 199.2
+    },
+    {
+     "x": 188.3,
+     "y": 198.5
+    },
+    {
+     "x": 163.3,
+     "y": 203.1
+    },
+    {
+     "x": 158.6,
+     "y": 207.1
+    },
+    {
+     "x": 156.9,
+     "y": 212.6
+    },
+    {
+     "x": 168.5,
+     "y": 251.2
+    },
+    {
+     "x": 173.8,
+     "y": 259.9
+    },
+    {
+     "x": 174.0,
+     "y": 288.6
+    },
+    {
+     "x": 201.4,
+     "y": 339.3
+    },
+    {
+     "x": 176.6,
+     "y": 356.6
+    },
+    {
+     "x": 141.6,
+     "y": 365.7
+    },
+    {
+     "x": 130.8,
+     "y": 364.1
+    },
+    {
+     "x": 113.4,
+     "y": 357.1
+    },
+    {
+     "x": 105.7,
+     "y": 350.7
+    },
+    {
+     "x": 96.2,
+     "y": 334.7
+    },
+    {
+     "x": 96.7,
+     "y": 320.8
+    },
+    {
+     "x": 88.9,
+     "y": 289.6
+    },
+    {
+     "x": 90.1,
+     "y": 280.8
+    },
+    {
+     "x": 97.8,
+     "y": 269.1
+    },
+    {
+     "x": 99.8,
+     "y": 258.9
+    },
+    {
+     "x": 99.0,
+     "y": 248.9
+    },
+    {
+     "x": 94.3,
+     "y": 239.9
+    },
+    {
+     "x": 93.3,
+     "y": 224.4
+    },
+    {
+     "x": 77.3,
+     "y": 202.1
+    },
+    {
+     "x": 67.9,
+     "y": 182.4
+    },
+    {
+     "x": 57.3,
+     "y": 174.2
+    },
+    {
+     "x": 50.4,
+     "y": 173.7
+    },
+    {
+     "x": 41.6,
+     "y": 177.5
+    },
+    {
+     "x": 25.2,
+     "y": 195.6
+    },
+    {
+     "x": 20.3,
+     "y": 203.7
+    },
+    {
+     "x": 14.8,
+     "y": 224.9
+    },
+    {
+     "x": 11.6,
+     "y": 230.4
+    },
+    {
+     "x": 6.5,
+     "y": 232.3
+    },
+    {
+     "x": 3.2,
+     "y": 230.5
+    },
+    {
+     "x": -6.3,
+     "y": 208.3
+    },
+    {
+     "x": -9.5,
+     "y": 204.1
+    },
+    {
+     "x": -15.1,
+     "y": 201.9
+    },
+    {
+     "x": -17.0,
+     "y": 194.7
+    },
+    {
+     "x": -30.5,
+     "y": 181.9
+    },
+    {
+     "x": -55.7,
+     "y": 191.8
+    },
+    {
+     "x": -81.4,
+     "y": 189.2
+    },
+    {
+     "x": -104.3,
+     "y": 178.6
+    },
+    {
+     "x": -129.1,
+     "y": 176.6
+    },
+    {
+     "x": -146.7,
+     "y": 180.1
+    },
+    {
+     "x": -152.3,
+     "y": 178.2
+    },
+    {
+     "x": -193.6,
+     "y": 183.4
+    },
+    {
+     "x": -220.6,
+     "y": 183.5
+    },
+    {
+     "x": -263.6,
+     "y": 161.3
+    },
+    {
+     "x": -287.7,
+     "y": 158.8
+    },
+    {
+     "x": -298.6,
+     "y": 151.2
+    },
+    {
+     "x": -301.1,
+     "y": 145.5
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 6.0,
+     "y": 227.0
+    },
+    {
+     "x": 1.0,
+     "y": 149.0
+    },
+    {
+     "x": 4.0,
+     "y": 74.0
+    },
+    {
+     "x": -2.0,
+     "y": 39.0
+    },
+    {
+     "x": -6.0,
+     "y": 14.0
+    },
+    {
+     "x": -6.0,
+     "y": -16.0
+    },
+    {
+     "x": 14.0,
+     "y": -6.0
+    },
+    {
+     "x": 36.0,
+     "y": 49.0
+    },
+    {
+     "x": 56.0,
+     "y": 119.0
+    },
+    {
+     "x": 66.0,
+     "y": 159.0
+    },
+    {
+     "x": 41.0,
+     "y": 187.0
+    },
+    {
+     "x": 6.0,
+     "y": 227.0
+    }
+   ]
+  }
+ ],
+ "notes": "Xwejni Bay with the shore entry at the Washing Machine inlet in the salt pans and the Double Arch reef about 230 m due north of it: reef top 17 m, two stacked arches from about 20–27 m down to the sand at 36 m, the reef continuing to 45 m. Depths and route (surface swim, descent at the 14 m drop-off, boulders at 25 m, return over the posidonia) from gozodive.com, maltadives.com and divebluewaters.com; the arch and the Washing Machine positions are the OpenStreetMap dive-spot nodes, and the shoreline is from OpenStreetMap. Maltadives.com gives the arch about 300 m further north; the larger cave further out is not placed. Positions are approximate.",
+ "origin": {
+  "lat": 36.081741,
+  "lon": 14.24652
+ },
+ "underlay": null,
+ "id": "mlt-double-arch-reef-1",
+ "site_id": "mlt-double-arch-reef",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:47:35.152874Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Cai",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "beach",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "entry",
+   "label": "Beach entry by the conch-shell piles",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "anemones",
+   "x": 45.0,
+   "y": 100.0,
+   "type": "poi",
+   "label": "Giant anemones 8-20 m",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "tarpon",
+   "x": 10.0,
+   "y": 200.0,
+   "type": "poi",
+   "label": "Tarpon in the sand channel",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 120.0,
+   "y": 230.0,
+   "type": "hazard",
+   "label": "Strong current, changes direction; downwellings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lagoon",
+   "x": -180.0,
+   "y": 60.0,
+   "type": "marker",
+   "label": "Lac Bay lagoon, shallow",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "barrier-reef",
+   "kind": "coral",
+   "label": "Lac barrier reef",
+   "depth": null,
+   "points": [
+    {
+     "x": -234.5,
+     "y": 380.0
+    },
+    {
+     "x": -176.7,
+     "y": 332.9
+    },
+    {
+     "x": -125.3,
+     "y": 275.0
+    },
+    {
+     "x": -78.6,
+     "y": 263.4
+    },
+    {
+     "x": -76.2,
+     "y": 235.5
+    },
+    {
+     "x": -89.1,
+     "y": 225.1
+    },
+    {
+     "x": -105.4,
+     "y": 221.6
+    },
+    {
+     "x": -211.7,
+     "y": 287.7
+    },
+    {
+     "x": -284.7,
+     "y": 380.0
+    }
+   ]
+  },
+  {
+   "id": "channel",
+   "kind": "sand",
+   "label": "Lac entrance channel, sand 20-30 m",
+   "depth": 25.0,
+   "points": [
+    {
+     "x": -25.0,
+     "y": 15.0
+    },
+    {
+     "x": 5.0,
+     "y": 22.0
+    },
+    {
+     "x": 35.0,
+     "y": 80.0
+    },
+    {
+     "x": 60.0,
+     "y": 160.0
+    },
+    {
+     "x": 90.0,
+     "y": 260.0
+    },
+    {
+     "x": 70.0,
+     "y": 300.0
+    },
+    {
+     "x": -10.0,
+     "y": 300.0
+    },
+    {
+     "x": -55.0,
+     "y": 240.0
+    },
+    {
+     "x": -50.0,
+     "y": 160.0
+    },
+    {
+     "x": -40.0,
+     "y": 80.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 318.4,
+     "y": -239.6
+    },
+    {
+     "x": 302.6,
+     "y": -241.4
+    },
+    {
+     "x": 294.4,
+     "y": -226.3
+    },
+    {
+     "x": 295.6,
+     "y": -201.9
+    },
+    {
+     "x": 279.8,
+     "y": -181.6
+    },
+    {
+     "x": 257.1,
+     "y": -165.4
+    },
+    {
+     "x": 241.3,
+     "y": -141.6
+    },
+    {
+     "x": 229.3,
+     "y": -130.0
+    },
+    {
+     "x": 230.0,
+     "y": -114.6
+    },
+    {
+     "x": 225.7,
+     "y": -103.9
+    },
+    {
+     "x": 222.7,
+     "y": -82.5
+    },
+    {
+     "x": 228.3,
+     "y": -56.4
+    },
+    {
+     "x": 221.3,
+     "y": -2.2
+    },
+    {
+     "x": 204.8,
+     "y": 12.0
+    },
+    {
+     "x": 172.1,
+     "y": 14.3
+    },
+    {
+     "x": 133.7,
+     "y": 13.2
+    },
+    {
+     "x": 102.6,
+     "y": 7.7
+    },
+    {
+     "x": 82.5,
+     "y": -43.5
+    },
+    {
+     "x": 57.0,
+     "y": -75.7
+    },
+    {
+     "x": 58.7,
+     "y": -132.3
+    },
+    {
+     "x": 64.4,
+     "y": -173.0
+    },
+    {
+     "x": 59.5,
+     "y": -190.2
+    },
+    {
+     "x": 44.8,
+     "y": -189.9
+    },
+    {
+     "x": 29.2,
+     "y": -194.0
+    },
+    {
+     "x": 23.0,
+     "y": -191.1
+    },
+    {
+     "x": 13.4,
+     "y": -191.1
+    },
+    {
+     "x": -5.4,
+     "y": -183.5
+    },
+    {
+     "x": -12.3,
+     "y": -167.6
+    },
+    {
+     "x": -14.5,
+     "y": -149.5
+    },
+    {
+     "x": -8.5,
+     "y": -134.1
+    },
+    {
+     "x": 3.5,
+     "y": -118.6
+    },
+    {
+     "x": 7.1,
+     "y": -107.8
+    },
+    {
+     "x": 0.8,
+     "y": -90.7
+    },
+    {
+     "x": -4.6,
+     "y": -88.1
+    },
+    {
+     "x": -14.1,
+     "y": -75.3
+    },
+    {
+     "x": -8.9,
+     "y": -65.7
+    },
+    {
+     "x": -3.8,
+     "y": -37.4
+    },
+    {
+     "x": -5.8,
+     "y": -35.6
+    },
+    {
+     "x": -5.4,
+     "y": -30.7
+    },
+    {
+     "x": -0.6,
+     "y": -29.3
+    },
+    {
+     "x": 4.5,
+     "y": -23.8
+    },
+    {
+     "x": 9.3,
+     "y": -4.9
+    },
+    {
+     "x": 7.7,
+     "y": 19.7
+    },
+    {
+     "x": 20.2,
+     "y": 37.2
+    },
+    {
+     "x": 62.5,
+     "y": 63.8
+    },
+    {
+     "x": 78.3,
+     "y": 67.4
+    },
+    {
+     "x": 101.8,
+     "y": 64.7
+    },
+    {
+     "x": 135.1,
+     "y": 41.3
+    },
+    {
+     "x": 157.2,
+     "y": 32.2
+    },
+    {
+     "x": 171.8,
+     "y": 35.1
+    },
+    {
+     "x": 193.5,
+     "y": 34.2
+    },
+    {
+     "x": 208.3,
+     "y": 41.1
+    },
+    {
+     "x": 220.1,
+     "y": 51.1
+    },
+    {
+     "x": 246.8,
+     "y": 48.9
+    },
+    {
+     "x": 270.2,
+     "y": 58.3
+    },
+    {
+     "x": 294.3,
+     "y": 53.5
+    },
+    {
+     "x": 309.5,
+     "y": 54.1
+    }
+   ]
+  },
+  {
+   "id": "slope",
+   "kind": "wall",
+   "label": "Steep slope into the channel",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -2.0,
+     "y": 24.0
+    },
+    {
+     "x": 26.0,
+     "y": 82.0
+    },
+    {
+     "x": 50.0,
+     "y": 160.0
+    },
+    {
+     "x": 80.0,
+     "y": 262.0
+    }
+   ]
+  }
+ ],
+ "notes": "Cai at the mouth of Lac Bay: the beach entry by the conch-shell piles, the steep slope into the Lac entrance channel within 20-30 m of the shore, the sand channel to 25-30 m where tarpon gather, giant anemones and hard coral between 8 and 20 m, and the barrier reef on the far side (bonaire.com Cai page). The channel outline is approximate; the anemone and tarpon spots are placed by assumption, and no route is drawn because the current decides it: start against it and let it carry you back. Coastline and reef outline © OpenStreetMap contributors (ODbL). Positions are approximate.",
+ "origin": {
+  "lat": 12.10322,
+  "lon": -68.22245
+ },
+ "underlay": null,
+ "id": "bes-cai-east-coast-1",
+ "site_id": "bes-cai-east-coast",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:32:09.258796Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

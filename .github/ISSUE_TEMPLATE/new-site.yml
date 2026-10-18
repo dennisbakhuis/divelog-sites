@@ -1,0 +1,101 @@
+name: New dive site
+description: Propose a dive site that is not in the database yet.
+title: "New site: "
+labels: ["new site"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in what you know; a maintainer turns it into a site file. Leave a field empty if you are not sure.
+  - type: input
+    id: name
+    attributes:
+      label: Site name
+      placeholder: Carnatic
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      placeholder: Egypt
+    validations:
+      required: true
+  - type: input
+    id: coordinates
+    attributes:
+      label: Coordinates
+      description: Latitude, longitude in decimal degrees, at the entry point or the middle of the site.
+      placeholder: "27.5793, 33.9270"
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - sea
+        - reef
+        - wreck
+        - reef with wrecks
+        - lake
+        - quarry lake
+        - reservoir
+        - river
+        - cave
+        - cavern
+        - cenote
+        - mine
+        - pool
+        - indoor dive tower
+        - other (say which in the description)
+    validations:
+      required: true
+  - type: dropdown
+    id: water
+    attributes:
+      label: Water
+      options:
+        - salt
+        - fresh
+        - brackish
+        - not sure
+    validations:
+      required: true
+  - type: input
+    id: max-depth
+    attributes:
+      label: Maximum depth (m)
+      description: If known.
+      placeholder: "30"
+  - type: textarea
+    id: access
+    attributes:
+      label: Access
+      description: Shore or boat, parking, fees, permits. No gate codes or ways around fences.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One neutral paragraph in the third person, about the site rather than your dive. Your own words, not copied from a guide or website.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where the information comes from, for example "own dive, 2026", a map, or a website.
+    validations:
+      required: true
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo (optional)
+      description: Drag a photo in here, with its author and licence. See the photo rules in CONTRIBUTING.md.
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: I contribute this data under the repository's licences (ODbL for the site data, CC BY-SA 4.0 for the description), and any photo is mine or freely licensed.
+          required: true

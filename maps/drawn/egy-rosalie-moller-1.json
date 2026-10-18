@@ -1,0 +1,249 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "SS Rosalie Moller",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "bow",
+   "x": 0.0,
+   "y": -54.1,
+   "type": "object",
+   "label": "Bow",
+   "depth": 39.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "anchor",
+   "x": 4.0,
+   "y": -48.1,
+   "type": "object",
+   "label": "Anchor chain out",
+   "depth": 39.0,
+   "object_kind": "anchor",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "hold-1",
+   "x": 0.0,
+   "y": -34.1,
+   "type": "object",
+   "label": "Hold 1: coal",
+   "depth": 45.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "hold-2",
+   "x": 0.0,
+   "y": -18.1,
+   "type": "object",
+   "label": "Hold 2: coal",
+   "depth": 45.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "masts",
+   "x": -12.5,
+   "y": -24.1,
+   "type": "object",
+   "label": "Masts collapsed over the port side",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bridge",
+   "x": 0.0,
+   "y": -4.1,
+   "type": "object",
+   "label": "Bridge, open to swim through",
+   "depth": 30.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "funnel",
+   "x": -3.0,
+   "y": 6.9,
+   "type": "object",
+   "label": "Funnel, broken and on its side",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "hold-3",
+   "x": 4.0,
+   "y": 23.9,
+   "type": "object",
+   "label": "Hold 3: bomb damage, starboard",
+   "depth": 45.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "stern",
+   "x": 0.0,
+   "y": 45.9,
+   "type": "object",
+   "label": "Poop deck and steering gear",
+   "depth": 35.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "propeller",
+   "x": 0.0,
+   "y": 53.9,
+   "type": "object",
+   "label": "Rudder and propeller (one blade missing)",
+   "depth": 45.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "hull",
+   "kind": "wreck",
+   "label": "SS Rosalie Moller",
+   "depth": null,
+   "points": [
+    {
+     "x": 0.0,
+     "y": -54.1
+    },
+    {
+     "x": 5.2,
+     "y": -47.6
+    },
+    {
+     "x": 7.5,
+     "y": -41.1
+    },
+    {
+     "x": 7.5,
+     "y": 48.9
+    },
+    {
+     "x": 4.1,
+     "y": 54.1
+    },
+    {
+     "x": -4.1,
+     "y": 54.1
+    },
+    {
+     "x": -7.5,
+     "y": 48.9
+    },
+    {
+     "x": -7.5,
+     "y": -41.1
+    },
+    {
+     "x": -5.2,
+     "y": -47.6
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 2.0,
+     "y": -4.1
+    },
+    {
+     "x": 3.0,
+     "y": -14.1
+    },
+    {
+     "x": 3.0,
+     "y": -36.1
+    },
+    {
+     "x": 0.0,
+     "y": -52.1
+    },
+    {
+     "x": -3.0,
+     "y": -40.1
+    },
+    {
+     "x": -4.0,
+     "y": -4.1
+    },
+    {
+     "x": -3.0,
+     "y": 23.9
+    },
+    {
+     "x": 0.0,
+     "y": 49.9
+    },
+    {
+     "x": 3.0,
+     "y": 45.9
+    },
+    {
+     "x": 5.0,
+     "y": 23.9
+    },
+    {
+     "x": 3.0,
+     "y": -2.1
+    }
+   ]
+  }
+ ],
+ "notes": "Plan of the SS Rosalie Moller (108.2 x 15 m), upright on sand at 50 m with her bow due north, as she lay at anchor. Depths from the Red Sea Wreck Project, seawolf-safari.de and dive guides: mast head 17 m before the masts fell, superstructure 30 m, bow 39, stern gear 35, rudder and holds 45, seabed 50. Hold and mast positions follow the usual layout of a three-island steamer and are approximate. Guides disagree on which anchor is out. The route: down to the bridge, forward to the bow, aft past the bombed hold 3 to the stern and back up.",
+ "origin": {
+  "lat": 27.65083,
+  "lon": 33.77139
+ },
+ "underlay": null,
+ "id": "egy-rosalie-moller-1",
+ "site_id": "egy-rosalie-moller",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:56:54.476979Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,624 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Umm Sid",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "eels",
+   "x": 117.7,
+   "y": 28.5,
+   "type": "poi",
+   "label": "Garden eels",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-1",
+   "x": 122.6,
+   "y": -143.3,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 10.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-2",
+   "x": 163.2,
+   "y": -157.7,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-3",
+   "x": 159.6,
+   "y": -93.6,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-4",
+   "x": 181.1,
+   "y": -72.0,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-5",
+   "x": 190.1,
+   "y": -108.5,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 18.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-6",
+   "x": 156.3,
+   "y": -204.6,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-7",
+   "x": 204.1,
+   "y": -173.3,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 15.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "head-8",
+   "x": 109.4,
+   "y": -197.6,
+   "type": "object",
+   "label": "Coral head",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gorgonians",
+   "x": 218.6,
+   "y": -126.3,
+   "type": "poi",
+   "label": "Gorgonians",
+   "depth": 30.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry",
+   "x": 10.7,
+   "y": 2.0,
+   "type": "entry",
+   "label": "Beach entry",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-south",
+   "kind": "shallows",
+   "label": "Reef table",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 14.5,
+     "y": 167.7
+    },
+    {
+     "x": 27.5,
+     "y": 93.8
+    },
+    {
+     "x": 24.5,
+     "y": 67.9
+    },
+    {
+     "x": 38.1,
+     "y": 62.7
+    },
+    {
+     "x": 52.1,
+     "y": 55.0
+    },
+    {
+     "x": 55.2,
+     "y": 37.8
+    },
+    {
+     "x": 31.6,
+     "y": 27.3
+    },
+    {
+     "x": 8.7,
+     "y": 20.7
+    },
+    {
+     "x": 5.6,
+     "y": 20.0
+    },
+    {
+     "x": -8.6,
+     "y": 87.5
+    },
+    {
+     "x": -20.2,
+     "y": 162.0
+    }
+   ]
+  },
+  {
+   "id": "reef-north",
+   "kind": "shallows",
+   "label": "Reef table",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 21.0,
+     "y": -20.3
+    },
+    {
+     "x": 38.4,
+     "y": -10.9
+    },
+    {
+     "x": 67.0,
+     "y": -0.8
+    },
+    {
+     "x": 101.5,
+     "y": 5.3
+    },
+    {
+     "x": 115.5,
+     "y": -2.4
+    },
+    {
+     "x": 126.4,
+     "y": -20.8
+    },
+    {
+     "x": 129.9,
+     "y": -40.4
+    },
+    {
+     "x": 109.3,
+     "y": -39.0
+    },
+    {
+     "x": 81.8,
+     "y": -41.3
+    },
+    {
+     "x": 65.9,
+     "y": -51.7
+    },
+    {
+     "x": 63.6,
+     "y": -67.4
+    },
+    {
+     "x": 80.1,
+     "y": -74.6
+    },
+    {
+     "x": 114.5,
+     "y": -68.5
+    },
+    {
+     "x": 139.3,
+     "y": -79.4
+    },
+    {
+     "x": 128.3,
+     "y": -89.0
+    },
+    {
+     "x": 103.2,
+     "y": -90.8
+    },
+    {
+     "x": 92.7,
+     "y": -102.9
+    },
+    {
+     "x": 90.9,
+     "y": -136.2
+    },
+    {
+     "x": 94.2,
+     "y": -183.8
+    },
+    {
+     "x": 98.7,
+     "y": -223.6
+    },
+    {
+     "x": 110.9,
+     "y": -278.1
+    },
+    {
+     "x": -48.4,
+     "y": -225.0
+    },
+    {
+     "x": -15.1,
+     "y": -147.3
+    },
+    {
+     "x": 11.2,
+     "y": -77.0
+    },
+    {
+     "x": 15.0,
+     "y": -20.5
+    }
+   ]
+  },
+  {
+   "id": "sand-plateau",
+   "kind": "sand",
+   "label": "Sand plateau",
+   "depth": null,
+   "points": [
+    {
+     "x": 109.3,
+     "y": -39.0
+    },
+    {
+     "x": 81.8,
+     "y": -41.3
+    },
+    {
+     "x": 65.9,
+     "y": -51.7
+    },
+    {
+     "x": 63.6,
+     "y": -67.4
+    },
+    {
+     "x": 80.1,
+     "y": -74.6
+    },
+    {
+     "x": 114.5,
+     "y": -68.5
+    },
+    {
+     "x": 135.5,
+     "y": -72.5
+    },
+    {
+     "x": 129.9,
+     "y": -40.4
+    }
+   ]
+  },
+  {
+   "id": "channel",
+   "kind": "sand",
+   "label": "Sand channel",
+   "depth": null,
+   "points": [
+    {
+     "x": 8.7,
+     "y": 20.7
+    },
+    {
+     "x": 21.0,
+     "y": -20.3
+    },
+    {
+     "x": 38.4,
+     "y": -10.9
+    },
+    {
+     "x": 67.0,
+     "y": -0.8
+    },
+    {
+     "x": 101.5,
+     "y": 5.3
+    },
+    {
+     "x": 115.5,
+     "y": -2.4
+    },
+    {
+     "x": 105.3,
+     "y": 41.5
+    },
+    {
+     "x": 55.2,
+     "y": 37.8
+    },
+    {
+     "x": 31.6,
+     "y": 27.3
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 6.7,
+     "y": 15.9
+    },
+    {
+     "x": 10.0,
+     "y": 5.9
+    },
+    {
+     "x": 15.0,
+     "y": -20.3
+    },
+    {
+     "x": 14.8,
+     "y": -45.2
+    },
+    {
+     "x": 14.0,
+     "y": -65.3
+    },
+    {
+     "x": 6.3,
+     "y": -97.1
+    },
+    {
+     "x": -80.4,
+     "y": -300.0
+    }
+   ]
+  },
+  {
+   "id": "coast-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -30.2,
+     "y": 200.0
+    },
+    {
+     "x": -14.1,
+     "y": 138.7
+    },
+    {
+     "x": -5.7,
+     "y": 61.1
+    },
+    {
+     "x": 6.7,
+     "y": 15.9
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "kind": "depth",
+   "label": "",
+   "depth": 10.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 76.0,
+     "y": 178.5
+    },
+    {
+     "x": 90.9,
+     "y": 79.6
+    },
+    {
+     "x": 105.3,
+     "y": 41.5
+    },
+    {
+     "x": 137.9,
+     "y": -13.7
+    },
+    {
+     "x": 158.6,
+     "y": -73.5
+    },
+    {
+     "x": 152.8,
+     "y": -112.6
+    },
+    {
+     "x": 141.7,
+     "y": -165.3
+    },
+    {
+     "x": 125.8,
+     "y": -218.9
+    },
+    {
+     "x": 125.6,
+     "y": -275.5
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Usual route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 10.6,
+     "y": 17.2
+    },
+    {
+     "x": 44.8,
+     "y": 24.5
+    },
+    {
+     "x": 90.5,
+     "y": 38.9
+    },
+    {
+     "x": 134.4,
+     "y": 49.2
+    },
+    {
+     "x": 162.0,
+     "y": 36.3
+    },
+    {
+     "x": 176.2,
+     "y": 13.4
+    },
+    {
+     "x": 191.4,
+     "y": -29.6
+    },
+    {
+     "x": 201.7,
+     "y": -73.5
+    },
+    {
+     "x": 202.9,
+     "y": -108.8
+    },
+    {
+     "x": 193.7,
+     "y": -143.4
+    },
+    {
+     "x": 180.8,
+     "y": -171.1
+    },
+    {
+     "x": 151.4,
+     "y": -191.5
+    },
+    {
+     "x": 121.5,
+     "y": -194.2
+    },
+    {
+     "x": 105.4,
+     "y": -189.5
+    },
+    {
+     "x": 99.9,
+     "y": -172.7
+    },
+    {
+     "x": 105.4,
+     "y": -146.3
+    },
+    {
+     "x": 117.1,
+     "y": -126.5
+    },
+    {
+     "x": 133.3,
+     "y": -103.3
+    },
+    {
+     "x": 141.8,
+     "y": -79.0
+    },
+    {
+     "x": 144.4,
+     "y": -50.6
+    },
+    {
+     "x": 134.2,
+     "y": -21.9
+    },
+    {
+     "x": 114.2,
+     "y": 5.0
+    },
+    {
+     "x": 80.9,
+     "y": 6.8
+    },
+    {
+     "x": 49.8,
+     "y": -3.8
+    },
+    {
+     "x": 26.9,
+     "y": -18.0
+    }
+   ]
+  }
+ ],
+ "notes": "The sand channel through the reef, the garden-eel slope, the sand plateau, coral heads at 7-18 m, the gorgonians around 30 m and the usual loop, placed on the OpenStreetMap coastline; positions and depths are approximate, and the reef table north of the channel is wider than drawn. Coastline © OpenStreetMap contributors (ODbL).",
+ "origin": {
+  "lat": 28.420783,
+  "lon": 34.457367
+ },
+ "underlay": null,
+ "id": "egy-umm-sid-1",
+ "site_id": "egy-umm-sid",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:56:15.996239Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

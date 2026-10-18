@@ -1,0 +1,492 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Small Giftun",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "mooring-1",
+   "x": 160.0,
+   "y": 25.0,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring-2",
+   "x": 100.0,
+   "y": 45.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring-3",
+   "x": 0.0,
+   "y": 75.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring-4",
+   "x": -100.0,
+   "y": 85.0,
+   "type": "buoy",
+   "label": "",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ne-corner",
+   "x": 225.0,
+   "y": -60.0,
+   "type": "poi",
+   "label": "NE corner of the plateau",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "current",
+   "x": 330.0,
+   "y": -560.0,
+   "type": "hazard",
+   "label": "Current",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-top",
+   "kind": "shallows",
+   "label": "Fringing reef",
+   "depth": 1.0,
+   "points": [
+    {
+     "x": 210.0,
+     "y": -620.0
+    },
+    {
+     "x": 215.0,
+     "y": -500.0
+    },
+    {
+     "x": 225.0,
+     "y": -400.0
+    },
+    {
+     "x": 230.0,
+     "y": -300.0
+    },
+    {
+     "x": 220.0,
+     "y": -200.0
+    },
+    {
+     "x": 200.0,
+     "y": -120.0
+    },
+    {
+     "x": 160.0,
+     "y": -60.0
+    },
+    {
+     "x": 100.0,
+     "y": -10.0
+    },
+    {
+     "x": 50.0,
+     "y": 10.0
+    },
+    {
+     "x": 0.0,
+     "y": 30.0
+    },
+    {
+     "x": -100.0,
+     "y": 40.0
+    },
+    {
+     "x": -200.0,
+     "y": 20.0
+    },
+    {
+     "x": -350.0,
+     "y": -20.0
+    },
+    {
+     "x": -350.0,
+     "y": -110.0
+    },
+    {
+     "x": -300.0,
+     "y": -100.0
+    },
+    {
+     "x": -200.0,
+     "y": -130.0
+    },
+    {
+     "x": -120.0,
+     "y": -160.0
+    },
+    {
+     "x": -60.0,
+     "y": -190.0
+    },
+    {
+     "x": -20.0,
+     "y": -215.0
+    },
+    {
+     "x": 40.0,
+     "y": -220.0
+    },
+    {
+     "x": 80.0,
+     "y": -240.0
+    },
+    {
+     "x": 120.0,
+     "y": -270.0
+    },
+    {
+     "x": 150.0,
+     "y": -310.0
+    },
+    {
+     "x": 185.0,
+     "y": -340.0
+    },
+    {
+     "x": 190.0,
+     "y": -400.0
+    },
+    {
+     "x": 175.0,
+     "y": -440.0
+    },
+    {
+     "x": 185.0,
+     "y": -500.0
+    },
+    {
+     "x": 170.0,
+     "y": -560.0
+    },
+    {
+     "x": 160.0,
+     "y": -620.0
+    }
+   ]
+  },
+  {
+   "id": "shelf",
+   "kind": "coral",
+   "label": "Shelf and plateau 15-25 m",
+   "depth": 20.0,
+   "points": [
+    {
+     "x": 210.0,
+     "y": -620.0
+    },
+    {
+     "x": 215.0,
+     "y": -500.0
+    },
+    {
+     "x": 225.0,
+     "y": -400.0
+    },
+    {
+     "x": 230.0,
+     "y": -300.0
+    },
+    {
+     "x": 220.0,
+     "y": -200.0
+    },
+    {
+     "x": 200.0,
+     "y": -120.0
+    },
+    {
+     "x": 160.0,
+     "y": -60.0
+    },
+    {
+     "x": 100.0,
+     "y": -10.0
+    },
+    {
+     "x": 50.0,
+     "y": 10.0
+    },
+    {
+     "x": 0.0,
+     "y": 30.0
+    },
+    {
+     "x": -100.0,
+     "y": 40.0
+    },
+    {
+     "x": -200.0,
+     "y": 20.0
+    },
+    {
+     "x": -350.0,
+     "y": 110.0
+    },
+    {
+     "x": -150.0,
+     "y": 150.0
+    },
+    {
+     "x": 0.0,
+     "y": 140.0
+    },
+    {
+     "x": 120.0,
+     "y": 90.0
+    },
+    {
+     "x": 190.0,
+     "y": 20.0
+    },
+    {
+     "x": 240.0,
+     "y": -70.0
+    },
+    {
+     "x": 270.0,
+     "y": -180.0
+    },
+    {
+     "x": 280.0,
+     "y": -300.0
+    },
+    {
+     "x": 275.0,
+     "y": -450.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "shore",
+   "kind": "shoreline",
+   "label": "Small Giftun",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -350.0,
+     "y": -110.0
+    },
+    {
+     "x": -300.0,
+     "y": -100.0
+    },
+    {
+     "x": -200.0,
+     "y": -130.0
+    },
+    {
+     "x": -120.0,
+     "y": -160.0
+    },
+    {
+     "x": -60.0,
+     "y": -190.0
+    },
+    {
+     "x": -20.0,
+     "y": -215.0
+    },
+    {
+     "x": 40.0,
+     "y": -220.0
+    },
+    {
+     "x": 80.0,
+     "y": -240.0
+    },
+    {
+     "x": 120.0,
+     "y": -270.0
+    },
+    {
+     "x": 150.0,
+     "y": -310.0
+    },
+    {
+     "x": 185.0,
+     "y": -340.0
+    },
+    {
+     "x": 190.0,
+     "y": -400.0
+    },
+    {
+     "x": 175.0,
+     "y": -440.0
+    },
+    {
+     "x": 185.0,
+     "y": -500.0
+    },
+    {
+     "x": 170.0,
+     "y": -560.0
+    },
+    {
+     "x": 160.0,
+     "y": -620.0
+    }
+   ]
+  },
+  {
+   "id": "wall",
+   "kind": "wall",
+   "label": "Wall, 100 m+",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 290.0,
+     "y": -620.0
+    },
+    {
+     "x": 295.0,
+     "y": -450.0
+    },
+    {
+     "x": 300.0,
+     "y": -300.0
+    },
+    {
+     "x": 290.0,
+     "y": -180.0
+    }
+   ]
+  },
+  {
+   "id": "shelf-edge",
+   "kind": "wall",
+   "label": "Plateau edge",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 270.0,
+     "y": -180.0
+    },
+    {
+     "x": 240.0,
+     "y": -70.0
+    },
+    {
+     "x": 190.0,
+     "y": 20.0
+    },
+    {
+     "x": 120.0,
+     "y": 90.0
+    },
+    {
+     "x": 0.0,
+     "y": 140.0
+    },
+    {
+     "x": -150.0,
+     "y": 150.0
+    },
+    {
+     "x": -350.0,
+     "y": 110.0
+    }
+   ]
+  },
+  {
+   "id": "drift",
+   "kind": "path",
+   "label": "Drift south along the wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 255.0,
+     "y": -600.0
+    },
+    {
+     "x": 255.0,
+     "y": -450.0
+    },
+    {
+     "x": 262.0,
+     "y": -320.0
+    },
+    {
+     "x": 250.0,
+     "y": -200.0
+    },
+    {
+     "x": 225.0,
+     "y": -100.0
+    },
+    {
+     "x": 185.0,
+     "y": -20.0
+    },
+    {
+     "x": 160.0,
+     "y": 20.0
+    }
+   ]
+  }
+ ],
+ "notes": "The south-eastern corner of Small Giftun (Giftun Seghir): the fringing reef, the plateau at 15-25 m where the day boats moor, the shelf running north from its north-east corner along the vertical east wall (past 100 m), and the usual drift south along the wall onto the plateau. The zones and drift come from dive-centre descriptions (redseacreatures.com), so extents are approximate. Erg Somaya is left off. The origin is on the mooring area; the site's stored coordinates are the island's centre, about 1.5 km north-west.",
+ "origin": {
+  "lat": 27.1869,
+  "lon": 33.98214
+ },
+ "underlay": null,
+ "id": "egy-small-giftun-1",
+ "site_id": "egy-small-giftun",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:20:32.073389Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

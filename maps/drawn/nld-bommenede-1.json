@@ -1,0 +1,724 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Werkhaven Bommenede Oost",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "instap",
+   "x": -92.1,
+   "y": 85.9,
+   "type": "entry",
+   "label": "Instap rechts van de havenmond",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "oesters",
+   "x": 36.1,
+   "y": 74.0,
+   "type": "poi",
+   "label": "Oesters en sponzen",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vaargeul",
+   "x": -155.4,
+   "y": -272.9,
+   "type": "hazard",
+   "label": "Vaargeul",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bommenede",
+   "x": 98.7,
+   "y": -235.4,
+   "type": "hazard",
+   "label": "Resten Bommenede: niet duiken",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gb-2",
+   "x": -122.6,
+   "y": -126.5,
+   "type": "buoy",
+   "label": "GB 2",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "g-36",
+   "x": 253.1,
+   "y": 155.4,
+   "type": "buoy",
+   "label": "G 36",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bommenede-rd",
+   "x": -175.9,
+   "y": -44.0,
+   "type": "marker",
+   "label": "Havenmond",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "haven",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -237.4,
+     "y": -82.6
+    },
+    {
+     "x": -182.7,
+     "y": -62.5
+    },
+    {
+     "x": -188.9,
+     "y": -58.6
+    },
+    {
+     "x": -193.4,
+     "y": -46.1
+    },
+    {
+     "x": -200.5,
+     "y": -24.1
+    },
+    {
+     "x": -202.4,
+     "y": -16.4
+    },
+    {
+     "x": -197.8,
+     "y": 10.7
+    },
+    {
+     "x": -192.9,
+     "y": 19.1
+    },
+    {
+     "x": -193.8,
+     "y": 30.2
+    },
+    {
+     "x": -269.7,
+     "y": 273.4
+    }
+   ]
+  },
+  {
+   "id": "kop",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -212.7,
+     "y": 187.0
+    },
+    {
+     "x": -193.9,
+     "y": 131.1
+    },
+    {
+     "x": -164.2,
+     "y": 40.9
+    },
+    {
+     "x": -150.7,
+     "y": 0.5
+    },
+    {
+     "x": -155.6,
+     "y": 0.2
+    },
+    {
+     "x": -155.7,
+     "y": -14.1
+    },
+    {
+     "x": -159.8,
+     "y": -22.1
+    },
+    {
+     "x": -166.8,
+     "y": -30.6
+    },
+    {
+     "x": -171.1,
+     "y": -31.7
+    },
+    {
+     "x": -177.5,
+     "y": -29.7
+    },
+    {
+     "x": -182.4,
+     "y": -27.6
+    },
+    {
+     "x": -175.8,
+     "y": -49.2
+    },
+    {
+     "x": -179.0,
+     "y": -50.1
+    },
+    {
+     "x": -181.3,
+     "y": -50.8
+    },
+    {
+     "x": -191.5,
+     "y": -21.1
+    },
+    {
+     "x": -185.9,
+     "y": -18.3
+    },
+    {
+     "x": -192.1,
+     "y": -13.2
+    },
+    {
+     "x": -202.4,
+     "y": -16.4
+    },
+    {
+     "x": -200.5,
+     "y": -24.1
+    },
+    {
+     "x": -193.4,
+     "y": -46.1
+    },
+    {
+     "x": -188.9,
+     "y": -58.6
+    },
+    {
+     "x": -182.7,
+     "y": -62.5
+    },
+    {
+     "x": -176.1,
+     "y": -64.3
+    },
+    {
+     "x": -169.3,
+     "y": -64.3
+    },
+    {
+     "x": -158.9,
+     "y": -62.0
+    },
+    {
+     "x": -150.5,
+     "y": -55.2
+    },
+    {
+     "x": -144.9,
+     "y": -50.1
+    },
+    {
+     "x": -140.5,
+     "y": -44.3
+    },
+    {
+     "x": -130.8,
+     "y": -33.8
+    },
+    {
+     "x": -127.9,
+     "y": -28.6
+    },
+    {
+     "x": -128.2,
+     "y": -12.2
+    },
+    {
+     "x": -128.6,
+     "y": -4.7
+    },
+    {
+     "x": -131.5,
+     "y": 4.4
+    },
+    {
+     "x": -134.5,
+     "y": 6.6
+    },
+    {
+     "x": -142.8,
+     "y": 5.6
+    },
+    {
+     "x": -158.1,
+     "y": 50.0
+    },
+    {
+     "x": -163.4,
+     "y": 65.5
+    },
+    {
+     "x": -202.8,
+     "y": 184.7
+    },
+    {
+     "x": -212.7,
+     "y": 187.0
+    }
+   ]
+  },
+  {
+   "id": "krib",
+   "kind": "wall",
+   "label": "Krib",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -54.5,
+     "y": 106.1
+    },
+    {
+     "x": -7.2,
+     "y": 85.8
+    },
+    {
+     "x": 126.6,
+     "y": 171.0
+    },
+    {
+     "x": 127.7,
+     "y": 175.6
+    },
+    {
+     "x": 126.2,
+     "y": 177.7
+    },
+    {
+     "x": 116.8,
+     "y": 173.2
+    },
+    {
+     "x": -9.1,
+     "y": 94.1
+    },
+    {
+     "x": -48.8,
+     "y": 111.9
+    },
+    {
+     "x": -49.2,
+     "y": 110.9
+    },
+    {
+     "x": -54.0,
+     "y": 106.3
+    },
+    {
+     "x": -54.5,
+     "y": 106.1
+    }
+   ]
+  },
+  {
+   "id": "kust-oost",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -59.6,
+     "y": 236.9
+    },
+    {
+     "x": -56.2,
+     "y": 244.8
+    },
+    {
+     "x": -55.9,
+     "y": 259.8
+    },
+    {
+     "x": -54.3,
+     "y": 270.8
+    },
+    {
+     "x": -53.2,
+     "y": 278.0
+    },
+    {
+     "x": -50.7,
+     "y": 285.1
+    },
+    {
+     "x": -42.5,
+     "y": 293.3
+    },
+    {
+     "x": -34.5,
+     "y": 298.7
+    },
+    {
+     "x": -22.9,
+     "y": 300.8
+    },
+    {
+     "x": -12.1,
+     "y": 300.2
+    },
+    {
+     "x": 9.2,
+     "y": 293.5
+    },
+    {
+     "x": 18.7,
+     "y": 289.3
+    },
+    {
+     "x": 28.6,
+     "y": 288.3
+    },
+    {
+     "x": 50.3,
+     "y": 288.8
+    },
+    {
+     "x": 67.6,
+     "y": 289.7
+    },
+    {
+     "x": 79.4,
+     "y": 289.9
+    },
+    {
+     "x": 91.6,
+     "y": 289.7
+    },
+    {
+     "x": 102.9,
+     "y": 288.2
+    },
+    {
+     "x": 115.4,
+     "y": 282.5
+    },
+    {
+     "x": 117.9,
+     "y": 277.0
+    },
+    {
+     "x": 118.1,
+     "y": 267.4
+    },
+    {
+     "x": 114.9,
+     "y": 256.0
+    },
+    {
+     "x": 105.3,
+     "y": 242.3
+    },
+    {
+     "x": 100.4,
+     "y": 226.9
+    },
+    {
+     "x": 95.7,
+     "y": 201.7
+    },
+    {
+     "x": 94.1,
+     "y": 197.0
+    },
+    {
+     "x": 90.5,
+     "y": 196.6
+    },
+    {
+     "x": 80.6,
+     "y": 197.8
+    },
+    {
+     "x": 70.3,
+     "y": 198.5
+    },
+    {
+     "x": 57.8,
+     "y": 196.7
+    },
+    {
+     "x": 43.8,
+     "y": 194.9
+    },
+    {
+     "x": 25.1,
+     "y": 195.3
+    },
+    {
+     "x": 14.7,
+     "y": 192.9
+    },
+    {
+     "x": 0.4,
+     "y": 183.7
+    },
+    {
+     "x": -3.3,
+     "y": 180.2
+    },
+    {
+     "x": -16.4,
+     "y": 169.6
+    },
+    {
+     "x": -30.1,
+     "y": 159.0
+    },
+    {
+     "x": -34.4,
+     "y": 152.9
+    },
+    {
+     "x": -38.8,
+     "y": 141.6
+    },
+    {
+     "x": -45.4,
+     "y": 120.6
+    },
+    {
+     "x": -48.8,
+     "y": 111.9
+    },
+    {
+     "x": -9.1,
+     "y": 94.1
+    },
+    {
+     "x": 116.8,
+     "y": 173.2
+    },
+    {
+     "x": 126.2,
+     "y": 177.7
+    },
+    {
+     "x": 127.7,
+     "y": 175.6
+    },
+    {
+     "x": 126.6,
+     "y": 171.0
+    },
+    {
+     "x": -7.2,
+     "y": 85.8
+    },
+    {
+     "x": -54.5,
+     "y": 106.1
+    }
+   ]
+  },
+  {
+   "id": "oever-instap",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -158.1,
+     "y": 49.9
+    },
+    {
+     "x": -105.1,
+     "y": 95.9
+    },
+    {
+     "x": -74.1,
+     "y": 99.9
+    },
+    {
+     "x": -49.1,
+     "y": 111.9
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "kind": "depth",
+   "label": "",
+   "depth": 3.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -282.7,
+     "y": -215.1
+    },
+    {
+     "x": -184.5,
+     "y": -89.2
+    },
+    {
+     "x": -68.6,
+     "y": -13.5
+    },
+    {
+     "x": 43.1,
+     "y": 74.3
+    },
+    {
+     "x": 124.9,
+     "y": 165.9
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "kind": "depth",
+   "label": "",
+   "depth": 5.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -252.6,
+     "y": -300.7
+    },
+    {
+     "x": -151.2,
+     "y": -183.7
+    },
+    {
+     "x": -37.5,
+     "y": -101.6
+    },
+    {
+     "x": 75.0,
+     "y": -16.4
+    },
+    {
+     "x": 181.3,
+     "y": 86.7
+    },
+    {
+     "x": 282.6,
+     "y": 183.6
+    }
+   ]
+  },
+  {
+   "id": "waden",
+   "kind": "path",
+   "label": "Waden",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -92.1,
+     "y": 85.9
+    },
+    {
+     "x": -16.0,
+     "y": 69.9
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -16.0,
+     "y": 69.9
+    },
+    {
+     "x": 54.7,
+     "y": 41.4
+    },
+    {
+     "x": 113.1,
+     "y": 47.7
+    },
+    {
+     "x": 117.0,
+     "y": 66.9
+    },
+    {
+     "x": 82.7,
+     "y": 83.3
+    },
+    {
+     "x": 50.6,
+     "y": 93.4
+    },
+    {
+     "x": -6.1,
+     "y": 112.6
+    }
+   ]
+  }
+ ],
+ "notes": "Werkhaven Bommenede Oost, the shore entry just east of the mouth of the Delta Works construction harbour: wade out from the shore to the oyster and sponge fields at 5–7 m, with the fairway and its buoys close offshore and the drowned village of Bommenede in the channel, where diving is forbidden. Shore, groyne and buoys GB 2 and G 36 from OpenStreetMap; positions are approximate. The west side is a boat-only site, so the east basin is drawn. The site coordinates are the hamlet of Bommenede, 2.8 km west; the drawing is placed at the harbour relative to them.",
+ "origin": {
+  "lat": 51.732073,
+  "lon": 3.977511
+ },
+ "underlay": null,
+ "id": "nld-bommenede-1",
+ "site_id": "nld-bommenede",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:24:02.473456Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

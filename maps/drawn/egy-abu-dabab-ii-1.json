@@ -1,0 +1,495 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Abu Dabab 2",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "heaven-one",
+   "x": 14.0,
+   "y": 61.0,
+   "type": "object",
+   "label": "Heaven One (safari boat wreck)",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "coral-garden-north",
+   "x": -74.0,
+   "y": -12.0,
+   "type": "poi",
+   "label": "Coral garden",
+   "depth": 7.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacles-gap",
+   "x": 59.0,
+   "y": 5.0,
+   "type": "object",
+   "label": "Pinnacles 8-10 m",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-gap-2",
+   "x": 104.0,
+   "y": -5.0,
+   "type": "object",
+   "label": "",
+   "depth": 10.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-gap-3",
+   "x": 79.0,
+   "y": 30.0,
+   "type": "object",
+   "label": "",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacle-6",
+   "x": 46.0,
+   "y": 69.0,
+   "type": "object",
+   "label": "",
+   "depth": 8.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "canyon",
+   "x": 99.0,
+   "y": 70.0,
+   "type": "poi",
+   "label": "Canyon",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "canyon-west",
+   "x": 39.0,
+   "y": 100.0,
+   "type": "poi",
+   "label": "Canyon exit 14 m",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pinnacles-east",
+   "x": 219.0,
+   "y": 70.0,
+   "type": "object",
+   "label": "Pinnacles 12-20 m",
+   "depth": 12.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "entry",
+   "x": -106.0,
+   "y": -40.0,
+   "type": "entry",
+   "label": "Speedboat drop",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "abu-dabab-2",
+   "kind": "coral",
+   "label": "Abu Dabab 2 (north plateau)",
+   "depth": null,
+   "points": [
+    {
+     "x": -59.0,
+     "y": -141.5
+    },
+    {
+     "x": -82.4,
+     "y": -96.4
+    },
+    {
+     "x": -91.8,
+     "y": -60.0
+    },
+    {
+     "x": -78.1,
+     "y": -24.1
+    },
+    {
+     "x": -60.7,
+     "y": -4.2
+    },
+    {
+     "x": -26.9,
+     "y": -1.9
+    },
+    {
+     "x": 7.4,
+     "y": -18.7
+    },
+    {
+     "x": 57.5,
+     "y": -37.1
+    },
+    {
+     "x": 71.4,
+     "y": -28.1
+    },
+    {
+     "x": 79.5,
+     "y": -42.9
+    },
+    {
+     "x": 92.8,
+     "y": -49.8
+    },
+    {
+     "x": 92.8,
+     "y": -74.0
+    },
+    {
+     "x": 87.6,
+     "y": -116.3
+    },
+    {
+     "x": 22.6,
+     "y": -164.3
+    },
+    {
+     "x": -4.7,
+     "y": -169.5
+    }
+   ]
+  },
+  {
+   "id": "abu-dabab-3",
+   "kind": "coral",
+   "label": "Abu Dabab 3 (south plateau)",
+   "depth": null,
+   "points": [
+    {
+     "x": 224.3,
+     "y": 150.0
+    },
+    {
+     "x": 216.0,
+     "y": 118.2
+    },
+    {
+     "x": 192.8,
+     "y": 74.9
+    },
+    {
+     "x": 189.3,
+     "y": 8.7
+    },
+    {
+     "x": 196.4,
+     "y": -66.4
+    },
+    {
+     "x": 196.4,
+     "y": -98.2
+    },
+    {
+     "x": 168.8,
+     "y": -88.5
+    },
+    {
+     "x": 158.2,
+     "y": -55.8
+    },
+    {
+     "x": 147.5,
+     "y": 4.3
+    },
+    {
+     "x": 151.5,
+     "y": 23.9
+    },
+    {
+     "x": 118.6,
+     "y": 49.9
+    },
+    {
+     "x": 86.8,
+     "y": 55.4
+    },
+    {
+     "x": 42.2,
+     "y": 87.3
+    },
+    {
+     "x": 48.3,
+     "y": 110.3
+    },
+    {
+     "x": 42.8,
+     "y": 116.9
+    },
+    {
+     "x": 17.0,
+     "y": 104.1
+    },
+    {
+     "x": -1.0,
+     "y": 104.9
+    },
+    {
+     "x": -27.5,
+     "y": 126.1
+    },
+    {
+     "x": -32.2,
+     "y": 150.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "abu-dabab-2-wall",
+   "kind": "wall",
+   "label": "",
+   "depth": 10.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -59.0,
+     "y": -141.5
+    },
+    {
+     "x": -82.4,
+     "y": -96.4
+    },
+    {
+     "x": -91.8,
+     "y": -60.0
+    },
+    {
+     "x": -78.1,
+     "y": -24.1
+    },
+    {
+     "x": -60.7,
+     "y": -4.2
+    },
+    {
+     "x": -26.9,
+     "y": -1.9
+    },
+    {
+     "x": 7.4,
+     "y": -18.7
+    },
+    {
+     "x": 57.5,
+     "y": -37.1
+    },
+    {
+     "x": 71.4,
+     "y": -28.1
+    },
+    {
+     "x": 79.5,
+     "y": -42.9
+    },
+    {
+     "x": 92.8,
+     "y": -49.8
+    },
+    {
+     "x": 92.8,
+     "y": -74.0
+    },
+    {
+     "x": 87.6,
+     "y": -116.3
+    },
+    {
+     "x": 22.6,
+     "y": -164.3
+    },
+    {
+     "x": -4.7,
+     "y": -169.5
+    }
+   ]
+  },
+  {
+   "id": "abu-dabab-3-wall",
+   "kind": "wall",
+   "label": "",
+   "depth": 12.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 224.3,
+     "y": 150.0
+    },
+    {
+     "x": 216.0,
+     "y": 118.2
+    },
+    {
+     "x": 192.8,
+     "y": 74.9
+    },
+    {
+     "x": 189.3,
+     "y": 8.7
+    },
+    {
+     "x": 196.4,
+     "y": -66.4
+    },
+    {
+     "x": 196.4,
+     "y": -98.2
+    },
+    {
+     "x": 168.8,
+     "y": -88.5
+    },
+    {
+     "x": 158.2,
+     "y": -55.8
+    },
+    {
+     "x": 147.5,
+     "y": 4.3
+    },
+    {
+     "x": 151.5,
+     "y": 23.9
+    },
+    {
+     "x": 118.6,
+     "y": 49.9
+    },
+    {
+     "x": 86.8,
+     "y": 55.4
+    },
+    {
+     "x": 42.2,
+     "y": 87.3
+    },
+    {
+     "x": 48.3,
+     "y": 110.3
+    },
+    {
+     "x": 42.8,
+     "y": 116.9
+    },
+    {
+     "x": 17.0,
+     "y": 104.1
+    },
+    {
+     "x": -1.0,
+     "y": 104.9
+    },
+    {
+     "x": -27.5,
+     "y": 126.1
+    },
+    {
+     "x": -32.2,
+     "y": 150.0
+    }
+   ]
+  },
+  {
+   "id": "drift",
+   "kind": "path",
+   "label": "Drift along the south side",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -106.0,
+     "y": -40.0
+    },
+    {
+     "x": -86.0,
+     "y": -5.0
+    },
+    {
+     "x": -26.0,
+     "y": 5.0
+    },
+    {
+     "x": 14.0,
+     "y": -12.0
+    },
+    {
+     "x": 64.0,
+     "y": -25.0
+    },
+    {
+     "x": 99.0,
+     "y": -40.0
+    },
+    {
+     "x": 114.0,
+     "y": -70.0
+    }
+   ]
+  }
+ ],
+ "notes": "Abu Dabab 2 (Gota Abu Dabab 2, 'Abu Dabbab Ithnain') is an offshore reef about 3.5 km east of the Abu Dabab bay; the map shows it with the pinnacle-strewn gap to Abu Dabab 3, the Heaven One wreck, the canyon and the coral gardens. Reef outlines and the wreck position from OpenStreetMap (© OpenStreetMap contributors, ODbL); the pinnacles, canyon and depths are approximate, with the orientation assumed north-up. Heaven One is a burnt-out liveaboard (sunk 2003 per OSM, 2005 per other sources; 24 m per one web source) whose length is not known, so it is a symbol, not a hull outline. The drift line is a typical route, not a signed trail; positions are approximate.",
+ "origin": {
+  "lat": 25.347417,
+  "lon": 34.776649
+ },
+ "underlay": null,
+ "id": "egy-abu-dabab-ii-1",
+ "site_id": "egy-abu-dabab-ii",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:22:05.808042Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

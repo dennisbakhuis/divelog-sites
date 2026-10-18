@@ -1,0 +1,298 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "SS Maori",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "anchorage",
+   "x": 35.7,
+   "y": 134.6,
+   "type": "entry",
+   "label": "Boat anchorage (40 m off the split rock)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "split-rock",
+   "x": 99.8,
+   "y": 145.8,
+   "type": "poi",
+   "label": "Split rock",
+   "depth": 3.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sternpost",
+   "x": 90.4,
+   "y": 142.3,
+   "type": "object",
+   "label": "Sternpost and stern gland",
+   "depth": 7.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "engine",
+   "x": 38.4,
+   "y": 124.6,
+   "type": "object",
+   "label": "Triple-expansion engine",
+   "depth": 6.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boilers",
+   "x": 27.7,
+   "y": 118.8,
+   "type": "object",
+   "label": "Three Scotch boilers",
+   "depth": 10.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boiler-fallen",
+   "x": 32.5,
+   "y": 108.8,
+   "type": "object",
+   "label": "Boiler fallen alongside",
+   "depth": 11.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pipes",
+   "x": 14.6,
+   "y": 113.8,
+   "type": "object",
+   "label": "Cast-iron pipes, 1.2 m, stacked",
+   "depth": 13.0,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rails",
+   "x": 7.0,
+   "y": 105.7,
+   "type": "object",
+   "label": "Railway lines stacked on starboard",
+   "depth": 15.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "swim-under",
+   "x": 20.3,
+   "y": 116.0,
+   "type": "poi",
+   "label": "Swim-under beneath the hull, 1 m",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "flywheels",
+   "x": -4.6,
+   "y": 110.9,
+   "type": "object",
+   "label": "Small steam engines with flywheels",
+   "depth": 17.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bow",
+   "x": -8.9,
+   "y": 105.0,
+   "type": "object",
+   "label": "Offshore end of the wreck",
+   "depth": 21.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "maori-hull",
+   "kind": "wreck",
+   "label": "SS Maori (126 x 14.7 m), broken",
+   "depth": null,
+   "points": [
+    {
+     "x": 89.7,
+     "y": 149.9
+    },
+    {
+     "x": 94.9,
+     "y": 136.1
+    },
+    {
+     "x": -8.2,
+     "y": 97.4
+    },
+    {
+     "x": -13.4,
+     "y": 111.2
+    }
+   ]
+  },
+  {
+   "id": "rails-scatter",
+   "kind": "other",
+   "label": "Rails scattered over the reef",
+   "depth": null,
+   "points": [
+    {
+     "x": 19.1,
+     "y": 104.8
+    },
+    {
+     "x": -14.8,
+     "y": 92.1
+    },
+    {
+     "x": -10.6,
+     "y": 80.9
+    },
+    {
+     "x": 22.6,
+     "y": 95.5
+    }
+   ]
+  },
+  {
+   "id": "kelp",
+   "kind": "other",
+   "label": "Kelp and granite boulders",
+   "depth": null,
+   "points": [
+    {
+     "x": 114.5,
+     "y": 183.4
+    },
+    {
+     "x": 135.6,
+     "y": 127.2
+    },
+    {
+     "x": 83.4,
+     "y": 109.8
+    },
+    {
+     "x": 63.7,
+     "y": 162.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "prop-shaft",
+   "kind": "pipe",
+   "label": "Propeller shaft",
+   "depth": 7.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 38.4,
+     "y": 124.6
+    },
+    {
+     "x": 89.5,
+     "y": 141.9
+    }
+   ]
+  },
+  {
+   "id": "coast",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 220.5,
+     "y": -58.6
+    },
+    {
+     "x": 225.1,
+     "y": -29.9
+    },
+    {
+     "x": 208.5,
+     "y": -7.7
+    },
+    {
+     "x": 224.2,
+     "y": 21.0
+    },
+    {
+     "x": 226.9,
+     "y": 52.0
+    },
+    {
+     "x": 196.5,
+     "y": 111.7
+    },
+    {
+     "x": 166.1,
+     "y": 150.4
+    },
+    {
+     "x": 129.2,
+     "y": 180.2
+    },
+    {
+     "x": 107.9,
+     "y": 206.8
+    }
+   ]
+  }
+ ],
+ "notes": "The SS Maori (1893, 126 x 14.7 m, Wikipedia) wrecked in fog on 5 August 1909 in Maori Bay north of Duiker Point, lying stern inshore with the remains running about 112 m out along 314 degrees magnetic from 7 m at the sternpost to 21 m at the reef off the offshore end. Wreck ends, engine position, anchorage off the split rock and the layout of boilers, pipes, rails, flywheel engines and the 1 m gap under the hull come from the Wikivoyage 'Diving the Cape Peninsula and False Bay/SS Maori' guide; coastline from OpenStreetMap (the BOS 400 wreck, visible above water about 580 m south-west, is left off). Depths between the published 6, 7 and 21 m are interpolated along the hull, the split rock is placed inshore of the stern, and the Oakburn (1906) in the south-east corner of the bay is left off because its position was not found; all positions are approximate.",
+ "origin": {
+  "lat": -34.03324,
+  "lon": 18.3128
+ },
+ "underlay": null,
+ "id": "zaf-maori-wreck-1",
+ "site_id": "zaf-maori-wreck",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-30T04:31:06.740659Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

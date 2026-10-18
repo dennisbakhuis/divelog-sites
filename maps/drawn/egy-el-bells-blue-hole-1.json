@@ -1,0 +1,557 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "El Bells to the Blue Hole",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry-bells",
+   "x": 178.2,
+   "y": -137.3,
+   "type": "entry",
+   "label": "Entry El Bells (chimney)",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "chimney-exit",
+   "x": 189.6,
+   "y": -116.6,
+   "type": "poi",
+   "label": "Chimney opens onto the wall",
+   "depth": 27.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "archway",
+   "x": 185.7,
+   "y": -120.8,
+   "type": "poi",
+   "label": "Archway",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "exit-bh",
+   "x": -12.0,
+   "y": -45.0,
+   "type": "entry",
+   "label": "Exit Blue Hole",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "saddle-pt",
+   "x": 52.0,
+   "y": 0.0,
+   "type": "poi",
+   "label": "Saddle",
+   "depth": 7.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "arch",
+   "x": 42.0,
+   "y": 32.0,
+   "type": "poi",
+   "label": "The Arch: 26 m tunnel to the open sea, ceiling",
+   "depth": 55.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "hazard-arch",
+   "x": 60.0,
+   "y": 45.0,
+   "type": "hazard",
+   "label": "Deep: stay above the Arch",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "blue-hole",
+   "kind": "depth",
+   "label": "Blue Hole, over 100 m",
+   "depth": 100.0,
+   "points": [
+    {
+     "x": -45.0,
+     "y": 5.0
+    },
+    {
+     "x": -40.0,
+     "y": -20.0
+    },
+    {
+     "x": -20.0,
+     "y": -35.0
+    },
+    {
+     "x": 10.0,
+     "y": -38.0
+    },
+    {
+     "x": 35.0,
+     "y": -30.0
+    },
+    {
+     "x": 45.0,
+     "y": -12.0
+    },
+    {
+     "x": 48.0,
+     "y": 12.0
+    },
+    {
+     "x": 35.0,
+     "y": 33.0
+    },
+    {
+     "x": 10.0,
+     "y": 42.0
+    },
+    {
+     "x": -20.0,
+     "y": 38.0
+    },
+    {
+     "x": -40.0,
+     "y": 25.0
+    }
+   ]
+  },
+  {
+   "id": "reef-south",
+   "kind": "shallows",
+   "label": "Reef top",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -103.1,
+     "y": 1.6
+    },
+    {
+     "x": -50.0,
+     "y": -32.0
+    },
+    {
+     "x": -40.0,
+     "y": -20.0
+    },
+    {
+     "x": -45.0,
+     "y": 5.0
+    },
+    {
+     "x": -40.0,
+     "y": 25.0
+    },
+    {
+     "x": -20.0,
+     "y": 38.0
+    },
+    {
+     "x": 10.0,
+     "y": 42.0
+    },
+    {
+     "x": 0.0,
+     "y": 60.0
+    },
+    {
+     "x": -40.0,
+     "y": 60.0
+    },
+    {
+     "x": -80.0,
+     "y": 45.0
+    },
+    {
+     "x": -118.0,
+     "y": 30.0
+    }
+   ]
+  },
+  {
+   "id": "reef-north",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -40.0,
+     "y": -20.0
+    },
+    {
+     "x": -50.0,
+     "y": -32.0
+    },
+    {
+     "x": -24.4,
+     "y": -48.3
+    },
+    {
+     "x": 57.7,
+     "y": -74.2
+    },
+    {
+     "x": 89.4,
+     "y": -94.5
+    },
+    {
+     "x": 117.8,
+     "y": -94.0
+    },
+    {
+     "x": 126.2,
+     "y": -99.3
+    },
+    {
+     "x": 140.6,
+     "y": -115.4
+    },
+    {
+     "x": 154.2,
+     "y": -123.8
+    },
+    {
+     "x": 180.6,
+     "y": -133.7
+    },
+    {
+     "x": 195.2,
+     "y": -145.2
+    },
+    {
+     "x": 207.7,
+     "y": -149.3
+    },
+    {
+     "x": 224.2,
+     "y": -150.3
+    },
+    {
+     "x": 218.0,
+     "y": -162.0
+    },
+    {
+     "x": 205.0,
+     "y": -155.0
+    },
+    {
+     "x": 190.0,
+     "y": -140.0
+    },
+    {
+     "x": 160.0,
+     "y": -115.0
+    },
+    {
+     "x": 125.0,
+     "y": -90.0
+    },
+    {
+     "x": 95.0,
+     "y": -65.0
+    },
+    {
+     "x": 65.0,
+     "y": -42.0
+    },
+    {
+     "x": 45.0,
+     "y": -12.0
+    },
+    {
+     "x": 35.0,
+     "y": -30.0
+    },
+    {
+     "x": 10.0,
+     "y": -38.0
+    },
+    {
+     "x": -20.0,
+     "y": -35.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "x",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 248.9,
+     "y": -160.9
+    },
+    {
+     "x": 227.2,
+     "y": -159.4
+    },
+    {
+     "x": 224.2,
+     "y": -150.3
+    },
+    {
+     "x": 207.7,
+     "y": -149.3
+    },
+    {
+     "x": 202.0,
+     "y": -144.8
+    },
+    {
+     "x": 195.2,
+     "y": -145.2
+    },
+    {
+     "x": 180.6,
+     "y": -133.7
+    },
+    {
+     "x": 154.2,
+     "y": -123.8
+    },
+    {
+     "x": 140.6,
+     "y": -115.4
+    },
+    {
+     "x": 126.2,
+     "y": -99.3
+    },
+    {
+     "x": 117.8,
+     "y": -94.0
+    },
+    {
+     "x": 89.4,
+     "y": -94.5
+    },
+    {
+     "x": 57.7,
+     "y": -74.2
+    },
+    {
+     "x": -24.4,
+     "y": -48.3
+    },
+    {
+     "x": -103.1,
+     "y": 1.6
+    },
+    {
+     "x": -123.7,
+     "y": 32.1
+    },
+    {
+     "x": -140.1,
+     "y": 92.7
+    }
+   ]
+  },
+  {
+   "id": "wall",
+   "kind": "wall",
+   "label": "Wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 52.0,
+     "y": 10.0
+    },
+    {
+     "x": 60.0,
+     "y": -20.0
+    },
+    {
+     "x": 95.0,
+     "y": -55.0
+    },
+    {
+     "x": 125.0,
+     "y": -82.0
+    },
+    {
+     "x": 158.0,
+     "y": -108.0
+    },
+    {
+     "x": 178.0,
+     "y": -128.0
+    },
+    {
+     "x": 192.0,
+     "y": -140.0
+    },
+    {
+     "x": 215.0,
+     "y": -165.0
+    }
+   ]
+  },
+  {
+   "id": "saddle",
+   "kind": "wall",
+   "label": "Saddle 7 m",
+   "depth": 7.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 45.0,
+     "y": -12.0
+    },
+    {
+     "x": 52.0,
+     "y": 10.0
+    },
+    {
+     "x": 48.0,
+     "y": 12.0
+    }
+   ]
+  },
+  {
+   "id": "chimney",
+   "kind": "wall",
+   "label": "El Bells chimney",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 178.2,
+     "y": -137.3
+    },
+    {
+     "x": 184.1,
+     "y": -128.0
+    },
+    {
+     "x": 190.2,
+     "y": -117.4
+    }
+   ]
+  },
+  {
+   "id": "drift",
+   "kind": "path",
+   "label": "Bells to Blue Hole along the wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 179.6,
+     "y": -131.4
+    },
+    {
+     "x": 188.7,
+     "y": -118.5
+    },
+    {
+     "x": 191.8,
+     "y": -110.2
+    },
+    {
+     "x": 180.4,
+     "y": -104.7
+    },
+    {
+     "x": 161.2,
+     "y": -107.6
+    },
+    {
+     "x": 140.0,
+     "y": -95.4
+    },
+    {
+     "x": 113.3,
+     "y": -68.5
+    },
+    {
+     "x": 93.8,
+     "y": -47.9
+    },
+    {
+     "x": 73.6,
+     "y": -27.8
+    },
+    {
+     "x": 59.0,
+     "y": -5.8
+    },
+    {
+     "x": 55.0,
+     "y": 5.0
+    },
+    {
+     "x": 40.0,
+     "y": 15.0
+    },
+    {
+     "x": 20.0,
+     "y": 20.0
+    },
+    {
+     "x": 0.0,
+     "y": 5.0
+    },
+    {
+     "x": -10.0,
+     "y": -20.0
+    },
+    {
+     "x": -12.0,
+     "y": -44.0
+    }
+   ]
+  }
+ ],
+ "notes": "The classic traverse: in at El Bells, down the chimney to its opening onto the wall at about 27 m, then south along the wall (left when facing out) for about 250 m, over the saddle at 7 m into the Blue Hole and out on the reef flat. Positions are approximate. The Arch at 55 m (Wikipedia) is shown as a hazard; coastline from OpenStreetMap.",
+ "origin": {
+  "lat": 28.5723,
+  "lon": 34.53736
+ },
+ "underlay": null,
+ "id": "egy-el-bells-blue-hole-1",
+ "site_id": "egy-el-bells-blue-hole",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:07:16.211532Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

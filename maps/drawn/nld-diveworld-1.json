@@ -1,0 +1,517 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Duiktoren",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "flonder",
+   "x": -3.9,
+   "y": -4.5,
+   "type": "entry",
+   "label": "Flonder",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "trap",
+   "x": 4.9,
+   "y": -3.4,
+   "type": "entry",
+   "label": "Trap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-1-4",
+   "x": 2.4,
+   "y": -2.3,
+   "type": "platform",
+   "label": "Platform 1,4 m",
+   "depth": 1.4,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-5",
+   "x": 4.7,
+   "y": 0.8,
+   "type": "platform",
+   "label": "Platform 5 m",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-9",
+   "x": -4.2,
+   "y": 1.4,
+   "type": "object",
+   "label": "Platform 9 m",
+   "depth": 9.0,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boot",
+   "x": -1.4,
+   "y": -2.1,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ring-noord",
+   "x": 1.1,
+   "y": -1.4,
+   "type": "object",
+   "label": "Ring",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ring-zuid",
+   "x": -0.9,
+   "y": 2.4,
+   "type": "object",
+   "label": "Ring",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rots",
+   "x": 4.7,
+   "y": 4.1,
+   "type": "poi",
+   "label": "Rotswand (cenote)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bodem",
+   "x": -1.6,
+   "y": 4.4,
+   "type": "marker",
+   "label": "Bodem 10 m",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "ondiep-1-4",
+   "kind": "shallows",
+   "label": "",
+   "depth": 1.4,
+   "points": [
+    {
+     "x": 0.1,
+     "y": -6.3
+    },
+    {
+     "x": 0.1,
+     "y": -3.9
+    },
+    {
+     "x": 2.8,
+     "y": -3.3
+    },
+    {
+     "x": 3.8,
+     "y": -0.7
+    },
+    {
+     "x": 6.4,
+     "y": -0.7
+    },
+    {
+     "x": 6.1,
+     "y": -2.1
+    },
+    {
+     "x": 5.4,
+     "y": -3.6
+    },
+    {
+     "x": 4.4,
+     "y": -4.8
+    },
+    {
+     "x": 2.9,
+     "y": -5.8
+    },
+    {
+     "x": 1.4,
+     "y": -6.3
+    }
+   ]
+  },
+  {
+   "id": "ondiep-5",
+   "kind": "shallows",
+   "label": "",
+   "depth": 5.0,
+   "points": [
+    {
+     "x": 3.8,
+     "y": -0.7
+    },
+    {
+     "x": 2.9,
+     "y": 2.1
+    },
+    {
+     "x": 6.1,
+     "y": 2.0
+    },
+    {
+     "x": 6.4,
+     "y": 0.8
+    },
+    {
+     "x": 6.4,
+     "y": -0.7
+    }
+   ]
+  },
+  {
+   "id": "rots-area",
+   "kind": "other",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 3.5,
+     "y": 5.5
+    },
+    {
+     "x": 4.0,
+     "y": 3.9
+    },
+    {
+     "x": 4.8,
+     "y": 3.1
+    },
+    {
+     "x": 5.8,
+     "y": 2.6
+    },
+    {
+     "x": 5.9,
+     "y": 2.7
+    },
+    {
+     "x": 5.4,
+     "y": 3.6
+    },
+    {
+     "x": 4.6,
+     "y": 4.5
+    },
+    {
+     "x": 3.8,
+     "y": 5.2
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "bassinrand",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 0.0,
+     "y": -6.5
+    },
+    {
+     "x": 0.7,
+     "y": -6.5
+    },
+    {
+     "x": 1.4,
+     "y": -6.4
+    },
+    {
+     "x": 2.0,
+     "y": -6.2
+    },
+    {
+     "x": 2.6,
+     "y": -5.9
+    },
+    {
+     "x": 3.2,
+     "y": -5.6
+    },
+    {
+     "x": 3.8,
+     "y": -5.3
+    },
+    {
+     "x": 4.3,
+     "y": -4.8
+    },
+    {
+     "x": 4.8,
+     "y": -4.3
+    },
+    {
+     "x": 5.3,
+     "y": -3.8
+    },
+    {
+     "x": 5.6,
+     "y": -3.2
+    },
+    {
+     "x": 5.9,
+     "y": -2.6
+    },
+    {
+     "x": 6.2,
+     "y": -2.0
+    },
+    {
+     "x": 6.4,
+     "y": -1.4
+    },
+    {
+     "x": 6.5,
+     "y": -0.7
+    },
+    {
+     "x": 6.5,
+     "y": 0.0
+    },
+    {
+     "x": 6.5,
+     "y": 0.7
+    },
+    {
+     "x": 6.4,
+     "y": 1.4
+    },
+    {
+     "x": 6.2,
+     "y": 2.0
+    },
+    {
+     "x": 5.9,
+     "y": 2.6
+    },
+    {
+     "x": 5.6,
+     "y": 3.2
+    },
+    {
+     "x": 5.3,
+     "y": 3.8
+    },
+    {
+     "x": 4.8,
+     "y": 4.3
+    },
+    {
+     "x": 4.3,
+     "y": 4.8
+    },
+    {
+     "x": 3.8,
+     "y": 5.3
+    },
+    {
+     "x": 3.2,
+     "y": 5.6
+    },
+    {
+     "x": 2.6,
+     "y": 5.9
+    },
+    {
+     "x": 2.0,
+     "y": 6.2
+    },
+    {
+     "x": 1.4,
+     "y": 6.4
+    },
+    {
+     "x": 0.7,
+     "y": 6.5
+    },
+    {
+     "x": 0.0,
+     "y": 6.5
+    },
+    {
+     "x": -0.7,
+     "y": 6.5
+    },
+    {
+     "x": -1.4,
+     "y": 6.4
+    },
+    {
+     "x": -2.0,
+     "y": 6.2
+    },
+    {
+     "x": -2.6,
+     "y": 5.9
+    },
+    {
+     "x": -3.2,
+     "y": 5.6
+    },
+    {
+     "x": -3.8,
+     "y": 5.3
+    },
+    {
+     "x": -4.3,
+     "y": 4.8
+    },
+    {
+     "x": -4.8,
+     "y": 4.3
+    },
+    {
+     "x": -5.3,
+     "y": 3.8
+    },
+    {
+     "x": -5.6,
+     "y": 3.2
+    },
+    {
+     "x": -5.9,
+     "y": 2.6
+    },
+    {
+     "x": -6.2,
+     "y": 2.0
+    },
+    {
+     "x": -6.4,
+     "y": 1.4
+    },
+    {
+     "x": -6.5,
+     "y": 0.7
+    },
+    {
+     "x": -6.5,
+     "y": 0.0
+    },
+    {
+     "x": -6.5,
+     "y": -0.7
+    },
+    {
+     "x": -6.4,
+     "y": -1.4
+    },
+    {
+     "x": -6.2,
+     "y": -2.0
+    },
+    {
+     "x": -5.9,
+     "y": -2.6
+    },
+    {
+     "x": -5.6,
+     "y": -3.2
+    },
+    {
+     "x": -5.3,
+     "y": -3.8
+    },
+    {
+     "x": -4.8,
+     "y": -4.3
+    },
+    {
+     "x": -4.3,
+     "y": -4.8
+    },
+    {
+     "x": -3.8,
+     "y": -5.3
+    },
+    {
+     "x": -3.2,
+     "y": -5.6
+    },
+    {
+     "x": -2.6,
+     "y": -5.9
+    },
+    {
+     "x": -2.0,
+     "y": -6.2
+    },
+    {
+     "x": -1.4,
+     "y": -6.4
+    },
+    {
+     "x": -0.7,
+     "y": -6.5
+    }
+   ]
+  }
+ ],
+ "notes": "Plan of the 10 m DiveWorld dive tower: entry from the floating pontoon (flonder) or the stairs, shelves at 1.4 m and 5 m, a platform at 9 m on the 10 m floor, a small boat, two red rings and the cenote-style rock wall. Platform depths 1.4/5/9 m are from diveworld.nl and René Magazine; which grey shelf is 1.4 m and which is 5 m, and the object identities, are assumptions. The tower diameter (13 m) is derived from the published 1.3 million litres at 10 m depth, and north is not known; all positions are approximate.",
+ "origin": {
+  "lat": 52.2396,
+  "lon": 6.8336
+ },
+ "underlay": null,
+ "id": "nld-diveworld-1",
+ "site_id": "nld-diveworld",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:34:29.564168Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

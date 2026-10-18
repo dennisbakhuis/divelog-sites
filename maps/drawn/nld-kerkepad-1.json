@@ -1,0 +1,496 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Den Osse Nieuwe Kerkweg",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "g-64",
+   "x": -44.8,
+   "y": -109.5,
+   "type": "buoy",
+   "label": "G 64",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "steiger",
+   "x": -6.9,
+   "y": -16.3,
+   "type": "entry",
+   "label": "Steiger met trap",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld",
+   "x": -50.3,
+   "y": -48.1,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "betonplaten-west",
+   "x": -24.1,
+   "y": -74.6,
+   "type": "object",
+   "label": "Betonplaten",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "betonplaten-oost",
+   "x": 14.0,
+   "y": -79.4,
+   "type": "object",
+   "label": "Betonplaten",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "reefballs",
+   "x": 35.7,
+   "y": -75.0,
+   "type": "object",
+   "label": "Reefballs",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "basalt",
+   "x": -95.5,
+   "y": -19.4,
+   "type": "poi",
+   "label": "Basaltblokken",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "platen-west",
+   "kind": "other",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -26.6,
+     "y": -94.1
+    },
+    {
+     "x": -15.0,
+     "y": -91.0
+    },
+    {
+     "x": -21.7,
+     "y": -55.5
+    },
+    {
+     "x": -33.9,
+     "y": -58.1
+    }
+   ]
+  },
+  {
+   "id": "platen-oost",
+   "kind": "other",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": 0.1,
+     "y": -88.5
+    },
+    {
+     "x": 31.4,
+     "y": -78.3
+    },
+    {
+     "x": 30.7,
+     "y": -69.2
+    },
+    {
+     "x": -1.5,
+     "y": -75.2
+    }
+   ]
+  },
+  {
+   "id": "basaltveld",
+   "kind": "other",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -148.8,
+     "y": -4.4
+    },
+    {
+     "x": -129.6,
+     "y": -19.0
+    },
+    {
+     "x": -90.6,
+     "y": -32.6
+    },
+    {
+     "x": -46.2,
+     "y": -43.0
+    },
+    {
+     "x": -44.4,
+     "y": -33.6
+    },
+    {
+     "x": -87.3,
+     "y": -14.9
+    },
+    {
+     "x": -137.1,
+     "y": 5.6
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "wall-de-muur-0",
+   "kind": "wall",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 0.2,
+     "y": 1.8
+    },
+    {
+     "x": -6.9,
+     "y": -16.2
+    }
+   ]
+  },
+  {
+   "id": "shoreline-grevelingenmeer-2-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 260.0,
+     "y": -67.5
+    },
+    {
+     "x": 67.9,
+     "y": -20.1
+    },
+    {
+     "x": -133.6,
+     "y": 43.8
+    },
+    {
+     "x": -191.2,
+     "y": 60.0
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "kind": "depth",
+   "label": "",
+   "depth": 4.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -154.4,
+     "y": 4.5
+    },
+    {
+     "x": -140.1,
+     "y": 2.8
+    },
+    {
+     "x": -86.8,
+     "y": -12.3
+    },
+    {
+     "x": -51.4,
+     "y": -19.3
+    },
+    {
+     "x": -16.8,
+     "y": -29.6
+    },
+    {
+     "x": 17.8,
+     "y": -40.3
+    },
+    {
+     "x": 52.7,
+     "y": -49.7
+    },
+    {
+     "x": 87.6,
+     "y": -59.0
+    },
+    {
+     "x": 120.1,
+     "y": -67.7
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "kind": "depth",
+   "label": "",
+   "depth": 7.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -158.3,
+     "y": -15.8
+    },
+    {
+     "x": -125.3,
+     "y": -22.1
+    },
+    {
+     "x": -90.5,
+     "y": -32.1
+    },
+    {
+     "x": -55.9,
+     "y": -42.4
+    },
+    {
+     "x": -21.2,
+     "y": -52.9
+    },
+    {
+     "x": 13.7,
+     "y": -62.2
+    },
+    {
+     "x": 48.7,
+     "y": -70.4
+    },
+    {
+     "x": 83.7,
+     "y": -79.0
+    },
+    {
+     "x": 116.4,
+     "y": -87.0
+    }
+   ]
+  },
+  {
+   "id": "d15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -162.1,
+     "y": -36.0
+    },
+    {
+     "x": -129.0,
+     "y": -41.4
+    },
+    {
+     "x": -93.8,
+     "y": -49.1
+    },
+    {
+     "x": -58.5,
+     "y": -56.3
+    },
+    {
+     "x": -23.1,
+     "y": -63.0
+    },
+    {
+     "x": 12.2,
+     "y": -69.8
+    },
+    {
+     "x": 47.6,
+     "y": -76.5
+    },
+    {
+     "x": 82.9,
+     "y": -83.3
+    },
+    {
+     "x": 115.9,
+     "y": -89.6
+    }
+   ]
+  },
+  {
+   "id": "strekdam",
+   "kind": "wall",
+   "label": "Oude strekdam",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -86.6,
+     "y": -50.0
+    },
+    {
+     "x": -58.8,
+     "y": -57.7
+    },
+    {
+     "x": -38.2,
+     "y": -65.1
+    },
+    {
+     "x": -24.7,
+     "y": -84.2
+    },
+    {
+     "x": -11.4,
+     "y": -103.9
+    },
+    {
+     "x": 5.7,
+     "y": -116.9
+    },
+    {
+     "x": 30.6,
+     "y": -127.1
+    }
+   ]
+  },
+  {
+   "id": "route-west",
+   "kind": "path",
+   "label": "Route",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -15.6,
+     "y": -23.7
+    },
+    {
+     "x": -40.1,
+     "y": -49.5
+    },
+    {
+     "x": -63.0,
+     "y": -67.2
+    },
+    {
+     "x": -96.3,
+     "y": -62.0
+    },
+    {
+     "x": -110.8,
+     "y": -36.1
+    },
+    {
+     "x": -103.0,
+     "y": -20.5
+    },
+    {
+     "x": -80.2,
+     "y": -16.2
+    },
+    {
+     "x": -25.7,
+     "y": -25.4
+    }
+   ]
+  },
+  {
+   "id": "route-oost",
+   "kind": "path",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -9.7,
+     "y": -24.8
+    },
+    {
+     "x": -14.1,
+     "y": -66.7
+    },
+    {
+     "x": -4.4,
+     "y": -93.0
+    },
+    {
+     "x": 13.4,
+     "y": -101.8
+    },
+    {
+     "x": 39.0,
+     "y": -95.9
+    },
+    {
+     "x": 44.0,
+     "y": -82.7
+    },
+    {
+     "x": 35.3,
+     "y": -63.9
+    },
+    {
+     "x": -1.9,
+     "y": -34.8
+    }
+   ]
+  }
+ ],
+ "notes": "Den Osse Nieuwe Kerkweg (also called Kerkepad): the steiger with its steps, the basalt field and old dike to the west, the concrete slabs on the old strekdam straight out and the reefballs to the east, with the 4/7/15 m contours and the two usual loops; the slope continues to about 30 m past the fairway buoy. Steiger, buoy G 64 and shoreline from OpenStreetMap; positions are approximate.",
+ "origin": {
+  "lat": 51.74271,
+  "lon": 3.87965
+ },
+ "underlay": null,
+ "id": "nld-kerkepad-1",
+ "site_id": "nld-kerkepad",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:47:48.519278Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

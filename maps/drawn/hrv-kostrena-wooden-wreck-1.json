@@ -1,0 +1,169 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Kostrena house reef",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": -33.7,
+   "y": 27.3,
+   "type": "entry",
+   "label": "Diving Center Kostrena",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "plateau",
+   "x": -41.5,
+   "y": 33.5,
+   "type": "poi",
+   "label": "Plateau 0.5-12 m",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "wreck",
+   "x": -76.7,
+   "y": 61.5,
+   "type": "object",
+   "label": "Schooner Kostrena, 29-42 m (indicative)",
+   "depth": 36.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "shore-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -87.6,
+     "y": -199.5
+    },
+    {
+     "x": -76.9,
+     "y": -184.0
+    },
+    {
+     "x": -54.7,
+     "y": -141.4
+    },
+    {
+     "x": -38.8,
+     "y": -126.7
+    },
+    {
+     "x": -48.8,
+     "y": -77.2
+    },
+    {
+     "x": -55.3,
+     "y": -70.0
+    },
+    {
+     "x": -60.4,
+     "y": -49.6
+    },
+    {
+     "x": -49.4,
+     "y": -38.2
+    },
+    {
+     "x": -46.5,
+     "y": 11.5
+    },
+    {
+     "x": 18.0,
+     "y": 91.1
+    },
+    {
+     "x": 72.2,
+     "y": 198.0
+    },
+    {
+     "x": 74.4,
+     "y": 199.5
+    }
+   ]
+  },
+  {
+   "id": "drop-off",
+   "kind": "wall",
+   "label": "Drop-off 11-12 m to 40 m",
+   "depth": 12.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -60.6,
+     "y": -120.0
+    },
+    {
+     "x": -67.3,
+     "y": -86.5
+    },
+    {
+     "x": -74.1,
+     "y": -76.7
+    },
+    {
+     "x": -80.4,
+     "y": -50.4
+    },
+    {
+     "x": -78.3,
+     "y": -40.7
+    },
+    {
+     "x": -68.9,
+     "y": -29.6
+    },
+    {
+     "x": -65.1,
+     "y": 18.7
+    },
+    {
+     "x": 1.1,
+     "y": 102.0
+    },
+    {
+     "x": 35.8,
+     "y": 170.3
+    }
+   ]
+  }
+ ],
+ "notes": "Sparse map of the Kostrena house reef in front of Diving Center Kostrena (OpenStreetMap), used here because the site coordinates are a general Kostrena point 1.8 km east. The reef is a plateau from 0.5 to 12 m and then a steep reef to about 40 m, the edge some 15-20 m off the shore (dckostrena.hr, ScubaBoard trip report 2009); the edge is drawn along the OSM shoreline. The wooden wreck is taken to be the 'Schooner Kostrena' listed by krnicadive.com (42 x 9.4 m, 555 GRT, sunk in bad weather, 29-42 m); its position is not published, so it is marked as an indicative point on the slope below the dive centre and no hull is drawn.",
+ "origin": {
+  "lat": 45.30311,
+  "lon": 14.48868
+ },
+ "underlay": null,
+ "id": "hrv-kostrena-wooden-wreck-1",
+ "site_id": "hrv-kostrena-wooden-wreck",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:40:47.132248Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

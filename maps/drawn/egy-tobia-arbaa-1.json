@@ -1,0 +1,285 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Tobia Arbaa",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "pillar-w",
+   "x": -38.9,
+   "y": 16.2,
+   "type": "object",
+   "label": "Pillar",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-sw",
+   "x": -6.8,
+   "y": 10.8,
+   "type": "object",
+   "label": "Pillar",
+   "depth": 14.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-n-a",
+   "x": -2.2,
+   "y": -15.1,
+   "type": "object",
+   "label": "Split pillar",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-n-b",
+   "x": -6.5,
+   "y": -7.2,
+   "type": "object",
+   "label": "",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-c-a",
+   "x": 23.0,
+   "y": -11.5,
+   "type": "object",
+   "label": "Split pillar",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-c-b",
+   "x": 21.6,
+   "y": -1.8,
+   "type": "object",
+   "label": "",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-e-a",
+   "x": 39.2,
+   "y": -4.7,
+   "type": "object",
+   "label": "Pillar",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "pillar-e-b",
+   "x": 36.7,
+   "y": 1.1,
+   "type": "object",
+   "label": "",
+   "depth": 13.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "mooring",
+   "x": -5.8,
+   "y": 22.3,
+   "type": "buoy",
+   "label": "Moorings",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "sand",
+   "kind": "sand",
+   "label": "Sand 12-15 m",
+   "depth": 14.0,
+   "points": [
+    {
+     "x": 56.4,
+     "y": 0.0
+    },
+    {
+     "x": 53.7,
+     "y": 10.8
+    },
+    {
+     "x": 45.9,
+     "y": 20.6
+    },
+    {
+     "x": 33.8,
+     "y": 28.3
+    },
+    {
+     "x": 18.4,
+     "y": 33.3
+    },
+    {
+     "x": 1.4,
+     "y": 35.0
+    },
+    {
+     "x": -15.6,
+     "y": 33.3
+    },
+    {
+     "x": -30.9,
+     "y": 28.3
+    },
+    {
+     "x": -43.1,
+     "y": 20.6
+    },
+    {
+     "x": -50.9,
+     "y": 10.8
+    },
+    {
+     "x": -53.6,
+     "y": 0.0
+    },
+    {
+     "x": -50.9,
+     "y": -10.8
+    },
+    {
+     "x": -43.1,
+     "y": -20.6
+    },
+    {
+     "x": -30.9,
+     "y": -28.3
+    },
+    {
+     "x": -15.6,
+     "y": -33.3
+    },
+    {
+     "x": 1.4,
+     "y": -35.0
+    },
+    {
+     "x": 18.4,
+     "y": -33.3
+    },
+    {
+     "x": 33.8,
+     "y": -28.3
+    },
+    {
+     "x": 45.9,
+     "y": -20.6
+    },
+    {
+     "x": 53.7,
+     "y": -10.8
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Swim round the pillars",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -5.8,
+     "y": 22.3
+    },
+    {
+     "x": -31.0,
+     "y": 22.3
+    },
+    {
+     "x": -43.6,
+     "y": 14.4
+    },
+    {
+     "x": -23.8,
+     "y": 5.4
+    },
+    {
+     "x": -9.4,
+     "y": -18.0
+    },
+    {
+     "x": 10.4,
+     "y": -18.0
+    },
+    {
+     "x": 30.2,
+     "y": -14.4
+    },
+    {
+     "x": 46.4,
+     "y": -3.6
+    },
+    {
+     "x": 41.0,
+     "y": 7.2
+    },
+    {
+     "x": 23.0,
+     "y": 5.4
+    },
+    {
+     "x": 6.8,
+     "y": 1.8
+    },
+    {
+     "x": -5.8,
+     "y": 22.3
+    }
+   ]
+  }
+ ],
+ "notes": "Tobia Arbaa, the Seven Pillars: the coral pillars standing on sand at 12-15 m (five towers, two of them split, so eight heads), the moorings south of them and the swim from pillar to pillar, placed at the dive-centre coordinates (26.83664, 33.99132); positions and depths are approximate.",
+ "origin": {
+  "lat": 26.83664,
+  "lon": 33.99132
+ },
+ "underlay": null,
+ "id": "egy-tobia-arbaa-1",
+ "site_id": "egy-tobia-arbaa",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:17:19.486054Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

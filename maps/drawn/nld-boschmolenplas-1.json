@@ -1,0 +1,1336 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Onderwaterpark Boschmolenplas",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "instap-1",
+   "x": 24.2,
+   "y": 128.4,
+   "type": "entry",
+   "label": "Instap 1",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-2",
+   "x": -14.3,
+   "y": 131.4,
+   "type": "entry",
+   "label": "Instap 2",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-3",
+   "x": -79.2,
+   "y": 135.1,
+   "type": "entry",
+   "label": "Instap 3",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "instap-4",
+   "x": -129.6,
+   "y": 144.9,
+   "type": "entry",
+   "label": "Instap 4",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "duiklocatie-boschmolenplas",
+   "x": 31.6,
+   "y": 186.6,
+   "type": "poi",
+   "label": "Duikcentrum",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zosters",
+   "x": -187.2,
+   "y": 38.9,
+   "type": "object",
+   "label": "Zösters",
+   "depth": 15.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "apache",
+   "x": -197.4,
+   "y": 63.4,
+   "type": "object",
+   "label": "Apache (helikopter)",
+   "depth": 11.5,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kantelaar",
+   "x": -150.6,
+   "y": 68.9,
+   "type": "object",
+   "label": "Kantelaar",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "lena",
+   "x": -173.5,
+   "y": 99.0,
+   "type": "object",
+   "label": "Lena",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "saint-exupery",
+   "x": -147.9,
+   "y": 117.7,
+   "type": "object",
+   "label": "Saint Exupery",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "freedive",
+   "x": -133.4,
+   "y": 5.4,
+   "type": "object",
+   "label": "Freedive",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "santa-maria",
+   "x": -105.4,
+   "y": 51.1,
+   "type": "object",
+   "label": "Santa Maria",
+   "depth": 27.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bluegill",
+   "x": -63.5,
+   "y": 20.4,
+   "type": "object",
+   "label": "BlueGill",
+   "depth": 16.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "maya",
+   "x": -3.3,
+   "y": -12.2,
+   "type": "object",
+   "label": "Maya",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "j-arrive",
+   "x": 8.4,
+   "y": -0.9,
+   "type": "object",
+   "label": "J'arrive",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "willy",
+   "x": 70.3,
+   "y": -30.1,
+   "type": "object",
+   "label": "Willy",
+   "depth": 23.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "hut-ome-jan",
+   "x": 146.7,
+   "y": -15.2,
+   "type": "object",
+   "label": "Hut Ome Jan",
+   "depth": null,
+   "object_kind": "house",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "poseidon",
+   "x": 82.9,
+   "y": 22.6,
+   "type": "object",
+   "label": "Poseidon",
+   "depth": 24.0,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-24",
+   "x": 64.8,
+   "y": 10.3,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "eiffeltoren",
+   "x": 51.2,
+   "y": 32.8,
+   "type": "object",
+   "label": "Eiffeltoren",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zeilboot",
+   "x": 61.7,
+   "y": 35.7,
+   "type": "object",
+   "label": "Zeilboot",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fiets",
+   "x": 76.8,
+   "y": 48.0,
+   "type": "object",
+   "label": "Fiets",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "anker-oost",
+   "x": 32.4,
+   "y": 46.6,
+   "type": "object",
+   "label": "Anker",
+   "depth": null,
+   "object_kind": "anchor",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vliegtuig-oost",
+   "x": 116.8,
+   "y": 23.5,
+   "type": "object",
+   "label": "Vliegtuig",
+   "depth": null,
+   "object_kind": "plane",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buis",
+   "x": 147.6,
+   "y": 54.6,
+   "type": "object",
+   "label": "Buis",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bootje-oost",
+   "x": 89.7,
+   "y": 76.7,
+   "type": "object",
+   "label": "Bootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "piratenschip",
+   "x": -63.8,
+   "y": 75.2,
+   "type": "object",
+   "label": "Galjoen",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "schatkisten",
+   "x": -75.1,
+   "y": 90.3,
+   "type": "object",
+   "label": "Schatkisten",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "anker",
+   "x": -72.0,
+   "y": 97.7,
+   "type": "object",
+   "label": "Anker",
+   "depth": null,
+   "object_kind": "anchor",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "kanon",
+   "x": -86.8,
+   "y": 102.3,
+   "type": "object",
+   "label": "Kanon",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vuurtoren",
+   "x": -74.2,
+   "y": 110.6,
+   "type": "object",
+   "label": "Vuurtoren",
+   "depth": null,
+   "object_kind": "lighthouse",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "bootje",
+   "x": -61.3,
+   "y": 111.5,
+   "type": "object",
+   "label": "Bootje",
+   "depth": 4.0,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "black-johny",
+   "x": -37.8,
+   "y": 117.2,
+   "type": "object",
+   "label": "Black Johny",
+   "depth": null,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "molen",
+   "x": -117.5,
+   "y": 112.2,
+   "type": "object",
+   "label": "Molen",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "project-aware",
+   "x": -99.5,
+   "y": 115.0,
+   "type": "object",
+   "label": "Project Aware",
+   "depth": null,
+   "object_kind": "cage",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "piramides",
+   "x": -124.7,
+   "y": 127.9,
+   "type": "object",
+   "label": "Piramides",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "amforen-west",
+   "x": -91.9,
+   "y": 20.7,
+   "type": "object",
+   "label": "Amforen",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "amforen",
+   "x": -8.3,
+   "y": 14.2,
+   "type": "object",
+   "label": "Amforen",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomstronk",
+   "x": -68.1,
+   "y": 3.5,
+   "type": "object",
+   "label": "Boomstronk",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "boomwortels",
+   "x": -3.0,
+   "y": 32.1,
+   "type": "object",
+   "label": "Boomwortels",
+   "depth": null,
+   "object_kind": "tree",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "raket-1",
+   "x": -21.7,
+   "y": 56.8,
+   "type": "object",
+   "label": "Raket",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "raket-2",
+   "x": 3.6,
+   "y": 49.0,
+   "type": "object",
+   "label": "Raket",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto-zwart",
+   "x": -12.0,
+   "y": 72.5,
+   "type": "object",
+   "label": "Auto",
+   "depth": null,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "auto-rood",
+   "x": 23.2,
+   "y": 69.0,
+   "type": "object",
+   "label": "Auto",
+   "depth": null,
+   "object_kind": "car",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vliegtuig",
+   "x": -20.8,
+   "y": 125.5,
+   "type": "object",
+   "label": "Vliegtuig",
+   "depth": 4.0,
+   "object_kind": "plane",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "vliegtuig-rood",
+   "x": -11.4,
+   "y": 115.9,
+   "type": "object",
+   "label": "Vliegtuigje",
+   "depth": null,
+   "object_kind": "plane",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-1",
+   "x": -38.1,
+   "y": 98.3,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-2",
+   "x": 8.4,
+   "y": 76.7,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-3",
+   "x": 13.2,
+   "y": 85.1,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "platform-4",
+   "x": 44.9,
+   "y": 123.6,
+   "type": "object",
+   "label": "Platform",
+   "depth": null,
+   "object_kind": "platform",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "minion",
+   "x": 28.5,
+   "y": 89.0,
+   "type": "object",
+   "label": "Minion",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "toilet",
+   "x": 21.2,
+   "y": 100.9,
+   "type": "object",
+   "label": "Toilet",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "zeilbootje",
+   "x": 9.7,
+   "y": 97.7,
+   "type": "object",
+   "label": "Zeilbootje",
+   "depth": null,
+   "object_kind": "boat",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "computer-1",
+   "x": -4.2,
+   "y": 101.2,
+   "type": "object",
+   "label": "Computer",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "computer-2",
+   "x": 51.1,
+   "y": 107.6,
+   "type": "object",
+   "label": "Computer",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buis-2",
+   "x": 34.1,
+   "y": 97.4,
+   "type": "object",
+   "label": "Buis",
+   "depth": null,
+   "object_kind": "pipe",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "ligstoel",
+   "x": 50.9,
+   "y": 90.7,
+   "type": "object",
+   "label": "Ligstoel",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "fles",
+   "x": 62.1,
+   "y": 68.5,
+   "type": "object",
+   "label": "Fles",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "koepels",
+   "x": 70.8,
+   "y": 82.0,
+   "type": "object",
+   "label": "Koepels",
+   "depth": null,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-1",
+   "x": -124.2,
+   "y": 65.5,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-2",
+   "x": -119.2,
+   "y": 60.4,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-3",
+   "x": -156.2,
+   "y": 130.6,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-4",
+   "x": 71.1,
+   "y": 25.1,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-5",
+   "x": 89.0,
+   "y": 24.8,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-6",
+   "x": 38.8,
+   "y": 67.8,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-7",
+   "x": 73.1,
+   "y": 101.3,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-8",
+   "x": 112.5,
+   "y": 62.5,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-9",
+   "x": 119.2,
+   "y": 53.9,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-10",
+   "x": 126.5,
+   "y": 41.3,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "beeld-11",
+   "x": 133.7,
+   "y": 27.3,
+   "type": "object",
+   "label": "Beeld",
+   "depth": null,
+   "object_kind": "statue",
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [],
+ "lines": [
+  {
+   "id": "oever-boschmolenplas-1",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 248.8,
+     "y": -30.7
+    },
+    {
+     "x": 212.8,
+     "y": 25.6
+    },
+    {
+     "x": 181.8,
+     "y": 62.7
+    },
+    {
+     "x": 151.9,
+     "y": 89.2
+    },
+    {
+     "x": 116.4,
+     "y": 109.9
+    },
+    {
+     "x": 89.4,
+     "y": 122.1
+    },
+    {
+     "x": 33.5,
+     "y": 137.5
+    },
+    {
+     "x": 29.6,
+     "y": 142.3
+    },
+    {
+     "x": 20.5,
+     "y": 138.4
+    },
+    {
+     "x": -50.3,
+     "y": 136.5
+    },
+    {
+     "x": -69.5,
+     "y": 137.3
+    },
+    {
+     "x": -107.1,
+     "y": 147.6
+    },
+    {
+     "x": -180.8,
+     "y": 147.1
+    },
+    {
+     "x": -252.9,
+     "y": 142.8
+    }
+   ]
+  },
+  {
+   "id": "oever-boschmolenplas-0",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 195.8,
+     "y": -186.7
+    },
+    {
+     "x": 210.6,
+     "y": -163.9
+    },
+    {
+     "x": 219.1,
+     "y": -153.5
+    },
+    {
+     "x": 253.0,
+     "y": -125.2
+    }
+   ]
+  },
+  {
+   "id": "diepte-12",
+   "kind": "depth",
+   "label": "",
+   "depth": 12.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -214.3,
+     "y": 61.3
+    },
+    {
+     "x": -163.3,
+     "y": 79.2
+    },
+    {
+     "x": -112.4,
+     "y": 88.7
+    },
+    {
+     "x": -51.4,
+     "y": 86.3
+    },
+    {
+     "x": -24.4,
+     "y": 80.8
+    },
+    {
+     "x": 5.8,
+     "y": 60.1
+    },
+    {
+     "x": 36.1,
+     "y": 46.2
+    },
+    {
+     "x": 63.0,
+     "y": 32.3
+    },
+    {
+     "x": 86.5,
+     "y": 18.4
+    },
+    {
+     "x": 110.0,
+     "y": -2.2
+    },
+    {
+     "x": 133.4,
+     "y": -22.8
+    },
+    {
+     "x": 160.3,
+     "y": -43.5
+    },
+    {
+     "x": 173.5,
+     "y": -67.4
+    },
+    {
+     "x": 169.7,
+     "y": -101.2
+    }
+   ]
+  },
+  {
+   "id": "diepte-9",
+   "kind": "depth",
+   "label": "",
+   "depth": 9.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -213.9,
+     "y": 96.8
+    },
+    {
+     "x": -163.0,
+     "y": 102.9
+    },
+    {
+     "x": -112.2,
+     "y": 105.7
+    },
+    {
+     "x": -71.5,
+     "y": 105.2
+    },
+    {
+     "x": -44.5,
+     "y": 99.7
+    },
+    {
+     "x": -10.7,
+     "y": 95.9
+    },
+    {
+     "x": 16.4,
+     "y": 90.5
+    },
+    {
+     "x": 43.3,
+     "y": 76.6
+    },
+    {
+     "x": 70.1,
+     "y": 55.9
+    },
+    {
+     "x": 83.5,
+     "y": 42.2
+    },
+    {
+     "x": 100.2,
+     "y": 25.0
+    },
+    {
+     "x": 120.2,
+     "y": 4.5
+    },
+    {
+     "x": 140.3,
+     "y": -16.1
+    },
+    {
+     "x": 163.7,
+     "y": -40.1
+    },
+    {
+     "x": 180.3,
+     "y": -67.4
+    },
+    {
+     "x": 190.0,
+     "y": -99.7
+    }
+   ]
+  },
+  {
+   "id": "diepte-7",
+   "kind": "depth",
+   "label": "",
+   "depth": 7.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -213.5,
+     "y": 127.3
+    },
+    {
+     "x": -179.6,
+     "y": 125.2
+    },
+    {
+     "x": -145.8,
+     "y": 119.7
+    },
+    {
+     "x": -112.0,
+     "y": 119.2
+    },
+    {
+     "x": -84.9,
+     "y": 115.5
+    },
+    {
+     "x": -68.0,
+     "y": 111.9
+    },
+    {
+     "x": -54.4,
+     "y": 118.5
+    },
+    {
+     "x": -30.7,
+     "y": 121.6
+    },
+    {
+     "x": -3.6,
+     "y": 117.8
+    },
+    {
+     "x": 23.4,
+     "y": 110.7
+    },
+    {
+     "x": 57.2,
+     "y": 103.5
+    },
+    {
+     "x": 73.9,
+     "y": 89.7
+    },
+    {
+     "x": 90.6,
+     "y": 72.6
+    },
+    {
+     "x": 107.3,
+     "y": 52.0
+    },
+    {
+     "x": 120.6,
+     "y": 31.5
+    },
+    {
+     "x": 133.9,
+     "y": 11.1
+    },
+    {
+     "x": 153.9,
+     "y": -9.5
+    },
+    {
+     "x": 173.9,
+     "y": -33.5
+    },
+    {
+     "x": 190.4,
+     "y": -69.3
+    }
+   ]
+  },
+  {
+   "id": "diepte-3",
+   "kind": "depth",
+   "label": "",
+   "depth": 3.0,
+   "closed": false,
+   "points": [
+    {
+     "x": 40.5,
+     "y": 124.0
+    },
+    {
+     "x": 57.3,
+     "y": 117.0
+    },
+    {
+     "x": 74.1,
+     "y": 106.7
+    },
+    {
+     "x": 90.9,
+     "y": 92.9
+    },
+    {
+     "x": 107.6,
+     "y": 75.7
+    },
+    {
+     "x": 124.2,
+     "y": 51.8
+    },
+    {
+     "x": 137.6,
+     "y": 34.7
+    },
+    {
+     "x": 154.3,
+     "y": 17.6
+    },
+    {
+     "x": 174.3,
+     "y": -6.4
+    },
+    {
+     "x": 190.9,
+     "y": -33.7
+    }
+   ]
+  },
+  {
+   "id": "lijn",
+   "kind": "line",
+   "label": "Lijn",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -68.3,
+     "y": 68.2
+    },
+    {
+     "x": -51.9,
+     "y": 50.7
+    },
+    {
+     "x": -30.5,
+     "y": 26.4
+    },
+    {
+     "x": -15.1,
+     "y": 18.1
+    },
+    {
+     "x": -4.3,
+     "y": 15.2
+    },
+    {
+     "x": 16.8,
+     "y": -3.0
+    },
+    {
+     "x": 29.3,
+     "y": -11.6
+    },
+    {
+     "x": 40.2,
+     "y": -4.3
+    },
+    {
+     "x": 51.0,
+     "y": 16.9
+    },
+    {
+     "x": 63.5,
+     "y": 20.8
+    },
+    {
+     "x": 80.5,
+     "y": 23.9
+    },
+    {
+     "x": 93.3,
+     "y": 18.4
+    },
+    {
+     "x": 108.0,
+     "y": 3.3
+    }
+   ]
+  },
+  {
+   "id": "pier-3",
+   "kind": "wall",
+   "label": "Steiger",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 28.0,
+     "y": 142.9
+    },
+    {
+     "x": 26.5,
+     "y": 125.3
+    }
+   ]
+  },
+  {
+   "id": "pier-4",
+   "kind": "wall",
+   "label": "Steiger",
+   "depth": null,
+   "closed": true,
+   "points": [
+    {
+     "x": 26.2,
+     "y": 122.7
+    },
+    {
+     "x": 32.6,
+     "y": 122.2
+    },
+    {
+     "x": 32.8,
+     "y": 125.0
+    },
+    {
+     "x": 26.5,
+     "y": 125.3
+    }
+   ]
+  }
+ ],
+ "notes": "The four entries, the dive centre, the jetty and the shoreline come from OpenStreetMap, where the entries and several objects are mapped; the objects, their depths, the rope line and the 3/7/9/12 m contours are placed north up, so positions are approximate to perhaps 15 m. The small boat and the aeroplane lie at 4 m (OSM). OSM calls the Santa Maria a pirate ship at 13-15 m; it is drawn at 27 m next to a small boat.",
+ "origin": {
+  "lat": 51.180324,
+  "lon": 5.875144
+ },
+ "underlay": null,
+ "id": "nld-boschmolenplas-1",
+ "site_id": "nld-boschmolenplas",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:24:02.744191Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

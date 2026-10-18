@@ -1,0 +1,506 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Happy Life house reef",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "entry",
+   "x": -130.7,
+   "y": -15.8,
+   "type": "entry",
+   "label": "Happy Life beach / jetty",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gb-entry",
+   "x": -23.5,
+   "y": -43.8,
+   "type": "entry",
+   "label": "Golden Blocks entry",
+   "depth": 0.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-2",
+   "x": -44.0,
+   "y": 47.8,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-3",
+   "x": -115.9,
+   "y": 79.7,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "block-4",
+   "x": -127.3,
+   "y": 111.2,
+   "type": "object",
+   "label": "Coral block",
+   "depth": 7.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "golden-block-1",
+   "x": -65.0,
+   "y": 76.9,
+   "type": "object",
+   "label": "Golden Block",
+   "depth": 25.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "golden-block-2",
+   "x": -48.2,
+   "y": 77.9,
+   "type": "object",
+   "label": "Golden Block",
+   "depth": 25.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gorgonians",
+   "x": -142.8,
+   "y": 88.3,
+   "type": "poi",
+   "label": "Gorgonians",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "crack-south",
+   "x": -87.2,
+   "y": 121.0,
+   "type": "poi",
+   "label": "Crack",
+   "depth": 25.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef-flat-south",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": -180.7,
+     "y": 4.8
+    },
+    {
+     "x": -128.2,
+     "y": -14.5
+    },
+    {
+     "x": -71.0,
+     "y": -32.9
+    },
+    {
+     "x": -39.2,
+     "y": -41.7
+    },
+    {
+     "x": -38.2,
+     "y": -31.2
+    },
+    {
+     "x": -44.5,
+     "y": -14.9
+    },
+    {
+     "x": -57.1,
+     "y": -3.6
+    },
+    {
+     "x": -78.9,
+     "y": 5.8
+    },
+    {
+     "x": -107.0,
+     "y": 16.4
+    },
+    {
+     "x": -136.6,
+     "y": 23.6
+    },
+    {
+     "x": -157.6,
+     "y": 25.5
+    },
+    {
+     "x": -174.6,
+     "y": 26.2
+    }
+   ]
+  },
+  {
+   "id": "reef-flat-north",
+   "kind": "shallows",
+   "label": "Reef flat",
+   "depth": 0.5,
+   "points": [
+    {
+     "x": 18.0,
+     "y": -59.6
+    },
+    {
+     "x": 60.7,
+     "y": -78.5
+    },
+    {
+     "x": 130.2,
+     "y": -117.7
+    },
+    {
+     "x": 148.1,
+     "y": -86.9
+    },
+    {
+     "x": 111.0,
+     "y": -69.7
+    },
+    {
+     "x": 82.1,
+     "y": -58.4
+    },
+    {
+     "x": 51.7,
+     "y": -49.0
+    },
+    {
+     "x": 30.1,
+     "y": -46.8
+    },
+    {
+     "x": 20.6,
+     "y": -51.9
+    }
+   ]
+  },
+  {
+   "id": "sand-slope",
+   "kind": "sand",
+   "label": "Sand",
+   "depth": null,
+   "points": [
+    {
+     "x": -174.1,
+     "y": 28.0
+    },
+    {
+     "x": -116.2,
+     "y": 20.3
+    },
+    {
+     "x": -51.6,
+     "y": -5.4
+    },
+    {
+     "x": -37.9,
+     "y": -40.9
+    },
+    {
+     "x": 18.8,
+     "y": -57.4
+    },
+    {
+     "x": 41.5,
+     "y": -46.1
+    },
+    {
+     "x": 101.9,
+     "y": -64.8
+    },
+    {
+     "x": 148.7,
+     "y": -85.9
+    },
+    {
+     "x": 164.8,
+     "y": -58.1
+    },
+    {
+     "x": 68.4,
+     "y": -9.9
+    },
+    {
+     "x": -32.2,
+     "y": 24.6
+    },
+    {
+     "x": -162.0,
+     "y": 70.0
+    }
+   ]
+  },
+  {
+   "id": "seagrass",
+   "kind": "other",
+   "label": "Seagrass",
+   "depth": null,
+   "points": [
+    {
+     "x": -85.4,
+     "y": 32.8
+    },
+    {
+     "x": -71.6,
+     "y": 26.9
+    },
+    {
+     "x": -68.4,
+     "y": 33.1
+    },
+    {
+     "x": -82.4,
+     "y": 38.6
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "coast-2",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -202.3,
+     "y": 11.8
+    },
+    {
+     "x": -168.5,
+     "y": 2.3
+    },
+    {
+     "x": -38.0,
+     "y": -42.6
+    },
+    {
+     "x": 23.1,
+     "y": -57.3
+    },
+    {
+     "x": 84.2,
+     "y": -86.5
+    },
+    {
+     "x": 179.4,
+     "y": -141.8
+    }
+   ]
+  },
+  {
+   "id": "x",
+   "kind": "shoreline",
+   "label": "",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": 179.4,
+     "y": -141.8
+    },
+    {
+     "x": 84.2,
+     "y": -86.5
+    },
+    {
+     "x": 23.1,
+     "y": -57.3
+    },
+    {
+     "x": -38.0,
+     "y": -42.6
+    },
+    {
+     "x": -168.5,
+     "y": 2.3
+    },
+    {
+     "x": -202.3,
+     "y": 11.8
+    }
+   ]
+  },
+  {
+   "id": "pier",
+   "kind": "wall",
+   "label": "Pier",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -137.8,
+     "y": -17.7
+    },
+    {
+     "x": -123.2,
+     "y": 16.3
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "kind": "depth",
+   "label": "",
+   "depth": 15.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -162.0,
+     "y": 70.0
+    },
+    {
+     "x": -86.8,
+     "y": 44.2
+    },
+    {
+     "x": -15.1,
+     "y": 17.2
+    },
+    {
+     "x": 67.9,
+     "y": -10.9
+    },
+    {
+     "x": 164.8,
+     "y": -58.1
+    }
+   ]
+  },
+  {
+   "id": "c25",
+   "kind": "depth",
+   "label": "",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -143.0,
+     "y": 136.3
+    },
+    {
+     "x": -82.3,
+     "y": 119.3
+    },
+    {
+     "x": -26.4,
+     "y": 100.1
+    },
+    {
+     "x": 15.2,
+     "y": 92.3
+    },
+    {
+     "x": 46.4,
+     "y": 76.3
+    },
+    {
+     "x": 119.8,
+     "y": 41.1
+    },
+    {
+     "x": 200.1,
+     "y": 2.6
+    }
+   ]
+  },
+  {
+   "id": "drop-off",
+   "kind": "wall",
+   "label": "Drop-off 25–55 m",
+   "depth": 25.0,
+   "closed": false,
+   "points": [
+    {
+     "x": -141.4,
+     "y": 141.9
+    },
+    {
+     "x": -80.4,
+     "y": 124.8
+    },
+    {
+     "x": -24.8,
+     "y": 104.9
+    },
+    {
+     "x": 16.4,
+     "y": 96.7
+    },
+    {
+     "x": 47.8,
+     "y": 80.7
+    },
+    {
+     "x": 121.8,
+     "y": 45.2
+    },
+    {
+     "x": 202.4,
+     "y": 6.6
+    }
+   ]
+  }
+ ],
+ "notes": "The house reef in front of Happy Life Village, south of Dahab (the site point is the hotel itself, about 450 m inland). Entry from the hotel beach by the jetty (OpenStreetMap); in front of it the reef flat, a sand slope with coral blocks and the drop-off from 25 to 55 m. The reef is the same stretch as Golden Blocks, whose entry is at the north-east end of the hotel beach (Mashraba is 5 km north in Dahab town); positions are approximate. No route is drawn.",
+ "origin": {
+  "lat": 28.438132,
+  "lon": 34.462583
+ },
+ "underlay": null,
+ "id": "egy-housereef-happy-life-1",
+ "site_id": "egy-housereef-happy-life",
+ "sort": 0,
+ "revision": 2,
+ "updated_at": "2026-09-30T04:24:01.937059Z",
+ "changelog": [
+  {
+   "revision": 2,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

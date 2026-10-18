@@ -1,0 +1,258 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Giannis D",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "gd-prop",
+   "x": -37.1,
+   "y": 31.3,
+   "type": "object",
+   "label": "Propeller and rudder",
+   "depth": 26.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gd-engine",
+   "x": -27.5,
+   "y": 23.3,
+   "type": "object",
+   "label": "Engine room",
+   "depth": 20.0,
+   "object_kind": "machine",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gd-funnel",
+   "x": -28.7,
+   "y": 12.5,
+   "type": "object",
+   "label": "Funnel with the D",
+   "depth": 14.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gd-bridge",
+   "x": -19.6,
+   "y": 6.3,
+   "type": "object",
+   "label": "Bridge",
+   "depth": 12.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gd-mast",
+   "x": -15.3,
+   "y": -2.6,
+   "type": "object",
+   "label": "A-frame mast",
+   "depth": 4.0,
+   "object_kind": "other",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gd-holds",
+   "x": 3.2,
+   "y": -2.4,
+   "type": "object",
+   "label": "Holds, timber cargo",
+   "depth": 18.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "gd-bow",
+   "x": 33.8,
+   "y": -28.1,
+   "type": "object",
+   "label": "Bow on its port side",
+   "depth": 10.0,
+   "object_kind": "wreck",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rib-drop",
+   "x": -58.4,
+   "y": 23.1,
+   "type": "entry",
+   "label": "RIB drop",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "giannis-d-stern",
+   "kind": "wreck",
+   "label": "Giannis D stern section",
+   "depth": null,
+   "points": [
+    {
+     "x": -4.0,
+     "y": 14.0
+    },
+    {
+     "x": -32.7,
+     "y": 38.1
+    },
+    {
+     "x": -42.9,
+     "y": 25.9
+    },
+    {
+     "x": -14.2,
+     "y": 1.8
+    }
+   ]
+  },
+  {
+   "id": "giannis-d-midships",
+   "kind": "wreck",
+   "label": "Midships debris",
+   "depth": null,
+   "points": [
+    {
+     "x": 17.0,
+     "y": -4.6
+    },
+    {
+     "x": -1.4,
+     "y": 10.8
+    },
+    {
+     "x": -10.6,
+     "y": -0.2
+    },
+    {
+     "x": 7.8,
+     "y": -15.6
+    }
+   ]
+  },
+  {
+   "id": "giannis-d-bow",
+   "kind": "wreck",
+   "label": "Bow section",
+   "depth": null,
+   "points": [
+    {
+     "x": 38.4,
+     "y": -32.0
+    },
+    {
+     "x": 34.3,
+     "y": -18.2
+    },
+    {
+     "x": 20.5,
+     "y": -6.6
+    },
+    {
+     "x": 10.3,
+     "y": -18.8
+    },
+    {
+     "x": 24.1,
+     "y": -30.4
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "reef-edge-1",
+   "kind": "wall",
+   "label": "Reef edge",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -1.2,
+     "y": 132.6
+    },
+    {
+     "x": 113.3,
+     "y": 8.6
+    },
+    {
+     "x": 138.2,
+     "y": -8.4
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "kind": "path",
+   "label": "Stern to bow, reef on the right",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -50.1,
+     "y": 26.6
+    },
+    {
+     "x": -36.2,
+     "y": 46.3
+    },
+    {
+     "x": -15.2,
+     "y": 28.6
+    },
+    {
+     "x": 11.6,
+     "y": 7.6
+    },
+    {
+     "x": 40.0,
+     "y": -17.7
+    },
+    {
+     "x": 46.1,
+     "y": -38.4
+    }
+   ]
+  }
+ ],
+ "notes": "Wreck plan of the Giannis D (99.5 x 16 m) at the western corner of Abu Nuhas: stern section canted about 45 degrees to port with the engine room, bridge and funnel, a flattened midships and the bow on its port side, lying roughly parallel to the reef with the stern to the west. Position and reef edge from OpenStreetMap; dimensions, layout and depths from the Red Sea Wreck Project and dive-guide descriptions (stern 24-26 m, mast top 4 m, bow about 10 m); the route is the usual east-bound swim with the reef on the right. The RIB drop, feature positions along the hull and intermediate depths are approximate.",
+ "origin": {
+  "lat": 27.5774,
+  "lon": 33.92318
+ },
+ "underlay": null,
+ "id": "egy-giannis-d-1",
+ "site_id": "egy-giannis-d",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T18:59:50.296414Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}

@@ -1,0 +1,727 @@
+{
+ "version": 3,
+ "kind": "sitemap",
+ "title": "Hin Daeng",
+ "north": 0.0,
+ "nodes": [
+  {
+   "id": "rock-main",
+   "x": 0.0,
+   "y": 0.0,
+   "type": "object",
+   "label": "Main rock, breaks the surface",
+   "depth": 0.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-west",
+   "x": -46.9,
+   "y": -63.0,
+   "type": "object",
+   "label": "Rock, breaks the surface",
+   "depth": 0.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "rock-east",
+   "x": 35.0,
+   "y": -51.1,
+   "type": "object",
+   "label": "Rock, breaks the surface",
+   "depth": 0.0,
+   "object_kind": "pinnacle",
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-south",
+   "x": 10.5,
+   "y": 11.9,
+   "type": "buoy",
+   "label": "Mooring (batfish)",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "buoy-north",
+   "x": 32.9,
+   "y": -185.5,
+   "type": "buoy",
+   "label": "Mooring",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "cleaning",
+   "x": 45.5,
+   "y": -143.5,
+   "type": "poi",
+   "label": "North outcrop, manta cleaning station",
+   "depth": 12.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "window",
+   "x": 53.9,
+   "y": -158.9,
+   "type": "poi",
+   "label": "Window",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "channel",
+   "x": 31.5,
+   "y": -108.5,
+   "type": "poi",
+   "label": "Sand channel",
+   "depth": 16.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "saddle",
+   "x": -3.5,
+   "y": -63.0,
+   "type": "marker",
+   "label": "Reef top",
+   "depth": 5.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "east-slope",
+   "x": 109.9,
+   "y": -30.1,
+   "type": "poi",
+   "label": "East slope",
+   "depth": 20.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "overhang",
+   "x": -53.9,
+   "y": 51.1,
+   "type": "poi",
+   "label": "Overhang",
+   "depth": 18.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "south-10",
+   "x": 21.0,
+   "y": 45.5,
+   "type": "marker",
+   "label": "Reef top",
+   "depth": 10.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "west-14",
+   "x": -115.5,
+   "y": 0.0,
+   "type": "marker",
+   "label": "Reef top",
+   "depth": 14.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "sw-wall",
+   "x": -101.5,
+   "y": 59.5,
+   "type": "poi",
+   "label": "SW wall, sheer to 60-70 m",
+   "depth": null,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  },
+  {
+   "id": "west-ridge",
+   "x": -220.5,
+   "y": -115.5,
+   "type": "poi",
+   "label": "Ridge towards Hin Muang",
+   "depth": 24.0,
+   "object_kind": null,
+   "left": null,
+   "right": null,
+   "color": null
+  }
+ ],
+ "edges": [],
+ "areas": [
+  {
+   "id": "reef",
+   "kind": "coral",
+   "label": "",
+   "depth": null,
+   "points": [
+    {
+     "x": -38.5,
+     "y": -154.0
+    },
+    {
+     "x": -3.5,
+     "y": -168.0
+    },
+    {
+     "x": 45.5,
+     "y": -172.9
+    },
+    {
+     "x": 73.5,
+     "y": -161.0
+    },
+    {
+     "x": 84.0,
+     "y": -136.5
+    },
+    {
+     "x": 87.5,
+     "y": -112.0
+    },
+    {
+     "x": 108.5,
+     "y": -98.0
+    },
+    {
+     "x": 122.5,
+     "y": -73.5
+    },
+    {
+     "x": 126.0,
+     "y": -38.5
+    },
+    {
+     "x": 129.5,
+     "y": -3.5
+    },
+    {
+     "x": 143.5,
+     "y": 31.5
+    },
+    {
+     "x": 150.5,
+     "y": 49.0
+    },
+    {
+     "x": 122.5,
+     "y": 59.5
+    },
+    {
+     "x": 87.5,
+     "y": 66.5
+    },
+    {
+     "x": 59.5,
+     "y": 80.5
+    },
+    {
+     "x": 17.5,
+     "y": 80.5
+    },
+    {
+     "x": -24.5,
+     "y": 66.5
+    },
+    {
+     "x": -52.5,
+     "y": 52.5
+    },
+    {
+     "x": -73.5,
+     "y": 35.0
+    },
+    {
+     "x": -101.5,
+     "y": 17.5
+    },
+    {
+     "x": -122.5,
+     "y": 3.5
+    },
+    {
+     "x": -150.5,
+     "y": -3.5
+    },
+    {
+     "x": -150.5,
+     "y": -14.0
+    },
+    {
+     "x": -129.5,
+     "y": -28.0
+    },
+    {
+     "x": -108.5,
+     "y": -49.0
+    },
+    {
+     "x": -94.5,
+     "y": -73.5
+    },
+    {
+     "x": -80.5,
+     "y": -87.5
+    },
+    {
+     "x": -66.5,
+     "y": -98.0
+    },
+    {
+     "x": -52.5,
+     "y": -122.5
+    },
+    {
+     "x": -45.5,
+     "y": -143.5
+    }
+   ]
+  },
+  {
+   "id": "rock-w-top",
+   "kind": "other",
+   "label": "",
+   "depth": 0.0,
+   "points": [
+    {
+     "x": -70.0,
+     "y": -77.0
+    },
+    {
+     "x": -38.5,
+     "y": -80.5
+    },
+    {
+     "x": -21.0,
+     "y": -66.5
+    },
+    {
+     "x": -24.5,
+     "y": -49.0
+    },
+    {
+     "x": -49.0,
+     "y": -45.5
+    },
+    {
+     "x": -70.0,
+     "y": -56.0
+    }
+   ]
+  },
+  {
+   "id": "rock-e-top",
+   "kind": "other",
+   "label": "",
+   "depth": 0.0,
+   "points": [
+    {
+     "x": 21.0,
+     "y": -63.0
+    },
+    {
+     "x": 42.0,
+     "y": -66.5
+    },
+    {
+     "x": 52.5,
+     "y": -52.5
+    },
+    {
+     "x": 45.5,
+     "y": -38.5
+    },
+    {
+     "x": 24.5,
+     "y": -38.5
+    },
+    {
+     "x": 17.5,
+     "y": -49.0
+    }
+   ]
+  },
+  {
+   "id": "rock-main-top",
+   "kind": "other",
+   "label": "",
+   "depth": 0.0,
+   "points": [
+    {
+     "x": -38.5,
+     "y": -14.0
+    },
+    {
+     "x": -3.5,
+     "y": -21.0
+    },
+    {
+     "x": 31.5,
+     "y": -14.0
+    },
+    {
+     "x": 42.0,
+     "y": 0.0
+    },
+    {
+     "x": 28.0,
+     "y": 17.5
+    },
+    {
+     "x": -10.5,
+     "y": 21.0
+    },
+    {
+     "x": -38.5,
+     "y": 10.5
+    }
+   ]
+  },
+  {
+   "id": "ridge-west",
+   "kind": "coral",
+   "label": "",
+   "depth": 24.0,
+   "points": [
+    {
+     "x": -304.5,
+     "y": -126.0
+    },
+    {
+     "x": -283.5,
+     "y": -150.5
+    },
+    {
+     "x": -220.5,
+     "y": -156.1
+    },
+    {
+     "x": -157.5,
+     "y": -150.5
+    },
+    {
+     "x": -133.0,
+     "y": -126.0
+    },
+    {
+     "x": -129.5,
+     "y": -80.5
+    },
+    {
+     "x": -150.5,
+     "y": -66.5
+    },
+    {
+     "x": -199.5,
+     "y": -70.0
+    },
+    {
+     "x": -248.5,
+     "y": -63.0
+    },
+    {
+     "x": -290.5,
+     "y": -73.5
+    },
+    {
+     "x": -304.5,
+     "y": -98.0
+    }
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "wall-sw",
+   "kind": "wall",
+   "label": "Soft-coral wall",
+   "depth": null,
+   "closed": false,
+   "points": [
+    {
+     "x": -151.9,
+     "y": -3.5
+    },
+    {
+     "x": -122.5,
+     "y": 21.0
+    },
+    {
+     "x": -91.0,
+     "y": 49.0
+    },
+    {
+     "x": -52.5,
+     "y": 70.0
+    },
+    {
+     "x": -3.5,
+     "y": 84.0
+    },
+    {
+     "x": 45.5,
+     "y": 84.0
+    }
+   ]
+  },
+  {
+   "id": "c30",
+   "kind": "depth",
+   "label": "",
+   "depth": 30.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -52.5,
+     "y": -171.5
+    },
+    {
+     "x": -3.5,
+     "y": -184.1
+    },
+    {
+     "x": 59.5,
+     "y": -182.0
+    },
+    {
+     "x": 98.0,
+     "y": -168.0
+    },
+    {
+     "x": 115.5,
+     "y": -143.5
+    },
+    {
+     "x": 143.5,
+     "y": -122.5
+    },
+    {
+     "x": 157.5,
+     "y": -101.5
+    },
+    {
+     "x": 157.5,
+     "y": -59.5
+    },
+    {
+     "x": 157.5,
+     "y": -3.5
+    },
+    {
+     "x": 168.0,
+     "y": 31.5
+    },
+    {
+     "x": 161.0,
+     "y": 63.0
+    },
+    {
+     "x": 129.5,
+     "y": 77.0
+    },
+    {
+     "x": 87.5,
+     "y": 80.5
+    },
+    {
+     "x": 59.5,
+     "y": 94.5
+    },
+    {
+     "x": 3.5,
+     "y": 98.0
+    },
+    {
+     "x": -38.5,
+     "y": 94.5
+    },
+    {
+     "x": -66.5,
+     "y": 80.5
+    },
+    {
+     "x": -91.0,
+     "y": 63.0
+    },
+    {
+     "x": -122.5,
+     "y": 38.5
+    },
+    {
+     "x": -150.5,
+     "y": 17.5
+    },
+    {
+     "x": -161.0,
+     "y": -3.5
+    },
+    {
+     "x": -150.5,
+     "y": -24.5
+    },
+    {
+     "x": -122.5,
+     "y": -52.5
+    },
+    {
+     "x": -108.5,
+     "y": -80.5
+    },
+    {
+     "x": -87.5,
+     "y": -108.5
+    },
+    {
+     "x": -73.5,
+     "y": -143.5
+    }
+   ]
+  },
+  {
+   "id": "c40",
+   "kind": "depth",
+   "label": "",
+   "depth": 40.0,
+   "closed": true,
+   "points": [
+    {
+     "x": -66.5,
+     "y": -185.5
+    },
+    {
+     "x": 3.5,
+     "y": -198.1
+    },
+    {
+     "x": 87.5,
+     "y": -196.0
+    },
+    {
+     "x": 143.5,
+     "y": -175.0
+    },
+    {
+     "x": 171.5,
+     "y": -147.0
+    },
+    {
+     "x": 189.0,
+     "y": -108.5
+    },
+    {
+     "x": 185.5,
+     "y": -52.5
+    },
+    {
+     "x": 189.0,
+     "y": 17.5
+    },
+    {
+     "x": 185.5,
+     "y": 66.5
+    },
+    {
+     "x": 157.5,
+     "y": 94.5
+    },
+    {
+     "x": 101.5,
+     "y": 108.5
+    },
+    {
+     "x": 31.5,
+     "y": 112.0
+    },
+    {
+     "x": -38.5,
+     "y": 108.5
+    },
+    {
+     "x": -94.5,
+     "y": 80.5
+    },
+    {
+     "x": -136.5,
+     "y": 52.5
+    },
+    {
+     "x": -171.5,
+     "y": 24.5
+    },
+    {
+     "x": -182.0,
+     "y": -3.5
+    },
+    {
+     "x": -157.5,
+     "y": -31.5
+    },
+    {
+     "x": -129.5,
+     "y": -59.5
+    },
+    {
+     "x": -101.5,
+     "y": -122.5
+    }
+   ]
+  }
+ ],
+ "notes": "Hin Daeng (Red Rock), a boulder pinnacle 70 km offshore whose three tops just break the surface, with the ridge towards Hin Muang; sides and depths from Phuket Dive Guide: sheer soft-coral wall to 60-70 m+ on the south-west, gentler slope on the east, a sand channel on the north separating the coral outcrop used as a manta cleaning station. The site coordinates (an OSM reef node at 7.3676, 98.8758) sit 24 km north-east of the real pinnacle; the origin here is the OSM dive-site node at 7.1490, 98.8236, which agrees with divezone. Positions are approximate.",
+ "origin": {
+  "lat": 7.14905,
+  "lon": 98.82361
+ },
+ "underlay": null,
+ "id": "tha-hin-daeng-1",
+ "site_id": "tha-hin-daeng",
+ "sort": 0,
+ "revision": 1,
+ "updated_at": "2026-09-29T19:46:30.810066Z",
+ "changelog": [
+  {
+   "revision": 1,
+   "date": "2026-10-10",
+   "author": "Dennis Bakhuis",
+   "note": "Imported from the personal log"
+  }
+ ]
+}
